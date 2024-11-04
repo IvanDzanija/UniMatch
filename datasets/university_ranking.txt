@@ -1,0 +1,4000 @@
+1
+Top 0.1%	Harvard University	USA	1	1	1	1	1	100
+2
+Top 0.1%	Massachusetts Institute of Technology	USA	2	4	12	2	12	96.8
+3
+Top 0.1%	Stanford University	USA	3	10	4	3	2	95.2
+4
+Top 0.1%	University of Cambridge	United Kingdom	1	3	26	4	14	94.1
+5
+Top 0.1%	University of Oxford	United Kingdom	2	7	28	9	6	93.3
+6
+Top 0.1%	Princeton University	USA	4	5	15	7	83	92.6
+7
+Top 0.1%	Columbia University	USA	5	12	14	10	15	92.1
+8
+Top 0.1%	University of Pennsylvania	USA	6	14	8	43	13	91.6
+9
+Top 0.1%	Yale University	USA	7	6	33	13	21	91.2
+10
+Top 0.1%	California Institute of Technology	USA	8	2	100	6	89	90.8
+11
+Top 0.1%	University of Chicago	USA	9	8	16	22	44	90.5
+12
+Top 0.1%	University of California, Berkeley	USA	10	9	61	5	20	90.1
+13
+Top 0.1%	University of Tokyo	Japan	1	39	6	116	32	89.8
+14
+Top 0.1%	Cornell University	USA	11	16	29	18	24	89.6
+15
+Top 0.1%	Northwestern University	USA	12	106	17	30	30	89.3
+16
+Top 0.1%	University of Michigan, Ann Arbor	USA	13	35	42	63	9	89.1
+17
+Top 0.1%	University of California, Los Angeles	USA	14	34	67	17	16	88.9
+18
+Top 0.1%	Johns Hopkins University	USA	15	24	207	20	8	88.6
+19
+Top 0.1%	PSL University	France	1	17	31	115	76	88.4
+20
+Top 0.1%	University College London	United Kingdom	3	41	682	14	7	88.3
+21
+Top 0.2%	Duke University	USA	16	55	49	21	25	88.1
+22
+Top 0.2%	University of Illinois at Urbana–Champaign	USA	17	19	148	11	80	87.9
+23
+Top 0.2%	University of Toronto	Canada	1	210	165	23	3	87.7
+24
+Top 0.2%	New York University	USA	18	38	44	45	47	87.6
+25
+Top 0.2%	University of Washington	USA	19	74	220	24	10	87.4
+26
+Top 0.2%	Kyoto University	Japan	2	37	32	59	84	87.3
+27
+Top 0.2%	McGill University	Canada	2	25	105	44	48	87.1
+28
+Top 0.2%	University of Wisconsin–Madison	USA	20	40	110	31	40	87.0
+29
+Top 0.2%	Imperial College London	United Kingdom	4	68	138	55	18	86.9
+30
+Top 0.2%	Seoul National University	South Korea	1	279	22	153	59	86.7
+31
+Top 0.2%	Paris-Saclay University	France	2	150	133	46	17	86.6
+32
+Top 0.2%	ETH Zurich	Switzerland	1	65	92	25	41	86.5
+33
+Top 0.2%	Paris City University	France	3	242	961	61	4	86.4
+34
+Top 0.2%	University of California, San Diego	USA	21	133	1533	12	22	86.2
+35
+Top 0.2%	University of Texas at Austin	USA	22	85	68	16	65	86.1
+36
+Top 0.2%	Sorbonne University	France	4	98	320	92	11	86.0
+37
+Top 0.2%	University of California, San Francisco	USA	23	-	1557	15	26	85.9
+38
+Top 0.2%	University of Copenhagen	Denmark	1	87	365	40	27	85.8
+39
+Top 0.2%	University of North Carolina at Chapel Hill	USA	24	77	93	73	37	85.7
+40
+Top 0.2%	Karolinska Institute	Sweden	1	42	-	35	56	85.6
+41
+Top 0.2%	Dartmouth College	USA	25	44	18	105	284	85.5
+42
+Top 0.3%	King's College London	United Kingdom	5	57	570	28	55	85.4
+43
+Top 0.3%	Tsinghua University	China	1	343	57	-	19	85.3
+44
+Top 0.3%	Washington University in St. Louis	USA	26	114	151	37	51	85.2
+45
+Top 0.3%	Institut Polytechnique de Paris	France	5	99	9	187	403	85.2
+46
+Top 0.3%	Ludwig Maximilian University of Munich	Germany	1	56	255	57	57	85.1
+47
+Top 0.3%	Peking University	China	2	362	58	-	23	85.0
+48
+Top 0.3%	University of Edinburgh	United Kingdom	6	51	453	64	54	84.9
+49
+Top 0.3%	University of Minnesota - Twin Cities	USA	27	79	337	84	36	84.8
+50
+Top 0.3%	University of Chinese Academy of Sciences	China	3	-	1338	-	5	84.7
+51
+Top 0.3%	University of Manchester	United Kingdom	7	103	452	32	61	84.7
+52
+Top 0.3%	University of British Columbia	Canada	3	107	551	86	33	84.6
+53
+Top 0.3%	University of Southern California	USA	28	248	137	29	74	84.5
+54
+Top 0.3%	Vanderbilt University	USA	29	389	88	66	71	84.4
+55
+Top 0.3%	University of California, Davis	USA	30	88	529	54	64	84.4
+56
+Top 0.3%	Pennsylvania State University	USA	31	272	164	56	60	84.3
+57
+Top 0.3%	Humboldt University of Berlin	Germany	2	71	1491	50	72	84.2
+58
+Top 0.3%	Free University of Berlin	Germany	3	75	1127	42	73	84.1
+59
+Top 0.3%	Ohio State University	USA	32	122	268	133	39	84.1
+60
+Top 0.3%	University of Zurich	Switzerland	2	90	573	58	68	84.0
+61
+Top 0.3%	Rutgers University	USA	33	218	147	27	99	83.9
+62
+Top 0.3%	University of Melbourne	Australia	1	138	409	167	31	83.9
+63
+Top 0.4%	University of Texas Southwestern Medical Center	USA	34	36	-	41	163	83.8
+64
+Top 0.4%	Brown University	USA	35	73	54	122	144	83.7
+65
+Top 0.4%	Rockefeller University	USA	36	13	-	8	503	83.7
+66
+Top 0.4%	Hebrew University of Jerusalem	Israel	1	30	346	38	200	83.6
+67
+Top 0.4%	Shanghai Jiao Tong University	China	4	-	134	-	28	83.6
+68
+Top 0.4%	Heidelberg University	Germany	4	135	1015	82	62	83.5
+69
+Top 0.4%	University of Virginia	USA	37	310	37	175	138	83.4
+70
+Top 0.4%	Georgia Institute of Technology	USA	38	303	171	26	121	83.4
+71
+Top 0.4%	Purdue University	USA	39	105	103	74	120	83.3
+72
+Top 0.4%	University of Colorado Boulder	USA	40	147	173	52	104	83.3
+73
+Top 0.4%	Utrecht University	Netherlands	1	193	520	160	43	83.2
+74
+Top 0.4%	Weizmann Institute of Science	Israel	2	20	-	51	305	83.2
+75
+Top 0.4%	University of Pittsburgh	USA	41	229	209	267	38	83.1
+76
+Top 0.4%	Texas A&M University, College Station	USA	42	-	132	72	109	83.0
+77
+Top 0.4%	Zhejiang University	China	5	-	386	-	29	83.0
+78
+Top 0.4%	Fudan University	China	6	339	90	-	46	82.9
+79
+Top 0.4%	National University of Singapore	Singapore	1	351	182	-	34	82.9
+80
+Top 0.4%	Leiden University	Netherlands	2	123	1102	77	91	82.8
+81
+Top 0.4%	University of Alberta	Canada	4	325	523	67	88	82.8
+82
+Top 0.4%	University of Amsterdam	Netherlands	3	254	766	201	42	82.7
+83
+Top 0.4%	University of Oslo	Norway	1	111	821	80	92	82.7
+84
+Top 0.5%	University of Florida	USA	43	309	412	140	63	82.6
+85
+Top 0.5%	University of California, Irvine	USA	44	386	1229	33	112	82.6
+86
+Top 0.5%	Uppsala University	Sweden	2	119	470	71	107	82.5
+87
+Top 0.5%	University of Maryland, College Park	USA	45	120	380	146	75	82.5
+88
+Top 0.5%	Technical University of Munich	Germany	5	91	395	144	81	82.4
+89
+Top 0.5%	University of Birmingham	United Kingdom	8	50	501	169	108	82.4
+90
+Top 0.5%	University of Sydney	Australia	2	197	642	-	35	82.3
+91
+Top 0.5%	University of Rochester	USA	46	64	72	132	187	82.3
+92
+Top 0.5%	Boston University	USA	47	433	112	199	82	82.2
+93
+Top 0.5%	University of Arizona	USA	48	507	247	69	111	82.2
+94
+Top 0.5%	University of Bristol	United Kingdom	9	195	472	79	103	82.2
+95
+Top 0.5%	Aarhus University	Denmark	2	216	292	127	87	82.1
+96
+Top 0.5%	Keio University	Japan	3	538	13	-	398	82.1
+97
+Top 0.5%	Osaka University	Japan	4	139	70	124	159	82.0
+98
+Top 0.5%	Carnegie Mellon University	USA	49	58	119	39	237	82.0
+99
+Top 0.5%	University of New South Wales	Australia	3	528	121	-	58	81.9
+100
+Top 0.5%	École Polytechnique Fédérale de Lausanne	Switzerland	3	-	89	111	132	81.9
+101
+Top 0.5%	Erasmus University Rotterdam	Netherlands	4	545	80	272	85	81.8
+102
+Top 0.5%	University of Groningen	Netherlands	5	256	586	141	77	81.8
+103
+Top 0.5%	KU Leuven	Belgium	1	530	447	242	52	81.8
+104
+Top 0.5%	National Taiwan University	Taiwan	1	294	41	-	136	81.7
+105
+Top 0.6%	University of Göttingen	Germany	6	45	371	104	174	81.7
+106
+Top 0.6%	University of Leeds	United Kingdom	10	131	460	53	141	81.6
+107
+Top 0.6%	University of Queensland	Australia	4	417	664	245	53	81.6
+108
+Top 0.6%	University of California, Santa Barbara	USA	50	220	531	19	178	81.6
+109
+Top 0.6%	University of Basel	Switzerland	4	60	306	83	165	81.5
+110
+Top 0.6%	University of Texas MD Anderson Cancer Center	USA	51	-	-	90	96	81.5
+111
+Top 0.6%	University of Geneva	Switzerland	5	69	467	108	133	81.4
+112
+Top 0.6%	University of Bonn	Germany	7	66	458	89	153	81.4
+113
+Top 0.6%	Sun Yat-sen University	China	7	-	336	-	45	81.4
+114
+Top 0.6%	University of Science and Technology of China	China	8	-	276	-	50	81.3
+115
+Top 0.6%	University of Utah	USA	52	240	210	138	106	81.3
+116
+Top 0.6%	University of Tübingen	Germany	8	54	929	98	164	81.3
+117
+Top 0.6%	University of São Paulo	Brazil	1	525	376	184	78	81.2
+118
+Top 0.6%	Indiana University Bloomington	USA	53	246	97	177	124	81.2
+119
+Top 0.6%	Huazhong University of Science and Technology	China	9	-	166	-	66	81.1
+120
+Top 0.6%	Nagoya University	Japan	5	63	203	60	216	81.1
+121
+Top 0.6%	Monash University	Australia	5	-	527	-	49	81.1
+122
+Top 0.6%	INSEAD	France	6	-	2	-	1641	81.0
+123
+Top 0.6%	University of Montreal	Canada	5	461	515	125	101	81.0
+124
+Top 0.6%	Sapienza University of Rome	Italy	1	425	497	100	113	81.0
+125
+Top 0.6%	Australian National University	Australia	6	157	466	78	147	80.9
+126
+Top 0.7%	University of Helsinki	Finland	1	198	789	164	94	80.9
+127
+Top 0.7%	University of Southampton	United Kingdom	11	455	304	112	125	80.9
+128
+Top 0.7%	Emory University	USA	54	471	275	-	69	80.8
+129
+Top 0.7%	Ghent University	Belgium	2	337	555	195	90	80.8
+130
+Top 0.7%	Baylor College of Medicine	USA	55	89	-	158	127	80.8
+131
+Top 0.7%	University of Glasgow	United Kingdom	12	140	480	142	128	80.7
+132
+Top 0.7%	University of Freiburg	Germany	9	92	222	99	177	80.7
+133
+Top 0.7%	Nanyang Technological University	Singapore	2	-	830	-	67	80.7
+134
+Top 0.7%	University of Barcelona	Spain	1	-	625	-	70	80.6
+135
+Top 0.7%	University of Bern	Switzerland	6	158	1124	161	122	80.6
+136
+Top 0.7%	University of Liverpool	United Kingdom	13	153	509	97	156	80.6
+137
+Top 0.7%	University of Colorado Anschutz Medical Campus	USA	56	-	-	95	142	80.5
+138
+Top 0.7%	Nanjing University	China	10	483	334	-	79	80.5
+139
+Top 0.7%	Case Western Reserve University	USA	57	67	303	182	168	80.5
+140
+Top 0.7%	University of Strasbourg	France	7	117	1377	48	218	80.4
+141
+Top 0.7%	University of Nottingham	United Kingdom	14	190	571	109	148	80.4
+142
+Top 0.7%	KTH Royal Institute of Technology	Sweden	3	226	48	186	245	80.4
+143
+Top 0.7%	University of Western Australia	Australia	7	196	442	178	129	80.3
+144
+Top 0.7%	Goethe University Frankfurt	Germany	10	181	784	49	212	80.3
+145
+Top 0.7%	Lund University	Sweden	4	206	489	259	97	80.3
+146
+Top 0.7%	University of Iowa	USA	58	94	249	185	161	80.3
+147
+Top 0.8%	Tohoku University	Japan	6	132	139	155	185	80.2
+148
+Top 0.8%	Stockholm University	Sweden	5	171	225	94	186	80.2
+149
+Top 0.8%	Yonsei University	South Korea	2	-	83	-	139	80.2
+150
+Top 0.8%	VU Amsterdam	Netherlands	6	-	1300	-	86	80.1
+151
+Top 0.8%	Tianjin University	China	11	-	106	-	131	80.1
+152
+Top 0.8%	Grenoble Alpes University	France	8	271	1068	244	110	80.1
+153
+Top 0.8%	Korea University	South Korea	3	-	65	-	176	80.0
+154
+Top 0.8%	Tel Aviv University	Israel	3	345	125	-	126	80.0
+155
+Top 0.8%	Xiamen University	China	12	-	62	-	182	80.0
+156
+Top 0.8%	University of Hong Kong	China	13	-	169	-	116	80.0
+157
+Top 0.8%	Xi'an Jiaotong University	China	14	-	159	-	118	79.9
+158
+Top 0.8%	University of Hamburg	Germany	11	237	550	-	95	79.9
+159
+Top 0.8%	Michigan State University	USA	59	184	195	-	117	79.9
+160
+Top 0.8%	University of Sheffield	United Kingdom	15	194	655	152	157	79.8
+161
+Top 0.8%	Queen Mary University of London	United Kingdom	16	125	754	145	171	79.8
+162
+Top 0.8%	Cardiff University	United Kingdom	17	399	361	88	194	79.8
+163
+Top 0.8%	Wuhan University	China	15	-	348	-	102	79.8
+164
+Top 0.8%	Aix-Marseille University	France	9	518	933	-	93	79.7
+165
+Top 0.8%	Tufts University	USA	60	86	75	163	280	79.7
+166
+Top 0.8%	Radboud University	Netherlands	7	470	704	283	100	79.7
+167
+Top 0.8%	Newcastle University	United Kingdom	18	494	594	91	190	79.7
+168
+Top 0.9%	Icahn School of Medicine at Mount Sinai	USA	61	-	-	-	98	79.6
+169
+Top 0.9%	University of Montpellier	France	10	474	1231	-	105	79.6
+170
+Top 0.9%	University of Gothenburg	Sweden	6	464	484	147	172	79.6
+171
+Top 0.9%	McMaster University	Canada	6	450	856	232	140	79.5
+172
+Top 0.9%	Tokyo Institute of Technology	Japan	7	311	101	75	299	79.5
+173
+Top 0.9%	University of Padova	Italy	2	479	1502	-	114	79.5
+174
+Top 0.9%	Harbin Institute of Technology	China	16	-	539	-	119	79.5
+175
+Top 0.9%	University of Massachusetts Amherst	USA	62	502	282	76	240	79.4
+176
+Top 0.9%	Sichuan University	China	17	-	1016	-	115	79.4
+177
+Top 0.9%	University of Warwick	United Kingdom	19	441	189	230	173	79.4
+178
+Top 0.9%	Norwegian University of Science and Technology	Norway	2	252	522	62	253	79.4
+179
+Top 0.9%	Chinese University of Hong Kong	China	18	438	1337	250	137	79.3
+180
+Top 0.9%	Technion – Israel Institute of Technology	Israel	4	104	454	70	281	79.3
+181
+Top 0.9%	Rice University	USA	63	113	135	118	282	79.3
+182
+Top 0.9%	Shandong University	China	19	-	1191	-	123	79.3
+183
+Top 0.9%	Central South University	China	20	-	263	-	135	79.2
+184
+Top 0.9%	Tongji University	China	21	-	194	-	146	79.2
+185
+Top 0.9%	University of Cologne	Germany	12	319	219	181	198	79.2
+186
+Top 0.9%	University of Milan	Italy	3	475	563	-	130	79.2
+187
+Top 0.9%	Western University	Canada	7	420	78	-	210	79.1
+188
+Top 0.9%	University of Lausanne	Switzerland	7	235	679	136	207	79.1
+189
+Top 1%	University of Alabama at Birmingham	USA	64	-	1082	206	167	79.1
+190
+Top 1%	South China University of Technology	China	22	-	226	-	145	79.1
+191
+Top 1%	Wageningen University & Research	Netherlands	8	418	804	208	170	79.0
+192
+Top 1%	University of Notre Dame	USA	65	295	38	-	312	79.0
+193
+Top 1%	Iowa State University	USA	66	322	131	154	247	79.0
+194
+Top 1%	Arizona State University	USA	67	451	649	266	150	79.0
+195
+Top 1%	University of Calgary	Canada	8	-	252	-	149	78.9
+196
+Top 1%	Autonomous University of Barcelona	Spain	2	-	-	-	134	78.9
+197
+Top 1%	University of Vienna	Austria	1	142	498	121	236	78.9
+198
+Top 1%	North Carolina State University	USA	68	369	440	176	203	78.9
+199
+Top 1%	Sungkyunkwan University	South Korea	4	-	262	-	155	78.9
+200
+Top 1%	Technical University of Denmark	Denmark	3	199	843	190	197	78.8
+201
+Top 1%	University of Bologna	Italy	4	-	794	-	143	78.8
+202
+Top 1%	University of Connecticut	USA	69	500	387	113	235	78.8
+203
+Top 1%	Nankai University	China	23	-	127	-	188	78.8
+204
+Top 1%	London School of Hygiene & Tropical Medicine	United Kingdom	20	380	-	123	226	78.7
+205
+Top 1%	Jilin University	China	24	-	358	-	158	78.7
+206
+Top 1%	Stony Brook University	USA	70	189	-	148	224	78.7
+207
+Top 1%	University of Waterloo	Canada	9	-	227	216	211	78.7
+208
+Top 1%	Southeast University	China	25	-	793	-	152	78.7
+209
+Top 1%	Institut national du service public	France	11	-	3	-	-	78.6
+210
+Top 1.1%	University of Adelaide	Australia	8	173	941	-	160	78.6
+211
+Top 1.1%	University of Lisbon	Portugal	1	440	1303	236	180	78.6
+212
+Top 1.1%	Paul Sabatier University	France	12	-	-	-	151	78.6
+213
+Top 1.1%	Hong Kong University of Science and Technology	China	26	-	561	139	229	78.5
+214
+Top 1.1%	University of Münster	Germany	13	364	802	194	205	78.5
+215
+Top 1.1%	Claude Bernard University Lyon 1	France	13	-	891	-	154	78.5
+216
+Top 1.1%	University of Kansas	USA	71	230	492	114	257	78.5
+217
+Top 1.1%	University of Ottawa	Canada	10	-	510	-	162	78.5
+218
+Top 1.1%	Georgetown University	USA	72	370	43	-	336	78.4
+219
+Top 1.1%	Johannes Gutenberg University Mainz	Germany	14	-	-	162	220	78.4
+220
+Top 1.1%	University of Georgia	USA	73	434	293	168	232	78.4
+221
+Top 1.1%	RWTH Aachen University	Germany	15	512	197	-	189	78.4
+222
+Top 1.1%	Waseda University	Japan	8	331	25	-	543	78.3
+223
+Top 1.1%	Université catholique de Louvain	Belgium	3	-	553	131	251	78.3
+224
+Top 1.1%	Soochow University, China	China	27	-	-	-	166	78.3
+225
+Top 1.1%	Hong Kong Polytechnic University	China	28	-	321	-	181	78.3
+226
+Top 1.1%	Technical University of Dresden	Germany	16	-	1495	-	169	78.3
+227
+Top 1.1%	University of Tennessee, Knoxville	USA	74	439	583	224	214	78.2
+228
+Top 1.1%	University of Würzburg	Germany	17	144	1149	234	219	78.2
+229
+Top 1.1%	University of Bordeaux	France	14	-	1083	-	175	78.2
+230
+Top 1.1%	Yeshiva University	USA	75	84	-	200	266	78.2
+231
+Top 1.2%	Kiel University	Germany	18	353	1135	143	258	78.2
+232
+Top 1.2%	City University of Hong Kong	China	29	-	1009	-	179	78.1
+233
+Top 1.2%	Lomonosov Moscow State University	Russia	1	134	404	207	255	78.1
+234
+Top 1.2%	Brandeis University	USA	76	29	245	47	701	78.1
+235
+Top 1.2%	University of Cincinnati	USA	77	496	266	-	201	78.1
+236
+Top 1.2%	Hokkaido University	Japan	9	346	231	165	275	78.1
+237
+Top 1.2%	University of Miami	USA	78	-	233	-	204	78.0
+238
+Top 1.2%	University of Erlangen–Nuremberg	Germany	19	432	855	-	183	78.0
+239
+Top 1.2%	KAIST	South Korea	5	-	126	-	228	78.0
+240
+Top 1.2%	Beihang University	China	30	-	859	-	184	78.0
+241
+Top 1.2%	University of Missouri–Columbia	USA	79	436	253	87	331	78.0
+242
+Top 1.2%	Université libre de Bruxelles	Belgium	4	449	353	173	261	77.9
+243
+Top 1.2%	University of Illinois at Chicago	USA	80	501	779	279	196	77.9
+244
+Top 1.2%	Complutense University of Madrid	Spain	3	208	188	222	267	77.9
+245
+Top 1.2%	University of Turin	Italy	5	244	1154	-	192	77.9
+246
+Top 1.2%	University of Leicester	United Kingdom	21	-	1402	96	296	77.9
+247
+Top 1.2%	Charles University in Prague	Czech Republic	1	320	1298	-	191	77.8
+248
+Top 1.2%	University of Sussex	United Kingdom	22	112	575	81	368	77.8
+249
+Top 1.2%	King Abdullah University of Science and Technology	Saudi Arabia	1	-	-	102	291	77.8
+250
+Top 1.2%	Trinity College Dublin	Ireland	1	207	86	248	304	77.8
+251
+Top 1.2%	Karlsruhe Institute of Technology	Germany	20	472	259	-	208	77.8
+252
+Top 1.3%	Kyushu University	Japan	10	253	128	-	242	77.8
+253
+Top 1.3%	University of Naples Federico II	Italy	6	-	795	-	195	77.7
+254
+Top 1.3%	King Abdulaziz University	Saudi Arabia	2	-	1390	-	193	77.7
+255
+Top 1.3%	University of Texas Health Science Center at Houston	USA	81	-	-	150	274	77.7
+256
+Top 1.3%	Maastricht University	Netherlands	9	-	1385	-	199	77.7
+257
+Top 1.3%	University of Exeter	United Kingdom	23	401	847	-	202	77.7
+258
+Top 1.3%	Dalian University of Technology	China	31	-	279	-	217	77.6
+259
+Top 1.3%	Zhengzhou University	China	32	-	1170	-	206	77.6
+260
+Top 1.3%	Wake Forest University	USA	82	-	71	-	315	77.6
+261
+Top 1.3%	University of Houston	USA	83	-	185	126	345	77.6
+262
+Top 1.3%	Colorado State University	USA	84	448	1382	196	260	77.6
+263
+Top 1.3%	University of California, Riverside	USA	85	390	-	214	252	77.6
+264
+Top 1.3%	University of Reading	United Kingdom	24	127	146	110	418	77.5
+265
+Top 1.3%	Beijing Institute of Technology	China	33	-	825	-	209	77.5
+266
+Top 1.3%	Virginia Commonwealth University	USA	86	-	950	119	310	77.5
+267
+Top 1.3%	University of Florence	Italy	7	-	759	-	215	77.5
+268
+Top 1.3%	The Scripps Research Institute	USA	87	-	-	34	438	77.5
+269
+Top 1.3%	Oregon Health & Science University	USA	88	-	-	-	213	77.4
+270
+Top 1.3%	Delft University of Technology	Netherlands	10	261	449	-	225	77.4
+271
+Top 1.3%	University of Cape Town	South Africa	1	175	218	-	248	77.4
+272
+Top 1.3%	China Europe International Business School	China	34	-	5	-	-	77.4
+273
+Top 1.4%	HEC Paris	France	15	-	7	-	-	77.4
+274
+Top 1.4%	Hunan University	China	35	-	566	-	222	77.4
+275
+Top 1.4%	University of Auckland	New Zealand	1	515	414	-	227	77.3
+276
+Top 1.4%	University of Electronic Science and Technology of China	China	36	-	677	-	221	77.3
+277
+Top 1.4%	Leipzig University	Germany	21	201	-	209	278	77.3
+278
+Top 1.4%	Medical University of Vienna	Austria	2	-	-	-	223	77.3
+279
+Top 1.4%	George Washington University	USA	89	398	143	-	279	77.3
+280
+Top 1.4%	Virginia Tech	USA	90	504	323	-	238	77.3
+281
+Top 1.4%	National Autonomous University of Mexico	Mexico	1	403	1592	240	265	77.2
+282
+Top 1.4%	National and Kapodistrian University of Athens	Greece	1	-	562	-	231	77.2
+283
+Top 1.4%	University of Lorraine	France	16	543	506	174	302	77.2
+284
+Top 1.4%	Oregon State University	USA	91	232	557	219	287	77.2
+285
+Top 1.4%	Beijing Normal University	China	37	-	1177	-	230	77.2
+286
+Top 1.4%	University of Genoa	Italy	8	541	1194	246	268	77.1
+287
+Top 1.4%	Chongqing University	China	38	-	428	-	243	77.1
+288
+Top 1.4%	University of Pisa	Italy	9	313	1235	-	233	77.1
+289
+Top 1.4%	University of Manitoba	Canada	11	318	310	192	314	77.1
+290
+Top 1.4%	University of Liège	Belgium	5	186	-	103	376	77.1
+291
+Top 1.4%	University of the Witwatersrand	South Africa	2	205	96	-	339	77.1
+292
+Top 1.4%	P.N. Lebedev Physical Institute of the Russian Academy of Sciences	Russia	2	31	-	120	616	77.0
+293
+Top 1.4%	University of Tsukuba	Japan	11	-	-	149	337	77.0
+294
+Top 1.5%	University of Southern Denmark	Denmark	4	-	1648	-	234	77.0
+295
+Top 1.5%	University of Bergen	Norway	3	385	-	-	241	77.0
+296
+Top 1.5%	University of Valencia	Spain	4	-	1508	-	239	77.0
+297
+Top 1.5%	University of Antwerp	Belgium	6	493	430	-	254	77.0
+298
+Top 1.5%	Shenzhen University	China	39	-	801	-	246	77.0
+299
+Top 1.5%	University of Lille	France	17	-	-	-	244	76.9
+300
+Top 1.5%	Laval University	Canada	12	526	372	-	263	76.9
+301
+Top 1.5%	University College Dublin	Ireland	2	-	298	-	271	76.9
+302
+Top 1.5%	Northwestern Polytechnical University	China	40	-	432	-	262	76.9
+303
+Top 1.5%	University of East Anglia	United Kingdom	25	97	-	171	383	76.9
+304
+Top 1.5%	Autonomous University of Madrid	Spain	5	-	1101	-	249	76.9
+305
+Top 1.5%	Florida State University	USA	92	-	537	-	259	76.8
+306
+Top 1.5%	University of Maryland, Baltimore	USA	93	-	-	-	250	76.8
+307
+Top 1.5%	University of Porto	Portugal	2	540	764	-	256	76.8
+308
+Top 1.5%	Washington State University	USA	94	-	1046	180	329	76.8
+309
+Top 1.5%	University of Duisburg-Essen	Germany	22	-	908	-	264	76.8
+310
+Top 1.5%	University of Aberdeen	United Kingdom	26	290	833	156	361	76.8
+311
+Top 1.5%	University of Massachusetts Chan Medical School	USA	95	-	-	85	416	76.7
+312
+Top 1.5%	University at Buffalo	USA	96	-	624	-	272	76.7
+313
+Top 1.5%	University of Kentucky	USA	97	289	541	-	276	76.7
+314
+Top 1.5%	University of South Florida	USA	98	-	841	-	270	76.7
+315
+Top 1.6%	University of Rennes	France	18	-	-	-	269	76.7
+316
+Top 1.6%	Hanyang University	South Korea	6	-	202	-	298	76.7
+317
+Top 1.6%	University of Delaware	USA	99	373	433	165	371	76.7
+318
+Top 1.6%	China Agricultural University	China	41	-	1327	-	273	76.6
+319
+Top 1.6%	National Yang Ming Chiao Tung University	Taiwan	2	-	213	-	300	76.6
+320
+Top 1.6%	Ruhr University Bochum	Germany	23	-	426	-	285	76.6
+321
+Top 1.6%	University of Pavia	Italy	10	484	875	222	330	76.6
+322
+Top 1.6%	Peking Union Medical College	China	42	-	-	-	277	76.6
+323
+Top 1.6%	University of California, Santa Cruz	USA	100	368	1292	268	295	76.6
+324
+Top 1.6%	University of Nebraska–Lincoln	USA	101	167	368	-	303	76.5
+325
+Top 1.6%	Queen's University	Canada	13	477	413	217	356	76.5
+326
+Top 1.6%	Lanzhou University	China	43	-	1007	-	283	76.5
+327
+Top 1.6%	Wayne State University	USA	102	487	418	-	290	76.5
+328
+Top 1.6%	Capital Medical University	China	44	-	-	-	286	76.5
+329
+Top 1.6%	London School of Economics and Political Science	United Kingdom	27	257	91	261	433	76.5
+330
+Top 1.6%	East China Normal University	China	45	-	338	-	301	76.5
+331
+Top 1.6%	University of Science and Technology Beijing	China	46	-	184	-	335	76.4
+332
+Top 1.6%	University of Technology Sydney	Australia	9	-	913	-	288	76.4
+333
+Top 1.6%	University of York	United Kingdom	28	221	-	-	297	76.4
+334
+Top 1.6%	Curtin University	Australia	10	-	1122	-	289	76.4
+335
+Top 1.6%	Polytechnic University of Milan	Italy	11	405	403	203	379	76.4
+336
+Top 1.7%	Aalborg University	Denmark	5	-	919	-	293	76.4
+337
+Top 1.7%	University of New Mexico	USA	103	468	-	-	292	76.4
+338
+Top 1.7%	Friedrich Schiller University Jena	Germany	24	537	-	264	317	76.3
+339
+Top 1.7%	Ulm University	Germany	25	-	1096	-	294	76.3
+340
+Top 1.7%	Northeastern University	USA	104	327	230	-	341	76.3
+341
+Top 1.7%	Dalhousie University	Canada	14	314	374	-	316	76.3
+342
+Top 1.7%	Macquarie University	Australia	11	-	505	-	309	76.3
+343
+Top 1.7%	King Saud University	Saudi Arabia	3	-	357	-	320	76.3
+344
+Top 1.7%	Durham University	United Kingdom	29	340	370	-	326	76.2
+345
+Top 1.7%	Umeå University	Sweden	7	-	1230	273	322	76.2
+346
+Top 1.7%	University of Milano-Bicocca	Italy	12	-	-	-	306	76.2
+347
+Top 1.7%	Temple University	USA	105	-	585	-	311	76.2
+348
+Top 1.7%	University of Granada	Spain	6	-	-	-	307	76.2
+349
+Top 1.7%	Versailles Saint-Quentin-en-Yvelines University	France	19	-	-	-	308	76.2
+350
+Top 1.7%	Aalto University	Finland	2	-	208	-	350	76.2
+351
+Top 1.7%	École des ponts ParisTech	France	20	228	24	-	966	76.1
+352
+Top 1.7%	Ben-Gurion University of the Negev	Israel	5	-	-	205	391	76.1
+353
+Top 1.7%	University of South Carolina - Columbia	USA	106	-	626	-	323	76.1
+354
+Top 1.7%	Islamic Azad University	Iran	1	-	-	-	313	76.1
+355
+Top 1.7%	Eindhoven University of Technology	Netherlands	11	-	967	228	377	76.1
+356
+Top 1.7%	Queen's University Belfast	United Kingdom	30	400	1055	-	319	76.1
+357
+Top 1.8%	Southern Methodist University	USA	107	191	34	-	728	76.1
+358
+Top 1.8%	Nantes University	France	21	-	1669	-	318	76.1
+359
+Top 1.8%	Queensland University of Technology	Australia	12	-	1145	-	321	76.0
+360
+Top 1.8%	University of Düsseldorf	Germany	26	217	-	-	334	76.0
+361
+Top 1.8%	Southern University of Science and Technology	China	47	-	-	-	324	76.0
+362
+Top 1.8%	University of Rome Tor Vergata	Italy	13	-	1674	-	325	76.0
+363
+Top 1.8%	Deakin University	Australia	13	-	1097	-	328	76.0
+364
+Top 1.8%	East China University of Science and Technology	China	48	-	1462	-	327	76.0
+365
+Top 1.8%	Drexel University	USA	108	-	267	227	411	76.0
+366
+Top 1.8%	Louisiana State University - Baton Rouge	USA	109	466	289	-	354	75.9
+367
+Top 1.8%	University of St Andrews	United Kingdom	31	299	931	229	392	75.9
+368
+Top 1.8%	Linköping University	Sweden	8	-	638	-	338	75.9
+369
+Top 1.8%	University of the Basque Country	Spain	7	-	1104	-	332	75.9
+370
+Top 1.8%	University of Campinas	Brazil	2	-	1655	-	333	75.9
+371
+Top 1.8%	Hannover Medical School	Germany	27	-	-	273	351	75.9
+372
+Top 1.8%	Lancaster University	United Kingdom	32	-	662	-	344	75.9
+373
+Top 1.8%	Albert Einstein College of Medicine	USA	110	-	-	-	340	75.8
+374
+Top 1.8%	Griffith University	Australia	14	-	1450	-	342	75.8
+375
+Top 1.8%	National Cheng Kung University	Taiwan	3	-	145	-	406	75.8
+376
+Top 1.8%	University of Belgrade	Serbia	1	498	-	-	343	75.8
+377
+Top 1.8%	University of Dundee	United Kingdom	33	517	1017	137	464	75.8
+378
+Top 1.9%	Kyung Hee University	South Korea	7	-	924	-	346	75.8
+379
+Top 1.9%	University of Wollongong	Australia	15	-	696	-	353	75.8
+380
+Top 1.9%	Vrije Universiteit Brussel	Belgium	7	488	1695	-	347	75.8
+381
+Top 1.9%	Nanjing Medical University	China	49	-	-	-	348	75.7
+382
+Top 1.9%	University of Turku	Finland	3	-	1634	-	349	75.7
+383
+Top 1.9%	University of Otago	New Zealand	2	-	938	-	352	75.7
+384
+Top 1.9%	Technical University of Catalonia (UPC)	Spain	8	-	578	-	359	75.7
+385
+Top 1.9%	Chalmers University of Technology	Sweden	9	522	250	-	384	75.7
+386
+Top 1.9%	Jagiellonian University	Poland	1	-	-	-	355	75.7
+387
+Top 1.9%	Simon Fraser University	Canada	15	-	1150	-	357	75.7
+388
+Top 1.9%	Shanghai University	China	50	-	1057	-	358	75.6
+389
+Top 1.9%	University of Parma	Italy	14	287	1066	93	537	75.6
+390
+Top 1.9%	University of Buenos Aires	Argentina	1	306	1451	-	362	75.6
+391
+Top 1.9%	University of Marburg	Germany	28	162	1621	183	460	75.6
+392
+Top 1.9%	Northwest A&F University	China	51	-	1642	-	360	75.6
+393
+Top 1.9%	Nanjing University of Science and Technology	China	52	-	609	-	366	75.6
+394
+Top 1.9%	Jinan University	China	53	-	622	-	365	75.6
+395
+Top 1.9%	Technical University of Berlin	Germany	29	188	631	-	378	75.6
+396
+Top 1.9%	Beijing University of Chemical Technology	China	54	-	1293	-	363	75.5
+397
+Top 1.9%	University of Newcastle	Australia	16	-	1320	-	364	75.5
+398
+Top 1.9%	University Paris-Est Créteil	France	22	-	984	-	367	75.5
+399
+Top 2%	University of Malaya	Malaysia	1	-	629	-	373	75.5
+400
+Top 2%	Pontifical Catholic University of Chile	Chile	1	544	223	-	405	75.5
+401
+Top 2%	Federal University of Rio de Janeiro	Brazil	3	492	479	-	380	75.5
+402
+Top 2%	Pohang University of Science and Technology	South Korea	8	-	-	-	369	75.5
+403
+Top 2%	Medical University of South Carolina	USA	111	-	-	-	370	75.5
+404
+Top 2%	Nanjing Agricultural University	China	55	-	1243	-	372	75.4
+405
+Top 2%	International Institute for Management Development	Switzerland	8	-	10	-	-	75.4
+406
+Top 2%	University of Ulsan	South Korea	9	-	734	-	374	75.4
+407
+Top 2%	Vita-Salute San Raffaele University	Italy	15	-	-	-	375	75.4
+408
+Top 2%	University of Seville	Spain	9	-	1696	-	381	75.4
+409
+Top 2%	Northeastern University, China	China	56	-	434	-	394	75.4
+410
+Top 2%	Indian Institute of Management Ahmedabad	India	1	367	11	-	-	75.4
+411
+Top 2%	University of Tasmania	Australia	17	-	-	-	382	75.4
+412
+Top 2%	City College of New York	USA	112	22	528	-	872	75.3
+413
+Top 2%	Wuhan University of Technology	China	57	-	946	-	386	75.3
+414
+Top 2%	Catholic University of the Sacred Heart	Italy	16	-	1346	-	385	75.3
+415
+Top 2%	Justus Liebig University Giessen	Germany	30	-	-	-	387	75.3
+416
+Top 2%	Pompeu Fabra University	Spain	10	-	1114	-	390	75.3
+417
+Top 2%	University of Saskatchewan	Canada	16	280	574	-	401	75.3
+418
+Top 2%	Huazhong Agricultural University	China	58	-	1340	-	388	75.3
+419
+Top 2%	University of Victoria	Canada	17	-	1315	-	389	75.3
+420
+Top 2.1%	Swedish University of Agricultural Sciences	Sweden	10	275	1186	-	397	75.2
+421
+Top 2.1%	University of Warsaw	Poland	2	513	763	-	396	75.2
+422
+Top 2.1%	Southern Medical University	China	59	-	-	-	393	75.2
+423
+Top 2.1%	University of Innsbruck	Austria	3	465	774	252	434	75.2
+424
+Top 2.1%	University of Perugia	Italy	17	-	-	-	395	75.2
+425
+Top 2.1%	Nanjing University of Aeronautics and Astronautics	China	60	-	1158	-	399	75.2
+426
+Top 2.1%	University of Oklahoma, Norman	USA	113	-	410	-	410	75.2
+427
+Top 2.1%	Jiangsu University	China	61	-	1405	-	400	75.2
+428
+Top 2.1%	Xidian University	China	62	335	1035	-	404	75.2
+429
+Top 2.1%	University of Côte d'Azur	France	23	-	-	-	402	75.1
+430
+Top 2.1%	Tampere University	Finland	4	-	605	-	412	75.1
+431
+Top 2.1%	Thomas Jefferson University	USA	114	-	-	-	407	75.1
+432
+Top 2.1%	University of Regensburg	Germany	31	-	1014	-	408	75.1
+433
+Top 2.1%	Aristotle University of Thessaloniki	Greece	2	-	1501	-	409	75.1
+434
+Top 2.1%	Tulane University	USA	115	211	324	-	443	75.1
+435
+Top 2.1%	Fuzhou University	China	63	-	816	-	414	75.1
+436
+Top 2.1%	University of Oregon	USA	116	161	-	-	429	75.1
+437
+Top 2.1%	São Paulo State University	Brazil	4	-	-	-	413	75.0
+438
+Top 2.1%	Stockholm School of Economics	Sweden	11	-	19	271	1894	75.0
+439
+Top 2.1%	Institut Agro	France	24	-	-	-	415	75.0
+440
+Top 2.1%	Stellenbosch University	South Africa	3	-	234	-	447	75.0
+441
+Top 2.2%	University of Ljubljana	Slovenia	1	-	-	-	417	75.0
+442
+Top 2.2%	University of Coimbra	Portugal	3	429	1366	-	419	75.0
+443
+Top 2.2%	Kyungpook National University	South Korea	10	-	1032	-	420	75.0
+444
+Top 2.2%	University of Chile	Chile	2	-	706	-	422	75.0
+445
+Top 2.2%	University of Bath	United Kingdom	34	-	577	-	425	75.0
+446
+Top 2.2%	University at Albany, SUNY	USA	117	182	717	215	515	74.9
+447
+Top 2.2%	Indiana University – Purdue University Indianapolis	USA	118	-	815	-	423	74.9
+448
+Top 2.2%	University of Bari	Italy	18	-	1680	-	421	74.9
+449
+Top 2.2%	Texas Tech University	USA	119	-	536	-	428	74.9
+450
+Top 2.2%	Pusan National University	South Korea	11	-	301	-	446	74.9
+451
+Top 2.2%	RMIT University	Australia	18	-	1089	-	424	74.9
+452
+Top 2.2%	University of Texas at Dallas	USA	120	381	632	-	430	74.9
+453
+Top 2.2%	Nanjing University of Information Science and Technology	China	64	-	-	-	426	74.9
+454
+Top 2.2%	National Tsing Hua University	Taiwan	4	387	835	-	431	74.9
+455
+Top 2.2%	Saint Louis University	USA	121	-	369	190	540	74.8
+456
+Top 2.2%	University of Mississippi	USA	122	-	-	-	427	74.8
+457
+Top 2.2%	University of Navarra	Spain	11	-	122	258	555	74.8
+458
+Top 2.2%	University of Oulu	Finland	5	-	646	-	435	74.8
+459
+Top 2.2%	University of Twente	Netherlands	12	-	1143	-	432	74.8
+460
+Top 2.2%	Vienna University of Technology	Austria	4	414	530	-	440	74.8
+461
+Top 2.2%	Kobe University	Japan	12	143	401	-	471	74.8
+462
+Top 2.3%	Nanjing Tech University	China	65	-	1472	-	436	74.8
+463
+Top 2.3%	University of Clermont Auvergne	France	25	-	-	-	437	74.7
+464
+Top 2.3%	Federal University of Rio Grande do Sul	Brazil	5	-	1478	-	439	74.7
+465
+Top 2.3%	Chonnam National University	South Korea	12	-	1241	-	441	74.7
+466
+Top 2.3%	La Trobe University	Australia	19	-	1138	-	442	74.7
+467
+Top 2.3%	University of Surrey	United Kingdom	35	215	496	-	461	74.7
+468
+Top 2.3%	National Research Center «Kurchatov Institute»	Russia	3	-	-	-	444	74.7
+469
+Top 2.3%	Hiroshima University	Japan	13	-	901	-	445	74.7
+470
+Top 2.3%	University of Vermont	USA	123	-	455	-	459	74.7
+471
+Top 2.3%	George Mason University	USA	124	-	1529	241	494	74.7
+472
+Top 2.3%	Chulalongkorn University	Thailand	1	-	109	-	553	74.7
+473
+Top 2.3%	Amherst College	USA	125	23	45	-	-	74.6
+474
+Top 2.3%	Southwest University	China	66	495	1480	-	448	74.6
+475
+Top 2.3%	Martin Luther University Halle-Wittenberg	Germany	32	444	-	256	482	74.6
+476
+Top 2.3%	Medical College of Wisconsin	USA	126	-	-	-	449	74.6
+477
+Top 2.3%	York University	Canada	18	-	327	-	472	74.6
+478
+Top 2.3%	University of Trento	Italy	19	-	-	-	450	74.6
+479
+Top 2.3%	University of Tehran	Iran	2	457	-	-	452	74.6
+480
+Top 2.3%	University of Central Florida	USA	127	-	974	-	454	74.6
+481
+Top 2.3%	Ulsan National Institute of Science and Technology	South Korea	13	-	-	-	451	74.6
+482
+Top 2.3%	University of Texas Health Science Center at San Antonio	USA	128	-	-	-	453	74.5
+483
+Top 2.4%	University of KwaZulu-Natal	South Africa	4	505	354	-	468	74.5
+484
+Top 2.4%	Western Sydney University	Australia	20	-	1438	-	455	74.5
+485
+Top 2.4%	University of Eastern Finland	Finland	6	-	-	-	456	74.5
+486
+Top 2.4%	Jiangnan University	China	67	-	1494	-	457	74.5
+487
+Top 2.4%	Qingdao University	China	68	-	-	-	458	74.5
+488
+Top 2.4%	University of Alabama - Tuscaloosa	USA	129	430	216	-	497	74.5
+489
+Top 2.4%	University of Louisville	USA	130	-	853	-	462	74.5
+490
+Top 2.4%	Syracuse University	USA	131	176	158	-	552	74.5
+491
+Top 2.4%	Guangdong University of Technology	China	69	-	1433	-	463	74.4
+492
+Top 2.4%	University of Trieste	Italy	20	-	995	-	465	74.4
+493
+Top 2.4%	Rush University	USA	132	-	-	-	466	74.4
+494
+Top 2.4%	University of Strathclyde	United Kingdom	36	-	396	-	484	74.4
+495
+Top 2.4%	Federal University of Minas Gerais	Brazil	6	-	538	-	479	74.4
+496
+Top 2.4%	University of Santiago de Compostela	Spain	12	-	903	-	469	74.4
+497
+Top 2.4%	Lehigh University	USA	133	110	63	-	819	74.4
+498
+Top 2.4%	Florida International University	USA	134	-	1475	-	467	74.4
+499
+Top 2.4%	West Virginia University	USA	135	-	373	-	487	74.4
+500
+Top 2.4%	University of Guelph	Canada	19	-	1073	-	470	74.4
+501
+Top 2.4%	Indian Institute of Science	India	2	323	890	-	476	74.3
+502
+Top 2.4%	University of Catania	Italy	21	409	1690	-	474	74.3
+503
+Top 2.4%	Kansas State University	USA	136	332	482	-	488	74.3
+504
+Top 2.5%	North China Electric Power University	China	70	-	314	-	506	74.3
+505
+Top 2.5%	University of Tennessee Health Science Center	USA	137	-	-	-	473	74.3
+506
+Top 2.5%	University of Potsdam	Germany	33	-	-	-	475	74.3
+507
+Top 2.5%	China Medical University, Taiwan	Taiwan	5	-	-	-	477	74.3
+508
+Top 2.5%	University of Zagreb	Croatia	1	-	1419	-	478	74.3
+509
+Top 2.5%	Ocean University of China	China	71	-	1476	-	480	74.3
+510
+Top 2.5%	Beijing Jiaotong University	China	72	-	1328	-	481	74.2
+511
+Top 2.5%	University of Hawaii at Manoa	USA	138	402	1321	-	483	74.2
+512
+Top 2.5%	University of Tromsø – The Arctic University of Norway	Norway	4	-	1595	-	485	74.2
+513
+Top 2.5%	Cairo University	Egypt	1	-	1075	-	486	74.2
+514
+Top 2.5%	University of Hull	United Kingdom	37	160	317	135	730	74.2
+515
+Top 2.5%	University of Tartu	Estonia	1	480	-	-	489	74.2
+516
+Top 2.5%	Nanchang University	China	73	-	1029	-	490	74.2
+517
+Top 2.5%	Renmin University of China	China	74	-	81	-	672	74.2
+518
+Top 2.5%	Baylor University	USA	139	-	445	-	512	74.2
+519
+Top 2.5%	NOVA University of Lisbon	Portugal	4	-	-	-	491	74.2
+520
+Top 2.5%	James Cook University	Australia	21	-	1208	-	492	74.1
+521
+Top 2.5%	Technical University of Darmstadt	Germany	34	347	493	-	516	74.1
+522
+Top 2.5%	Polytechnic University of Valencia	Spain	13	-	1372	-	493	74.1
+523
+Top 2.5%	Moscow Institute of Physics and Technology	Russia	4	155	589	278	545	74.1
+524
+Top 2.5%	Zhejiang University of Technology	China	75	-	1171	-	495	74.1
+525
+Top 2.6%	Boston College	USA	140	-	111	-	617	74.1
+526
+Top 2.6%	École normale supérieure de Lyon	France	26	404	-	275	524	74.1
+527
+Top 2.6%	Mahidol University	Thailand	2	-	1653	-	496	74.1
+528
+Top 2.6%	University of Stuttgart	Germany	35	130	389	-	556	74.1
+529
+Top 2.6%	University of Macau	China	76	-	666	-	507	74.1
+530
+Top 2.6%	Flinders University	Australia	22	491	-	-	499	74.0
+531
+Top 2.6%	University of Verona	Italy	22	-	-	-	498	74.0
+532
+Top 2.6%	University of Siena	Italy	23	-	1421	-	500	74.0
+533
+Top 2.6%	Okayama University	Japan	14	334	727	-	509	74.0
+534
+Top 2.6%	Nanjing Normal University	China	77	-	970	-	505	74.0
+535
+Top 2.6%	University of Colorado Denver	USA	141	-	-	-	501	74.0
+536
+Top 2.6%	University of Ferrara	Italy	24	-	-	-	502	74.0
+537
+Top 2.6%	Swinburne University of Technology	Australia	23	-	-	-	504	74.0
+538
+Top 2.6%	University of Pretoria	South Africa	5	-	703	-	511	74.0
+539
+Top 2.6%	China University of Geosciences (Wuhan)	China	78	-	654	-	517	74.0
+540
+Top 2.6%	University of South Australia	Australia	24	-	491	-	522	73.9
+541
+Top 2.6%	Beijing University of Technology	China	79	-	-	-	508	73.9
+542
+Top 2.6%	University College Cork	Ireland	3	-	640	-	519	73.9
+543
+Top 2.6%	University of Modena and Reggio Emilia	Italy	25	-	887	-	510	73.9
+544
+Top 2.6%	Eötvös Loránd University	Hungary	1	219	-	239	575	73.9
+545
+Top 2.6%	Georgia State University	USA	142	-	827	-	514	73.9
+546
+Top 2.7%	Hefei University of Technology	China	80	-	895	-	513	73.9
+547
+Top 2.7%	University of Zaragoza	Spain	14	503	1133	-	518	73.9
+548
+Top 2.7%	University of Franche-Comté	France	27	490	-	-	520	73.9
+549
+Top 2.7%	Yangzhou University	China	81	-	1685	-	521	73.9
+550
+Top 2.7%	Polytechnic University of Madrid	Spain	15	534	569	-	526	73.8
+551
+Top 2.7%	Southwest Jiaotong University	China	82	-	810	-	525	73.8
+552
+Top 2.7%	Novosibirsk State University	Russia	5	421	1488	-	523	73.8
+553
+Top 2.7%	Bocconi University	Italy	26	-	46	265	995	73.8
+554
+Top 2.7%	Auburn University	USA	143	-	265	-	554	73.8
+555
+Top 2.7%	University of Konstanz	Germany	36	-	1539	210	612	73.8
+556
+Top 2.7%	University of Rostock	Germany	37	442	-	-	530	73.8
+557
+Top 2.7%	University of Bremen	Germany	38	-	-	-	527	73.8
+558
+Top 2.7%	Rovira i Virgili University	Spain	16	-	1356	-	528	73.8
+559
+Top 2.7%	Medical University of Innsbruck	Austria	5	-	-	-	529	73.8
+560
+Top 2.7%	Masaryk University	Czech Republic	2	-	-	-	531	73.8
+561
+Top 2.7%	Technical University of Dortmund	Germany	39	-	-	-	532	73.7
+562
+Top 2.7%	Medical University of Graz	Austria	6	-	-	-	533	73.7
+563
+Top 2.7%	Mayo Clinic College of Medicine and Science	USA	144	-	-	-	534	73.7
+564
+Top 2.7%	Carleton University	Canada	20	-	1393	-	535	73.7
+565
+Top 2.7%	Saint Petersburg University	Russia	6	166	417	-	568	73.7
+566
+Top 2.7%	Leibniz University Hannover	Germany	40	-	650	-	539	73.7
+567
+Top 2.8%	Hitotsubashi University	Japan	15	-	20	-	-	73.7
+568
+Top 2.8%	Indian Institute of Technology Bombay	India	3	-	330	-	560	73.7
+569
+Top 2.8%	Donghua University	China	83	-	1123	-	536	73.7
+570
+Top 2.8%	Antioch College	USA	145	11	-	-	-	73.7
+571
+Top 2.8%	Oklahoma State University	USA	146	-	478	-	550	73.6
+572
+Top 2.8%	University of Arkansas - Fayetteville	USA	147	263	363	-	565	73.6
+573
+Top 2.8%	University of Oviedo	Spain	17	-	858	-	542	73.6
+574
+Top 2.8%	Swansea University	United Kingdom	38	-	1335	-	538	73.6
+575
+Top 2.8%	Tianjin Medical University	China	84	-	-	-	541	73.6
+576
+Top 2.8%	Bar-Ilan University	Israel	6	-	620	-	548	73.6
+577
+Top 2.8%	Central China Normal University	China	85	-	1162	-	544	73.6
+578
+Top 2.8%	Clemson University	USA	148	-	940	-	546	73.6
+579
+Top 2.8%	Colorado School of Mines	USA	149	-	79	-	768	73.6
+580
+Top 2.8%	Federal University of São Paulo	Brazil	7	-	-	-	547	73.6
+581
+Top 2.8%	Scuola Normale Superiore di Pisa	Italy	27	101	-	247	686	73.6
+582
+Top 2.8%	Indian Institute of Technology Madras	India	4	-	187	-	614	73.5
+583
+Top 2.8%	Tehran University of Medical Sciences	Iran	3	-	-	-	549	73.5
+584
+Top 2.8%	Guangzhou Medical University	China	86	-	-	-	551	73.5
+585
+Top 2.8%	Illinois Institute of Technology	USA	150	53	180	-	866	73.5
+586
+Top 2.8%	University of Canterbury	New Zealand	3	365	507	237	641	73.5
+587
+Top 2.8%	University of Palermo	Italy	28	-	-	-	557	73.5
+588
+Top 2.9%	Hohai University	China	87	-	1256	-	559	73.5
+589
+Top 2.9%	Naval Medical University	China	88	-	-	-	558	73.5
+590
+Top 2.9%	Royal Holloway, University of London	United Kingdom	39	424	1136	221	651	73.5
+591
+Top 2.9%	South China Normal University	China	89	-	1196	-	561	73.5
+592
+Top 2.9%	Chiba University	Japan	16	-	-	-	562	73.5
+593
+Top 2.9%	National Technical University of Athens	Greece	3	423	564	-	574	73.4
+594
+Top 2.9%	University of Aveiro	Portugal	5	-	-	-	563	73.4
+595
+Top 2.9%	University of Brescia	Italy	29	-	-	-	564	73.4
+596
+Top 2.9%	Osaka Metropolitan University	Japan	17	284	431	-	590	73.4
+597
+Top 2.9%	Polytechnic University of Turin	Italy	30	-	909	-	567	73.4
+598
+Top 2.9%	University of Sherbrooke	Canada	21	-	963	-	566	73.4
+599
+Top 2.9%	University of Burgundy	France	28	168	-	-	592	73.4
+600
+Top 2.9%	University of St.Gallen	Switzerland	9	-	27	-	1537	73.4
+601
+Top 2.9%	University of Iceland	Iceland	1	-	-	-	569	73.4
+602
+Top 2.9%	Ewha Womans University	South Korea	14	-	-	-	570	73.4
+603
+Top 2.9%	Chang Gung University	Taiwan	6	-	-	-	571	73.4
+604
+Top 2.9%	ShanghaiTech University	China	90	-	-	-	572	73.3
+605
+Top 2.9%	China University of Mining and Technology (Xuzhou)	China	91	-	590	-	582	73.3
+606
+Top 2.9%	Tata Institute of Fundamental Research	India	5	-	-	-	573	73.3
+607
+Top 2.9%	University of Graz	Austria	7	452	1305	159	744	73.3
+608
+Top 2.9%	South China Agricultural University	China	92	-	1681	-	576	73.3
+609
+Top 3%	San Diego State University	USA	151	297	443	-	600	73.3
+610
+Top 3%	Joint Institute for Nuclear Research	Russia	7	-	-	-	577	73.3
+611
+Top 3%	Brunel University London	United Kingdom	40	-	652	-	586	73.3
+612
+Top 3%	Loughborough University	United Kingdom	41	-	1601	279	595	73.3
+613
+Top 3%	Gustave Eiffel University	France	29	447	-	-	578	73.3
+614
+Top 3%	National University of Defense Technology	China	93	-	1172	-	579	73.3
+615
+Top 3%	King Fahd University of Petroleum and Minerals	Saudi Arabia	4	-	82	-	793	73.3
+616
+Top 3%	Indian Institute of Technology Delhi	India	6	-	155	-	685	73.2
+617
+Top 3%	China University of Geosciences, Beijing	China	94	-	1584	-	580	73.2
+618
+Top 3%	University of La Laguna	Spain	18	-	-	-	581	73.2
+619
+Top 3%	University of Jyväskylä	Finland	7	-	1583	-	583	73.2
+620
+Top 3%	Institute of Cancer Research, University of London	United Kingdom	42	249	-	-	594	73.2
+621
+Top 3%	University of Nebraska Medical Center	USA	152	-	-	-	584	73.2
+622
+Top 3%	Delhi University	India	7	532	168	-	675	73.2
+623
+Top 3%	University of Salerno	Italy	31	-	1504	-	585	73.2
+624
+Top 3%	University of Johannesburg	South Africa	6	-	1076	-	588	73.2
+625
+Top 3%	Palacký University Olomouc	Czech Republic	3	-	-	-	587	73.2
+626
+Top 3%	Savoie Mont Blanc University	France	30	-	-	-	589	73.2
+627
+Top 3%	Shaanxi Normal University	China	95	-	-	-	591	73.1
+628
+Top 3%	Concordia University	Canada	22	549	359	-	615	73.1
+629
+Top 3.1%	Rensselaer Polytechnic Institute	USA	153	446	150	-	695	73.1
+630
+Top 3.1%	St George's, University of London	United Kingdom	43	-	-	-	593	73.1
+631
+Top 3.1%	University of Wisconsin–Milwaukee	USA	154	265	494	-	619	73.1
+632
+Top 3.1%	Chung-Ang University	South Korea	15	-	1044	-	596	73.1
+633
+Top 3.1%	Brigham Young University	USA	155	308	765	-	605	73.1
+634
+Top 3.1%	Rouen Normandy University	France	31	469	-	-	598	73.1
+635
+Top 3.1%	University of Texas at Arlington	USA	156	-	783	-	602	73.1
+636
+Top 3.1%	University of Minho	Portugal	6	-	-	-	597	73.1
+637
+Top 3.1%	AGH University of Science and Technology	Poland	3	-	897	-	601	73.1
+638
+Top 3.1%	Catholic University of Korea	South Korea	16	-	-	-	599	73.1
+639
+Top 3.1%	Utah State University	USA	157	352	1011	-	604	73.0
+640
+Top 3.1%	University of Caen Normandy	France	32	-	-	-	603	73.0
+641
+Top 3.1%	University of Cagliari	Italy	32	-	-	-	606	73.0
+642
+Top 3.1%	Wenzhou Medical University	China	96	-	-	-	607	73.0
+643
+Top 3.1%	Beijing University of Posts and Telecommunications	China	97	-	502	-	620	73.0
+644
+Top 3.1%	Nanjing University of Posts and Telecommunications	China	98	-	744	-	610	73.0
+645
+Top 3.1%	Guangxi University	China	99	-	-	-	608	73.0
+646
+Top 3.1%	Northwest University, Xi'an	China	100	-	1100	-	609	73.0
+647
+Top 3.1%	Swarthmore College	USA	158	18	285	-	-	73.0
+648
+Top 3.1%	University of Campania Luigi Vanvitelli	Italy	33	-	-	-	611	73.0
+649
+Top 3.1%	Hacettepe University	Turkey	1	-	-	-	613	73.0
+650
+Top 3.2%	Saarland University	Germany	41	506	490	-	629	73.0
+651
+Top 3.2%	Semmelweis University	Hungary	2	-	-	-	618	72.9
+652
+Top 3.2%	Ioffe Physical-Technical Institute of the Russian Academy of Sciences	Russia	8	43	-	226	1101	72.9
+653
+Top 3.2%	Jeonbuk National University	South Korea	17	-	-	-	621	72.9
+654
+Top 3.2%	Oswaldo Cruz Foundation	Brazil	8	-	-	-	622	72.9
+655
+Top 3.2%	Memorial University of Newfoundland	Canada	23	-	864	-	625	72.9
+656
+Top 3.2%	Army Medical University	China	101	-	-	-	623	72.9
+657
+Top 3.2%	University of Québec at Montreal	Canada	24	-	978	-	626	72.9
+658
+Top 3.2%	National Central University	Taiwan	7	-	-	-	624	72.9
+659
+Top 3.2%	Sejong University	South Korea	18	-	-	-	627	72.9
+660
+Top 3.2%	University of Bayreuth	Germany	42	-	1116	-	628	72.9
+661
+Top 3.2%	Sciences Po	France	33	-	60	68	-	72.9
+662
+Top 3.2%	Bielefeld University	Germany	43	454	1459	-	632	72.9
+663
+Top 3.2%	University of Oklahoma Health Sciences Center	USA	159	-	-	-	630	72.8
+664
+Top 3.2%	University of Málaga	Spain	19	-	-	-	631	72.8
+665
+Top 3.2%	Yokohama City University	Japan	18	-	198	-	713	72.8
+666
+Top 3.2%	University of Western Brittany	France	34	-	-	-	633	72.8
+667
+Top 3.2%	Shandong University of Science and Technology	China	102	-	806	-	640	72.8
+668
+Top 3.2%	University of Galway	Ireland	4	245	1616	-	649	72.8
+669
+Top 3.2%	National Research Nuclear University MEPhI	Russia	9	460	-	-	634	72.8
+670
+Top 3.2%	University of Haifa	Israel	7	-	962	-	639	72.8
+671
+Top 3.3%	Northeast Normal University	China	103	-	1441	-	636	72.8
+672
+Top 3.3%	University of Angers	France	35	-	-	-	635	72.8
+673
+Top 3.3%	Henan University	China	104	-	-	-	637	72.8
+674
+Top 3.3%	College of William & Mary	USA	160	-	107	-	821	72.8
+675
+Top 3.3%	Anhui University	China	105	-	930	-	643	72.7
+676
+Top 3.3%	University of Udine	Italy	34	-	1573	-	638	72.7
+677
+Top 3.3%	Harbin Medical University	China	106	-	-	-	642	72.7
+678
+Top 3.3%	University of Kent	United Kingdom	44	-	914	-	646	72.7
+679
+Top 3.3%	COMSATS University Islamabad	Pakistan	1	-	-	-	644	72.7
+680
+Top 3.3%	Konkuk University	South Korea	19	-	1165	-	645	72.7
+681
+Top 3.3%	University of Poitiers	France	36	330	-	-	650	72.7
+682
+Top 3.3%	Ningbo University	China	107	-	1175	-	648	72.7
+683
+Top 3.3%	University of New Hampshire	USA	161	-	486	-	666	72.7
+684
+Top 3.3%	China Medical University, PRC	China	108	-	-	-	647	72.7
+685
+Top 3.3%	Middle East Technical University	Turkey	2	-	288	-	690	72.7
+686
+Top 3.3%	Czech Technical University in Prague	Czech Republic	4	397	-	-	657	72.7
+687
+Top 3.3%	Sharif University of Technology	Iran	4	422	-	-	655	72.6
+688
+Top 3.3%	Taipei Medical University	Taiwan	8	-	-	-	652	72.6
+689
+Top 3.3%	University of Texas at San Antonio	USA	162	-	-	-	653	72.6
+690
+Top 3.3%	University of Cantabria	Spain	20	-	1590	-	654	72.6
+691
+Top 3.3%	University of Eastern Piedmont	Italy	35	-	-	-	656	72.6
+692
+Top 3.4%	University of Missouri-Kansas City	USA	163	476	543	-	671	72.6
+693
+Top 3.4%	Istanbul University	Turkey	3	437	1059	-	659	72.6
+694
+Top 3.4%	Chongqing Medical University	China	109	-	-	-	658	72.6
+695
+Top 3.4%	University of Fribourg	Switzerland	10	-	284	-	697	72.6
+696
+Top 3.4%	Tilburg University	Netherlands	13	-	457	-	678	72.6
+697
+Top 3.4%	Hong Kong Baptist University	China	110	-	1569	-	660	72.6
+698
+Top 3.4%	Shanxi University	China	111	-	1657	-	661	72.6
+699
+Top 3.4%	Victoria University of Wellington	New Zealand	4	379	878	-	665	72.6
+700
+Top 3.4%	University of Nevada, Reno	USA	164	-	1234	-	662	72.5
+701
+Top 3.4%	University of Texas Medical Branch	USA	165	-	-	-	663	72.5
+702
+Top 3.4%	Institut national des sciences appliquées de Lyon	France	37	-	1237	-	664	72.5
+703
+Top 3.4%	Loyola University Chicago	USA	166	354	1037	-	670	72.5
+704
+Top 3.4%	Indian Institute of Technology Kharagpur	India	8	-	518	-	681	72.5
+705
+Top 3.4%	University of Szeged	Hungary	3	393	-	198	810	72.5
+706
+Top 3.4%	Chungnam National University	South Korea	20	-	1492	-	667	72.5
+707
+Top 3.4%	Beijing Forestry University	China	112	-	-	-	668	72.5
+708
+Top 3.4%	Tokyo Medical and Dental University	Japan	19	-	-	-	669	72.5
+709
+Top 3.4%	Binghamton University	USA	167	296	322	157	927	72.5
+710
+Top 3.4%	Haverford College	USA	168	21	925	-	-	72.5
+711
+Top 3.4%	Central Party School of the Communist Party of China	China	113	-	21	-	-	72.5
+712
+Top 3.4%	University of North Texas	USA	169	-	786	-	680	72.4
+713
+Top 3.5%	University of Plymouth	United Kingdom	45	-	1617	-	673	72.4
+714
+Top 3.5%	American University of Beirut	Lebanon	1	172	212	-	767	72.4
+715
+Top 3.5%	University of Jinan	China	114	-	1410	-	674	72.4
+716
+Top 3.5%	Comenius University Bratislava	Slovak Republic	1	-	-	-	676	72.4
+717
+Top 3.5%	Ankara University	Turkey	4	-	861	-	683	72.4
+718
+Top 3.5%	Shandong Normal University	China	115	-	-	-	677	72.4
+719
+Top 3.5%	Air Force Medical University	China	116	-	-	-	679	72.4
+720
+Top 3.5%	Yeungnam University	South Korea	21	-	383	-	706	72.4
+721
+Top 3.5%	National Polytechnic Institute	Mexico	2	-	-	-	682	72.4
+722
+Top 3.5%	Federal University of Santa Catarina	Brazil	9	-	1343	-	684	72.4
+723
+Top 3.5%	Kanazawa University	Japan	20	-	610	-	689	72.4
+724
+Top 3.5%	University of Maine	USA	170	328	1216	128	944	72.4
+725
+Top 3.5%	University of Wyoming	USA	171	-	797	-	687	72.3
+726
+Top 3.5%	University of Massachusetts Boston	USA	172	-	1285	193	843	72.3
+727
+Top 3.5%	Heriot-Watt University	United Kingdom	46	-	603	-	696	72.3
+728
+Top 3.5%	Toulouse INP	France	38	-	277	-	731	72.3
+729
+Top 3.5%	China University of Petroleum (East China)	China	117	-	597	-	703	72.3
+730
+Top 3.5%	Mississippi State University	USA	173	307	427	-	720	72.3
+731
+Top 3.5%	Inha University	South Korea	22	-	762	-	694	72.3
+732
+Top 3.5%	National University of La Plata	Argentina	2	-	1549	-	688	72.3
+733
+Top 3.5%	Cold Spring Harbor Laboratory	USA	174	-	-	101	1002	72.3
+734
+Top 3.6%	University of Salamanca	Spain	21	-	912	-	693	72.3
+735
+Top 3.6%	Nanjing Forestry University	China	118	-	-	-	691	72.3
+736
+Top 3.6%	Otto von Guericke University Magdeburg	Germany	44	-	1562	-	692	72.3
+737
+Top 3.6%	Massey University	New Zealand	5	-	894	-	702	72.3
+738
+Top 3.6%	Harbin Engineering University	China	119	-	-	-	698	72.2
+739
+Top 3.6%	Shinshu University	Japan	21	-	1563	-	699	72.2
+740
+Top 3.6%	University of Natural Resources and Life Sciences, Vienna	Austria	8	-	-	-	700	72.2
+741
+Top 3.6%	Vilnius University	Lithuania	1	-	-	-	704	72.2
+742
+Top 3.6%	CINVESTAV	Mexico	3	-	-	-	705	72.2
+743
+Top 3.6%	National Chung Hsing University	Taiwan	9	-	221	-	765	72.2
+744
+Top 3.6%	Guangzhou University	China	120	-	939	-	708	72.2
+745
+Top 3.6%	Roma Tre University	Italy	36	-	-	-	707	72.2
+746
+Top 3.6%	University of Murcia	Spain	22	-	-	-	709	72.2
+747
+Top 3.6%	Qingdao University of Science and Technology	China	121	-	1299	-	711	72.2
+748
+Top 3.6%	University of Arkansas for Medical Sciences	USA	175	-	-	-	710	72.2
+749
+Top 3.6%	Anhui Medical University	China	122	-	-	-	712	72.2
+750
+Top 3.6%	Kumamoto University	Japan	22	-	768	-	719	72.2
+751
+Top 3.6%	Shandong First Medical University	China	123	-	-	-	714	72.2
+752
+Top 3.6%	National Research University Higher School of Economics	Russia	10	-	-	-	715	72.1
+753
+Top 3.6%	Henryk Niewodniczański Institute of Nuclear Physics	Poland	4	-	-	-	716	72.1
+754
+Top 3.6%	Ajou University	South Korea	23	-	1173	-	717	72.1
+755
+Top 3.7%	Warsaw University of Technology	Poland	5	338	954	-	723	72.1
+756
+Top 3.7%	Örebro University	Sweden	12	-	1003	-	721	72.1
+757
+Top 3.7%	Birkbeck, University of London	United Kingdom	47	214	-	172	926	72.1
+758
+Top 3.7%	Montana State University - Bozeman	USA	176	-	1428	-	718	72.1
+759
+Top 3.7%	Kitasato University	Japan	23	-	-	129	986	72.1
+760
+Top 3.7%	Augusta University	USA	177	-	-	-	722	72.1
+761
+Top 3.7%	Boğaziçi University	Turkey	5	-	468	-	739	72.1
+762
+Top 3.7%	University of Córdoba, Spain	Spain	23	-	-	-	724	72.1
+763
+Top 3.7%	Federal University of Paraná	Brazil	10	-	1426	-	726	72.1
+764
+Top 3.7%	University of Calabria	Italy	37	-	-	-	725	72.1
+765
+Top 3.7%	Niigata University	Japan	24	-	814	-	729	72.0
+766
+Top 3.7%	University of Castilla–La Mancha	Spain	24	-	-	-	727	72.0
+767
+Top 3.7%	University of Essex	United Kingdom	48	531	689	-	735	72.0
+768
+Top 3.7%	Isfahan University of Technology	Iran	5	-	-	-	732	72.0
+769
+Top 3.7%	Ain Shams University	Egypt	2	-	-	-	733	72.0
+770
+Top 3.7%	Tarbiat Modares University	Iran	6	-	-	-	734	72.0
+771
+Top 3.7%	Quaid-i-Azam University	Pakistan	2	-	-	-	736	72.0
+772
+Top 3.7%	Hangzhou Normal University	China	124	-	1637	-	737	72.0
+773
+Top 3.7%	China University of Petroleum-Beijing	China	125	-	739	-	745	72.0
+774
+Top 3.7%	University of Ioannina	Greece	4	-	-	-	738	72.0
+775
+Top 3.7%	Bangor University	United Kingdom	49	183	753	254	849	72.0
+776
+Top 3.8%	University of Shanghai for Science and Technology	China	126	-	-	-	740	72.0
+777
+Top 3.8%	University of Science, Malaysia	Malaysia	2	-	-	-	741	72.0
+778
+Top 3.8%	University of Lübeck	Germany	45	-	-	-	742	72.0
+779
+Top 3.8%	International School for Advanced Studies	Italy	38	-	-	-	743	71.9
+780
+Top 3.8%	Kaohsiung Medical University	Taiwan	10	-	-	-	746	71.9
+781
+Top 3.8%	University of Girona	Spain	25	-	-	-	747	71.9
+782
+Top 3.8%	Fujian Agriculture and Forestry University	China	127	-	-	-	748	71.9
+783
+Top 3.8%	University of Crete	Greece	5	-	-	-	749	71.9
+784
+Top 3.8%	Graduate School, GRINM	China	128	-	23	-	-	71.9
+785
+Top 3.8%	Istanbul Technical University	Turkey	6	-	915	-	754	71.9
+786
+Top 3.8%	Technical University of Braunschweig	Germany	46	486	1132	-	752	71.9
+787
+Top 3.8%	Amirkabir University of Technology	Iran	7	-	-	-	750	71.9
+788
+Top 3.8%	National University of Colombia	Colombia	1	-	870	-	757	71.9
+789
+Top 3.8%	China Pharmaceutical University	China	129	-	1071	-	755	71.9
+790
+Top 3.8%	Henan Normal University	China	130	-	-	-	751	71.9
+791
+Top 3.8%	Tokyo Metropolitan University	Japan	25	180	1187	-	785	71.9
+792
+Top 3.8%	University of Cyprus	Cyprus	1	-	-	-	753	71.9
+793
+Top 3.8%	Kunming University of Science and Technology	China	131	-	-	-	756	71.8
+794
+Top 3.8%	University of Maryland, Baltimore County	USA	178	-	-	238	858	71.8
+795
+Top 3.8%	Yanshan University	China	132	-	1189	-	759	71.8
+796
+Top 3.8%	University of Alcalá	Spain	26	-	1640	-	758	71.8
+797
+Top 3.9%	University of Debrecen	Hungary	4	-	-	-	760	71.8
+798
+Top 3.9%	Academy of Scientific & Innovative Research	India	9	-	-	-	761	71.8
+799
+Top 3.9%	Liverpool John Moores University	United Kingdom	50	-	-	-	762	71.8
+800
+Top 3.9%	University of Messina	Italy	39	-	-	-	763	71.8
+801
+Top 3.9%	Marche Polytechnic University	Italy	40	-	-	-	764	71.8
+802
+Top 3.9%	Centrale Lille Institut	France	39	-	85	-	1033	71.8
+803
+Top 3.9%	University of Rhode Island	USA	179	-	579	-	779	71.8
+804
+Top 3.9%	University of Idaho	USA	180	-	-	-	766	71.8
+805
+Top 3.9%	Zhejiang Normal University	China	133	-	-	-	769	71.8
+806
+Top 3.9%	University of Picardie Jules Verne	France	40	-	1489	-	770	71.8
+807
+Top 3.9%	Northumbria University	United Kingdom	51	-	882	-	777	71.7
+808
+Top 3.9%	Kangwon National University	South Korea	24	-	1676	-	771	71.7
+809
+Top 3.9%	University of North Carolina at Charlotte	USA	181	-	756	-	782	71.7
+810
+Top 3.9%	Kent State University	USA	182	-	-	-	772	71.7
+811
+Top 3.9%	University of Vigo	Spain	27	-	-	-	773	71.7
+812
+Top 3.9%	Putra University, Malaysia	Malaysia	3	-	1647	-	774	71.7
+813
+Top 3.9%	National Taiwan University of Science and Technology	Taiwan	11	-	647	-	789	71.7
+814
+Top 3.9%	University of Luxembourg	Luxembourg	1	-	-	-	775	71.7
+815
+Top 3.9%	Courtauld Institute of Art	United Kingdom	52	15	-	-	-	71.7
+816
+Top 3.9%	University of the Balearic Islands	Spain	28	-	-	-	776	71.7
+817
+Top 3.9%	Qatar University	Qatar	1	-	934	-	781	71.7
+818
+Top 4%	Taiyuan University of Technology	China	134	-	1429	-	778	71.7
+819
+Top 4%	Tokyo University of Science	Japan	26	298	748	-	796	71.7
+820
+Top 4%	National University of Malaysia (UKM)	Malaysia	4	-	-	-	780	71.7
+821
+Top 4%	University of Alaska Fairbanks	USA	183	394	813	-	792	71.6
+822
+Top 4%	Jean Monnet University	France	41	-	-	-	783	71.6
+823
+Top 4%	Panjab University	India	10	527	745	-	794	71.6
+824
+Top 4%	Carl von Ossietzky University of Oldenburg	Germany	47	-	-	-	784	71.6
+825
+Top 4%	University of Nevada, Las Vegas	USA	184	-	831	-	791	71.6
+826
+Top 4%	Northern Arizona University	USA	185	-	1060	-	787	71.6
+827
+Top 4%	Hunan Normal University	China	135	-	-	-	786	71.6
+828
+Top 4%	Dongguk University	South Korea	25	-	471	-	814	71.6
+829
+Top 4%	SUNY Downstate Medical Center	USA	186	-	-	150	1059	71.6
+830
+Top 4%	University of Patras	Greece	6	-	-	-	788	71.6
+831
+Top 4%	University of California, Merced	USA	187	-	-	-	790	71.6
+832
+Top 4%	Hasselt University	Belgium	8	-	812	-	797	71.6
+833
+Top 4%	University of Greifswald	Germany	48	-	-	260	855	71.6
+834
+Top 4%	Norwegian University of Life Sciences	Norway	5	-	1106	-	798	71.6
+835
+Top 4%	Murdoch University	Australia	25	-	1023	-	802	71.6
+836
+Top 4%	University of Brasília	Brazil	11	-	998	-	803	71.5
+837
+Top 4%	St. Petersburg Federal Research Center of the Russian Academy of Sciences	Russia	11	-	-	-	795	71.5
+838
+Top 4%	Tomsk State University	Russia	12	-	-	-	799	71.5
+839
+Top 4.1%	University of Technology, Malaysia	Malaysia	5	-	-	-	800	71.5
+840
+Top 4.1%	Juntendo University	Japan	27	-	-	-	801	71.5
+841
+Top 4.1%	Addis Ababa University	Ethiopia	1	497	-	188	976	71.5
+842
+Top 4.1%	Indian Institute of Technology Kanpur	India	11	-	392	-	832	71.5
+843
+Top 4.1%	Fujian Medical University	China	136	-	-	-	804	71.5
+844
+Top 4.1%	Graduate University for Advanced Studies	Japan	28	-	-	-	805	71.5
+845
+Top 4.1%	University of Concepción	Chile	3	-	-	-	806	71.5
+846
+Top 4.1%	Getúlio Vargas Foundation	Brazil	12	-	35	-	-	71.5
+847
+Top 4.1%	Gyeongsang National University	South Korea	26	-	-	-	807	71.5
+848
+Top 4.1%	Yunnan University	China	137	-	1649	-	808	71.5
+849
+Top 4.1%	Ohio University	USA	188	383	355	-	848	71.5
+850
+Top 4.1%	London Business School	United Kingdom	53	-	47	-	1589	71.5
+851
+Top 4.1%	Adam Mickiewicz University in Poznań	Poland	6	-	-	-	809	71.4
+852
+Top 4.1%	Budker Institute of Nuclear Physics of the Siberian Branch of the Russian Academy of Sciences	Russia	13	-	-	-	811	71.4
+853
+Top 4.1%	University of Alicante	Spain	29	-	-	-	812	71.4
+854
+Top 4.1%	Shandong Agricultural University	China	138	-	-	-	813	71.4
+855
+Top 4.1%	National Sun Yat-sen University	Taiwan	12	-	1184	-	816	71.4
+856
+Top 4.1%	Uniformed Services University of the Health Sciences	USA	189	-	-	-	815	71.4
+857
+Top 4.1%	Rio de Janeiro State University	Brazil	13	-	1257	-	818	71.4
+858
+Top 4.1%	Gwangju Institute of Science and Technology	South Korea	27	-	-	-	817	71.4
+859
+Top 4.1%	Cranfield University	United Kingdom	54	-	217	-	889	71.4
+860
+Top 4.2%	University of Montana	USA	190	259	-	-	827	71.4
+861
+Top 4.2%	University of Science and Technology, Korea	South Korea	28	-	-	-	820	71.4
+862
+Top 4.2%	Macau University of Science and Technology	China	139	-	549	-	842	71.4
+863
+Top 4.2%	University of Hohenheim	Germany	49	-	-	-	822	71.4
+864
+Top 4.2%	University of the Andes, Colombia	Colombia	2	-	517	-	847	71.4
+865
+Top 4.2%	University of Portsmouth	United Kingdom	55	-	1214	-	824	71.4
+866
+Top 4.2%	Nagasaki University	Japan	29	291	521	-	852	71.3
+867
+Top 4.2%	University of Brighton	United Kingdom	56	-	-	-	823	71.3
+868
+Top 4.2%	L.D. Landau Institute for Theoretical Physics of the Russian Academy of Sciences	Russia	14	27	-	213	-	71.3
+869
+Top 4.2%	North-West University	South Africa	7	-	1682	-	825	71.3
+870
+Top 4.2%	Nantong University	China	140	-	-	-	826	71.3
+871
+Top 4.2%	University of Insubria	Italy	41	-	-	-	828	71.3
+872
+Top 4.2%	University of Salento	Italy	42	-	-	-	829	71.3
+873
+Top 4.2%	Mansoura University	Egypt	3	-	-	-	830	71.3
+874
+Top 4.2%	All India Institute of Medical Sciences, New Delhi	India	12	-	-	-	831	71.3
+875
+Top 4.2%	University of Toledo	USA	191	-	-	-	833	71.3
+876
+Top 4.2%	Khalifa University	United Arab Emirates	1	-	-	-	834	71.3
+877
+Top 4.2%	Kindai University	Japan	30	-	-	-	835	71.3
+878
+Top 4.2%	National Centre for Nuclear Research	Poland	7	-	-	-	836	71.3
+879
+Top 4.2%	Open University, UK	United Kingdom	57	-	1710	-	837	71.3
+880
+Top 4.2%	Indian Institute of Technology Roorkee	India	13	-	331	-	878	71.3
+881
+Top 4.3%	Carlos III University of Madrid	Spain	30	-	-	-	838	71.2
+882
+Top 4.3%	Graz University of Technology	Austria	9	-	-	-	839	71.2
+883
+Top 4.3%	Toronto Metropolitan University	Canada	25	-	1677	-	840	71.2
+884
+Top 4.3%	Federal University of Pernambuco	Brazil	14	-	1266	-	841	71.2
+885
+Top 4.3%	Miami University	USA	192	-	108	-	1074	71.2
+886
+Top 4.3%	University of L'Aquila	Italy	43	-	-	-	844	71.2
+887
+Top 4.3%	Shahid Beheshti University of Medical Sciences	Iran	8	-	-	-	845	71.2
+888
+Top 4.3%	Sichuan Agricultural University	China	141	-	-	-	846	71.2
+889
+Top 4.3%	Hangzhou Dianzi University	China	142	-	1279	-	850	71.2
+890
+Top 4.3%	City, University of London	United Kingdom	58	535	582	-	865	71.2
+891
+Top 4.3%	Banaras Hindu University	India	14	293	676	-	869	71.2
+892
+Top 4.3%	Tokushima University	Japan	31	72	741	-	1029	71.2
+893
+Top 4.3%	Wroclaw Medical University	Poland	8	-	-	-	851	71.2
+894
+Top 4.3%	Chiang Mai University	Thailand	3	-	1672	-	853	71.2
+895
+Top 4.3%	Old Dominion University	USA	193	-	-	-	854	71.2
+896
+Top 4.3%	Xiangtan University	China	143	-	1008	-	860	71.1
+897
+Top 4.3%	Medical University of Warsaw	Poland	9	-	-	-	856	71.1
+898
+Top 4.3%	University of Split	Croatia	2	-	-	-	857	71.1
+899
+Top 4.3%	Fujian Normal University	China	144	-	-	-	859	71.1
+900
+Top 4.3%	University of Wrocław	Poland	10	482	1467	263	921	71.1
+901
+Top 4.3%	University of Denver	USA	194	-	199	-	948	71.1
+902
+Top 4.4%	Hebei University of Technology	China	145	-	1381	-	861	71.1
+903
+Top 4.4%	Homi Bhabha National Institute	India	15	-	-	-	862	71.1
+904
+Top 4.4%	Hainan University	China	146	-	-	-	863	71.1
+905
+Top 4.4%	University of Wuppertal	Germany	50	-	-	-	864	71.1
+906
+Top 4.4%	University of Reims Champagne-Ardenne	France	42	-	997	-	868	71.1
+907
+Top 4.4%	University of Tours	France	43	165	-	-	895	71.1
+908
+Top 4.4%	Claremont McKenna College	USA	195	-	36	-	-	71.1
+909
+Top 4.4%	Inje University	South Korea	29	-	-	-	867	71.1
+910
+Top 4.4%	Peter the Great St. Petersburg Polytechnic University	Russia	15	514	920	-	874	71.1
+911
+Top 4.4%	University of Tabriz	Iran	9	-	-	-	870	71.1
+912
+Top 4.4%	Edith Cowan University	Australia	26	-	1282	-	871	71.0
+913
+Top 4.4%	Gachon University	South Korea	30	-	-	-	873	71.0
+914
+Top 4.4%	Alexandria University	Egypt	4	408	1711	-	877	71.0
+915
+Top 4.4%	Keele University	United Kingdom	59	-	1427	-	875	71.0
+916
+Top 4.4%	Chungbuk National University	South Korea	31	-	1596	-	876	71.0
+917
+Top 4.4%	New Jersey Institute of Technology	USA	196	428	643	-	886	71.0
+918
+Top 4.4%	Wesleyan University	USA	197	-	55	-	1690	71.0
+919
+Top 4.4%	Norwegian School of Economics	Norway	6	473	40	-	-	71.0
+920
+Top 4.4%	Sorbonne Paris Nord University	France	44	-	-	-	879	71.0
+921
+Top 4.4%	Iran University of Science and Technology	Iran	10	-	-	-	880	71.0
+922
+Top 4.4%	University of Siegen	Germany	51	-	1612	-	881	71.0
+923
+Top 4.5%	Institute for Nuclear Research of the Russian Academy of Sciences	Russia	16	-	-	-	882	71.0
+924
+Top 4.5%	Qufu Normal University	China	147	-	-	-	883	71.0
+925
+Top 4.5%	University of Limerick	Ireland	5	-	596	-	893	71.0
+926
+Top 4.5%	New Mexico State University	USA	198	456	673	-	890	71.0
+927
+Top 4.5%	Jawaharlal Nehru Centre for Advanced Scientific Research	India	16	-	-	117	1338	71.0
+928
+Top 4.5%	Shizuoka University	Japan	32	-	975	105	1372	70.9
+929
+Top 4.5%	Makerere University	Uganda	1	-	1520	-	884	70.9
+930
+Top 4.5%	Singapore University of Technology and Design	Singapore	3	-	-	-	885	70.9
+931
+Top 4.5%	Northern Illinois University	USA	199	-	776	-	899	70.9
+932
+Top 4.5%	Polytechnic University of Bari	Italy	44	-	-	-	887	70.9
+933
+Top 4.5%	University of Basilicata	Italy	45	-	-	-	888	70.9
+934
+Top 4.5%	University of Orléans	France	45	-	1632	-	891	70.9
+935
+Top 4.5%	Meijo University	Japan	33	-	-	36	-	70.9
+936
+Top 4.5%	Jaume I University	Spain	31	-	-	-	892	70.9
+937
+Top 4.5%	Gabriele d’Annunzio University	Italy	46	-	-	-	894	70.9
+938
+Top 4.5%	Aston University	United Kingdom	60	-	567	-	908	70.9
+939
+Top 4.5%	Shanghai Normal University	China	148	-	1395	-	896	70.9
+940
+Top 4.5%	Australian Catholic University	Australia	27	-	1661	-	897	70.9
+941
+Top 4.5%	King Juan Carlos University	Spain	32	-	-	-	898	70.9
+942
+Top 4.5%	Guizhou University	China	149	-	1121	-	900	70.9
+943
+Top 4.5%	Missouri University of Science and Technology	USA	200	-	394	-	940	70.9
+944
+Top 4.6%	Shantou University	China	150	-	-	-	901	70.8
+945
+Top 4.6%	Capital Normal University	China	151	-	937	-	906	70.8
+946
+Top 4.6%	University of Valladolid	Spain	33	-	1166	-	903	70.8
+947
+Top 4.6%	Federal University of Ceará	Brazil	15	-	1523	-	902	70.8
+948
+Top 4.6%	Tunis El Manar University	Tunisia	1	-	-	-	904	70.8
+949
+Top 4.6%	Federal University of Rio Grande do Norte	Brazil	16	-	-	-	905	70.8
+950
+Top 4.6%	Michigan Technological University	USA	201	349	849	-	918	70.8
+951
+Top 4.6%	Jawaharlal Nehru University	India	17	508	-	134	1328	70.8
+952
+Top 4.6%	ITMO University	Russia	17	-	-	-	907	70.8
+953
+Top 4.6%	Shanghai University of Finance and Economics	China	152	-	98	-	1236	70.8
+954
+Top 4.6%	Paul Valéry University	France	46	-	-	-	909	70.8
+955
+Top 4.6%	Chang'an University	China	153	-	1294	-	911	70.8
+956
+Top 4.6%	Ege University	Turkey	7	-	-	-	910	70.8
+957
+Top 4.6%	University of the Republic, Uruguay	Uruguay	1	-	1706	-	912	70.8
+958
+Top 4.6%	Federal University of São Carlos	Brazil	17	-	-	-	913	70.8
+959
+Top 4.6%	Villanova University	USA	202	148	136	-	1197	70.8
+960
+Top 4.6%	Shiraz University	Iran	11	-	-	-	914	70.7
+961
+Top 4.6%	Federal University of Pelotas	Brazil	18	-	-	-	915	70.7
+962
+Top 4.6%	Zhejiang Sci-Tech University	China	154	-	1364	-	916	70.7
+963
+Top 4.6%	Hubei University	China	155	-	1436	-	917	70.7
+964
+Top 4.6%	Aberystwyth University	United Kingdom	61	-	921	218	1105	70.7
+965
+Top 4.7%	Federal University of Viçosa	Brazil	19	-	-	-	919	70.7
+966
+Top 4.7%	Indian Institute of Technology Guwahati	India	18	-	-	-	920	70.7
+967
+Top 4.7%	Fluminense Federal University	Brazil	20	-	980	-	925	70.7
+968
+Top 4.7%	Qilu University of Technology	China	156	-	1631	-	922	70.7
+969
+Top 4.7%	Yerevan Physics Institute	Armenia	1	-	-	-	923	70.7
+970
+Top 4.7%	Hallym University	South Korea	32	-	-	-	924	70.7
+971
+Top 4.7%	University of Stirling	United Kingdom	62	-	621	-	941	70.7
+972
+Top 4.7%	Portland State University	USA	203	-	416	-	952	70.7
+973
+Top 4.7%	Nihon University	Japan	34	550	1291	-	930	70.7
+974
+Top 4.7%	National University of Córdoba	Argentina	3	-	-	-	928	70.7
+975
+Top 4.7%	Belarusian State University	Belarus	1	-	-	-	929	70.7
+976
+Top 4.7%	East Carolina University	USA	204	-	862	-	938	70.6
+977
+Top 4.7%	Federico Santa María Technical University	Chile	4	-	1039	-	934	70.6
+978
+Top 4.7%	Ferdowsi University of Mashhad	Iran	12	-	-	-	931	70.6
+979
+Top 4.7%	Marmara University	Turkey	8	-	-	-	932	70.6
+980
+Top 4.7%	University of Sassari	Italy	47	-	-	-	933	70.6
+981
+Top 4.7%	Bucknell University	USA	205	223	50	-	-	70.6
+982
+Top 4.7%	Tianjin University of Technology	China	157	-	1640	-	935	70.6
+983
+Top 4.7%	Tiangong University	China	158	-	-	-	936	70.6
+984
+Top 4.7%	Babeș-Bolyai University	Romania	1	-	-	-	937	70.6
+985
+Top 4.7%	Nanjing University of Chinese Medicine	China	159	-	-	-	939	70.6
+986
+Top 4.8%	Johannes Kepler University Linz	Austria	10	-	854	-	942	70.6
+987
+Top 4.8%	University of Windsor	Canada	26	-	201	-	1049	70.6
+988
+Top 4.8%	Budapest University of Technology and Economics	Hungary	5	212	1302	-	953	70.6
+989
+Top 4.8%	University of Memphis	USA	206	-	408	-	973	70.6
+990
+Top 4.8%	Cheung Kong Graduate School of Business	China	160	-	30	-	-	70.6
+991
+Top 4.8%	Oberlin College	USA	207	26	-	-	-	70.6
+992
+Top 4.8%	University of A Coruña	Spain	34	-	1267	-	945	70.6
+993
+Top 4.8%	Tokai University	Japan	35	-	-	-	943	70.5
+994
+Top 4.8%	Southern Illinois University Carbondale	USA	208	-	1615	-	946	70.5
+995
+Top 4.8%	Northeast Forestry University	China	161	-	-	-	947	70.5
+996
+Top 4.8%	Institut national de la recherche scientifique	Canada	27	-	-	-	949	70.5
+997
+Top 4.8%	North Dakota State University	USA	209	273	923	-	968	70.5
+998
+Top 4.8%	Federal University of Bahia	Brazil	21	-	1192	-	951	70.5
+999
+Top 4.8%	Medical University of Lodz	Poland	11	-	-	-	950	70.5
+1000
+Top 4.8%	Northeast Agricultural University	China	162	-	1107	-	955	70.5
+1001
+Top 4.8%	University of Akron	USA	210	-	702	-	970	70.5
+1002
+Top 4.8%	Wuhan University of Science and Technology	China	163	-	881	-	963	70.5
+1003
+Top 4.8%	Nicolaus Copernicus University	Poland	12	-	-	-	954	70.5
+1004
+Top 4.8%	University of Kaiserslautern-Landau	Germany	52	453	1325	-	957	70.5
+1005
+Top 4.8%	Dalian Maritime University	China	164	-	1069	-	959	70.5
+1006
+Top 4.8%	Aga Khan University	Pakistan	3	-	-	-	956	70.5
+1007
+Top 4.9%	Mohammed V University	Morocco	1	-	1697	-	958	70.5
+1008
+Top 4.9%	University of Hyogo	Japan	36	-	-	105	1549	70.5
+1009
+Top 4.9%	Mario Negri Institute for Pharmacological Research	Italy	48	-	-	-	960	70.5
+1010
+Top 4.9%	Benemérita Autonomous University of Puebla	Mexico	4	-	-	-	961	70.4
+1011
+Top 4.9%	University of Extremadura	Spain	35	-	-	-	962	70.4
+1012
+Top 4.9%	University of Antioquia	Colombia	3	-	1284	-	965	70.4
+1013
+Top 4.9%	Royal College of Surgeons in Ireland	Ireland	6	-	-	-	964	70.4
+1014
+Top 4.9%	Federal University of Santa Maria	Brazil	22	-	1078	-	969	70.4
+1015
+Top 4.9%	Gazi University	Turkey	9	-	1312	-	967	70.4
+1016
+Top 4.9%	American University	USA	211	-	382	-	1009	70.4
+1017
+Top 4.9%	University of Texas at El Paso	USA	212	-	973	-	974	70.4
+1018
+Top 4.9%	Ulster University	United Kingdom	63	-	1361	-	971	70.4
+1019
+Top 4.9%	University of Seoul	South Korea	33	-	-	-	972	70.4
+1020
+Top 4.9%	Sofia University	Bulgaria	1	145	-	-	1027	70.4
+1021
+Top 4.9%	University of Mannheim	Germany	53	-	733	-	984	70.4
+1022
+Top 4.9%	Miguel Hernández University of Elche	Spain	36	-	-	-	975	70.4
+1023
+Top 4.9%	INSA Toulouse	France	47	-	669	-	991	70.4
+1024
+Top 4.9%	Hebei University	China	165	-	951	-	980	70.4
+1025
+Top 4.9%	Auckland University of Technology	New Zealand	6	-	-	-	977	70.4
+1026
+Top 4.9%	Gifu University	Japan	37	-	675	-	993	70.4
+1027
+Top 4.9%	Polytechnic University of Bucharest	Romania	2	-	-	-	978	70.3
+1028
+Top 5%	University of Mons	Belgium	9	-	-	-	979	70.3
+1029
+Top 5%	Copenhagen Business School	Denmark	6	-	183	-	1138	70.3
+1030
+Top 5%	Duy Tân University	Vietnam	1	-	-	-	981	70.3
+1031
+Top 5%	University of Southern Queensland	Australia	28	-	1148	-	985	70.3
+1032
+Top 5%	Çukurova University	Turkey	10	-	1560	-	982	70.3
+1033
+Top 5%	Postgraduate Institute of Medical Education and Research	India	19	-	-	-	983	70.3
+1034
+Top 5%	Colgate University	USA	213	-	51	-	-	70.3
+1035
+Top 5%	Babson College	USA	214	-	39	-	-	70.3
+1036
+Top 5%	Hunan Agricultural University	China	166	-	-	-	987	70.3
+1037
+Top 5%	Manchester Metropolitan University	United Kingdom	64	-	896	-	994	70.3
+1038
+Top 5%	Victoria University	Australia	29	-	-	-	988	70.3
+1039
+Top 5%	Paracelsus Medical University	Austria	11	-	-	-	989	70.3
+1040
+Top 5%	Wenzhou University	China	167	-	-	-	990	70.3
+1041
+Top 5%	Brazilian Center for Research in Physics (CBPF)	Brazil	23	-	-	-	992	70.3
+1042
+Top 5%	Wrocław University of Science and Technology	Poland	13	-	947	-	997	70.3
+1043
+Top 5%	Institute of Science and Technology Austria	Austria	12	-	-	202	1251	70.3
+1044
+Top 5%	SUNY Upstate Medical University	USA	215	-	-	-	996	70.3
+1045
+Top 5%	Koç University	Turkey	11	-	-	-	998	70.2
+1046
+Top 5%	Changsha University of Science and Technology	China	168	-	1668	-	999	70.2
+1047
+Top 5%	Ivane Javakhishvili Tbilisi State University	Georgia	1	-	-	-	1000	70.2
+1048
+Top 5%	Xi'an University of Technology	China	169	-	1112	-	1004	70.2
+1049
+Top 5.1%	Kazan Federal University	Russia	18	-	1687	-	1001	70.2
+1050
+Top 5.1%	University of Regina	Canada	28	-	1581	-	1003	70.2
+1051
+Top 5.1%	University of Naples Parthenope	Italy	49	-	-	-	1005	70.2
+1052
+Top 5.1%	Ramon Llull University	Spain	37	-	257	281	1121	70.2
+1053
+Top 5.1%	Dalian Medical University	China	170	-	-	-	1006	70.2
+1054
+Top 5.1%	Zhejiang A&F University	China	171	-	-	-	1007	70.2
+1055
+Top 5.1%	University of Cádiz	Spain	38	-	-	-	1008	70.2
+1056
+Top 5.1%	Southwestern University of Finance and Economics	China	172	-	175	-	1189	70.2
+1057
+Top 5.1%	Vellore Institute of Technology	India	20	-	-	-	1010	70.2
+1058
+Top 5.1%	Worcester Polytechnic Institute	USA	216	-	152	-	1231	70.2
+1059
+Top 5.1%	University of New England, Australia	Australia	30	-	752	-	1018	70.2
+1060
+Top 5.1%	Luleå University of Technology	Sweden	13	-	-	-	1011	70.2
+1061
+Top 5.1%	Florida Atlantic University	USA	217	-	-	-	1012	70.2
+1062
+Top 5.1%	Ritsumeikan University	Japan	38	-	658	-	1025	70.1
+1063
+Top 5.1%	Henan University of Science and Technology	China	173	-	1512	-	1013	70.1
+1064
+Top 5.1%	Charles Darwin University	Australia	31	-	-	-	1014	70.1
+1065
+Top 5.1%	Okinawa Institute of Science and Technology	Japan	39	-	-	235	1192	70.1
+1066
+Top 5.1%	University of Thessaly	Greece	7	-	-	-	1015	70.1
+1067
+Top 5.1%	Bilkent University	Turkey	12	-	960	-	1019	70.1
+1068
+Top 5.1%	Ehime University	Japan	40	-	1197	-	1017	70.1
+1069
+Top 5.1%	Tôn Đức Thắng University	Vietnam	2	-	-	-	1016	70.1
+1070
+Top 5.2%	Nottingham Trent University	United Kingdom	65	-	693	-	1038	70.1
+1071
+Top 5.2%	Federal University of Juiz de Fora	Brazil	24	-	1579	-	1020	70.1
+1072
+Top 5.2%	Pomona College	USA	218	33	991	276	-	70.1
+1073
+Top 5.2%	Carol Davila University of Medicine and Pharmacy	Romania	3	-	-	-	1021	70.1
+1074
+Top 5.2%	Federal University of ABC	Brazil	25	-	-	-	1022	70.1
+1075
+Top 5.2%	Southwest University of Science and Technology	China	174	-	1517	-	1024	70.1
+1076
+Top 5.2%	National Taiwan Normal University	Taiwan	13	-	1269	-	1026	70.1
+1077
+Top 5.2%	Sanford Burnham Prebys Medical Discovery Institute	USA	219	-	-	-	1023	70.1
+1078
+Top 5.2%	University of Toyama	Japan	41	-	688	-	1045	70.1
+1079
+Top 5.2%	Monterrey Institute of Technology and Higher Education	Mexico	5	-	349	-	1092	70.1
+1080
+Top 5.2%	Medical University of Gdańsk	Poland	14	-	-	-	1028	70.0
+1081
+Top 5.2%	Fordham University	USA	220	-	238	-	1145	70.0
+1082
+Top 5.2%	Iran University of Medical Sciences	Iran	13	-	-	-	1030	70.0
+1083
+Top 5.2%	University of Ibadan	Nigeria	1	-	-	-	1031	70.0
+1084
+Top 5.2%	VetAgro Sup	France	48	-	-	-	1032	70.0
+1085
+Top 5.2%	Federal University of Goiás	Brazil	26	-	-	-	1034	70.0
+1086
+Top 5.2%	Rochester Institute of Technology	USA	221	-	1091	-	1037	70.0
+1087
+Top 5.2%	Czech University of Life Sciences Prague	Czech Republic	5	-	-	-	1035	70.0
+1088
+Top 5.2%	V.A. Engelhardt Institute of Molecular Biology of the Russian Academy of Sciences	Russia	19	46	-	220	-	70.0
+1089
+Top 5.2%	Hebei Medical University	China	175	-	1544	-	1036	70.0
+1090
+Top 5.2%	University of Canberra	Australia	32	-	1559	-	1039	70.0
+1091
+Top 5.3%	Liverpool School of Tropical Medicine	United Kingdom	66	-	-	-	1040	70.0
+1092
+Top 5.3%	National Taipei University of Technology	Taiwan	14	-	657	-	1061	70.0
+1093
+Top 5.3%	Tokyo Women's Medical University	Japan	42	-	-	-	1041	70.0
+1094
+Top 5.3%	Huaqiao University	China	176	-	-	-	1042	70.0
+1095
+Top 5.3%	Hunter College	USA	222	149	1357	-	1114	70.0
+1096
+Top 5.3%	Jichi Medical University	Japan	43	-	-	-	1043	70.0
+1097
+Top 5.3%	Tokyo University of Agriculture and Technology	Japan	44	-	-	-	1044	70.0
+1098
+Top 5.3%	Jiangsu Normal University	China	177	-	1466	-	1046	69.9
+1099
+Top 5.3%	Changzhou University	China	178	-	1440	-	1047	69.9
+1100
+Top 5.3%	Asia University, Taiwan	Taiwan	15	-	-	-	1048	69.9
+1101
+Top 5.3%	Assiut University	Egypt	5	-	1698	-	1050	69.9
+1102
+Top 5.3%	Jiangxi Normal University	China	179	-	1532	-	1051	69.9
+1103
+Top 5.3%	University of Hertfordshire	United Kingdom	67	-	-	-	1052	69.9
+1104
+Top 5.3%	Jiangsu University of Science and Technology	China	180	-	-	-	1053	69.9
+1105
+Top 5.3%	Guangxi Medical University	China	181	-	-	-	1054	69.9
+1106
+Top 5.3%	Zagazig University	Egypt	6	-	-	-	1055	69.9
+1107
+Top 5.3%	University of South Bohemia	Czech Republic	6	-	-	-	1056	69.9
+1108
+Top 5.3%	University of New Brunswick	Canada	29	-	818	-	1068	69.9
+1109
+Top 5.3%	Sechenov University	Russia	20	-	1614	-	1058	69.9
+1110
+Top 5.3%	University of Kassel	Germany	54	-	-	-	1057	69.9
+1111
+Top 5.3%	Shahid Beheshti University	Iran	14	-	-	-	1060	69.9
+1112
+Top 5.4%	Shaanxi University of Science and Technology	China	182	-	749	-	1075	69.9
+1113
+Top 5.4%	United Arab Emirates University	United Arab Emirates	2	-	1602	-	1062	69.9
+1114
+Top 5.4%	Indian Institute of Science Education and Research, Pune	India	21	-	-	-	1063	69.9
+1115
+Top 5.4%	Yıldız Technical University	Turkey	13	-	1006	-	1070	69.9
+1116
+Top 5.4%	Southwest Petroleum University	China	183	-	1042	-	1069	69.9
+1117
+Top 5.4%	Shanghai University of Traditional Chinese Medicine	China	184	-	-	-	1064	69.8
+1118
+Top 5.4%	Ural Federal University	Russia	21	-	1217	-	1067	69.8
+1119
+Top 5.4%	Soonchunhyang University	South Korea	34	-	-	-	1065	69.8
+1120
+Top 5.4%	Yamagata University	Japan	45	-	-	-	1066	69.8
+1121
+Top 5.4%	Chuo University	Japan	46	-	76	-	1777	69.8
+1122
+Top 5.4%	University of Massachusetts Lowell	USA	223	-	840	-	1079	69.8
+1123
+Top 5.4%	University of Lleida	Spain	39	-	-	-	1071	69.8
+1124
+Top 5.4%	Pepperdine University	USA	224	108	99	170	-	69.8
+1125
+Top 5.4%	Skolkovo Institute of Science and Technology	Russia	22	-	-	-	1072	69.8
+1126
+Top 5.4%	University of Novi Sad	Serbia	2	-	-	-	1073	69.8
+1127
+Top 5.4%	University of the Free State	South Africa	8	-	-	-	1076	69.8
+1128
+Top 5.4%	École nationale supérieure de chimie de Montpellier	France	49	-	-	-	1077	69.8
+1129
+Top 5.4%	Cadi Ayyad University	Morocco	2	-	-	-	1078	69.8
+1130
+Top 5.4%	Paderborn University	Germany	55	-	1455	-	1080	69.8
+1131
+Top 5.4%	Medical University of Silesia	Poland	15	-	-	-	1081	69.8
+1132
+Top 5.4%	Marquette University	USA	225	-	242	-	1190	69.8
+1133
+Top 5.5%	USI - University of Italian-speaking Switzerland	Switzerland	11	-	-	-	1082	69.8
+1134
+Top 5.5%	Dublin City University	Ireland	7	-	769	-	1090	69.8
+1135
+Top 5.5%	University of Calcutta	India	22	542	636	255	1220	69.7
+1136
+Top 5.5%	Creighton University	USA	226	-	-	-	1083	69.7
+1137
+Top 5.5%	Lappeenranta University of Technology	Finland	8	-	732	-	1096	69.7
+1138
+Top 5.5%	Charles Sturt University	Australia	33	-	1347	-	1084	69.7
+1139
+Top 5.5%	Toho University	Japan	47	-	-	-	1085	69.7
+1140
+Top 5.5%	Sogang University	South Korea	35	-	535	-	1117	69.7
+1141
+Top 5.5%	University of Sfax	Tunisia	2	-	-	-	1086	69.7
+1142
+Top 5.5%	University of North Carolina at Greensboro	USA	227	-	-	-	1087	69.7
+1143
+Top 5.5%	Åbo Akademi University	Finland	9	-	-	-	1088	69.7
+1144
+Top 5.5%	University of Bucharest	Romania	4	357	-	-	1094	69.7
+1145
+Top 5.5%	Andrés Bello University	Chile	5	-	1693	-	1089	69.7
+1146
+Top 5.5%	Kagoshima University	Japan	48	-	852	-	1100	69.7
+1147
+Top 5.5%	University of Salzburg	Austria	13	-	716	-	1108	69.7
+1148
+Top 5.5%	Dankook University	South Korea	36	-	1255	-	1091	69.7
+1149
+Top 5.5%	Pablo de Olavide University	Spain	40	-	-	-	1093	69.7
+1150
+Top 5.5%	Heilongjiang University	China	185	-	1531	-	1095	69.7
+1151
+Top 5.5%	Wuhan Institute of Technology	China	186	-	-	-	1097	69.7
+1152
+Top 5.5%	Teikyo University	Japan	49	-	-	-	1098	69.7
+1153
+Top 5.5%	University of Agriculture Faisalabad	Pakistan	4	-	-	-	1099	69.7
+1154
+Top 5.6%	University of Western Cape	South Africa	9	-	-	-	1102	69.6
+1155
+Top 5.6%	Henan Polytechnic University	China	187	-	1254	-	1104	69.6
+1156
+Top 5.6%	Gunma University	Japan	50	-	-	-	1103	69.6
+1157
+Top 5.6%	Daegu Gyeongbuk Institute of Science and Technology	South Korea	37	-	-	-	1106	69.6
+1158
+Top 5.6%	Tomsk Polytechnic University	Russia	23	-	-	-	1107	69.6
+1159
+Top 5.6%	China University of Mining and Technology-Beijing	China	188	-	1259	-	1109	69.6
+1160
+Top 5.6%	Henan Agricultural University	China	189	-	1280	-	1110	69.6
+1161
+Top 5.6%	United States Naval Academy	USA	228	62	178	-	1921	69.6
+1162
+Top 5.6%	National University of Sciences and Technology	Pakistan	5	-	-	-	1111	69.6
+1163
+Top 5.6%	Pukyong National University	South Korea	38	-	-	-	1112	69.6
+1164
+Top 5.6%	Jadavpur University	India	23	-	1155	-	1116	69.6
+1165
+Top 5.6%	Anhui Normal University	China	190	-	-	-	1113	69.6
+1166
+Top 5.6%	University of Maribor	Slovenia	2	-	-	-	1115	69.6
+1167
+Top 5.6%	University of Waikato	New Zealand	7	-	715	-	1131	69.6
+1168
+Top 5.6%	Xuzhou Medical University	China	191	-	-	-	1118	69.6
+1169
+Top 5.6%	University of Jaén	Spain	41	-	-	-	1119	69.6
+1170
+Top 5.6%	Coventry University	United Kingdom	68	-	1161	-	1123	69.6
+1171
+Top 5.6%	Autonomous University of San Luis Potosí	Mexico	6	-	-	-	1120	69.6
+1172
+Top 5.6%	University of Upper Alsace	France	50	-	-	-	1122	69.6
+1173
+Top 5.6%	Xinjiang University	China	192	-	1344	-	1124	69.5
+1174
+Top 5.6%	University of Urbino	Italy	50	-	1263	-	1126	69.5
+1175
+Top 5.7%	Dokuz Eylül University	Turkey	14	-	-	-	1125	69.5
+1176
+Top 5.7%	University of Chemistry and Technology, Prague	Czech Republic	7	-	-	-	1127	69.5
+1177
+Top 5.7%	National Institute of Public Health (INSP)	Mexico	7	-	-	-	1128	69.5
+1178
+Top 5.7%	Loma Linda University	USA	229	-	-	-	1129	69.5
+1179
+Top 5.7%	University of South China	China	193	-	873	-	1140	69.5
+1180
+Top 5.7%	Sant'Anna School of Advanced Studies	Italy	51	-	-	-	1130	69.5
+1181
+Top 5.7%	Manipal Academy of Higher Education	India	24	-	1025	-	1134	69.5
+1182
+Top 5.7%	Khon Kaen University	Thailand	4	-	-	-	1132	69.5
+1183
+Top 5.7%	Hassan II University of Casablanca	Morocco	3	-	-	-	1133	69.5
+1184
+Top 5.7%	University of Augsburg	Germany	56	-	1432	-	1137	69.5
+1185
+Top 5.7%	Anna University	India	25	554	1558	-	1135	69.5
+1186
+Top 5.7%	National Defense Medical Center	Taiwan	16	-	-	-	1136	69.5
+1187
+Top 5.7%	University of Pécs	Hungary	6	-	-	-	1139	69.5
+1188
+Top 5.7%	Chongqing University of Posts and Telecommunications	China	194	-	-	-	1141	69.5
+1189
+Top 5.7%	Nagoya City University	Japan	51	-	886	-	1154	69.5
+1190
+Top 5.7%	University of Texas Rio Grande Valley	USA	230	-	-	-	1142	69.5
+1191
+Top 5.7%	Kyoto Prefectural University of Medicine	Japan	52	-	-	-	1143	69.5
+1192
+Top 5.7%	Bournemouth University	United Kingdom	69	-	1591	-	1144	69.5
+1193
+Top 5.7%	University of Veterinary Medicine, Vienna	Austria	14	-	-	-	1146	69.4
+1194
+Top 5.7%	University of Gdańsk	Poland	16	-	1056	-	1151	69.4
+1195
+Top 5.7%	Gran Sasso Science Institute	Italy	52	-	-	-	1147	69.4
+1196
+Top 5.8%	Mie University	Japan	53	-	-	-	1148	69.4
+1197
+Top 5.8%	Mashhad University of Medical Sciences	Iran	15	-	-	-	1149	69.4
+1198
+Top 5.8%	Metropolitan Autonomous University	Mexico	8	-	1684	-	1150	69.4
+1199
+Top 5.8%	University of Technology of Belfort-Montbéliard	France	51	-	-	-	1152	69.4
+1200
+Top 5.8%	Florida Institute of Technology	USA	231	-	906	-	1159	69.4
+1201
+Top 5.8%	Istanbul University-Cerrahpaşa	Turkey	15	-	-	-	1153	69.4
+1202
+Top 5.8%	University of Évry Val d'Essonne	France	52	-	-	-	1155	69.4
+1203
+Top 5.8%	Poznan University of Medical Sciences	Poland	17	-	-	-	1156	69.4
+1204
+Top 5.8%	Institute of Mathematics of the National Academy of Sciences of Ukraine	Ukraine	1	28	-	-	-	69.4
+1205
+Top 5.8%	University of the Punjab	Pakistan	6	467	1714	-	1158	69.4
+1206
+Top 5.8%	Guangzhou University of Chinese Medicine	China	195	-	-	-	1157	69.4
+1207
+Top 5.8%	Brno University of Technology	Czech Republic	8	-	-	-	1160	69.4
+1208
+Top 5.8%	Liaocheng University	China	196	-	-	-	1161	69.4
+1209
+Top 5.8%	Federal University of Espírito Santo	Brazil	27	521	-	-	1162	69.4
+1210
+Top 5.8%	South Dakota State University	USA	232	270	-	-	1180	69.4
+1211
+Top 5.8%	Humanitas University	Italy	53	-	-	-	1163	69.4
+1212
+Top 5.8%	Fujita Health University	Japan	54	-	1354	-	1164	69.3
+1213
+Top 5.8%	Brandenburg University of Technology	Germany	57	-	1252	-	1165	69.3
+1214
+Top 5.8%	University of Ghana	Ghana	1	-	1694	-	1166	69.3
+1215
+Top 5.8%	Conservatoire national des arts et métiers	France	53	-	1511	-	1167	69.3
+1216
+Top 5.8%	Gaziantep University	Turkey	16	-	-	-	1168	69.3
+1217
+Top 5.9%	Jikei University	Japan	55	-	-	-	1169	69.3
+1218
+Top 5.9%	Guangxi Normal University	China	197	-	-	-	1170	69.3
+1219
+Top 5.9%	University of the West of England, Bristol	United Kingdom	70	539	-	-	1171	69.3
+1220
+Top 5.9%	Wilfrid Laurier University	Canada	30	-	534	-	1202	69.3
+1221
+Top 5.9%	Santa Clara University	USA	233	-	102	-	1684	69.3
+1222
+Top 5.9%	IMT Atlantique	France	54	-	-	-	1172	69.3
+1223
+Top 5.9%	Anhui Agricultural University	China	198	-	-	-	1173	69.3
+1224
+Top 5.9%	Nippon Medical School	Japan	56	-	-	-	1174	69.3
+1225
+Top 5.9%	Indian Agricultural Research Institute	India	26	80	1202	-	1443	69.3
+1226
+Top 5.9%	Yamaguchi University	Japan	57	-	1526	-	1175	69.3
+1227
+Top 5.9%	Federal University of Paraíba	Brazil	28	-	-	-	1176	69.3
+1228
+Top 5.9%	Vietnam National University, Hanoi	Vietnam	3	-	1535	-	1177	69.3
+1229
+Top 5.9%	Chengdu University of Technology	China	199	-	1658	-	1178	69.3
+1230
+Top 5.9%	Magna Graecia University of Catanzaro	Italy	54	-	-	-	1179	69.3
+1231
+Top 5.9%	New York Medical College	USA	234	-	-	-	1181	69.3
+1232
+Top 5.9%	University of Las Palmas de Gran Canaria	Spain	42	-	-	-	1182	69.2
+1233
+Top 5.9%	Tokyo Medical University	Japan	58	-	-	-	1183	69.2
+1234
+Top 5.9%	Guilin University of Electronic Technology	China	200	-	-	-	1184	69.2
+1235
+Top 5.9%	United States Military Academy	USA	235	-	59	-	-	69.2
+1236
+Top 5.9%	Northwest Normal University	China	201	-	-	-	1185	69.2
+1237
+Top 6%	Tanta University	Egypt	7	-	-	-	1186	69.2
+1238
+Top 6%	Howard University	USA	236	-	-	-	1187	69.2
+1239
+Top 6%	Manhattan College	USA	237	-	114	-	1613	69.2
+1240
+Top 6%	École nationale vétérinaire d'Alfort	France	55	-	84	-	1849	69.2
+1241
+Top 6%	Nara Institute of Science and Technology	Japan	59	-	-	-	1188	69.2
+1242
+Top 6%	Aligarh Muslim University	India	27	-	1679	-	1191	69.2
+1243
+Top 6%	Keimyung University	South Korea	39	-	1662	-	1193	69.2
+1244
+Top 6%	Brock University	Canada	31	-	-	-	1194	69.2
+1245
+Top 6%	Hamad Bin Khalifa University	Qatar	2	-	-	-	1195	69.2
+1246
+Top 6%	China Three Gorges University	China	202	-	1206	-	1196	69.2
+1247
+Top 6%	Xi'an University of Architecture and Technology	China	203	-	958	-	1204	69.2
+1248
+Top 6%	ESSEC Business School	France	56	-	64	-	-	69.2
+1249
+Top 6%	Chemnitz University of Technology	Germany	58	-	1547	-	1198	69.2
+1250
+Top 6%	Singapore Management University	Singapore	4	-	-	-	1199	69.2
+1251
+Top 6%	University of Neuchâtel	Switzerland	12	-	-	-	1200	69.2
+1252
+Top 6%	Qingdao Agricultural University	China	204	-	-	-	1201	69.1
+1253
+Top 6%	University of Sharjah	United Arab Emirates	3	-	-	-	1203	69.1
+1254
+Top 6%	Federal University of Pará	Brazil	29	-	-	-	1205	69.1
+1255
+Top 6%	Louisiana Tech University	USA	238	-	335	-	1295	69.1
+1256
+Top 6%	Federal University of Lavras	Brazil	30	-	-	-	1206	69.1
+1257
+Top 6%	Shanghai Ocean University	China	205	-	-	-	1207	69.1
+1258
+Top 6.1%	Prince of Songkla University	Thailand	5	-	-	-	1208	69.1
+1259
+Top 6.1%	Shanxi Medical University	China	206	-	-	-	1209	69.1
+1260
+Top 6.1%	Federal University of Uberlândia	Brazil	31	-	-	-	1210	69.1
+1261
+Top 6.1%	Sultan Qaboos University	Sultanate of Oman	1	-	-	-	1211	69.1
+1262
+Top 6.1%	Isfahan University of Medical Sciences	Iran	16	-	-	-	1212	69.1
+1263
+Top 6.1%	LSU Health Sciences Center New Orleans	USA	239	-	-	-	1213	69.1
+1264
+Top 6.1%	Oakland University	USA	240	359	1603	-	1218	69.1
+1265
+Top 6.1%	K. N. Toosi University of Technology	Iran	17	-	-	-	1214	69.1
+1266
+Top 6.1%	Smith College	USA	241	52	280	-	-	69.1
+1267
+Top 6.1%	National Institute for Space Research (INPE)	Brazil	32	-	-	-	1215	69.1
+1268
+Top 6.1%	Jordan University of Science and Technology	Jordan	1	-	-	-	1216	69.1
+1269
+Top 6.1%	Anhui University of Technology	China	207	-	871	-	1226	69.1
+1270
+Top 6.1%	Shiraz University of Medical Sciences	Iran	18	-	-	-	1217	69.1
+1271
+Top 6.1%	University of Silesia in Katowice	Poland	18	-	-	-	1219	69.1
+1272
+Top 6.1%	École centrale de Lyon	France	57	-	448	-	1273	69.0
+1273
+Top 6.1%	Albany Medical College	USA	242	-	-	-	1221	69.0
+1274
+Top 6.1%	University of Lincoln	United Kingdom	71	-	-	-	1222	69.0
+1275
+Top 6.1%	Yokohama National University	Japan	60	485	243	-	1366	69.0
+1276
+Top 6.1%	Silesian University of Technology	Poland	19	-	1636	-	1223	69.0
+1277
+Top 6.1%	San Francisco State University	USA	243	-	877	-	1230	69.0
+1278
+Top 6.1%	Chung Shan Medical University	Taiwan	17	-	-	-	1224	69.0
+1279
+Top 6.2%	University of the Sunshine Coast	Australia	34	-	-	-	1225	69.0
+1280
+Top 6.2%	Tuscia University	Italy	55	-	-	-	1227	69.0
+1281
+Top 6.2%	Yantai University	China	208	-	-	-	1228	69.0
+1282
+Top 6.2%	University of Greenwich	United Kingdom	72	233	1439	-	1268	69.0
+1283
+Top 6.2%	Texas State University	USA	244	-	1551	-	1229	69.0
+1284
+Top 6.2%	Catholic University of America	USA	245	-	1090	-	1234	69.0
+1285
+Top 6.2%	King Saud bin Abdulaziz University for Health Sciences	Saudi Arabia	5	-	-	-	1232	69.0
+1286
+Top 6.2%	Austral University of Chile	Chile	6	-	1115	-	1235	69.0
+1287
+Top 6.2%	Maynooth University	Ireland	8	-	-	-	1233	69.0
+1288
+Top 6.2%	Fu Jen Catholic University	Taiwan	18	-	656	-	1264	69.0
+1289
+Top 6.2%	Campus Bio-Medico University	Italy	56	-	-	-	1237	69.0
+1290
+Top 6.2%	Bohai University	China	209	-	1238	-	1240	69.0
+1291
+Top 6.2%	Tabriz University of Medical Sciences	Iran	19	-	-	-	1238	69.0
+1292
+Top 6.2%	Lanzhou University of Technology	China	210	-	-	-	1239	69.0
+1293
+Top 6.2%	University of South Africa	South Africa	10	-	945	-	1250	68.9
+1294
+Top 6.2%	Erciyes University	Turkey	17	-	-	-	1241	68.9
+1295
+Top 6.2%	University of North Dakota	USA	246	-	820	-	1256	68.9
+1296
+Top 6.2%	Ca' Foscari University of Venice	Italy	57	-	1309	-	1244	68.9
+1297
+Top 6.2%	California Polytechnic State University, San Luis Obispo	USA	247	-	477	-	1296	68.9
+1298
+Top 6.2%	Mersin University	Turkey	18	-	-	-	1242	68.9
+1299
+Top 6.2%	University of Hyderabad	India	28	-	-	-	1243	68.9
+1300
+Top 6.3%	National University of Science and Technology MISiS	Russia	24	-	1304	-	1246	68.9
+1301
+Top 6.3%	Gdańsk University of Technology	Poland	20	-	1310	-	1247	68.9
+1302
+Top 6.3%	Saitama Medical University	Japan	61	-	-	-	1245	68.9
+1303
+Top 6.3%	Thapar Institute of Engineering and Technology	India	29	-	823	-	1258	68.9
+1304
+Top 6.3%	Kasetsart University	Thailand	6	-	1703	-	1248	68.9
+1305
+Top 6.3%	Public University of Navarre	Spain	43	-	-	-	1249	68.9
+1306
+Top 6.3%	State University of Maringá	Brazil	33	-	-	-	1252	68.9
+1307
+Top 6.3%	University of Lodz	Poland	21	533	1369	-	1253	68.9
+1308
+Top 6.3%	Tianjin University of Science and Technology	China	211	-	1635	-	1254	68.9
+1309
+Top 6.3%	University of Algarve	Portugal	7	-	-	-	1255	68.9
+1310
+Top 6.3%	Hirosaki University	Japan	62	-	1131	-	1261	68.9
+1311
+Top 6.3%	Warsaw University of Life Sciences	Poland	22	443	-	-	1259	68.9
+1312
+Top 6.3%	Shihezi University	China	212	-	-	-	1257	68.9
+1313
+Top 6.3%	China Jiliang University	China	213	-	-	-	1260	68.9
+1314
+Top 6.3%	University of Jordan	Jordan	2	-	-	-	1262	68.8
+1315
+Top 6.3%	Beijing Technology and Business University	China	214	-	623	-	1288	68.8
+1316
+Top 6.3%	Education University of Hong Kong	China	215	-	-	-	1263	68.8
+1317
+Top 6.3%	National University of Distance Education	Spain	44	-	1456	-	1265	68.8
+1318
+Top 6.3%	Stevens Institute of Technology	USA	248	413	295	-	1376	68.8
+1319
+Top 6.3%	Federal University of São João del-Rei	Brazil	34	-	-	-	1266	68.8
+1320
+Top 6.3%	Al-Azhar University	Egypt	8	-	1664	-	1267	68.8
+1321
+Top 6.4%	Rhodes University	South Africa	11	372	805	-	1284	68.8
+1322
+Top 6.4%	Hofstra University	USA	249	499	699	-	1286	68.8
+1323
+Top 6.4%	University of Alabama in Huntsville	USA	250	-	-	-	1269	68.8
+1324
+Top 6.4%	University of Yamanashi	Japan	63	177	-	-	1332	68.8
+1325
+Top 6.4%	Soongsil University	South Korea	40	-	-	-	1270	68.8
+1326
+Top 6.4%	Zhejiang Gongshang University	China	216	-	1376	-	1271	68.8
+1327
+Top 6.4%	Indian Institute of Technology Hyderabad	India	30	-	-	-	1272	68.8
+1328
+Top 6.4%	California State University, Fullerton	USA	251	-	1219	-	1276	68.8
+1329
+Top 6.4%	Boise State University	USA	252	-	1650	-	1274	68.8
+1330
+Top 6.4%	Indian Association for the Cultivation of Science	India	31	-	-	-	1275	68.8
+1331
+Top 6.4%	University of Almería	Spain	45	-	-	-	1277	68.8
+1332
+Top 6.4%	Kuwait University	Kuwait	1	-	1261	-	1280	68.8
+1333
+Top 6.4%	University of Foggia	Italy	58	-	-	-	1278	68.8
+1334
+Top 6.4%	Dongguan University of Technology	China	217	-	-	-	1279	68.8
+1335
+Top 6.4%	Birla Institute of Technology and Science, Pilani	India	32	-	425	-	1342	68.7
+1336
+Top 6.4%	Atatürk University	Turkey	19	-	1465	-	1281	68.7
+1337
+Top 6.4%	Huzhou University	China	218	-	-	-	1282	68.7
+1338
+Top 6.4%	Wright State University	USA	253	-	-	-	1283	68.7
+1339
+Top 6.4%	Bowdoin College	USA	254	121	87	-	-	68.7
+1340
+Top 6.4%	University of Stavanger	Norway	7	-	1537	-	1285	68.7
+1341
+Top 6.4%	Dong-A University	South Korea	41	-	1084	-	1290	68.7
+1342
+Top 6.5%	Toulouse 1 Capitole University	France	58	-	-	257	1419	68.7
+1343
+Top 6.5%	King Khalid University	Saudi Arabia	6	-	-	-	1287	68.7
+1344
+Top 6.5%	Chung Yuan Christian University	Taiwan	19	-	400	-	1357	68.7
+1345
+Top 6.5%	Indian Institute of Science Education and Research, Kolkata	India	33	-	-	-	1289	68.7
+1346
+Top 6.5%	Pushchino Scientific Center for Biological Research of the Russian Academy of Sciences	Russia	25	-	-	-	1291	68.7
+1347
+Top 6.5%	Osnabrück University	Germany	59	-	-	-	1292	68.7
+1348
+Top 6.5%	Showa University	Japan	64	-	726	-	1315	68.7
+1349
+Top 6.5%	Kwame Nkrumah University of Science and Technology	Ghana	2	548	-	-	1293	68.7
+1350
+Top 6.5%	Yangtze University	China	219	-	1030	-	1302	68.7
+1351
+Top 6.5%	Inner Mongolia University	China	220	-	-	-	1294	68.7
+1352
+Top 6.5%	Shanghai Maritime University	China	221	-	743	-	1317	68.7
+1353
+Top 6.5%	University of Puerto Rico at Mayagüez	USA	255	-	-	-	1297	68.7
+1354
+Top 6.5%	Kunming Medical University	China	222	-	-	-	1298	68.7
+1355
+Top 6.5%	Mohammed First University Oujda	Morocco	4	-	-	-	1299	68.7
+1356
+Top 6.5%	Suez Canal University	Egypt	9	-	-	-	1300	68.6
+1357
+Top 6.5%	Shenyang Pharmaceutical University	China	223	-	-	-	1301	68.6
+1358
+Top 6.5%	Visva-Bharati University	India	34	-	-	-	1303	68.6
+1359
+Top 6.5%	North China University of Science and Technology	China	224	-	-	-	1304	68.6
+1360
+Top 6.5%	Jeju National University	South Korea	42	-	-	-	1305	68.6
+1361
+Top 6.5%	University of Camerino	Italy	59	-	-	-	1306	68.6
+1362
+Top 6.5%	University of Monastir	Tunisia	3	-	-	-	1307	68.6
+1363
+Top 6.6%	University of Yaoundé I	Cameroon	1	-	-	-	1308	68.6
+1364
+Top 6.6%	Maria Sklodowska-Curie National Research Institute of Oncology	Poland	23	-	-	-	1309	68.6
+1365
+Top 6.6%	Shenyang Agricultural University	China	225	-	-	-	1310	68.6
+1366
+Top 6.6%	University of León	Spain	46	-	-	-	1311	68.6
+1367
+Top 6.6%	Indian Institute of Technology (Indian School of Mines), Dhanbad	India	35	-	711	-	1327	68.6
+1368
+Top 6.6%	Kanazawa Institute of Technology	Japan	65	170	-	65	-	68.6
+1369
+Top 6.6%	South-Central Minzu University	China	226	-	1493	-	1312	68.6
+1370
+Top 6.6%	Kurume University	Japan	66	-	-	-	1313	68.6
+1371
+Top 6.6%	Southern Cross University	Australia	35	-	-	-	1314	68.6
+1372
+Top 6.6%	College of the Holy Cross	USA	256	185	69	-	-	68.6
+1373
+Top 6.6%	North University of China	China	227	-	-	-	1316	68.6
+1374
+Top 6.6%	İzmir Institute of Technology	Turkey	20	-	-	-	1318	68.6
+1375
+Top 6.6%	Indian Institute of Management Calcutta	India	36	-	53	-	-	68.6
+1376
+Top 6.6%	Beijing University of Chinese Medicine	China	228	-	-	-	1319	68.6
+1377
+Top 6.6%	University of Costa Rica	Costa Rica	1	-	-	-	1320	68.6
+1378
+Top 6.6%	California State University, Fresno	USA	257	-	-	-	1321	68.5
+1379
+Top 6.6%	Lakehead University	Canada	32	-	722	-	1333	68.5
+1380
+Top 6.6%	SUNY College of Environmental Science and Forestry	USA	258	96	-	-	1605	68.5
+1381
+Top 6.6%	Babol Noshirvani University of Technology	Iran	20	-	-	-	1322	68.5
+1382
+Top 6.6%	University of Carthage	Tunisia	4	-	-	-	1323	68.5
+1383
+Top 6.6%	University of Guadalajara	Mexico	9	-	-	-	1324	68.5
+1384
+Top 6.7%	Linnaeus University	Sweden	14	-	-	-	1325	68.5
+1385
+Top 6.7%	Institute of Solid State Physics of the Russian Academy of Sciences	Russia	26	48	-	-	-	68.5
+1386
+Top 6.7%	Saga University	Japan	67	-	-	-	1326	68.5
+1387
+Top 6.7%	National Institute of Technology, Rourkela	India	37	-	278	-	1458	68.5
+1388
+Top 6.7%	Autonomous University of Nuevo León	Mexico	10	-	-	-	1329	68.5
+1389
+Top 6.7%	Vietnam National University, Ho Chi Minh City	Vietnam	4	-	-	-	1330	68.5
+1390
+Top 6.7%	Government College University Faisalabad	Pakistan	7	-	-	-	1331	68.5
+1391
+Top 6.7%	Tottori University	Japan	68	268	888	-	1361	68.5
+1392
+Top 6.7%	Central Michigan University	USA	259	-	857	-	1341	68.5
+1393
+Top 6.7%	University of Dayton	USA	260	202	181	-	1671	68.5
+1394
+Top 6.7%	University of Malawi	Malawi	1	-	-	-	1334	68.5
+1395
+Top 6.7%	University of Miyazaki	Japan	69	-	-	-	1335	68.5
+1396
+Top 6.7%	Federal University of Mato Grosso do Sul	Brazil	35	-	-	-	1336	68.5
+1397
+Top 6.7%	Lodz University of Technology	Poland	24	-	-	-	1337	68.5
+1398
+Top 6.7%	University of Huddersfield	United Kingdom	73	-	1610	-	1339	68.5
+1399
+Top 6.7%	Peoples' Friendship University of Russia	Russia	27	-	1013	-	1348	68.5
+1400
+Top 6.7%	SRM Institute of Science and Technology	India	38	-	-	-	1340	68.4
+1401
+Top 6.7%	Hyogo College of Medicine	Japan	70	-	-	-	1343	68.4
+1402
+Top 6.7%	Taif University	Saudi Arabia	7	-	-	-	1344	68.4
+1403
+Top 6.7%	Kharkov Institute of Physics and Technology	Ukraine	2	-	-	-	1345	68.4
+1404
+Top 6.7%	University of Central Lancashire	United Kingdom	74	-	1374	-	1349	68.4
+1405
+Top 6.8%	Democritus University of Thrace	Greece	8	-	-	-	1346	68.4
+1406
+Top 6.8%	Akdeniz University	Turkey	21	-	-	-	1347	68.4
+1407
+Top 6.8%	Saitama University	Japan	71	376	949	-	1360	68.4
+1408
+Top 6.8%	University of the Ryukyus	Japan	72	-	-	-	1350	68.4
+1409
+Top 6.8%	Fukushima Medical University	Japan	73	-	-	-	1351	68.4
+1410
+Top 6.8%	California State University, Northridge	USA	261	-	1185	-	1352	68.4
+1411
+Top 6.8%	Kōchi University	Japan	74	-	-	-	1353	68.4
+1412
+Top 6.8%	Anglia Ruskin University	United Kingdom	75	-	-	-	1354	68.4
+1413
+Top 6.8%	University of South Alabama	USA	262	-	-	-	1355	68.4
+1414
+Top 6.8%	University of Bradford	United Kingdom	76	-	326	-	1465	68.4
+1415
+Top 6.8%	Royal Veterinary College	United Kingdom	77	269	-	-	1375	68.4
+1416
+Top 6.8%	University of Nairobi	Kenya	1	-	1552	-	1356	68.4
+1417
+Top 6.8%	Indian Institute of Technology Indore	India	39	-	-	-	1358	68.4
+1418
+Top 6.8%	École de technologie supérieure	Canada	33	-	-	-	1359	68.4
+1419
+Top 6.8%	Shandong University of Technology	China	229	-	1543	-	1362	68.4
+1420
+Top 6.8%	Incheon National University	South Korea	43	-	-	-	1363	68.4
+1421
+Top 6.8%	University of La Frontera	Chile	7	-	-	-	1364	68.4
+1422
+Top 6.8%	Rowan University	USA	263	-	-	-	1365	68.3
+1423
+Top 6.8%	National Taiwan Ocean University	Taiwan	20	-	1079	-	1368	68.3
+1424
+Top 6.8%	University of Santiago, Chile	Chile	8	-	926	-	1373	68.3
+1425
+Top 6.8%	University of Indonesia	Indonesia	1	-	645	-	1386	68.3
+1426
+Top 6.9%	Hunan University of Science and Technology	China	230	-	-	-	1367	68.3
+1427
+Top 6.9%	Jacobs University	Germany	60	-	-	-	1369	68.3
+1428
+Top 6.9%	University of Limoges	France	59	-	-	-	1370	68.3
+1429
+Top 6.9%	University of San Francisco	USA	264	-	104	-	-	68.3
+1430
+Top 6.9%	Chengdu University	China	231	-	-	-	1371	68.3
+1431
+Top 6.9%	Zhejiang Chinese Medical University	China	232	-	-	-	1374	68.3
+1432
+Top 6.9%	Ibero-American University	Mexico	11	-	240	-	1542	68.3
+1433
+Top 6.9%	Beni Suef University	Egypt	10	-	-	-	1377	68.3
+1434
+Top 6.9%	Selçuk University	Turkey	22	-	1477	-	1378	68.3
+1435
+Top 6.9%	Fukuoka University	Japan	75	-	-	-	1379	68.3
+1436
+Top 6.9%	XLRI - Xavier School of Management	India	40	-	52	-	-	68.3
+1437
+Top 6.9%	Istanbul Bilgi University	Turkey	23	-	-	-	1380	68.3
+1438
+Top 6.9%	Pomeranian Medical University in Szczecin	Poland	25	-	-	-	1381	68.3
+1439
+Top 6.9%	Indian Institute of Technology (BHU) Varanasi	India	41	-	608	-	1411	68.3
+1440
+Top 6.9%	University of Pau and Pays de l'Adour	France	60	-	-	-	1382	68.3
+1441
+Top 6.9%	Westlake University	China	233	-	-	-	1383	68.3
+1442
+Top 6.9%	West University of Timișoara	Romania	5	-	-	-	1384	68.3
+1443
+Top 6.9%	University of the Aegean	Greece	9	-	-	-	1385	68.3
+1444
+Top 6.9%	University of Missouri-St. Louis	USA	265	-	366	-	1477	68.3
+1445
+Top 6.9%	Carleton College	USA	266	78	286	-	1987	68.2
+1446
+Top 6.9%	Williams College	USA	267	192	115	-	-	68.2
+1447
+Top 7%	Bowling Green State University	USA	268	-	691	-	1407	68.2
+1448
+Top 7%	Imam Abdulrahman Bin Faisal University	Saudi Arabia	8	-	-	-	1387	68.2
+1449
+Top 7%	Tokat Gaziosmanpaşa University	Turkey	24	-	-	-	1388	68.2
+1450
+Top 7%	Chosun University	South Korea	44	-	-	-	1389	68.2
+1451
+Top 7%	University of Beira Interior	Portugal	8	-	-	-	1390	68.2
+1452
+Top 7%	Shanghai University of Electric Power	China	234	-	-	-	1391	68.2
+1453
+Top 7%	Cha University	South Korea	45	-	-	-	1392	68.2
+1454
+Top 7%	Leuphana University of Lüneburg	Germany	61	-	-	-	1393	68.2
+1455
+Top 7%	Texas Christian University	USA	269	-	-	-	1394	68.2
+1456
+Top 7%	University of Namur	Belgium	10	326	558	-	1463	68.2
+1457
+Top 7%	Doshisha University	Japan	76	-	124	-	1909	68.2
+1458
+Top 7%	Adıyaman University	Turkey	25	-	-	-	1395	68.2
+1459
+Top 7%	Clark University	USA	270	-	228	-	1597	68.2
+1460
+Top 7%	Ball State University	USA	271	-	503	-	1455	68.2
+1461
+Top 7%	École supérieure de chimie, physique, électronique de Lyon	France	61	32	965	-	-	68.2
+1462
+Top 7%	University of Latvia	Latvia	1	-	-	-	1396	68.2
+1463
+Top 7%	Uludağ University	Turkey	26	-	-	-	1397	68.2
+1464
+Top 7%	Central South University of Forestry and Technology	China	235	-	-	-	1398	68.2
+1465
+Top 7%	Federal University of Technology - Paraná	Brazil	36	-	-	-	1399	68.2
+1466
+Top 7%	Hebei Normal University	China	236	-	1111	-	1403	68.2
+1467
+Top 7%	University of Puerto Rico, Medical Sciences Campus	USA	272	-	-	-	1400	68.1
+1468
+Top 7.1%	Medical University Sofia	Bulgaria	2	-	-	-	1401	68.1
+1469
+Top 7.1%	Cayetano Heredia Peruvian University	Peru	1	-	-	-	1402	68.1
+1470
+Top 7.1%	TOBB University of Economics and Technology	Turkey	27	-	-	-	1404	68.1
+1471
+Top 7.1%	Pontifical Catholic University of Rio Grande do Sul	Brazil	37	-	928	-	1412	68.1
+1472
+Top 7.1%	Pontifical Catholic University of Valparaíso	Chile	9	-	-	-	1405	68.1
+1473
+Top 7.1%	Army Engineering University of PLA	China	237	-	-	-	1406	68.1
+1474
+Top 7.1%	Helwan University	Egypt	11	-	-	-	1408	68.1
+1475
+Top 7.1%	University of Kashan	Iran	21	-	-	-	1409	68.1
+1476
+Top 7.1%	Medical University of Lublin	Poland	26	-	-	-	1410	68.1
+1477
+Top 7.1%	Xi'an University of Science and Technology	China	238	-	957	-	1417	68.1
+1478
+Top 7.1%	University of Occupational and Environmental Health Japan	Japan	77	-	-	-	1413	68.1
+1479
+Top 7.1%	Central Queensland University	Australia	36	-	-	-	1414	68.1
+1480
+Top 7.1%	Karadeniz Technical University	Turkey	28	-	1159	-	1418	68.1
+1481
+Top 7.1%	Tianjin Normal University	China	239	-	-	-	1415	68.1
+1482
+Top 7.1%	Shimane University	Japan	78	-	-	-	1416	68.1
+1483
+Top 7.1%	V.A. Steklov Mathematical Institute of the Russian Academy of Sciences	Russia	28	-	-	249	1653	68.1
+1484
+Top 7.1%	Western Michigan University	USA	273	-	1264	-	1423	68.1
+1485
+Top 7.1%	Fayoum University	Egypt	12	-	-	-	1420	68.1
+1486
+Top 7.1%	Pavol Jozef Šafárik University in Košice	Slovak Republic	2	-	-	-	1421	68.1
+1487
+Top 7.1%	Zhongnan University of Economics and Law	China	240	-	140	-	1883	68.1
+1488
+Top 7.1%	University of Southern Mississippi	USA	274	-	-	-	1422	68.1
+1489
+Top 7.2%	Harbin University of Science and Technology	China	241	-	-	-	1424	68.1
+1490
+Top 7.2%	Tamil Nadu Dr. M.G.R. Medical University	India	42	-	-	-	1425	68.1
+1491
+Top 7.2%	Sichuan Normal University	China	242	-	-	-	1426	68.0
+1492
+Top 7.2%	National Chengchi University	Taiwan	21	-	154	-	1828	68.0
+1493
+Top 7.2%	National Kaohsiung University of Science and Technology	Taiwan	22	-	1639	-	1427	68.0
+1494
+Top 7.2%	Henan University of Technology	China	243	-	-	-	1428	68.0
+1495
+Top 7.2%	State University of Londrina	Brazil	38	-	-	-	1429	68.0
+1496
+Top 7.2%	Prince Sattam Bin Abdulaziz University	Saudi Arabia	9	-	-	-	1430	68.0
+1497
+Top 7.2%	Transilvania University of Brașov	Romania	6	-	-	-	1431	68.0
+1498
+Top 7.2%	Oxford Brookes University	United Kingdom	78	-	-	-	1432	68.0
+1499
+Top 7.2%	Middlesex University	United Kingdom	79	523	872	-	1453	68.0
+1500
+Top 7.2%	Tamkang University	Taiwan	23	-	1286	-	1433	68.0
+1501
+Top 7.2%	Liaoning University	China	244	-	955	-	1448	68.0
+1502
+Top 7.2%	Nanchang Hangkong University	China	245	-	1604	-	1435	68.0
+1503
+Top 7.2%	Institute of Tropical Medicine Antwerp	Belgium	11	-	-	-	1434	68.0
+1504
+Top 7.2%	Tallinn University of Technology	Estonia	2	-	-	-	1436	68.0
+1505
+Top 7.2%	Taras Shevchenko National University of Kyiv	Ukraine	3	481	-	-	1440	68.0
+1506
+Top 7.2%	Kafkas University	Turkey	29	-	-	-	1437	68.0
+1507
+Top 7.2%	Ariel University	Israel	8	-	-	-	1438	68.0
+1508
+Top 7.2%	Guilin University of Technology	China	246	-	-	-	1439	68.0
+1509
+Top 7.2%	SOAS University of London	United Kingdom	80	70	993	-	-	68.0
+1510
+Top 7.3%	Zhengzhou University of Light Industry	China	247	-	1619	-	1441	68.0
+1511
+Top 7.3%	Özyeğin University	Turkey	30	-	-	-	1442	68.0
+1512
+Top 7.3%	Foshan University	China	248	-	-	-	1444	68.0
+1513
+Top 7.3%	Kagawa University	Japan	79	-	996	-	1456	68.0
+1514
+Top 7.3%	Guangdong Medical University	China	249	-	-	-	1445	67.9
+1515
+Top 7.3%	San Jose State University	USA	275	251	1004	-	1482	67.9
+1516
+Top 7.3%	Taibah University	Saudi Arabia	10	-	-	-	1446	67.9
+1517
+Top 7.3%	National University of Rosario	Argentina	4	-	-	-	1447	67.9
+1518
+Top 7.3%	Federal University of Sergipe	Brazil	39	-	-	-	1449	67.9
+1519
+Top 7.3%	Near East University	Northern Cyprus	1	-	1463	-	1451	67.9
+1520
+Top 7.3%	University of Isfahan	Iran	22	-	-	-	1450	67.9
+1521
+Top 7.3%	University of Peshawar	Pakistan	8	-	-	-	1452	67.9
+1522
+Top 7.3%	Poznań University of Technology	Poland	27	-	-	-	1454	67.9
+1523
+Top 7.3%	Suzhou University of Science and Technology	China	250	-	-	-	1457	67.9
+1524
+Top 7.3%	Guizhou Medical University	China	251	-	-	-	1459	67.9
+1525
+Top 7.3%	Southwest Medical University	China	252	-	-	-	1460	67.9
+1526
+Top 7.3%	Kwansei Gakuin University	Japan	80	-	141	-	1930	67.9
+1527
+Top 7.3%	Oslo Metropolitan University	Norway	8	-	-	-	1461	67.9
+1528
+Top 7.3%	Hebei Agricultural University	China	253	-	-	-	1462	67.9
+1529
+Top 7.3%	Vienna University of Economics and Business	Austria	15	-	170	-	1797	67.9
+1530
+Top 7.3%	Istanbul Aydın University	Turkey	31	-	-	-	1464	67.9
+1531
+Top 7.4%	University of Warmia and Mazury in Olsztyn	Poland	28	-	-	-	1466	67.9
+1532
+Top 7.4%	Ilia State University	Georgia	2	-	-	-	1467	67.9
+1533
+Top 7.4%	De Montfort University	United Kingdom	81	-	1482	-	1468	67.9
+1534
+Top 7.4%	Feng Chia University	Taiwan	24	-	481	-	1512	67.9
+1535
+Top 7.4%	University of South Dakota	USA	276	283	-	-	1481	67.9
+1536
+Top 7.4%	Nova Southeastern University	USA	277	-	1070	-	1472	67.9
+1537
+Top 7.4%	Menlo College	USA	278	-	56	-	-	67.8
+1538
+Top 7.4%	Seoul National University of Science and Technology	South Korea	46	-	-	-	1469	67.8
+1539
+Top 7.4%	Xinjiang Medical University	China	254	-	-	-	1470	67.8
+1540
+Top 7.4%	University of Avignon	France	62	-	-	-	1471	67.8
+1541
+Top 7.4%	Montclair State University	USA	279	-	1454	-	1474	67.8
+1542
+Top 7.4%	Hamamatsu University School of Medicine	Japan	81	-	-	-	1473	67.8
+1543
+Top 7.4%	Western Norway University of Applied Sciences	Norway	9	-	-	-	1475	67.8
+1544
+Top 7.4%	Hanken School of Economics	Finland	10	-	94	-	-	67.8
+1545
+Top 7.4%	National Institute of Amazonian Research (INPA)	Brazil	40	-	-	-	1476	67.8
+1546
+Top 7.4%	Wakayama Medical University	Japan	82	-	-	-	1478	67.8
+1547
+Top 7.4%	California State University, Long Beach	USA	280	-	1538	-	1479	67.8
+1548
+Top 7.4%	Menoufia University	Egypt	13	-	-	-	1480	67.8
+1549
+Top 7.4%	University of Guilan	Iran	23	-	-	-	1483	67.8
+1550
+Top 7.4%	Kyushu Institute of Technology	Japan	83	-	-	-	1484	67.8
+1551
+Top 7.4%	University of Agder	Norway	10	-	-	-	1485	67.8
+1552
+Top 7.5%	Aichi Medical University	Japan	84	-	-	-	1486	67.8
+1553
+Top 7.5%	Jiangxi University of Science and Technology	China	255	-	1670	-	1487	67.8
+1554
+Top 7.5%	Freiberg University of Mining and Technology	Germany	62	-	-	-	1488	67.8
+1555
+Top 7.5%	Xi'an Jiaotong-Liverpool University	China	256	-	-	-	1489	67.8
+1556
+Top 7.5%	Erzincan Binali Yıldırım University	Turkey	32	-	-	-	1490	67.8
+1557
+Top 7.5%	University of Zambia	Zambia	1	-	-	-	1491	67.8
+1558
+Top 7.5%	University of Trás-os-Montes and Alto Douro	Portugal	9	-	-	-	1492	67.8
+1559
+Top 7.5%	Baruch College	USA	281	-	725	269	1682	67.8
+1560
+Top 7.5%	Iuliu Hațieganu University of Medicine and Pharmacy	Romania	7	-	-	-	1493	67.8
+1561
+Top 7.5%	Shiga University of Medical Science	Japan	85	-	-	-	1494	67.7
+1562
+Top 7.5%	University of Minnesota Duluth	USA	282	288	1333	-	1516	67.7
+1563
+Top 7.5%	University of Sannio	Italy	60	-	-	-	1495	67.7
+1564
+Top 7.5%	ISCTE – University Institute of Lisbon	Portugal	10	-	628	-	1535	67.7
+1565
+Top 7.5%	Kafrelsheikh University	Egypt	14	-	-	-	1496	67.7
+1566
+Top 7.5%	Witten/Herdecke University	Germany	63	-	1318	-	1501	67.7
+1567
+Top 7.5%	MARA University of Technology	Malaysia	6	-	-	-	1497	67.7
+1568
+Top 7.5%	University of Health Sciences	Turkey	33	-	-	-	1498	67.7
+1569
+Top 7.5%	Institute of Applied Physics of the Russian Academy of Sciences	Russia	29	-	-	-	1499	67.7
+1570
+Top 7.5%	Poznań University of Life Sciences	Poland	29	-	-	-	1500	67.7
+1571
+Top 7.5%	University of Valparaíso	Chile	10	-	-	-	1502	67.7
+1572
+Top 7.5%	Fırat University	Turkey	34	-	-	-	1503	67.7
+1573
+Top 7.6%	University of Salford	United Kingdom	82	-	1470	-	1504	67.7
+1574
+Top 7.6%	National Institute of Technology, Tiruchirappalli	India	43	-	325	-	1640	67.7
+1575
+Top 7.6%	Alexandru Ioan Cuza University of Iaşi	Romania	8	-	-	-	1505	67.7
+1576
+Top 7.6%	Guangdong Pharmaceutical University	China	257	-	-	-	1506	67.7
+1577
+Top 7.6%	Hamburg University of Technology	Germany	64	-	-	-	1507	67.7
+1578
+Top 7.6%	University of Tulsa	USA	283	-	196	-	1798	67.7
+1579
+Top 7.6%	Federation University Australia	Australia	37	-	-	-	1508	67.7
+1580
+Top 7.6%	University of Veterinary Medicine Hanover	Germany	65	384	-	-	1518	67.7
+1581
+Top 7.6%	Nara Medical University	Japan	86	-	-	-	1509	67.7
+1582
+Top 7.6%	Open University of Catalonia	Spain	47	-	1701	212	-	67.7
+1583
+Top 7.6%	Benha University	Egypt	15	-	-	-	1510	67.7
+1584
+Top 7.6%	University of Kragujevac	Serbia	3	-	-	-	1511	67.7
+1585
+Top 7.6%	Michoacán University of San Nicolás of Hidalgo	Mexico	12	-	-	-	1513	67.6
+1586
+Top 7.6%	CY Cergy Paris University	France	63	-	-	-	1514	67.6
+1587
+Top 7.6%	Umm Al-Qura University	Saudi Arabia	11	-	-	-	1515	67.6
+1588
+Top 7.6%	National Chung Cheng University	Taiwan	25	-	-	-	1517	67.6
+1589
+Top 7.6%	Lobachevsky University	Russia	30	-	1278	-	1521	67.6
+1590
+Top 7.6%	Chongqing Technology and Business University	China	258	-	-	-	1519	67.6
+1591
+Top 7.6%	University of Dhaka	Bangladesh	1	-	-	-	1520	67.6
+1592
+Top 7.6%	Kookmin University	South Korea	47	-	1423	-	1522	67.6
+1593
+Top 7.6%	Arts et Métiers Sciences et Technologies	France	64	478	437	-	1612	67.6
+1594
+Top 7.7%	Jiaxing University	China	259	-	-	-	1523	67.6
+1595
+Top 7.7%	B.I. Stepanov Institute of Physics of The National Academy of Sciences of Belarus	Belarus	2	-	-	-	1524	67.6
+1596
+Top 7.7%	British University in Egypt	Egypt	16	-	-	-	1525	67.6
+1597
+Top 7.7%	Ningxia University	China	260	-	-	-	1526	67.6
+1598
+Top 7.7%	Indian Statistical Institute, Kolkata	India	44	247	-	-	1571	67.6
+1599
+Top 7.7%	Urmia University	Iran	24	-	-	-	1527	67.6
+1600
+Top 7.7%	Minia University	Egypt	17	-	-	-	1528	67.6
+1601
+Top 7.7%	Shanghai University of Engineering Science	China	261	-	1607	-	1529	67.6
+1602
+Top 7.7%	Nagasaki Institute of Applied Science	Japan	87	-	-	-	1530	67.6
+1603
+Top 7.7%	Lincoln University	New Zealand	8	-	-	-	1531	67.6
+1604
+Top 7.7%	Nagoya Institute of Technology	Japan	88	-	1473	-	1533	67.6
+1605
+Top 7.7%	University of Electro-Communications	Japan	89	-	-	-	1532	67.6
+1606
+Top 7.7%	University of Huelva	Spain	48	-	-	-	1534	67.6
+1607
+Top 7.7%	International University of Health and Welfare	Japan	90	-	-	-	1536	67.6
+1608
+Top 7.7%	Grinnell College	USA	284	49	-	-	-	67.6
+1609
+Top 7.7%	Norwegian School of Sport Sciences	Norway	11	-	-	-	1538	67.6
+1610
+Top 7.7%	Indian Institute of Technology Bhubaneswar	India	45	-	-	-	1539	67.5
+1611
+Top 7.7%	Indian Institute of Technology Gandhinagar	India	46	-	-	-	1540	67.5
+1612
+Top 7.7%	Semnan University	Iran	25	-	-	-	1541	67.5
+1613
+Top 7.7%	BI Norwegian Business School	Norway	12	-	456	261	1816	67.5
+1614
+Top 7.7%	Ondokuz Mayıs University	Turkey	35	-	-	-	1543	67.5
+1615
+Top 7.8%	Nazarbayev University	Kazakhstan	1	-	-	-	1544	67.5
+1616
+Top 7.8%	Trent University	Canada	34	-	1368	-	1545	67.5
+1617
+Top 7.8%	Savitribai Phule Pune University	India	47	552	1274	-	1547	67.5
+1618
+Top 7.8%	LSU Health Sciences Center Shreveport	USA	285	-	-	-	1546	67.5
+1619
+Top 7.8%	Maria Curie-Skłodowska University	Poland	30	-	1481	-	1548	67.5
+1620
+Top 7.8%	Chapman University	USA	286	-	1105	-	1556	67.5
+1621
+Top 7.8%	Changchun University of Science and Technology	China	262	-	-	-	1550	67.5
+1622
+Top 7.8%	Free University of Bozen-Bolzano	Italy	61	-	-	-	1551	67.5
+1623
+Top 7.8%	Linyi University	China	263	-	-	-	1552	67.5
+1624
+Top 7.8%	University of Perpignan	France	65	-	-	-	1553	67.5
+1625
+Top 7.8%	University of Évora	Portugal	11	-	1554	-	1554	67.5
+1626
+Top 7.8%	DePaul University	USA	287	366	611	-	1610	67.5
+1627
+Top 7.8%	Sabancı University	Turkey	36	-	1047	-	1561	67.5
+1628
+Top 7.8%	Federal Rural University of Pernambuco	Brazil	41	-	-	-	1555	67.5
+1629
+Top 7.8%	Ochanomizu University	Japan	91	-	-	-	1557	67.5
+1630
+Top 7.8%	Kyorin University	Japan	92	-	-	-	1558	67.5
+1631
+Top 7.8%	Süleyman Demirel University	Turkey	37	-	-	-	1559	67.5
+1632
+Top 7.8%	Claremont Graduate University	USA	288	377	-	276	1666	67.5
+1633
+Top 7.8%	N.N. Semenov Institute of Chemical Physics of the Russian Academy of Sciences	Russia	31	-	-	211	-	67.5
+1634
+Top 7.8%	Ontario Tech University	Canada	35	-	-	-	1560	67.5
+1635
+Top 7.8%	Cleveland State University	USA	289	-	798	-	1584	67.4
+1636
+Top 7.9%	Jiangxi Agricultural University	China	264	-	-	-	1562	67.4
+1637
+Top 7.9%	University of the Philippines Manila	Philippines	1	-	990	-	1574	67.4
+1638
+Top 7.9%	Pontifical Javeriana University	Colombia	4	-	1183	-	1567	67.4
+1639
+Top 7.9%	Space Research Institute of the Russian Academy of Sciences	Russia	32	-	-	270	1726	67.4
+1640
+Top 7.9%	Eastern Virginia Medical School	USA	290	-	-	-	1563	67.4
+1641
+Top 7.9%	Lithuanian University of Health Sciences	Lithuania	2	-	-	-	1564	67.4
+1642
+Top 7.9%	Catholic University of the North	Chile	11	-	-	-	1565	67.4
+1643
+Top 7.9%	Xinxiang Medical University	China	265	-	-	-	1566	67.4
+1644
+Top 7.9%	University of Rijeka	Croatia	3	-	-	-	1568	67.4
+1645
+Top 7.9%	Diego Portales University	Chile	12	-	-	-	1569	67.4
+1646
+Top 7.9%	Mendel University in Brno	Czech Republic	9	-	-	-	1570	67.4
+1647
+Top 7.9%	Glasgow Caledonian University	United Kingdom	83	-	-	-	1572	67.4
+1648
+Top 7.9%	Medical University of Białystok	Poland	31	-	-	-	1573	67.4
+1649
+Top 7.9%	Qingdao University of Technology	China	266	-	-	-	1575	67.4
+1650
+Top 7.9%	Texas Tech University Health Sciences Center	USA	291	-	-	-	1576	67.4
+1651
+Top 7.9%	Sheffield Hallam University	United Kingdom	84	-	1659	-	1577	67.4
+1652
+Top 7.9%	Iwate Medical University	Japan	93	-	-	-	1578	67.4
+1653
+Top 7.9%	Shahid Bahonar University of Kerman	Iran	26	-	-	-	1579	67.4
+1654
+Top 7.9%	Kwangwoon University	South Korea	48	-	1704	-	1580	67.4
+1655
+Top 7.9%	Kermanshah University of Medical Sciences	Iran	27	-	-	-	1581	67.4
+1656
+Top 7.9%	Institute of Physics, Azerbaijan National Academy of Sciences	Azerbaijan	1	-	-	-	1582	67.4
+1657
+Top 8%	King Mongkut's University of Technology Thonburi	Thailand	7	-	1418	-	1583	67.4
+1658
+Top 8%	Clarkson University	USA	292	-	917	-	1596	67.4
+1659
+Top 8%	Sapporo Medical University	Japan	94	-	-	-	1585	67.3
+1660
+Top 8%	Illinois State University	USA	293	-	778	-	1608	67.3
+1661
+Top 8%	Jilin Agricultural University	China	267	-	-	-	1586	67.3
+1662
+Top 8%	Bu-Ali Sina University	Iran	28	-	-	-	1587	67.3
+1663
+Top 8%	Thammasat University	Thailand	8	-	462	-	1659	67.3
+1664
+Top 8%	University of Peradeniya	Sri Lanka	1	-	-	-	1588	67.3
+1665
+Top 8%	International Islamic University Malaysia	Malaysia	7	-	-	-	1590	67.3
+1666
+Top 8%	I-Shou University	Taiwan	26	-	-	-	1591	67.3
+1667
+Top 8%	Catholic University of Portugal	Portugal	12	-	663	-	1619	67.3
+1668
+Top 8%	Jamia Millia Islamia	India	48	-	1624	-	1592	67.3
+1669
+Top 8%	University of Guanajuato	Mexico	13	-	1449	-	1593	67.3
+1670
+Top 8%	Krasnoyarsk Science Center of the Siberian Branch of the Russian Academy of Sciences	Russia	33	-	-	-	1594	67.3
+1671
+Top 8%	Technical University of Ilmenau	Germany	66	-	-	-	1595	67.3
+1672
+Top 8%	Slovak University of Technology in Bratislava	Slovak Republic	3	-	-	-	1598	67.3
+1673
+Top 8%	Guglielmo Marconi University	Italy	62	-	-	-	1599	67.3
+1674
+Top 8%	Hubei University of Technology	China	268	-	-	-	1600	67.3
+1675
+Top 8%	National University of the Littoral	Argentina	5	-	-	-	1601	67.3
+1676
+Top 8%	California State University, Sacramento	USA	294	-	595	-	1639	67.3
+1677
+Top 8%	Federal University of Rio Grande	Brazil	42	-	-	-	1602	67.3
+1678
+Top 8.1%	Bahçeşehir University	Turkey	38	-	-	-	1603	67.3
+1679
+Top 8.1%	European University Institute	Italy	63	-	-	-	1604	67.3
+1680
+Top 8.1%	China West Normal University	China	269	-	-	-	1606	67.3
+1681
+Top 8.1%	Antonio Nariño University	Colombia	5	-	-	-	1607	67.3
+1682
+Top 8.1%	Dongbei University of Finance and Economics	China	270	-	153	-	-	67.3
+1683
+Top 8.1%	St. Marianna University School of Medicine	Japan	95	-	-	-	1609	67.3
+1684
+Top 8.1%	University of International Business and Economics	China	271	-	415	-	1705	67.3
+1685
+Top 8.1%	Razi University	Iran	29	-	-	-	1611	67.2
+1686
+Top 8.1%	Institute for Pure and Applied Mathematics (IMPA)	Brazil	43	115	-	230	-	67.2
+1687
+Top 8.1%	Shanxi Agricultural University	China	272	-	-	-	1614	67.2
+1688
+Top 8.1%	University of Lethbridge	Canada	36	286	-	-	1637	67.2
+1689
+Top 8.1%	Necmettin Erbakan University	Turkey	39	-	-	-	1615	67.2
+1690
+Top 8.1%	Comillas Pontifical University	Spain	49	-	120	-	-	67.2
+1691
+Top 8.1%	Ludong University	China	273	-	-	-	1616	67.2
+1692
+Top 8.1%	Mae Fah Luang University	Thailand	9	-	-	-	1617	67.2
+1693
+Top 8.1%	Suranaree University of Technology	Thailand	10	-	-	-	1618	67.2
+1694
+Top 8.1%	University of Nigeria	Nigeria	2	-	1673	-	1620	67.2
+1695
+Top 8.1%	University of Koblenz	Germany	67	-	-	-	1621	67.2
+1696
+Top 8.1%	Ohio Wesleyan University	USA	295	59	157	-	-	67.2
+1697
+Top 8.1%	Bahauddin Zakariya University	Pakistan	9	-	-	-	1622	67.2
+1698
+Top 8.1%	University of Toulouse-Jean Jaurès	France	66	-	-	-	1623	67.2
+1699
+Top 8.2%	Payame Noor University	Iran	30	-	-	-	1624	67.2
+1700
+Top 8.2%	Wonkwang University	South Korea	49	-	-	-	1625	67.2
+1701
+Top 8.2%	University of Gondar	Ethiopia	2	-	-	-	1626	67.2
+1702
+Top 8.2%	Rikkyo University	Japan	96	524	398	-	1730	67.2
+1703
+Top 8.2%	Pontifical Catholic University of Peru	Peru	2	-	1392	-	1628	67.2
+1704
+Top 8.2%	Bharathiar University	India	49	-	1367	-	1629	67.2
+1705
+Top 8.2%	University of Malta	Malta	1	-	-	-	1627	67.2
+1706
+Top 8.2%	Amrita Vishwa Vidyapeetham	India	50	-	-	-	1630	67.2
+1707
+Top 8.2%	Nelson Mandela University	South Africa	12	-	1379	-	1631	67.2
+1708
+Top 8.2%	Federal University of Mato Grosso	Brazil	44	-	-	-	1632	67.2
+1709
+Top 8.2%	Chongqing Normal University	China	274	-	-	-	1633	67.2
+1710
+Top 8.2%	Rajiv Gandhi University of Health Sciences	India	51	-	-	-	1634	67.1
+1711
+Top 8.2%	California State University, Los Angeles	USA	296	-	893	-	1646	67.1
+1712
+Top 8.2%	Kingston University	United Kingdom	85	520	556	-	1696	67.1
+1713
+Top 8.2%	University of Kurdistan	Iran	31	-	-	-	1635	67.1
+1714
+Top 8.2%	Jazan University	Saudi Arabia	12	-	-	-	1636	67.1
+1715
+Top 8.2%	Shanghai Institute of Technology	China	275	-	-	-	1638	67.1
+1716
+Top 8.2%	Reed College	USA	297	61	1268	-	-	67.1
+1717
+Top 8.2%	Pontifical Catholic University of Rio de Janeiro	Brazil	45	-	391	-	1741	67.1
+1718
+Top 8.2%	University of Leoben	Austria	16	-	1396	-	1642	67.1
+1719
+Top 8.2%	University of Notre Dame Australia	Australia	38	-	-	-	1643	67.1
+1720
+Top 8.3%	Polytechnic Institute of Porto	Portugal	13	-	-	-	1644	67.1
+1721
+Top 8.3%	University of Québec at Trois-Rivières	Canada	37	-	-	-	1645	67.1
+1722
+Top 8.3%	Georgia Southern University	USA	298	-	-	-	1647	67.1
+1723
+Top 8.3%	University of Cassino and Southern Lazio	Italy	64	-	-	-	1648	67.1
+1724
+Top 8.3%	Agricultural University of Athens	Greece	10	-	-	-	1649	67.1
+1725
+Top 8.3%	University of Trier	Germany	68	-	-	-	1650	67.1
+1726
+Top 8.3%	University of the West of Scotland	United Kingdom	86	-	1260	-	1651	67.1
+1727
+Top 8.3%	Anhui University of Science and Technology	China	276	-	1140	-	1660	67.1
+1728
+Top 8.3%	University of Zimbabwe	Zimbabwe	1	-	1164	-	1661	67.1
+1729
+Top 8.3%	Pontifical Catholic University of Paraná	Brazil	46	-	1652	-	1652	67.1
+1730
+Top 8.3%	University of Agriculture in Krakow	Poland	32	-	-	-	1654	67.1
+1731
+Top 8.3%	University of Niš	Serbia	4	-	-	-	1655	67.1
+1732
+Top 8.3%	Tribhuvan University	Nepal	1	-	-	-	1656	67.1
+1733
+Top 8.3%	Estonian University of Life Sciences	Estonia	3	-	-	-	1657	67.1
+1734
+Top 8.3%	Mazandaran University of Medical Sciences	Iran	32	-	-	-	1658	67.1
+1735
+Top 8.3%	University of North Carolina Wilmington	USA	299	-	-	-	1662	67.1
+1736
+Top 8.3%	Chengdu University of Information Technology	China	277	-	1633	-	1663	67.0
+1737
+Top 8.3%	Ahvaz Jundishapur University of Medical Sciences	Iran	33	-	-	-	1664	67.0
+1738
+Top 8.3%	Southern Federal University	Russia	34	-	-	-	1665	67.0
+1739
+Top 8.3%	Appalachian State University	USA	300	-	1146	-	1672	67.0
+1740
+Top 8.3%	Yunnan Normal University	China	278	-	-	-	1667	67.0
+1741
+Top 8.4%	Taizhou University	China	279	-	-	-	1668	67.0
+1742
+Top 8.4%	Xinyang Normal University	China	280	-	-	-	1669	67.0
+1743
+Top 8.4%	Wuhan Textile University	China	281	-	-	-	1670	67.0
+1744
+Top 8.4%	Sookmyung Women's University	South Korea	50	-	981	-	1686	67.0
+1745
+Top 8.4%	Dalian Polytechnic University	China	282	-	1209	-	1681	67.0
+1746
+Top 8.4%	University of Massachusetts Dartmouth	USA	301	-	1317	-	1679	67.0
+1747
+Top 8.4%	National University of Cuyo	Argentina	6	-	-	-	1673	67.0
+1748
+Top 8.4%	Mekelle University	Ethiopia	3	-	-	-	1674	67.0
+1749
+Top 8.4%	Hiroshima Institute of Technology	Japan	97	-	-	-	1675	67.0
+1750
+Top 8.4%	University of Fukui	Japan	98	-	-	-	1676	67.0
+1751
+Top 8.4%	PETRONAS University of Technology	Malaysia	8	-	-	-	1677	67.0
+1752
+Top 8.4%	Roskilde University	Denmark	7	-	-	-	1678	67.0
+1753
+Top 8.4%	Binzhou Medical University	China	283	-	-	-	1680	67.0
+1754
+Top 8.4%	Trinity University	USA	302	-	176	-	-	67.0
+1755
+Top 8.4%	Western Washington University	USA	303	-	1281	-	1685	67.0
+1756
+Top 8.4%	Kocaeli University	Turkey	40	-	-	-	1683	67.0
+1757
+Top 8.4%	Marshall University	USA	304	412	422	-	1769	67.0
+1758
+Top 8.4%	Alfaisal University	Saudi Arabia	13	-	-	-	1687	67.0
+1759
+Top 8.4%	University of La Rioja	Spain	50	-	-	-	1688	67.0
+1760
+Top 8.4%	Georgian Technical University	Georgia	3	-	-	-	1689	67.0
+1761
+Top 8.4%	Chengdu University of Traditional Chinese Medicine	China	284	-	-	-	1691	67.0
+1762
+Top 8.5%	Irkutsk Scientific Center of the Siberian Branch of the Russian Academy of Sciences	Russia	35	-	-	-	1692	66.9
+1763
+Top 8.5%	National University of Mar del Plata	Argentina	7	-	-	-	1693	66.9
+1764
+Top 8.5%	G.K. Boreskov Institute of Catalysis of the Siberian Branch of the Russian Academy of Sciences	Russia	36	-	-	-	1694	66.9
+1765
+Top 8.5%	Myongji University	South Korea	51	-	1645	-	1695	66.9
+1766
+Top 8.5%	Harbin Normal University	China	285	-	1503	-	1699	66.9
+1767
+Top 8.5%	Jimma University	Ethiopia	4	-	-	-	1697	66.9
+1768
+Top 8.5%	University of Zielona Góra	Poland	33	-	-	-	1698	66.9
+1769
+Top 8.5%	A.A. Kharkevich Institute for Information Transmission Problems of the Russian Academy of Sciences	Russia	37	-	-	-	1700	66.9
+1770
+Top 8.5%	Kansai Medical University	Japan	99	-	-	-	1701	66.9
+1771
+Top 8.5%	University of Louisiana at Lafayette	USA	305	-	-	-	1702	66.9
+1772
+Top 8.5%	Central University of Finance and Economics	China	286	-	525	-	1757	66.9
+1773
+Top 8.5%	Tzu Chi University	Taiwan	27	-	-	-	1703	66.9
+1774
+Top 8.5%	University of Lagos	Nigeria	3	-	-	-	1704	66.9
+1775
+Top 8.5%	Air Force Engineering University	China	287	-	-	-	1706	66.9
+1776
+Top 8.5%	Sakarya University	Turkey	41	-	-	-	1707	66.9
+1777
+Top 8.5%	Industrial University of Santander	Colombia	6	-	-	-	1708	66.9
+1778
+Top 8.5%	Yuan Ze University	Taiwan	28	-	-	-	1709	66.9
+1779
+Top 8.5%	Kongju National University	South Korea	52	-	-	-	1710	66.9
+1780
+Top 8.5%	Ningxia Medical University	China	288	-	-	-	1711	66.9
+1781
+Top 8.5%	East China University of Technology	China	289	-	-	-	1712	66.9
+1782
+Top 8.5%	Liaoning University of Technology	China	290	-	-	-	1713	66.9
+1783
+Top 8.6%	Liaoning Normal University	China	291	-	1151	-	1716	66.9
+1784
+Top 8.6%	East China Jiaotong University	China	292	-	1445	-	1714	66.9
+1785
+Top 8.6%	James Madison University	USA	306	-	737	-	1734	66.9
+1786
+Top 8.6%	St. John's University	USA	307	-	205	-	-	66.9
+1787
+Top 8.6%	Yazd University	Iran	34	-	-	-	1715	66.9
+1788
+Top 8.6%	South Dakota School of Mines and Technology	USA	308	124	-	-	-	66.9
+1789
+Top 8.6%	Hampton University	USA	309	-	-	-	1717	66.8
+1790
+Top 8.6%	Yancheng Institute of Technology	China	293	-	-	-	1718	66.8
+1791
+Top 8.6%	University of Ruhuna	Sri Lanka	2	-	-	-	1719	66.8
+1792
+Top 8.6%	Ibaraki University	Japan	100	-	-	-	1720	66.8
+1793
+Top 8.6%	Dokkyo Medical University	Japan	101	-	-	-	1721	66.8
+1794
+Top 8.6%	Polytechnic University of Cartagena	Spain	51	-	-	-	1722	66.8
+1795
+Top 8.6%	University of the Philippines Diliman	Philippines	2	-	-	-	1723	66.8
+1796
+Top 8.6%	Edinburgh Napier University	United Kingdom	87	-	-	-	1724	66.8
+1797
+Top 8.6%	Malmö University	Sweden	15	-	-	-	1725	66.8
+1798
+Top 8.6%	Saratov Scientific Center of the Russian Academy of Sciences	Russia	38	-	-	-	1727	66.8
+1799
+Top 8.6%	Laurentian University	Canada	38	-	406	-	1826	66.8
+1800
+Top 8.6%	National Dong Hwa University	Taiwan	29	-	-	-	1728	66.8
+1801
+Top 8.6%	Eskişehir Osmangazi University	Turkey	42	-	-	-	1729	66.8
+1802
+Top 8.6%	Technical University of Ostrava	Czech Republic	10	-	792	-	1743	66.8
+1803
+Top 8.6%	Cyprus University of Technology	Cyprus	2	-	-	-	1731	66.8
+1804
+Top 8.7%	University of San Francisco, Quito	Ecuador	1	-	-	-	1732	66.8
+1805
+Top 8.7%	New Mexico Institute of Mining and Technology	USA	310	-	-	-	1733	66.8
+1806
+Top 8.7%	Eulji University	South Korea	53	-	-	-	1735	66.8
+1807
+Top 8.7%	Kennesaw State University	USA	311	-	-	-	1736	66.8
+1808
+Top 8.7%	University of Westminster	United Kingdom	88	282	1221	-	1764	66.8
+1809
+Top 8.7%	Harokopio University	Greece	11	-	-	-	1737	66.8
+1810
+Top 8.7%	IFP School	France	67	-	66	-	-	66.8
+1811
+Top 8.7%	Shaoxing University	China	294	-	-	-	1738	66.8
+1812
+Top 8.7%	Kyoto University of Education	Japan	102	-	-	-	1739	66.8
+1813
+Top 8.7%	University of Molise	Italy	65	-	-	-	1740	66.8
+1814
+Top 8.7%	Sohag University	Egypt	18	-	-	-	1742	66.8
+1815
+Top 8.7%	Franklin & Marshall College	USA	312	100	488	-	-	66.8
+1816
+Top 8.7%	University of Talca	Chile	13	-	-	-	1744	66.7
+1817
+Top 8.7%	Hongik University	South Korea	54	-	994	-	1753	66.7
+1818
+Top 8.7%	Qinghai University	China	295	-	-	-	1745	66.7
+1819
+Top 8.7%	University of South-Eastern Norway	Norway	13	-	-	-	1746	66.7
+1820
+Top 8.7%	Qassim University	Saudi Arabia	14	-	-	-	1747	66.7
+1821
+Top 8.7%	Akita University	Japan	103	-	-	-	1748	66.7
+1822
+Top 8.7%	Hubei University of Medicine	China	296	-	-	-	1749	66.7
+1823
+Top 8.7%	Sanjay Gandhi Postgraduate Institute of Medical Sciences	India	52	-	-	-	1750	66.7
+1824
+Top 8.7%	Autonomous University of Chile	Chile	14	-	-	-	1751	66.7
+1825
+Top 8.8%	Oita University	Japan	104	-	-	-	1752	66.7
+1826
+Top 8.8%	Cooper Union	USA	313	47	672	-	-	66.7
+1827
+Top 8.8%	Mimar Sinan Fine Arts University	Turkey	43	-	-	-	1754	66.7
+1828
+Top 8.8%	Technological Institute of Aeronautics	Brazil	47	-	156	-	-	66.7
+1829
+Top 8.8%	University of Desarrollo	Chile	15	-	-	-	1755	66.7
+1830
+Top 8.8%	University of Mazandaran	Iran	35	-	-	-	1756	66.7
+1831
+Top 8.8%	Tunghai University	Taiwan	30	-	1403	-	1758	66.7
+1832
+Top 8.8%	Embry-Riddle Aeronautical University	USA	314	-	1505	-	1759	66.7
+1833
+Top 8.8%	Federal University of Ouro Preto	Brazil	48	-	-	-	1760	66.7
+1834
+Top 8.8%	Gangneung-Wonju National University	South Korea	55	-	-	-	1761	66.7
+1835
+Top 8.8%	Shanxi Normal University	China	297	-	-	-	1762	66.7
+1836
+Top 8.8%	Kawasaki Medical School	Japan	105	-	-	-	1763	66.7
+1837
+Top 8.8%	Kettering University	USA	315	-	77	-	-	66.7
+1838
+Top 8.8%	Bond University	Australia	39	-	1400	-	1766	66.7
+1839
+Top 8.8%	Princess Nourah bint Abdulrahman University	Saudi Arabia	15	-	-	-	1765	66.7
+1840
+Top 8.8%	Wrocław University of Environmental and Life Sciences	Poland	34	-	-	-	1767	66.7
+1841
+Top 8.8%	Queens College, City University of New York	USA	316	-	863	-	1783	66.7
+1842
+Top 8.8%	Nicolaus Copernicus Astronomical Center of the Polish Academy of Sciences	Poland	35	-	-	-	1768	66.7
+1843
+Top 8.8%	Guangdong Ocean University	China	298	-	-	-	1770	66.6
+1844
+Top 8.8%	Karlstad University	Sweden	16	-	1288	-	1773	66.6
+1845
+Top 8.8%	Brooklyn College	USA	317	136	1611	-	-	66.6
+1846
+Top 8.9%	National Institute of Mental Health and Neurosciences	India	53	-	-	-	1771	66.6
+1847
+Top 8.9%	Ahmadu Bello University	Nigeria	4	-	1411	-	1774	66.6
+1848
+Top 8.9%	Hainan Medical University	China	299	-	-	-	1772	66.6
+1849
+Top 8.9%	Central European University	Hungary	7	-	-	-	1775	66.6
+1850
+Top 8.9%	Towson University	USA	318	-	791	-	1801	66.6
+1851
+Top 8.9%	College of Charleston	USA	319	-	-	-	1776	66.6
+1852
+Top 8.9%	University of Lahore	Pakistan	10	-	-	-	1778	66.6
+1853
+Top 8.9%	University of Science and Technology Liaoning	China	300	-	826	-	1800	66.6
+1854
+Top 8.9%	University of Toulon	France	68	-	-	-	1779	66.6
+1855
+Top 8.9%	Institute of Chemical Technology, Mumbai	India	54	-	-	-	1780	66.6
+1856
+Top 8.9%	Japan Advanced Institute of Science and Technology	Japan	106	-	-	-	1781	66.6
+1857
+Top 8.9%	Hanoi Medical University	Vietnam	5	-	-	-	1782	66.6
+1858
+Top 8.9%	Indian Institute of Science Education and Research, Bhopal	India	55	-	-	-	1784	66.6
+1859
+Top 8.9%	Adolfo Ibáñez University	Chile	16	-	742	-	1817	66.6
+1860
+Top 8.9%	East Tennessee State University	USA	320	-	-	-	1785	66.6
+1861
+Top 8.9%	Lanzhou Jiaotong University	China	301	-	-	-	1786	66.6
+1862
+Top 8.9%	Hebei University of Science and Technology	China	302	-	-	-	1787	66.6
+1863
+Top 8.9%	Gadjah Mada University	Indonesia	2	-	-	-	1788	66.6
+1864
+Top 8.9%	Federal University of Alagoas	Brazil	49	-	-	-	1789	66.6
+1865
+Top 8.9%	Nanjing University of Finance & Economics	China	303	-	-	-	1790	66.6
+1866
+Top 9%	Jönköping University	Sweden	17	-	1555	-	1791	66.6
+1867
+Top 9%	ESCP Business School	France	69	-	116	-	-	66.6
+1868
+Top 9%	Federal University of Triângulo Mineiro	Brazil	50	-	-	-	1792	66.6
+1869
+Top 9%	Utah Valley University	USA	321	-	-	-	1793	66.6
+1870
+Top 9%	Reichman University	Israel	9	-	512	-	1880	66.5
+1871
+Top 9%	Institute of Mathematics of the Polish Academy of Sciences	Poland	36	-	-	-	1794	66.5
+1872
+Top 9%	Cracow University of Technology	Poland	37	-	-	-	1795	66.5
+1873
+Top 9%	Inner Mongolia Agricultural University	China	304	-	902	-	1813	66.5
+1874
+Top 9%	University of Karachi	Pakistan	11	-	-	-	1796	66.5
+1875
+Top 9%	Eastern Mediterranean University	Northern Cyprus	2	-	-	-	1799	66.5
+1876
+Top 9%	Jiangxi University of Finance and Economics	China	305	-	735	-	1836	66.5
+1877
+Top 9%	Goldsmiths, University of London	United Kingdom	89	411	-	-	1812	66.5
+1878
+Top 9%	Zunyi Medical University	China	306	-	-	-	1802	66.5
+1879
+Top 9%	Catholic University of Daegu	South Korea	56	-	-	-	1803	66.5
+1880
+Top 9%	Kerman University of Medical Sciences	Iran	36	-	-	-	1804	66.5
+1881
+Top 9%	Muhimbili University of Health and Allied Sciences	Tanzania	1	-	-	-	1805	66.5
+1882
+Top 9%	Wuyi University	China	307	-	-	-	1806	66.5
+1883
+Top 9%	National Yunlin University of Science and Technology	Taiwan	31	-	-	-	1807	66.5
+1884
+Top 9%	Union College	USA	322	174	123	-	-	66.5
+1885
+Top 9%	Manisa Celal Bayar University	Turkey	44	-	-	-	1808	66.5
+1886
+Top 9%	Bahir Dar University	Ethiopia	5	-	-	-	1809	66.5
+1887
+Top 9.1%	Bandung Institute of Technology	Indonesia	3	-	547	-	1884	66.5
+1888
+Top 9.1%	Indian Institute of Science Education and Research, Mohali	India	56	-	-	-	1810	66.5
+1889
+Top 9.1%	Zhejiang Ocean University	China	308	-	1576	-	1811	66.5
+1890
+Top 9.1%	Asian Institute of Management	Philippines	3	-	74	-	-	66.5
+1891
+Top 9.1%	Jimei University	China	309	-	1613	-	1814	66.5
+1892
+Top 9.1%	Mid Sweden University	Sweden	18	-	1628	-	1815	66.5
+1893
+Top 9.1%	Jianghan University	China	310	-	-	-	1818	66.5
+1894
+Top 9.1%	University of Tabuk	Saudi Arabia	16	-	-	-	1819	66.5
+1895
+Top 9.1%	National University of the South	Argentina	8	-	-	-	1820	66.5
+1896
+Top 9.1%	Gansu Agricultural University	China	311	-	-	-	1821	66.5
+1897
+Top 9.1%	SASTRA	India	57	-	-	-	1822	66.5
+1898
+Top 9.1%	Chongqing University of Technology	China	312	-	-	-	1823	66.4
+1899
+Top 9.1%	West Pomeranian University of Technology, Szczecin	Poland	38	-	-	-	1824	66.4
+1900
+Top 9.1%	Anadolu University	Turkey	45	-	-	-	1825	66.4
+1901
+Top 9.1%	King Faisal University	Saudi Arabia	17	-	-	-	1827	66.4
+1902
+Top 9.1%	University of Bergamo	Italy	66	-	-	-	1829	66.4
+1903
+Top 9.1%	A.N. Nesmeyanov Institute of Organoelement Compounds of the Russian Academy of Sciences	Russia	39	-	-	-	1830	66.4
+1904
+Top 9.1%	University of Bialystok	Poland	39	-	-	-	1831	66.4
+1905
+Top 9.1%	M.M. Shemyakin and Y.A. Ovchinnikov Institute of Bioorganic Chemistry of the Russian Academy of Sciences	Russia	40	-	-	-	1832	66.4
+1906
+Top 9.1%	Başkent University	Turkey	46	-	1307	-	1837	66.4
+1907
+Top 9.1%	Kharazmi University	Iran	37	-	-	-	1833	66.4
+1908
+Top 9.2%	Iwate University	Japan	107	-	-	-	1834	66.4
+1909
+Top 9.2%	Siberian Federal University	Russia	41	-	1671	-	1835	66.4
+1910
+Top 9.2%	A.M. Prokhorov General Physics Institute of the Russian Academy of Sciences	Russia	42	-	-	-	1838	66.4
+1911
+Top 9.2%	South Ural State University	Russia	43	-	1137	-	1846	66.4
+1912
+Top 9.2%	IHE Delft Institute for Water Education	Netherlands	14	-	-	-	1839	66.4
+1913
+Top 9.2%	Islamia University of Bahawalpur	Pakistan	12	-	-	-	1840	66.4
+1914
+Top 9.2%	University of the Highlands and Islands	United Kingdom	90	-	-	-	1841	66.4
+1915
+Top 9.2%	Jackson State University	USA	323	-	-	-	1842	66.4
+1916
+Top 9.2%	Pamukkale University	Turkey	47	-	-	-	1843	66.4
+1917
+Top 9.2%	Fairfield University	USA	324	-	483	-	1942	66.4
+1918
+Top 9.2%	Minjiang University	China	313	-	-	-	1844	66.4
+1919
+Top 9.2%	Lebanese University	Lebanon	2	-	-	-	1845	66.4
+1920
+Top 9.2%	Naval Postgraduate School	USA	325	-	1080	-	1854	66.4
+1921
+Top 9.2%	Chongqing Jiaotong University	China	314	-	-	-	1847	66.4
+1922
+Top 9.2%	Federal University of Campina Grande	Brazil	51	-	-	-	1848	66.4
+1923
+Top 9.2%	University of Madras	India	58	341	559	-	1946	66.4
+1924
+Top 9.2%	N.D. Zelinsky Institute of Organic Chemistry of the Russian Academy of Sciences	Russia	44	-	-	-	1850	66.4
+1925
+Top 9.2%	Hanoi University of Science and Technology	Vietnam	6	-	-	-	1851	66.4
+1926
+Top 9.2%	WHU – Otto Beisheim School of Management	Germany	69	-	129	-	-	66.3
+1927
+Top 9.2%	Hungarian University of Agriculture and Life Sciences	Hungary	8	-	-	-	1852	66.3
+1928
+Top 9.2%	Indian Institute of Science Education and Research, Thiruvananthapuram	India	59	-	-	-	1853	66.3
+1929
+Top 9.3%	Polytechnic University of Hauts-de-France	France	70	-	-	-	1855	66.3
+1930
+Top 9.3%	University of Ostrava	Czech Republic	11	-	-	-	1856	66.3
+1931
+Top 9.3%	Institute of Physical Chemistry, Polish Academy of Sciences	Poland	40	-	-	-	1857	66.3
+1932
+Top 9.3%	Alborz University of Medical Sciences	Iran	38	-	-	-	1858	66.3
+1933
+Top 9.3%	Huaiyin Normal University	China	315	-	-	-	1859	66.3
+1934
+Top 9.3%	Federal Rural University of Rio de Janeiro	Brazil	52	-	-	-	1860	66.3
+1935
+Top 9.3%	Çankaya University	Turkey	48	-	-	-	1861	66.3
+1936
+Top 9.3%	University of Artois	France	71	-	-	-	1862	66.3
+1937
+Top 9.3%	Federal University of Piauí	Brazil	53	-	-	-	1863	66.3
+1938
+Top 9.3%	Indian Institute of Technology Ropar	India	60	-	-	-	1864	66.3
+1939
+Top 9.3%	Xi'an Technological University	China	316	-	-	-	1865	66.3
+1940
+Top 9.3%	Punjab Agricultural University	India	61	258	-	-	1908	66.3
+1941
+Top 9.3%	Baqiyatallah University of Medical Sciences	Iran	39	-	-	-	1866	66.3
+1942
+Top 9.3%	University of Sousse	Tunisia	5	-	-	-	1867	66.3
+1943
+Top 9.3%	Saint Mary's University	Canada	39	-	1273	-	1869	66.3
+1944
+Top 9.3%	Meiji University	Japan	108	-	653	-	1914	66.3
+1945
+Top 9.3%	American University in Cairo	Egypt	19	-	241	-	-	66.3
+1946
+Top 9.3%	Kaunas University of Technology	Lithuania	3	-	-	-	1868	66.3
+1947
+Top 9.3%	University of Jammu	India	62	-	-	-	1870	66.3
+1948
+Top 9.3%	Shiraz University of Technology	Iran	40	-	-	-	1871	66.3
+1949
+Top 9.3%	Graduate School & Training Center, Research Institute of Petroleum Exploration and Development	China	317	-	73	-	-	66.3
+1950
+Top 9.4%	University of Colombo	Sri Lanka	3	-	-	-	1872	66.3
+1951
+Top 9.4%	Florida Agricultural and Mechanical University	USA	326	-	-	-	1873	66.3
+1952
+Top 9.4%	Suez University	Egypt	20	-	-	-	1874	66.3
+1953
+Top 9.4%	Kyoto Institute of Technology	Japan	109	-	-	-	1875	66.3
+1954
+Top 9.4%	Idaho State University	USA	327	458	-	-	1879	66.2
+1955
+Top 9.4%	Technical University of Crete	Greece	12	-	-	-	1876	66.2
+1956
+Top 9.4%	Far Eastern Federal University	Russia	45	-	-	-	1877	66.2
+1957
+Top 9.4%	University of Ha'il	Saudi Arabia	18	-	-	-	1878	66.2
+1958
+Top 9.4%	University of Rzeszów	Poland	41	-	-	-	1881	66.2
+1959
+Top 9.4%	Tshwane University of Technology	South Africa	13	-	-	-	1882	66.2
+1960
+Top 9.4%	Leeds Beckett University	United Kingdom	91	-	-	-	1885	66.2
+1961
+Top 9.4%	University of Valle	Colombia	7	-	-	-	1886	66.2
+1962
+Top 9.4%	Institute of Ecology (INECOL)	Mexico	14	-	-	-	1887	66.2
+1963
+Top 9.4%	Institute for Nuclear Research of the National Academy of Sciences of Ukraine	Ukraine	4	-	-	-	1888	66.2
+1964
+Top 9.4%	Hankuk University of Foreign Studies	South Korea	57	-	429	-	-	66.2
+1965
+Top 9.4%	Mediterranean University of Reggio Calabria	Italy	67	-	-	-	1889	66.2
+1966
+Top 9.4%	Mälardalen University	Sweden	19	-	-	-	1890	66.2
+1967
+Top 9.4%	Gebze Technical University	Turkey	49	-	-	-	1891	66.2
+1968
+Top 9.4%	Dalarna University	Sweden	20	-	-	-	1892	66.2
+1969
+Top 9.4%	An-Najah National University	Palestine	1	-	-	-	1893	66.2
+1970
+Top 9.4%	Amity University, Noida	India	63	-	-	-	1895	66.2
+1971
+Top 9.5%	Obafemi Awolowo University	Nigeria	5	-	1674	-	1897	66.2
+1972
+Top 9.5%	European University of Madrid	Spain	52	-	-	-	1896	66.2
+1973
+Top 9.5%	Riga Technical University	Latvia	2	-	-	-	1898	66.2
+1974
+Top 9.5%	Drew University	USA	328	-	602	129	-	66.2
+1975
+Top 9.5%	Guru Nanak Dev University	India	64	-	1541	-	1899	66.2
+1976
+Top 9.5%	Institut supérieur de l'aéronautique et de l'espace	France	72	-	179	-	-	66.2
+1977
+Top 9.5%	Tianjin University of Traditional Chinese Medicine	China	318	-	-	-	1900	66.2
+1978
+Top 9.5%	Zurich University of Applied Sciences (ZHAW)	Switzerland	13	-	844	-	1936	66.2
+1979
+Top 9.5%	University of Vic - Central University of Catalonia	Spain	53	-	-	-	1901	66.2
+1980
+Top 9.5%	Istanbul Medeniyet University	Turkey	50	-	-	-	1902	66.2
+1981
+Top 9.5%	Changchun University of Technology	China	319	-	-	-	1903	66.2
+1982
+Top 9.5%	Haramaya University	Ethiopia	6	-	-	-	1904	66.1
+1983
+Top 9.5%	Shahrood University of Technology	Iran	41	-	-	-	1905	66.1
+1984
+Top 9.5%	University of Wolverhampton	United Kingdom	92	-	-	-	1906	66.1
+1985
+Top 9.5%	Federal University of Amazonas	Brazil	54	-	-	-	1907	66.1
+1986
+Top 9.5%	Pondicherry University	India	65	-	-	-	1910	66.1
+1987
+Top 9.5%	Pirogov Russian National Research Medical University	Russia	46	-	-	-	1911	66.1
+1988
+Top 9.5%	National Defense Medical College	Japan	110	-	-	-	1912	66.1
+1989
+Top 9.5%	Minzu University of China	China	320	-	-	-	1913	66.1
+1990
+Top 9.5%	Ss. Cyril and Methodius University in Skopje	North Macedonia	1	-	-	-	1915	66.1
+1991
+Top 9.5%	University of La Réunion	France	73	-	-	-	1916	66.1
+1992
+Top 9.6%	Shahid Chamran University of Ahvaz	Iran	42	-	-	-	1917	66.1
+1993
+Top 9.6%	Josip Juraj Strossmayer University of Osijek	Croatia	4	-	-	-	1918	66.1
+1994
+Top 9.6%	University of Alaska Anchorage	USA	329	-	-	-	1919	66.1
+1995
+Top 9.6%	Autonomous University of Sinaloa	Mexico	15	-	-	-	1920	66.1
+1996
+Top 9.6%	Northeast Electric Power University	China	321	-	807	-	1952	66.1
+1997
+Top 9.6%	Xihua University	China	322	-	-	-	1922	66.1
+1998
+Top 9.6%	Northeast Petroleum University	China	323	-	1628	-	1923	66.1
+1999
+Top 9.6%	University of Nova Gorica	Slovenia	3	-	-	-	1924	66.1
+2000
+Top 9.6%	Yunnan Agricultural University	China	324	-	-	-	1925	66.1

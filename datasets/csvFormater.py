@@ -2,13 +2,14 @@ import csv
 def main():
 	# fileName = input("Input file: ")
 	# outputName = input("Output file: ")
-	fileName = "notReady.txt"
-	outputName = "public_transport.csv"
+	fileName = "university_ranking.txt"
+	outputName = "university_ranking.csv"
 	file = open(fileName, "r")
 	cont = file.read().split("\n")
 	map = {}
 	counts = {}
 	for i in cont:
+		print(i)
 		if i == "":
 			continue
 		#i = i.replace("\t", ',')
