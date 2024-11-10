@@ -5,6 +5,7 @@ def main():
 	fileName = "university_ranking.txt"
 	outputName = "university_ranking.csv"
 	file = open(fileName, "r")
+
 	cont = file.read().split("\n")
 	map = {}
 	counts = {}
