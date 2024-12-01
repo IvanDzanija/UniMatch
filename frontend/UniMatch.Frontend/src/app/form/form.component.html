@@ -1,0 +1,276 @@
+<body>
+<app-form-intro></app-form-intro>
+<div class = "form-container">
+<div class="form-name" id="form">
+    FORM
+</div>
+<form class="form" #form="ngForm" (ngSubmit)="uniFilter()">
+            <div class="form-left item1">Continent</div> 
+            
+            <div class="form-right item2">
+                <div class="radio-container">
+                        <input type="radio" id="asia" name="continent" value="asia" class="radio-class"  [(ngModel)]="info.continent" required> 
+                        <label for="asia" class="grid-label">Asia</label>
+                </div>
+                <div class="radio-container">
+                        <input type="radio" id="europe" name="continent" value="europe" class="radio-class" [(ngModel)]="info.continent" required>
+                        <label for="europe" class="grid-label">Europe</label>
+                </div>
+                <div class="radio-container">
+                        <input type="radio" id="africa" name="continent" value="africa" class="radio-class" [(ngModel)]="info.continent" required>
+                        <label for="africa" class="grid-label">Africa</label>
+                </div>
+                <div class="radio-container">
+                        <input type="radio" id="australia" name="continent" value="australia" class="radio-class" [(ngModel)]="info.continent" required>
+                        <label for="australia" class="grid-label">Australia</label>
+                </div>
+                <div class="radio-container">
+                        <input type="radio" id="north-america" name="continent" value = "north-america" class="radio-class"  [(ngModel)]="info.continent" required> 
+                        <label for="north-america" class="grid-label">North America</label>
+                </div>
+                <div class="radio-container">
+                        <input type="radio" id="south-america" name="continent" value="south-america" class="radio-class"  [(ngModel)]="info.continent" required>
+                        <label for="south-america" class="grid-label">South America</label>
+                </div>
+           </div>
+
+           <div class="form-left item3">University Rank</div>
+        
+           <div class = "form-right  two-sliders item4">
+                <div class="dual-slider-container">
+                        <mat-slider discrete min="1" max="25000" >
+                                <input name="rankMin" matSliderStartThumb [(ngModel)]="info.rankMin">
+                                <input name="rankMax" matSliderEndThumb [(ngModel)]="info.rankMax">
+                         </mat-slider>
+                </div>
+
+                <div class="priority-range">
+                        <label for="rankPRange" class="name">Priority</label>
+                        <mat-slider id="rankPRange" discrete showTickMarks min="1" max="100" step="0.2" >
+                                <input name="rankPrio" matSliderThumb [(ngModel)]="info.rankPrio">
+                        </mat-slider>
+                </div>
+           </div>
+                      
+           <div class="form-left item5">Safety index</div>
+
+           <div class="form-right minmax-container item6">
+                <div class="min-container">
+                        <label for="safety-min" class="name">Min</label>
+                        <select class="form-select" id="safety-min" aria-label="Default select example" required 
+                                    (ngModelChange)="minValidateSafety($event)" name="safetyMin" [(ngModel)]="info.safetyMin">
+                                            <option disabled selected>Pick minimum safety index category</option>
+                                            <option value="high-safety" >High safety</option>
+                                            <option value="medium-high-safety" name="safetyMin" >Medium high safety</option>
+                                            <option value="medium-safety" name="safetyMin" >Medium safety</option>
+                                            <option value="medium-low-safety" name="safetyMin" >Medium low safety</option>
+                                            <option value="low-safety" name="safetyMin" >Low safety</option>
+                                        </select>
+
+                </div>
+                <em *ngIf="safetyError">Invalid safety values</em>
+                <div class="max-container">
+                        <label for="safety-max" class="name">Max</label>
+                        <select class="form-select" id="safety-max" aria-label="Default select example" required
+                                     (ngModelChange)="maxValidateSafety($event)" name="safetyMax" [(ngModel)]="info.safetyMax">
+                                            <option disabled selected>Pick maximum safety index category</option>
+                                            <option value="high-safety" name="safetyMax" [(ngModel)]="info.safetyMax">High safety</option>
+                                            <option value="medium-high-safety" name="safetyMax" [(ngModel)]="info.safetyMax">Medium high safety</option>
+                                            <option value="medium-safety" name="safetyMax" [(ngModel)]="info.safetyMax">Medium safety</option>
+                                            <option value="medium-low-safety" name="safetyMax" [(ngModel)]="info.safetyMax">Medium low safety</option>
+                                            <option value="low-safety" name="safetyMax" [(ngModel)]="info.safetyMax">Low safety</option>
+                                        </select>
+                </div>
+                <div class="priority-range">
+                        <label for="safetyPRange" class="name">Priority</label>
+                        <mat-slider id="safetyPRange" discrete showTickMarks min="1" max="100" step="0.2">
+                        <input matSliderThumb name="safetyPrio" [(ngModel)]="info.safetyPrio">
+                        </mat-slider>
+                </div>
+           
+           </div>
+        
+           <div class="form-left item7">Acceptance rate</div>
+        
+           <div class = "form-right two-sliders item8">
+                <div class="dual-slider-container">
+                        <mat-slider discrete min="1" max="100">
+                                <input matSliderStartThumb name="accMax" [(ngModel)]="info.accMin">
+                                <input matSliderEndThumb name="accMin" [(ngModel)]="info.accMax">
+                        </mat-slider>
+                </div>
+
+                <div class="priority-range">
+                        <label for= "acceptancePRange" class="name">Priority</label>
+                        <mat-slider id="acceptancePRange" discrete showTickMarks min="1" max="100" step="0.2">
+                                <input matSliderThumb name="accPrio" [(ngModel)]="info.accPrio" >
+                        </mat-slider>
+                </div>
+           </div>
+           
+        
+           
+            <div class="form-left item9">International student<br> ratio</div>
+            
+            <div class = "form-right two-sliders item10">
+                <div class="dual-slider-container">
+                        <mat-slider discrete min="1" max="100">
+                                <input matSliderStartThumb name="ISRMin" [(ngModel)]="info.ISRMin">
+                                <input matSliderEndThumb name="ISRMax" [(ngModel)]="info.ISRMax">
+                        </mat-slider>
+                </div>
+                <div class="priority-range">
+                        <label for="internationalPRange" class="name">Priority</label>
+                        <mat-slider id="internationalPRange" discrete showTickMarks min="1" max="100" step="0.2">
+                                <input matSliderThumb name="ISRPrio" [(ngModel)]="info.ISRPrio">
+                        </mat-slider>
+                </div>
+           </div>
+           <div class="form-left item11">Cost of living</div>
+
+           <div class="form-right item12 two-sliders">
+                <div class="dual-slider-container">
+                        <mat-slider discrete min="1" max="100">
+                                <input matSliderStartThumb name="CoLMin" [(ngModel)]="info.CoLMin">
+                                <input matSliderEndThumb name="CoLMax" [(ngModel)]="info.CoLMax">
+                         </mat-slider>
+                </div>
+
+                <div class="priority-range">
+                        <label for="rankPRange" class="name">Priority</label>
+                        <mat-slider id="rankPRange" discrete showTickMarks min="1" max="100" step="0.2">
+                                <input matSliderThumb name="CoLPrio" [(ngModel)]="info.CoLPrio">
+                        </mat-slider>
+                </div>
+           </div>
+        <div class="form-left item13">&nbsp;&nbsp;&nbsp;&nbsp;Rent cost</div>
+
+          <div class="form-right  two-sliders item14">
+           <div class="dual-slider-container">
+                   <mat-slider discrete min="1" max="100">
+                           <input matSliderStartThumb name="rentMin" [(ngModel)]="info.rentMin">
+                           <input  matSliderEndThumb name="rentMax" [(ngModel)]="info.rentMax">
+                    </mat-slider>
+           </div>
+
+           <div class="priority-range">
+                   <label for="rankPRange" class="name">Priority</label>
+                   <mat-slider id="rankPRange" discrete showTickMarks min="1" max="100" step="0.2">
+                           <input matSliderThumb name="rentPrio" [(ngModel)]="info.rentPrio">
+                   </mat-slider>
+           </div>
+        </div>
+
+        <div class="form-left item15">&nbsp;&nbsp;&nbsp;&nbsp;Grocery cost</div>
+
+          <div class="form-right  two-sliders item16">
+           <div class="dual-slider-container">
+                   <mat-slider discrete min="1" max="100">
+                           <input matSliderStartThumb name="GroceryMin" [(ngModel)]="info.groceryMin">
+                           <input matSliderEndThumb name="groceryMax" [(ngModel)]="info.groceryMax">
+                    </mat-slider>
+           </div>
+
+           <div class="priority-range">
+                   <label for="rankPRange" class="name">Priority</label>
+                   <mat-slider id="rankPRange" discrete showTickMarks min="1" max="100" step="0.2">
+                           <input matSliderThumb name="groceryPrio" [(ngModel)]="info.groceryPrio">
+                   </mat-slider>
+           </div>
+        </div>
+
+        <div class="form-left item17">&nbsp;&nbsp;&nbsp;&nbsp;Transport cost</div>
+
+          <div class="form-right  two-sliders item18">
+           <div class="dual-slider-container">
+                   <mat-slider discrete min="1" max="100">
+                           <input matSliderStartThumb name="transportMin" [(ngModel)]="info.transportMin">
+                           <input matSliderEndThumb name="transportMax" [(ngModel)]="info.transportMax">
+                    </mat-slider>
+           </div>
+
+           <div class="priority-range">
+                   <label for="rankPRange" class="name">Priority</label>
+                   <mat-slider id="rankPRange" discrete showTickMarks min="1" max="100" step="0.2">
+                           <input matSliderThumb name="transportPrio" [(ngModel)]="info.transportPrio">
+                   </mat-slider>
+           </div>
+        </div>
+
+        <div class="form-left item19">&nbsp;&nbsp;&nbsp;&nbsp;Recreation cost</div>
+
+          <div class="form-right two-sliders item20">
+           <div class="dual-slider-container">
+                   <mat-slider discrete min="1" max="100">
+                           <input matSliderStartThumb name="recreationMin" [(ngModel)]="info.recreationMin">
+                           <input matSliderEndThumb name="recreationMax" [(ngModel)]="info.recreationMax">
+                    </mat-slider>
+           </div>
+
+           <div class="priority-range">
+                   <label for="rankPRange" class="name">Priority</label>
+                   <mat-slider id="rankPRange" discrete showTickMarks min="1" max="100" step="0.2">
+                           <input matSliderThumb name="recreationPrio" [(ngModel)]="info.recreationPrio">
+                   </mat-slider>
+           </div>
+        </div>
+        
+        <div class="form-left item21">Healthcare budget</div>
+
+           <div class="form-right item22 two-sliders">
+                <div class="dual-slider-container">
+                        <mat-slider discrete min="1" max="100">
+                                <input matSliderStartThumb name="healthcareBudgetMin" [(ngModel)]="info.healthcareBudgetMin">
+                                <input matSliderEndThumb name="healthcareBudgetMax" [(ngModel)]="info.healthcareBudgetMax">
+                         </mat-slider>
+                </div>
+
+                <div class="priority-range">
+                        <label for="rankPRange" class="name">Priority</label>
+                        <mat-slider id="rankPRange" discrete showTickMarks min="1" max="100" step="0.2">
+                                <input matSliderThumb name="healthcareBudgetPrio" [(ngModel)]="info.healthcareBudgetPrio">
+                        </mat-slider>
+                </div>
+        </div>
+
+        <div class="form-left item23">Tuition budget</div>
+
+           <div class="form-right item24 two-sliders">
+                <div class="dual-slider-container">
+                        <mat-slider discrete min="1" max="100">
+                                <input matSliderStartThumb name="tuitionBudgetMin" [(ngModel)]="info.tuitionBudgetMin">
+                                <input matSliderEndThumb name="tuitionBudgetMax" [(ngModel)]="info.tuitionBudgetMax">
+                         </mat-slider>
+                </div>
+
+
+                <div class="priority-range">
+                        <label for="rankPRange" class="name">Priority</label>
+                        <mat-slider id="rankPRange" discrete showTickMarks min="1" max="100" step="0.2">
+                                <input matSliderThumb name="tuitionBudgetPrio" [(ngModel)]="info.tuitionBudgetPrio">
+                        </mat-slider>
+                </div>
+           </div>
+         
+           <div class="form-left major-left">Preferred major</div>
+
+           <div class="form-right major-right">
+                <select class="form-select" name="major" required aria-label="Default select example" [(ngModel)]="info.major">
+                                    <option disabled selected>Pick preferred major</option>
+                                    <option *ngFor="let options of majorOptions" [value]="options.value">{{options.text}}</option>
+                                </select>
+           </div>
+
+
+
+
+
+
+
+
+
+        <button type="submit" [disabled]="form.invalid || safetyError" class="btn btn-primary">Submit</button>
+</form>
+
+</div>
+</body>
