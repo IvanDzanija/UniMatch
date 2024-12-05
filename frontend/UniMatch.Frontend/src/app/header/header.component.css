@@ -1,0 +1,72 @@
+.navbar {
+  width: 100vw;
+  color: white;
+  display: flex;
+  align-items: center;
+  padding: 10px 20px;
+  justify-content: space-between;
+  background-color: #12229d;
+  margin-top: -8px;
+  margin-left: -8px;
+  margin-right: -8px;
+  border-bottom:2px solid #1d1d1d;
+  text-shadow: 0px 2px #1d1d1d;
+  }
+  .left {
+    width: 50vw;
+  }
+  .left, .right {
+    font-family:'Poppins';
+    font-size:x-large;
+    display: flex;
+    align-items: center;
+    font-weight: bold;
+  }
+  a.active {
+    padding-bottom: 5px;
+    border-bottom: 2px solid #d25ca1;
+  }
+  a{
+    color: white;
+  }
+  
+  .left a {
+    margin-left: 4em;
+    margin-right: 2em;
+  }
+
+  
+  .logo {
+    height: 5em;
+    margin-top: 0.5em;
+    margin-bottom:0.5em;
+  }
+  .right {
+    display: flex;
+    align-items: center;
+    margin-right: 25px;
+  }
+  
+  .right a {
+    margin-right: 4em;
+  }
+  
+  .left img,.right img {
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    cursor: pointer;
+  }
+  .right img {
+    margin-right: 0.8em;
+  }
+  a:link {
+    text-decoration: none;
+  }
+  a:hover {
+    text-decoration: underline;
+  }
+  
+  
+  
+  
