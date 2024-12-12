@@ -1,5 +1,6 @@
 <body>
 <app-form-intro></app-form-intro>
+<div class="form-background">
 <div class = "form-container">
 <div class="form-name" id="form">
     FORM
@@ -260,17 +261,10 @@
                                     <option *ngFor="let options of majorOptions" [value]="options.value">{{options.text}}</option>
                                 </select>
            </div>
-
-
-
-
-
-
-
-
-
+           
         <button type="submit" [disabled]="form.invalid || safetyError" class="btn btn-primary">Submit</button>
 </form>
 
+</div>
 </div>
 </body>

@@ -1,0 +1,157 @@
+.card-container {
+    position: relative;
+    display: grid;
+    grid-template-rows: 19% 19% 18% 18% 15% 11%;
+    justify-content: space-around;
+    border-style: solid;
+    border-width: 1px;
+    border-color: 12229d;
+    border-radius: 10px;
+    margin: 20px;
+    padding: 10px;
+    background-color: #f7f7f7;
+    box-shadow: 0 0 15px rgba(102, 153, 255, 0.6);
+    height: 300px
+}
+
+.card-container:hover {
+    background-color: #ececec;
+    transform: translateY(-3px);
+}
+
+.score {
+    position: absolute; 
+    top: 0;
+    left: 0;
+    width: 15%; 
+    height: 20%;
+    background-color: #5cb6f9; 
+    border-top-left-radius: 10px;
+    font-size: 30px;
+    font-weight: bold;
+    color: black;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    max-width: 100%;
+}
+
+.rank {
+    font-size: 15px;
+}
+
+.name {
+    font-size: 40px;
+    font-weight: bold;
+    color: black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.second-row {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.location {
+    font-size: 20px;
+    font-weight: bold;
+    color: black;
+    align-items: center;
+    justify-content: center;
+}
+
+i {
+    font-style: normal;
+    font-weight: bold;
+}
+
+.fifth-row {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-end;
+}
+
+.add-to-favourites {
+    visibility : hidden;
+    background-color: #555;
+    color: #fff;
+    text-align: center;
+    border-radius: 5px;
+    padding: 5px;
+    position: absolute;
+    z-index: 1;
+    bottom: 125%; /* Position above the icon */
+    left: 50%;
+    margin-left: -50px;
+    opacity: 0;
+    transition: opacity 0.3s;
+    width: 100px;
+}
+
+.link-text {
+    visibility : hidden;
+    background-color: #555;
+    color: #fff;
+    font-size: 13px;
+    text-align: center;
+    border-radius: 5px;
+    padding: 5px;
+    position: absolute;
+    z-index: 1;
+    bottom: 125%; /* Position above the icon */
+    left: 50%;
+    margin-left: -50px;
+    opacity: 0;
+    transition: opacity 0.3s;
+    max-width: fit-content;
+}
+
+.follow-link-button {
+    position: relative;
+    cursor: pointer;
+}
+
+.follow-link-button:hover .link-text {
+    visibility: visible;
+    opacity: 1;
+}
+
+.save-button {
+    position: relative;
+    background-color: #5cb6f9; 
+    color: #f7f7f7;
+    border: 2px solid #5cb6f9; 
+    border-radius: 5px; 
+    padding: 10px 20px;
+    font-size: 16px; 
+    font-family: 'Poppins', sans-serif; 
+    cursor: pointer; 
+    transition: all 0.3s ease; 
+  }
+  
+  .save-button:hover {
+    color: #f7f7f7; 
+    transform: scale(1.05); 
+  }
+  
+  .save-button:active {
+    background-color: #5cb6f9; 
+    transform: scale(1); 
+  }
+
+  .save-button:hover .add-to-favourites {
+    visibility: visible;
+    opacity: 1;
+  }
+
+  .fa-heart.red {
+    color: red;
+  }
+  
+  
