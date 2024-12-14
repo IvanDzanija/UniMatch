@@ -5,5 +5,5 @@ import views
 app_name = "src"
 
 urlpatterns = [
-    path("api/submit", views.formSubmit),
+    
 ]
