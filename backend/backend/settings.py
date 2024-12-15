@@ -39,9 +39,12 @@ INSTALLED_APPS = [
     "django.contrib.staticfiles",
     "api",
     "authentication",
+    'corsheaders',
+
 ]
 
 MIDDLEWARE = [
+   'corsheaders.middleware.CorsMiddleware',
     "django.middleware.security.SecurityMiddleware",
     "django.contrib.sessions.middleware.SessionMiddleware",
     "django.middleware.common.CommonMiddleware",
@@ -81,6 +84,22 @@ DATABASES = {
         "NAME": BASE_DIR / "db.sqlite3",
     }
 }
+CORS_ALLOWED_ORIGINS = [
+    "http://localhost:4200",  
+    "https://example.com",    
+]
+CORS_ALLOW_METHODS = [
+    "GET",
+    "POST",
+    "PUT",
+    "DELETE",
+    "OPTIONS",
+]
+CORS_ALLOW_HEADERS = [
+    "content-type",
+    "authorization",
+    "x-requested-with",
+]
 
 
 # Password validation
