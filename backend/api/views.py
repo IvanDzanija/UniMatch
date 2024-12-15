@@ -5,59 +5,63 @@ import json
 from .models import Forma
 # Create your views here.
 from django.views.decorators.csrf import csrf_exempt
+
 @csrf_exempt
 def forma(request):
    
    if(request.method=='POST'):
       try:
          data = json.loads(request.body)
-
-         continent = data.get('continent')
-         rankMin = data.get('rankMin')
-         rankMax = data.get('rankMax')
-         rankPrio = data.get('rankPrio')
-
-         safetyMin= data.get('safetyMin')
-         safetyMax= data.get('safetyMax')
-         safetyPrio = data.get('safetyPrio')
          
-         accMin = data.get('accMin')
-         accMax = data.get('accMax')
-         accPrio = data.get('accPrio')
 
-         ISRMin = data.get('ISRMin')
-         ISRMax = data.get('ISRMax')
-         ISRPrio = data.get('ISRPrio')
+         continent = data['info'].get('continent')
+         print(continent)
+         rankMin = data["info"].get('rankMin')
+         rankMax = data["info"].get('rankMax')
+         rankPrio = data["info"].get('rankPrio')
 
-         CoLMin = data.get('CoLMin')
-         CoLMax = data.get('CoLMax')
-         CoLPrio = data.get('CoLPrio')
-
-         rentMin = data.get('rentMin')
-         rentMax = data.get('rentMax')
-         rentPrio = data.get('rentPrio')
-
-         groceryMin = data.get('groceryMin')
-         groceryMax = data.get('groceryMax')
-         groceryPrio = data.get('groceryPrio')
-
-         transportMin=  data.get('transportMin')
-         transportMax = data.get('transportMax')
-         transportPrio = data.get('transportPrio')
-
-         recreationMin = data.get('recreationMin')
-         recreationMax = data.get('recreationMax')
-         recreationPrio = data.get('recreationPrio')
+         safetyMin= data["info"].get('safetyMin')
+         safetyMax= data["info"].get('safetyMax')
+         safetyPrio = data["info"].get('safetyPrio')
          
-         healthcareBudgetMin = data.get('healthcareBudgetMin')
-         healthcareBudgetMax = data.get('healthcareBudgetMax')
-         healthcareBudgetPrio = data.get('healthcareBudgetPrio')
+         accMin = data["info"].get('accMin')
+         accMax = data["info"].get('accMax')
+         accPrio = data["info"].get('accPrio')
 
-         tuitionBudgetMin = data.get('tuitionBudgetMin')
-         tuitionBudgetMax = data.get('tuitionBudgetMax')
-         tuitionBudgetPrio = data.get('tuitionBudgetPrio')
+         ISRMin = data["info"].get('ISRMin')
+         ISRMax = data["info"].get('ISRMax')
+         ISRPrio = data["info"].get('ISRPrio')
 
-         major = data.get('major')
+         CoLMin = data["info"].get('CoLMin')
+         CoLMax = data["info"].get('CoLMax')
+         CoLPrio = data["info"].get('CoLPrio')
+
+         rentMin = data["info"].get('rentMin')
+
+         rentMax = data["info"].get('rentMax')
+         rentPrio = data["info"].get('rentPrio')
+
+         groceryMin = data["info"].get('groceryMin')
+         groceryMax = data["info"].get('groceryMax')
+         groceryPrio = data["info"].get('groceryPrio')
+
+         transportMin=  data["info"].get('transportMin')
+         transportMax = data["info"].get('transportMax')
+         transportPrio = data["info"].get('transportPrio')
+
+         recreationMin = data["info"].get('recreationMin')
+         recreationMax = data["info"].get('recreationMax')
+         recreationPrio = data["info"].get('recreationPrio')
+         
+         healthcareBudgetMin = data["info"].get('healthcareBudgetMin')
+         healthcareBudgetMax = data["info"].get('healthcareBudgetMax')
+         healthcareBudgetPrio = data["info"].get('healthcareBudgetPrio')
+
+         tuitionBudgetMin = data["info"].get('tuitionBudgetMin')
+         tuitionBudgetMax = data["info"].get('tuitionBudgetMax')
+         tuitionBudgetPrio = data["info"].get('tuitionBudgetPrio')
+
+         major = data["info"].get('major')
 
          new_form = Forma(
       continent=continent,
@@ -97,9 +101,10 @@ def forma(request):
       major=major
    )
         # filter(new_form)
+         print(data)
          new_form.save()
 
-         print(data)
+         
 
       except json.JSONDecodeError:
             return JsonResponse({'status': 'error', 'message': 'Invalid JSON'}, status=400)
@@ -108,3 +113,7 @@ def forma(request):
         return JsonResponse({'status': 'error', 'message': 'Only POST requests are allowed'}, status=405)     
    
 
+def getSavedUniversities(request):
+   
+      
+   return 0

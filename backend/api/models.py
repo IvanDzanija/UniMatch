@@ -4,13 +4,13 @@ from django.db import models
 
 class Forma(models.Model):
   
-   continent = models.CharField(max_length=100)
+   continent = models.CharField(max_length=100, null=True, blank=True)
    rankMin = models.FloatField()
    rankMax = models.FloatField()
    rankPrio = models.TextField()
 
-   safetyMin = models.FloatField()
-   safetyMax = models.FloatField()
+   safetyMin = models.TextField()
+   safetyMax = models.TextField()
    safetyPrio = models.TextField()
 
    accMin = models.FloatField()
@@ -51,4 +51,14 @@ class Forma(models.Model):
 
    major = models.TextField()
 
-   
+
+
+class savedUniversities(models.Model):
+   name = models.CharField(max_length=150)
+   country = models.CharField(max_length=150)
+   city = models.CharField(max_length=150)
+   rank = models.IntegerField()
+   acc = models.FloatField()
+   estimatedCost = models.FloatField()
+
+    

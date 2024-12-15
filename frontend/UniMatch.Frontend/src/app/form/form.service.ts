@@ -10,7 +10,7 @@ export class FormService {
   
   toPost(info: inputInformation) {
 
-    return this.http.post<inputInformation>('http://localhost:3000/api/submit',{ info},{   //šaljemo json od info na api-server i logiramo response
+    return this.http.post<inputInformation>('http://localhost:8000/api/forma/',{ info},{   //šaljemo json od info na api-server i logiramo response
       headers: { 'Content-Type': 'application/json' }
     }).subscribe(response => {
       console.log("Response from server:", response);
