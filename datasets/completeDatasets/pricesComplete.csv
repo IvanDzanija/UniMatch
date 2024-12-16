@@ -1,0 +1,140 @@
+country,region,university,ranking,tuition,percOfIntStud,acceptanceRate,safetyIndex,livingCost,rentCost,groceriesCost,recreationCost,healthcareCost,transportCost,link,Computer Science,Business,Economics,Psychology,Biology,Law,Medicine,Mathematics,Art,Physics
+Albania,Europe,University of Tirana,4212.00,532.00,0.40,24.00,56.30,676.50,406.30,229.30,38.00,263.60,17.50,https://unitir.edu.al/eng/,1,1,1,1,1,1,1,1,1,1
+Algeria,Africa,University of Sciences and Technology Houari Boumediene,2890.00,840.00,0.00,56.00,47.94,464.40,145.70,200.90,31.52,74.88,10.09,https://www.usthb.dz/,1,0,0,0,1,0,0,1,0,1
+Argentina,Southern America,Universidad de Buenos Aires,272.00,0.00,25.00,64.00,36.46,472.50,291.30,162.20,68.30,221.99,11.00,https://www.uba.ar/,1,1,1,1,1,1,1,1,1,1
+Armenia,Asia,Yerevan State University,2427.00,555.00,2.00,20.00,77.72,658.90,728.30,196.60,42.43,457.90,10.35,https://www.ysu.am/en,1,1,1,1,1,1,0,1,1,1
+Australia,Oceania,The University of Melbourne,47.00,9749.00,48.00,77.00,55.96,1128.10,1280.20,422.10,87.00,926.63,114.38,https://www.unimelb.edu.au/,1,1,1,1,1,1,1,1,1,1
+Austria,Europe,University of Vienna,97.00,1453.00,36.00,28.00,73.67999999999999,1046.20,862.40,362.50,84.68,974.6999999999999,58.75,https://www.univie.ac.at/en/,1,1,1,1,1,1,0,1,1,1
+Azerbaijan,Asia,Baku State University,3877.00,1636.00,2.00,20.00,68.20,501.40,333.50,158.30,34.38,155.79999999999998,19.12,http://bsu.edu.az/en,1,1,1,1,1,1,0,1,1,1
+Bahamas,Southern America,University of The Bahamas,6157.00,5320.00,,60.00,38.68,1366.00,1406.70,445.50,108.06,455.81,52.72,https://www.ub.edu.bs/,1,1,1,1,1,1,1,1,1,1
+Bahrain,Asia,Applied Science University,10954.00,18381.00,21.00,53.00,74.46000000000001,840.50,785.80,256.10,55.70,251.10,30.92,https://www.asu.edu.bh/,1,1,1,0,0,1,0,0,1,0
+Bangladesh,Asia,University of Dhaka,991.00,116.00,0.00,11.00,36.88,361.60,92.00,140.30,28.85,40.17,20.40,https://www.du.ac.bd/,1,1,1,1,1,1,1,1,1,1
+Barbados,Southern America,University of the West Indies,5318.00,5864.00,,63.00,52.80,1231.00,728.30,441.20,93.66,517.77,44.23,https://www.cavehill.uwi.edu/home,1,1,1,1,1,1,1,1,1,1
+Belarus,Europe,Belarusian State University,1240.00,706.00,11.00,80.00,49.82000000000001,424.20,318.10,138.70,37.89,97.85,15.62,https://bsu.by/en/,1,1,1,1,1,1,0,1,0,1
+Belgium,Europe,KU Leuven,67.00,7518.00,21.00,34.00,53.62,981.90,770.40,314.00,78.31,963.78,53.97,https://www.kuleuven.be/english/kuleuven,1,1,1,1,1,1,1,1,1,1
+Bolivia,Southern America,Universidad Mayor de San Andrés,2756.00,185.00,0.00,49.00,41.60,443.50,287.50,147.40,37.24,58.96,22.76,https://www.umsa.bo/,1,1,1,1,1,1,1,1,1,1
+Bosnia And Herzegovina,Europe,University of Sarajevo,1452.00,1533.00,3.00,15.00,57.60,562.40,237.60,188.40,44.50,201.39999999999998,29.38,https://www.unsa.ba/en,1,1,1,1,1,1,1,1,1,1
+Botswana,Africa,University of Botswana,2133.00,2064.00,5.00,60.00,47.08,483.70,233.80,163.80,49.73,18.70,25.88,https://www.ub.bw/,1,1,1,1,1,1,1,1,1,1
+Brazil,Southern America,Universidade de São Paulo,48.00,193.00,2.00,9.00,32.82,485.30,302.80,161.10,80.31,163.82086897149998,43.28,https://www5.usp.br/,1,1,1,1,1,1,1,1,1,1
+Bulgaria,Europe,"Sofia University ""St. Kliment Ohridski""",868.00,3850.00,8.00,55.00,61.92,615.50,394.80,208.60,43.37,346.75,29.35666666666667,https://www.uni-sofia.bg/eng,1,1,1,1,1,1,1,1,1,1
+Cambodia,Asia,Institute of Technology of Cambodia,4872.00,1386.00,1.00,30.00,48.34,599.40,368.00,237.50,31.97,63.890178657999996,9.80,https://itc.edu.kh/,1,0,0,0,0,0,0,1,0,1
+Cameroon,Africa,University of Yaounde I,3261.00,645.00,,43.00,35.03333333333333,599.40,647.80,188.90,39.00,40.55,9.21,https://uy1.uninet.cm/,1,1,1,1,1,0,1,1,1,1
+Canada,Northern America,University of Toronto,13.00,24932.00,39.00,54.00,57.34,1041.30,1272.60,388.80,81.42,861.9594069724999,81.64,https://www.utoronto.ca/,1,1,1,1,1,1,1,1,1,1
+Chile,Southern America,Pontificia Universidad Católica de Chile,369.00,9250.00,4.00,45.00,46.26000000000001,628.30,425.50,227.10,61.81,436.48,42.40,https://www.uc.cl/,1,1,1,1,1,1,1,1,1,1
+China,Asia,Peking University,59.00,9074.00,15.00,20.00,71.47999999999999,509.40,471.50,200.90,46.38,219.09081669449998,28.48,https://english.pku.edu.cn/,1,1,1,1,1,1,1,1,1,1
+Colombia,Southern America,Universidad de los Andes,815.00,5332.00,2.00,48.00,42.06,462.80,329.60,165.40,45.37,72.40,40.81,https://www.uniandes.edu.co/,1,1,1,1,1,1,0,1,1,1
+Costa Rica,Southern America,Universidad de Costa Rica,750.00,270.00,2.00,40.00,45.40,840.50,640.10,306.30,55.32,186.98535421749997,35.22,https://www.ucr.ac.cr/,1,1,1,1,1,1,1,1,1,1
+Croatia,Europe,University of Zagreb,359.00,3800.00,4.00,56.00,75.14,731.20,529.00,237.50,54.36,123.50,46.66,https://www.unizg.hr/homepage/,1,1,1,1,1,1,1,1,1,1
+Cuba,Southern America,Universidad de La Habana,1715.00,600.00,4.00,40.00,69.50,750.50,452.30,234.80,23.00,100.52,8.41,https://serviciosacademicos.fundacion.uh.cu/,1,1,1,1,1,1,1,1,1,1
+Cyprus,Asia,University of Cyprus,971.00,6834.00,13.00,57.00,68.42,879.00,950.60,270.80,66.73,282.15,53.97,https://www.ucy.ac.cy/?lang=en,1,1,1,1,1,1,0,1,0,1
+Czech Republic,Europe,Charles University,172.00,10000.00,22.00,35.00,74.06,748.90,720.60,242.40,51.07,302.07,23.64,https://cuni.cz/UKEN-1.html,1,1,1,1,1,1,1,1,1,1
+Denmark,Europe,University of Copenhagen,75.00,14000.00,12.00,37.00,73.74000000000001,1161.90,1011.90,353.80,108.57,883.50,81.03,https://www.ku.dk/en,1,1,1,1,1,1,1,1,0,1
+Dominican Republic,Southern America,Ross University School of Medicine,5075.00,12880.00,5.00,52.00,39.22,609.10,406.30,205.30,73.90,93.44,29.67,https://medical.rossu.edu/,0,0,0,0,0,0,1,0,0,0
+Ecuador,Southern America,Universidad San Francisco de Quito,2046.00,6440.00,2.00,60.00,43.20,523.90,329.60,190.60,57.16,143.77,20.12,https://www.usfq.edu.ec/es,1,1,1,1,1,1,1,1,1,1
+Egypt,Africa,Cairo University,529.00,190.00,7.00,90.00,53.04,337.50,141.80,115.80,19.79,93.71,6.16,https://cu.edu.eg/Home,1,1,1,1,1,1,1,1,1,1
+El Salvador,Southern America,Jose Simeon Canas Central American University,3805.00,2419.00,0.00,42.00,33.78,634.80,559.60,237.00,48.90,112.33,23.11,https://uca.edu.sv/,1,1,1,1,1,1,0,1,1,1
+Estonia,Europe,University of Tartu,433.00,9500.00,12.00,53.00,76.16,835.60,575.00,253.30,63.77,442.78908559449997,26.58,https://ut.ee/en,1,1,1,1,1,1,1,1,1,1
+Fiji,Oceania,The University of the South Pacific,1839.00,470.00,,56.00,42.66,568.90,586.40,238.60,36.05,42.40,20.30,https://www.usp.ac.fj/,1,1,1,1,1,1,0,1,1,1
+Finland,Europe,Aalto University,388.00,13500.00,19.00,18.00,73.86,1015.60,755.10,344.00,90.66,839.80,73.72,https://www.aalto.fi/en,1,1,1,0,0,1,0,1,1,1
+France,Europe,Paris Sciences et Lettres University,24.00,3800.00,25.00,,48.20,1023.70,804.90,379.50,80.12,456.21536518049993,84.38,https://psl.eu/en,1,1,1,1,1,1,0,1,1,1
+Georgia,Asia,Ivane Javakhishvili Tbilisi State University,1684.00,6469.00,4.00,29.00,76.17999999999999,536.70,525.10,181.80,25.29,123.50,14.60,https://www.tsu.ge/en,1,1,1,1,1,1,1,1,1,1
+Germany,Europe,Technical University of Munich,79.00,2500.00,44.00,46.00,63.38,999.60,935.30,332.00,77.66,765.5175279329999,53.09294117647057,https://www.tum.de/en/,1,1,1,1,1,1,1,1,1,1
+Ghana,Africa,University of Ghana,963.00,7585.00,0.00,18.00,53.46,496.60,391.00,185.10,31.15,25.884733571499996,30.47,https://www.ug.edu.gh,1,1,1,1,1,1,1,1,1,1
+Greece,Europe,National Technical University of Athens,505.00,1500.00,5.00,20.00,54.90,835.60,494.50,264.30,62.84,584.43,30.76,https://www.ntua.gr/en/,1,0,0,0,0,0,0,1,0,1
+Guatemala,Southern America,University of San Carlos of Guatemala,2158.00,2397.00,0.00,10.00,41.30,623.50,483.00,228.20,,197.52,12.47,https://www.usac.edu.gt/,1,1,1,1,1,1,1,1,1,1
+Hong Kong,Asia,The University of Hong Kong,84.00,25935.00,45.00,17.00,78.35,1137.80,2276.80,461.90,46.93,,64.36,https://hku.hk/,1,1,1,1,1,1,1,1,1,1
+Hungary,Europe,Eötvös Loránd University,406.00,1234.00,10.00,51.00,65.64,670.10,433.10,217.30,47.76,323.00,22.02,https://www.elte.hu/,1,1,1,1,1,1,0,1,1,1
+Iceland,Europe,University of Iceland,650.00,530.00,9.00,92.00,75.74,1333.80,1502.50,482.70,128.25,934.80,75.23,https://www.hi.is/,1,1,1,1,1,1,1,1,1,1
+India,Asia,Indian Institute of Technology Bombay (IITB),502.00,2200.00,1.00,20.00,55.70,340.70,214.60,129.90,25.61,35.15,10.11,https://www.iitb.ac.in/,1,1,1,0,1,0,0,1,0,1
+Indonesia,Asia,Universitas Indonesia,531.00,482.00,7.00,8.00,53.98,429.10,295.10,182.40,35.11,41.948347335499996,12.84,https://ui.ac.id,1,1,1,1,1,1,1,1,1,1
+Iran,Asia,University of Baghdad,1918.00,7396.00,1.00,75.00,50.60,424.20,325.80,120.10,36.90,128.71,10.00,https://uobaghdad.edu.iq/,1,1,1,1,1,1,1,1,1,1
+Iraq,Asia,Sharif University of Technology,778.00,2120.00,0.00,24.00,53.12,470.90,291.30,154.00,48.30,118.02,22.92,https://en.sharif.ir/,1,1,1,0,1,0,0,1,0,1
+Ireland,Europe,"Trinity College Dublin, The University of Dublin",307.00,55100.00,33.00,52.00,54.34,1034.90,1621.40,323.80,82.11,686.83,111.17,https://www.tcd.ie/,1,1,1,1,1,1,1,1,1,1
+Israel,Asia,Tel Aviv University,107.00,10947.00,7.00,44.00,68.42,1007.60,1038.70,325.40,92.73,816.05,62.03333333333333,https://english.tau.ac.il/,1,1,1,1,1,1,1,1,1,1
+Italy,Europe,Polytechnic University of MIlan,251.00,3900.00,23.00,28.00,54.38,903.10,735.90,311.20,75.06,696.35,40.76714285714286,https://www.polimi.it/,1,1,0,0,0,0,0,1,1,1
+Jamaica,Southern America,University of the West Indies,1231.00,13867.00,0.00,65.00,32.56,866.20,540.50,338.50,53.22,46.28,,https://www.mona.uwi.edu/,1,1,1,1,1,1,1,0,1,1
+Japan,Asia,The University of Tokyo,20.00,1700.00,16.00,36.00,77.90,740.80,513.60,293.20,89.20,496.84999999999997,59.13,https://www.u-tokyo.ac.jp/ja/index.html,1,1,1,1,1,1,1,1,1,1
+Jordan,Asia,University of Jordan,1169.00,23111.00,20.00,54.00,59.38,662.10,276.00,202.60,44.12,106.41353289249999,42.31,https://ju.edu.jo/Home.aspx,1,1,1,1,1,1,1,1,1,1
+Kazakhstan,Asia,Al-Farabi Kazakh National University,2048.00,5547.00,28.00,37.00,46.40,509.40,471.50,175.80,39.87,95.94999999999999,14.63,https://www.kaznu.kz/en,1,1,1,1,1,1,1,1,1,1
+Kenya,Africa,University of Nairobi,824.00,562.00,0.00,66.00,41.46,485.30,325.80,169.30,35.66,20.48,32.90,https://uonbi.ac.ke/,1,1,1,1,1,1,1,1,1,1
+Kosovo,Europe,University of Prishtina,2907.00,924.00,0.00,82.00,61.23999999999999,474.10,295.10,160.50,,,14.00,https://uni-pr.edu/,1,1,1,1,1,1,1,1,1,1
+Kuwait,Asia,American University of the Middle East,613.00,nan,14.00,,66.47999999999999,676.50,866.30,188.40,65.69,164.53,48.97,,,,,,,,,,,
+Kyrgyzstan,Asia,Kyrgyz Russian Slavic University,8119.00,1621.63,31.26,16.00,44.85,443.50,410.10,154.00,35.45,28.197709999999997,7.01,https://abit.krsu.edu.kg/,1,1,1,1,1,1,0,1,1,1
+Latvia,Europe,Riga Technical University,1492.00,3550.00,30.00,44.00,62.40,789.00,429.30,233.70,59.41,486.40,32.38,https://www.rtu.lv/en,1,1,1,0,0,0,0,1,1,1
+Lebanon,Asia,American University of Beirut (AUB),694.00,34213.90,18.00,71.00,54.02,671.70,513.60,175.80,77.53,101.29308404999999,69.34,https://aub.edu.lb/,1,1,1,1,1,0,1,1,1,1
+Libya,Africa,University of Tripoli,4666.00,1918.28,2.00,76.00,38.98,327.80,164.80,121.20,39.24,108.98599499999999,21.15,https://uot.edu.ly/,1,1,1,1,1,1,1,1,1,1
+Lithuania,Europe,Vilnius University ,709.00,4560.00,11.00,32.00,66.80,756.90,597.90,241.30,51.81,532.9499999999999,30.76,https://www.vu.lt/,1,1,1,1,1,1,1,1,1,1
+Luxembourg,Europe,University of Luxembourg,663.00,800.00,53.00,30.00,65.84,1002.80,1552.40,350.00,83.28,647.90,0.00,https://www.uni.lu/en/,1,1,1,1,0,1,0,1,0,0
+Malaysia,Asia,Universiti Malaya (UM),464.00,4478.97,25.00,34.00,44.80,482.10,295.10,198.20,34.11,148.43,11.49,https://um.edu.my/,1,1,1,1,1,1,1,1,1,1
+Malta,Europe,University of Malta,1045.00,10800.00,15.00,55.00,59.52,848.50,927.60,276.30,63.05,1048.70,26.00,https://www.um.edu.mt/,1,1,1,1,1,1,1,1,1,1
+Mauritius,Africa,University of Mauritius,3247.00,304.57,9.00,70.00,52.00,596.20,383.30,222.20,39.32,230.24193584649998,12.01,https://uom.ac.mu/,1,1,1,1,1,1,0,1,1,1
+Mexico,Southern America,Tecnológico de Monterrey,700.00,1664.55,9.00,56.00,45.82,646.00,594.10,237.00,46.97,240.00,18.16,https://tec.mx/es,,1,1,1,1,1,1,1,1,1
+Moldova,Europe,University of the Academy of Sciences of Moldova,2993.00,1391.60,0.00,43.00,53.76000000000001,546.40,387.10,172.50,41.51,114.94999999999999,13.05,https://edu.asm.md/,1,1,1,0,1,1,0,1,1,1
+Montenegro,Europe,University of Montenegro,1905.00,1000.00,2.00,38.00,59.66,633.20,605.60,200.40,47.01,356.25,30.00,https://www.ucg.ac.me/,1,1,1,1,1,1,1,1,1,1
+Morocco,Africa,Université Mohammed V de Rabat,1558.00,939.59,3.00,50.00,51.96,474.10,283.60,162.70,46.36,94.01,24.25,http://www.um5.ac.ma/um5/,1,1,1,1,1,1,1,1,1,1
+Nepal,Asia,Tribhuvan University,1995.00,1374.27,0.00,35.00,63.38,409.80,134.20,139.80,18.87,31.349999999999998,8.92,https://tribhuvan-university.edu.np/,1,1,1,1,1,1,1,1,1,1
+Netherlands,Europe,Delft University of Technology,127.00,16705.00,35.00,50.00,72.74,1014.00,1284.10,327.10,76.25,582.35,73.84,https://www.tudelft.nl/,1,1,1,0,0,0,0,1,1,1
+New Zealand,Oceania,The University of Auckland,169.00,20945.70,31.00,73.00,56.00,1038.10,992.70,392.60,82.91,543.7557847659999,128.92,https://www.auckland.ac.nz/en.html,1,1,1,1,1,1,1,1,1,1
+Nigeria,Africa,University of Ibadan,1057.00,4161.15,10.00,11.00,35.36,504.60,847.10,204.80,27.44,60.73,33.30,https://ui.edu.ng/,1,1,1,1,1,1,1,1,1,1
+North Macedonia,Europe,Ss. Cyril and Methodius University of Skopje,1399.00,2000.00,1.00,81.00,59.98,530.30,249.10,175.30,36.54,222.29999999999998,26.30,https://ukim.edu.mk/,1,1,1,1,1,1,1,1,1,1
+Norway,Europe,University of Oslo,96.00,23220.02,17.00,27.00,66.26,1221.30,1004.20,431.30,114.83,1205.55,79.08333333333333,https://www.uio.no/,1,1,1,1,1,1,1,1,0,1
+Oman,Asia,Sultan Qaboos University,1474.00,3607.29,4.00,25.00,80.03999999999999,681.40,467.60,217.90,55.62,49.67,36.04,www.squ.edu.om,1,1,1,1,1,1,1,1,1,1
+Pakistan,Asia,Quaid-i-Azam University,2081.00,319.03,2.00,10.00,56.90,302.10,107.30,95.60,27.73,23.54,5.140000000000001,qau.edu.pk,1,1,1,1,1,1,1,1,0,1
+Palestine,Asia,Al-Quds University,2950.00,3321.24,38.00,83.00,57.22000000000001,668.50,306.60,222.20,82.35,122.20799999999998,51.53,alquds.edu,1,1,1,1,1,1,1,1,1,1
+Panama,Southern America,Universidad Tecnológica de Panamá (UTP),4221.00,0.00,5.00,60.00,55.02,745.60,770.40,263.70,50.54,501.92,25.00,utp.ac.pa,1,1,1,0,0,0,0,1,1,1
+Paraguay,Southern America,Universidad Nacional de la Asunción,2234.00,1396.16,2.00,59.00,50.10,408.20,348.80,131.00,54.11,163.43,32.37,www.una.py,1,1,1,1,1,1,1,1,1,1
+Peru,Southern America,Pontificia Universidad Católica del Perú,1012.00,2773.86,1.00,17.00,32.54,482.10,368.00,172.00,53.92,106.57,24.02,https://pucp.edu.pe/,1,1,1,1,1,1,0,1,1,1
+Philippines,Asia,University of the Philippines,1367.00,590.75,0.00,12.00,57.56,498.20,272.10,191.10,29.79,86.45,9.52,up.edu.ph,1,1,1,1,1,1,1,1,1,1
+Poland,Europe,University of Warsaw ,294.00,3300.00,8.00,25.00,70.50,655.70,655.40,200.90,44.70,223.25,31.21,www.uw.edu.pl,1,1,1,1,1,1,1,1,1,1
+Portugal,Europe,University of Porto,258.00,6000.00,13.00,31.00,69.44,724.80,919.90,239.10,67.02,756.1999999999999,43.17,up.pt,1,1,1,1,1,1,1,1,1,1
+Puerto Rico,Southern America,Universidad de Puerto Rico,1532.00,4923.61,1.00,52.00,37.02,1017.20,747.40,350.00,51.39,950.00,55.50,uprrp.edu,1,1,1,1,1,1,1,1,1,1
+Qatar,Asia,Qatar University,1076.00,8902.03,39.00,37.00,86.24,824.40,1383.70,239.70,69.77,120.49,35.75,www.qu.edu.qa,1,1,1,1,1,1,1,1,1,1
+Romania,Europe,Babes-Bolyai University,882.00,6000.00,5.00,79.00,69.92,602.60,379.50,199.80,42.98,191.89999999999998,19.87,ubbcluj.ro,1,1,1,1,1,1,1,1,1,1
+Russia,Europe,Lomonosov Moscow State University,153.00,3088.43,11.00,12.00,60.16,498.20,383.30,157.20,45.46,242.25,27.07666666666667,www.msu.ru,1,1,1,1,1,1,1,1,1,1
+Saudi Arabia,Asia,King Fahd University of Petroleum and Minerals,950.00,14733.35,25.00,17.00,74.34,728.00,433.10,227.10,53.26,139.13,35.95,kfupm.edu.sa,1,1,1,0,1,0,0,1,0,1
+Serbia,Europe,University of Belgrade,380.00,1280.00,5.00,81.00,61.90,605.80,475.30,196.60,43.22,312.26906854599997,22.57666666666667,bg.ac.rs,1,1,1,1,1,1,1,1,1,1
+Singapore,Asia,National University of Singapore,80.00,13177.84,36.00,23.00,71.22,1232.60,2575.80,407.30,39.88,848.5552018999999,90.90,nus.edu.sg,1,1,1,1,1,1,1,1,1,1
+Slovakia,Europe,Comenius University Bratislava,725.00,1000.00,14.00,24.00,69.67999999999999,750.50,567.30,255.00,57.12,310.65,38.86,uniba.sk,1,1,1,1,1,1,1,1,0,1
+Slovenia,Europe,University of Ljubljana,326.00,3000.00,9.00,54.00,77.20,801.90,716.80,267.50,68.84,340.09999999999997,40.47,www.uni-lj.si,1,1,1,1,1,1,1,1,1,1
+South Africa,Africa,University of Cape Town,242.00,3938.40,13.00,51.00,23.70,554.40,440.80,162.20,48.82,30.53,66.09,www.uct.ac.za,1,1,1,1,1,1,1,1,1,1
+South Korea,Asia,Seoul National University,151.00,3674.75,12.00,20.00,73.64,965.80,613.30,444.40,74.72,901.3599999999999,44.97,snu.ac.kr,1,1,1,1,1,1,1,1,1,1
+Spain,Europe,Complutense University of Madrid,153.00,1620.00,18.00,54.00,65.82000000000001,760.10,877.80,251.20,69.38,645.14,31.70,ucm.es,1,1,1,1,1,1,1,1,1,1
+Sri Lanka,Asia,University of Colombo,1631.00,923.00,1.00,32.00,58.77999999999999,556.00,214.60,269.20,32.62,69.35,6.82,cmb.ac.lk,1,1,1,1,1,1,1,1,1,1
+Sweden,Europe,KTH Royal Institute of Technology,234.00,0.00,26.00,41.00,51.96,953.00,801.10,332.00,96.37,857.8499999999999,78.08,www.kth.se,1,1,1,0,1,0,0,1,1,1
+Switzerland,Europe,ETH Zurich,51.00,776.64,43.00,8.00,77.30,1624.70,1782.30,595.70,116.25,2350.71,92.63000000000002,ethz.ch,1,1,1,1,1,0,0,1,0,1
+Syria,Asia,Damascus University,3687.00,4604.82,7.00,67.00,32.00,385.70,141.80,133.80,20.61,32.21,15.66,http://www.damascusuniversity.edu.sy/?from=edurank.org,1,1,1,1,1,1,1,1,1,1
+Taiwan,Asia,National Taiwan University,140.00,1811.03,16.00,33.00,84.13,726.40,502.10,328.10,39.46,478.79999999999995,37.44,www.ntu.edu.tw,1,1,1,1,1,1,1,1,1,1
+Tanzania,Africa,University of Dar es Salaam,1603.00,3558.66,0.00,10.00,43.62,382.50,322.00,138.70,31.26,9.024904126000001,17.84,udsm.ac.tz,1,1,1,1,1,1,1,1,1,1
+Thailand,Asia,Chulalongkorn University,476.00,4243.57,4.00,56.00,60.84,548.00,429.30,221.10,35.27,31.31,38.53,chula.ac.th,1,1,1,1,1,1,1,1,1,1
+Trinidad And Tobago,Southern America,University of Trinidad and Tobago,6095.00,3354.66,3.00,100.00,28.62,845.30,502.10,301.90,49.01,491.43499999999995,68.07,utt.edu.tt,1,1,1,1,1,0,1,1,1,1
+Tunisia,Africa,Université de Tunis El Manar,2659.00,2930.72,8.00,34.00,56.27999999999999,451.60,180.20,171.40,32.53,85.09138710199998,14.13,https://utm.rnu.tn/utm/fr/,1,1,1,0,1,1,1,0,0,1
+Turkey,Asia,Istanbul University,523.00,1348.75,13.00,35.00,60.06,601.00,506.00,205.30,43.30,68.39999999999999,24.64,https://www.istanbul.edu.tr/tr,1,1,1,1,1,1,1,1,1,1
+Uganda,Africa,Makerere University,819.00,1936.32,8.00,50.00,43.76000000000001,467.60,295.10,160.00,34.30,12.90,42.09,www.mak.ac.ug,1,1,1,1,1,1,1,1,1,1
+Ukraine,Europe,Taras Shevchenko National University of Kyiv,997.00,2080.00,5.00,60.00,52.46,416.20,291.30,138.70,24.84,161.50,12.01,univ.kiev.ua,1,1,1,1,1,1,1,1,1,1
+United Arab Emirates,Asia,Khalifa University,2782.00,20768.83,30.00,9.00,84.62,896.70,1583.00,247.30,104.30,233.17903160899996,53.09,ku.ac.ae,1,1,1,1,1,0,1,1,0,1
+United Kingdom,Europe,Imperial College London,44.00,11089.41,45.00,40.00,54.04,996.30,1192.10,310.70,89.78,736.6265179459999,110.66,www.imperial.ac.uk,1,1,1,1,1,0,1,1,0,1
+United States,Northern America,Massachusetts Institute of Technology (MIT),6.00,57103.90,33.00,4.00,51.72000000000001,1131.30,1598.40,409.50,133.57,1221.06,82.91,mit.edu,1,1,1,1,1,1,1,1,1,1
+Uruguay,Southern America,Universidad de la República (Udelar),1453.00,448.60,3.00,54.00,47.73999999999999,869.40,529.00,284.50,74.20,237.63047023549998,48.17,universidad.edu.uy,1,1,1,1,1,1,1,1,1,1
+Uzbekistan,Asia,Tashkent Institute of Irrigation and Agricultural Mechanization Engineers (TIIAME)-National Research University,8964.00,1387.06,5.00,23.00,66.88,424.20,429.30,155.10,59.89,90.25,10.71,tiiame.uz,0,0,1,0,1,0,0,0,0,0
+Venezuela,Southern America,Universidad Central de Venezuela,1151.00,460.37,1.00,10.00,16.78,615.50,222.30,215.70,81.89,42.654999999999994,27.64,www.ucv.ve,1,1,1,1,1,1,1,1,1,1
+Vietnam,Asia,Duy Tan University,2379.00,1458.73,1.00,30.00,55.22000000000001,461.20,345.00,185.10,27.10,65.55,10.42,duytan.edu.vn,1,1,1,1,1,1,0,1,1,1
+Zimbabwe,Africa,University of Zimbabwe,2298.00,4623.52,0.00,18.00,40.50,597.80,383.30,193.80,33.23,6.11,39.15,www.uz.ac.zw,1,1,1,1,1,1,1,1,1,1
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,

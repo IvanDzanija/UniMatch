@@ -10,27 +10,27 @@
             
             <div class="form-right item2">
                 <div class="radio-container">
-                        <input type="radio" id="asia" name="continent" value="asia" class="radio-class"  [(ngModel)]="info.continent" required> 
+                        <input type="radio" id="asia" name="continent" value="Asia" class="radio-class"  [(ngModel)]="info.continent" required> 
                         <label for="asia" class="grid-label">Asia</label>
                 </div>
                 <div class="radio-container">
-                        <input type="radio" id="europe" name="continent" value="europe" class="radio-class" [(ngModel)]="info.continent" required>
+                        <input type="radio" id="europe" name="continent" value="Europe" class="radio-class" [(ngModel)]="info.continent" required>
                         <label for="europe" class="grid-label">Europe</label>
                 </div>
                 <div class="radio-container">
-                        <input type="radio" id="africa" name="continent" value="africa" class="radio-class" [(ngModel)]="info.continent" required>
+                        <input type="radio" id="africa" name="continent" value="Africa" class="radio-class" [(ngModel)]="info.continent" required>
                         <label for="africa" class="grid-label">Africa</label>
                 </div>
                 <div class="radio-container">
-                        <input type="radio" id="australia" name="continent" value="australia" class="radio-class" [(ngModel)]="info.continent" required>
+                        <input type="radio" id="australia" name="continent" value="Oceania" class="radio-class" [(ngModel)]="info.continent" required>
                         <label for="australia" class="grid-label">Australia</label>
                 </div>
                 <div class="radio-container">
-                        <input type="radio" id="north-america" name="continent" value = "north-america" class="radio-class"  [(ngModel)]="info.continent" required> 
+                        <input type="radio" id="north-america" name="continent" value = "Northern America" class="radio-class"  [(ngModel)]="info.continent" required> 
                         <label for="north-america" class="grid-label">North America</label>
                 </div>
                 <div class="radio-container">
-                        <input type="radio" id="south-america" name="continent" value="south-america" class="radio-class"  [(ngModel)]="info.continent" required>
+                        <input type="radio" id="south-america" name="continent" value="Southern America" class="radio-class"  [(ngModel)]="info.continent" required>
                         <label for="south-america" class="grid-label">South America</label>
                 </div>
            </div>
@@ -115,7 +115,7 @@
             
             <div class = "form-right two-sliders item10">
                 <div class="dual-slider-container">
-                        <mat-slider discrete min="1" max="100">
+                        <mat-slider discrete min="0" max="100">
                                 <input matSliderStartThumb name="ISRMin" [(ngModel)]="info.ISRMin">
                                 <input matSliderEndThumb name="ISRMax" [(ngModel)]="info.ISRMax">
                         </mat-slider>
@@ -131,7 +131,7 @@
 
            <div class="form-right item12 two-sliders">
                 <div class="dual-slider-container">
-                        <mat-slider discrete min="1" max="100">
+                        <mat-slider discrete min="1" max="2000">
                                 <input matSliderStartThumb name="CoLMin" [(ngModel)]="info.CoLMin">
                                 <input matSliderEndThumb name="CoLMax" [(ngModel)]="info.CoLMax">
                          </mat-slider>
@@ -148,7 +148,7 @@
 
           <div class="form-right  two-sliders item14">
            <div class="dual-slider-container">
-                   <mat-slider discrete min="1" max="100">
+                   <mat-slider discrete min="1" max="3000">
                            <input matSliderStartThumb name="rentMin" [(ngModel)]="info.rentMin">
                            <input  matSliderEndThumb name="rentMax" [(ngModel)]="info.rentMax">
                     </mat-slider>
@@ -166,7 +166,7 @@
 
           <div class="form-right  two-sliders item16">
            <div class="dual-slider-container">
-                   <mat-slider discrete min="1" max="100">
+                   <mat-slider discrete min="1" max="1000">
                            <input matSliderStartThumb name="GroceryMin" [(ngModel)]="info.groceryMin">
                            <input matSliderEndThumb name="groceryMax" [(ngModel)]="info.groceryMax">
                     </mat-slider>
@@ -184,7 +184,7 @@
 
           <div class="form-right  two-sliders item18">
            <div class="dual-slider-container">
-                   <mat-slider discrete min="1" max="100">
+                   <mat-slider discrete min="1" max="200">
                            <input matSliderStartThumb name="transportMin" [(ngModel)]="info.transportMin">
                            <input matSliderEndThumb name="transportMax" [(ngModel)]="info.transportMax">
                     </mat-slider>
@@ -202,7 +202,7 @@
 
           <div class="form-right two-sliders item20">
            <div class="dual-slider-container">
-                   <mat-slider discrete min="1" max="100">
+                   <mat-slider discrete min="1" max="200">
                            <input matSliderStartThumb name="recreationMin" [(ngModel)]="info.recreationMin">
                            <input matSliderEndThumb name="recreationMax" [(ngModel)]="info.recreationMax">
                     </mat-slider>
@@ -220,7 +220,7 @@
 
            <div class="form-right item22 two-sliders">
                 <div class="dual-slider-container">
-                        <mat-slider discrete min="1" max="100">
+                        <mat-slider discrete min="1" max="3000">
                                 <input matSliderStartThumb name="healthcareBudgetMin" [(ngModel)]="info.healthcareBudgetMin">
                                 <input matSliderEndThumb name="healthcareBudgetMax" [(ngModel)]="info.healthcareBudgetMax">
                          </mat-slider>
@@ -238,7 +238,7 @@
 
            <div class="form-right item24 two-sliders">
                 <div class="dual-slider-container">
-                        <mat-slider discrete min="1" max="100">
+                        <mat-slider discrete min="1" max="60000">
                                 <input matSliderStartThumb name="tuitionBudgetMin" [(ngModel)]="info.tuitionBudgetMin">
                                 <input matSliderEndThumb name="tuitionBudgetMax" [(ngModel)]="info.tuitionBudgetMax">
                          </mat-slider>

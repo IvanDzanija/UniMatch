@@ -25,6 +25,7 @@ export class FormComponent {
 
 
   majorOptions: any[] = [
+
     { text: 'Architecture', value: 'architecture' },
     { text: 'Computer science', value: 'computer-science' },
     { text: 'Chemical engineering', value: 'chemical-engineering' },
