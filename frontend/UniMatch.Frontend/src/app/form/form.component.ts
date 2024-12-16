@@ -21,13 +21,18 @@ export class FormComponent {
   safetyError:boolean = false;
 
 
-  majorOptions:any[] = [
-      {text: 'Architecture', value: 'architecture'},
-      {text: 'Computer science', value:'computer-science'},
-      {text: 'Chemical engineering', value:'chemical-engineering'},
-      {text: 'Mathematics', value:'mathematics'},
-      {text: 'Linguistics', value:'linguistics'}
-  ]
+  majorOptions: any[] = [
+    {text: 'Computer Science', value: 'Computer Science'},
+    {text: 'Business', value: 'Business'},
+    {text: 'Economics', value: 'Economics'},
+    {text: 'Psychology', value: 'Psychology'},
+    {text: 'Biology', value: 'Biology'},
+    {text: 'Law', value: 'Law'},
+    {text: 'Medicine', value: 'Medicine'},
+    {text: 'Mathematics', value: 'Mathematics'},
+    {text: 'Art', value: 'Art'},
+    {text: 'Physics', value: 'Physics'}
+];
 
   //ngmodelchange se poziva PRIJE binding-a pri promjeni minSafety ili maxSafety, pa prvo trebamo uhvatiti novu vrijednost iz event-a
   //i onda tek pozvati validatesafety
