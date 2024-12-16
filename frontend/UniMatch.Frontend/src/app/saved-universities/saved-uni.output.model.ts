@@ -1,6 +1,6 @@
 export type SavedUniversity = {
     name: string;
-    city: string;
+   // city: string;
     country: string;
     rank: number;
     acc: number;

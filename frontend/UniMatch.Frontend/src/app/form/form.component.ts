@@ -1,4 +1,4 @@
-import { Component } from '@angular/core';
+import { Component, inject } from '@angular/core';
 import { MatSliderModule } from '@angular/material/slider';
 import { inputInformation } from '../form-input.model';
 import { FormsModule } from '@angular/forms';
@@ -6,7 +6,7 @@ import { FormService } from './form.service';
 import { University } from '../top-list/toplist-output.model';
 import { Router } from '@angular/router';
 import { response } from 'express';
-
+import { DataService } from './data.service';
 @Component({
   selector: 'app-form',
   standalone: false,
@@ -15,7 +15,7 @@ import { response } from 'express';
 })
 export class FormComponent {
 
-
+  dataService = inject(DataService)
 
 
 
@@ -27,7 +27,7 @@ export class FormComponent {
   majorOptions: any[] = [
 
     { text: 'Architecture', value: 'architecture' },
-    { text: 'Computer science', value: 'computer-science' },
+    { text: 'Computer science', value: 'Computer Science' },
     { text: 'Chemical engineering', value: 'chemical-engineering' },
     { text: 'Mathematics', value: 'mathematics' },
     { text: 'Linguistics', value: 'linguistics' }
@@ -92,7 +92,9 @@ export class FormComponent {
   uniFilter() {      //funkcija koja se poziva pri submit-u
     console.log(this.info);
     this.service.toPost(this.info).subscribe(response => {
-      this.router.navigate(['/top-universities'], { state: { unis: response } });
+      console.log(response.data)
+      this.dataService.setUniversities(response.data)
+      this.router.navigate(['/top-universities']);
     });
   }
 }

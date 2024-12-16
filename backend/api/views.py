@@ -48,7 +48,7 @@ def forma(request):
 
             safety_mapping = {
                 'low-safety': 0,
-                'low-medium-safety': 1,
+                'medium-low-safety': 1,
                 'medium-safety': 2,
                 'medium-high-safety': 3,
                 'high-safety': 4
@@ -56,7 +56,7 @@ def forma(request):
 
             universities['safetyCategoryNum'] = universities['safetyCategory'].map({
                'low-safety': 0,
-               'low-medium-safety': 1,
+               'medium-low-safety': 1,
                'medium-safety': 2,
                'medium-high-safety': 3,
                'high-safety': 4
@@ -82,7 +82,7 @@ def forma(request):
                 'major': data["info"].get('major')
             }
 
-           
+            major = data["info"].get('major')
             for column, value in filters.items():
                 if column == 'safetyCategory':  
                     if value[0] is not None:  
@@ -112,7 +112,7 @@ def forma(request):
             tuition_prio = data["info"].get('tuitionBudgetPrio')
             ISR_prio = data["info"].get('ISRPrio')
             acc_prio = data["info"].get('accPrio')
-            CoL_prio = data["info"].get('CoLPrio')
+            CoL_prio = data["info"].get('CoLPrio')  
             rent_prio = data["info"].get('rentPrio')
             grocery_prio = data["info"].get('groceryPrio')
             recreation_prio = data["info"].get('recreationPrio')
@@ -136,9 +136,22 @@ def forma(request):
             top_universities = universities.sort_values(by='score', ascending=True).head(10)
 
             filtered_universities = top_universities.to_dict(orient='records')
-
-            print(filtered_universities)
-            return JsonResponse({'status': 'success', 'data': filtered_universities}, status=201)
+            new_filtered_universities = [
+                {
+                    'name': uni.get('university'),
+                    'country': uni.get('country'),
+                    'rank': uni.get('ranking'),
+                    'acc': uni.get('acceptanceRate'),
+                    'estimatedCost': uni.get('tuition'),
+                    'major': major,
+                    'website': uni.get('link'),
+                    'choiceNo': 0
+                }
+                for uni in filtered_universities
+            ]
+            #print("Filtered unis: ")
+            print(new_filtered_universities)
+            return JsonResponse({'status': 'success', 'data': new_filtered_universities}, status=201)
 
         except json.JSONDecodeError:
             return JsonResponse({'status': 'error', 'message': 'Invalid JSON'}, status=400)
@@ -149,5 +162,3 @@ def forma(request):
 def getSavedUniversities():
    return
 
-
-      

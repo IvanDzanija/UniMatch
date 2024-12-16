@@ -3,6 +3,7 @@ import { Component, inject, input, signal } from '@angular/core';
 import { UniversityCardComponent } from "../university-card/university-card.component";
 import { University } from './toplist-output.model';
 import { Router } from '@angular/router';
+import { DataService } from '../form/data.service';
 
 @Component({
   selector: 'app-top-list',
@@ -62,127 +63,21 @@ import { Router } from '@angular/router';
   `
 })
 export class TopListComponent {
-
+  constructor(private dataService:DataService){}
   router = inject(Router);
-  //universities: University[] = [];
+  universities: University[] = [];
+  topList = signal<University[]>([]);
   ngOnInit() {
-    const navigation = this.router.getCurrentNavigation();
-    //this.universities = navigation?.extras?.state?.['unis'];
+    /*const navigation = this.router.getCurrentNavigation();
+    console.log("navigation= ", navigation)
+    console.log(navigation?.extras?.state?.['unis'])
+    this.universities = navigation?.extras?.state?.['unis'];
+    console.log(this.universities)*/
+    this.universities = this.dataService.getUniversities();
+    console.log("Universities: ", this.universities)
+    this.topList.set(this.universities)
+    console.log("Initial topList: ", this.topList());
   }
-
-  universities: University[] = [
-    {
-      name: 'Harvard University',
-      country: 'United States',
-      city: 'Cambridge, Massachusetts',
-      rank: 1,
-      acc: 95.7,
-      estimatedCost: 10000,
-      major: 'Computer Science',
-      website: 'https://www.harvard.edu',
-      choiceNo: 1
-    },
-    {
-      name: 'Stanford University',
-      country: 'United States',
-      city: 'Stanford, California',
-      rank: 2,
-      acc: 93.3,
-      estimatedCost: 10000,
-      major: 'Computer Science',
-      website: 'https://www.stanford.edu',
-      choiceNo: 2
-    },
-    {
-      name: 'University of Cambridge',
-      country: 'United Kingdom',
-      city: 'Cambridge',
-      rank: 3,
-      acc: 92.8,
-      estimatedCost: 15000,
-      major: 'Engineering',
-      website: 'https://www.cam.ac.uk',
-      choiceNo: 3
-    },
-    {
-      name: 'University of Oxford',
-      country: 'United Kingdom',
-      city: 'Oxford',
-      rank: 4,
-      acc: 91.5,
-      estimatedCost: 14000,
-      major: 'Philosophy',
-      website: 'https://www.ox.ac.uk',
-      choiceNo: 4
-    },
-    {
-      name: 'MIT',
-      country: 'United States',
-      city: 'Cambridge, Massachusetts',
-      rank: 5,
-      acc: 94.2,
-      estimatedCost: 11000,
-      major: 'Mathematics',
-      website: 'https://www.mit.edu',
-      choiceNo: 5
-    },
-    {
-      name: 'Caltech',
-      country: 'United States',
-      city: 'Pasadena, California',
-      rank: 6,
-      acc: 90.4,
-      estimatedCost: 12000,
-      major: 'Physics',
-      website: 'https://www.caltech.edu',
-      choiceNo: 6
-    },
-    {
-      name: 'ETH Zurich',
-      country: 'Switzerland',
-      city: 'Zurich',
-      rank: 7,
-      acc: 88.9,
-      estimatedCost: 10000,
-      major: 'Mechanical Engineering',
-      website: 'https://ethz.ch/en.html',
-      choiceNo: 7
-    },
-    {
-      name: 'University of Tokyo',
-      country: 'Japan',
-      city: 'Tokyo',
-      rank: 8,
-      acc: 87.3,
-      estimatedCost: 8000,
-      major: 'Artificial Intelligence',
-      website: 'https://www.u-tokyo.ac.jp',
-      choiceNo: 8
-    },
-    {
-      name: 'University of Melbourne',
-      country: 'Australia',
-      city: 'Melbourne',
-      rank: 9,
-      acc: 85.6,
-      estimatedCost: 9000,
-      major: 'Biotechnology',
-      website: 'https://www.unimelb.edu.au',
-      choiceNo: 9
-    },
-    {
-      name: 'NUS',
-      country: 'Singapore',
-      city: 'Singapore',
-      rank: 10,
-      acc: 86.7,
-      estimatedCost: 9500,
-      major: 'Data Science',
-      website: 'https://www.nus.edu.sg',
-      choiceNo: 10
-    }
-  ];
-
-  topList = signal<University[]>(this.universities);
-
+ // topList = signal<University[]>(this.universities);
+  
 }

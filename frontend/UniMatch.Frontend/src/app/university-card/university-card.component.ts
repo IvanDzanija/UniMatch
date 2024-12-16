@@ -37,7 +37,7 @@ export class UniversityCardComponent {
       this.service.removeFromDb(x.rank).subscribe((res) => { console.log("Uspješno obrisano:", res) });
     } else {
       this.added = true;
-      this.service.add(x);
+      //this.service.add(x);
       this.service.addToDb(x).subscribe((res) => { console.log("Uspješno dodano:", res) });
     }
 

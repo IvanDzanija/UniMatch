@@ -10,7 +10,7 @@ import { SavedUniversitiesService } from '../saved-universities/saved-universiti
   @if (savedUni(); as savedUni) {
     <div class="card-container">
       <div class="name">{{savedUni.name}}</div>
-      <div class="some-class">{{savedUni.city}}, {{savedUni.country}}</div>
+      <div class="some-class"> {{savedUni.country}}</div>
       <div class="some-class"><i>#{{savedUni.rank}}</i></div>
       <div class="info">
         <div>Acceptance rate: <i>{{savedUni.acc}}</i></div>
