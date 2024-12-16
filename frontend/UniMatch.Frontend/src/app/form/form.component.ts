@@ -26,11 +26,15 @@ export class FormComponent {
 
   majorOptions: any[] = [
 
-    { text: 'Architecture', value: 'architecture' },
+    { text: 'Business', value: 'Business' },
     { text: 'Computer science', value: 'Computer Science' },
-    { text: 'Chemical engineering', value: 'chemical-engineering' },
-    { text: 'Mathematics', value: 'mathematics' },
-    { text: 'Linguistics', value: 'linguistics' }
+    { text: 'Economics', value: 'Economics' },
+    { text: 'Mathematics', value: 'Mathematics' },
+    { text: 'Psychology', value: 'Psychology' },
+    { text: 'Biology', value: 'Biology' },
+    { text: 'Law', value: 'Law' },
+    { text: 'Art', value: 'Art' },
+    { text: 'Physics', value: 'Physics' }
   ]
 
   //ngmodelchange se poziva PRIJE binding-a pri promjeni minSafety ili maxSafety, pa prvo trebamo uhvatiti novu vrijednost iz event-a

@@ -51,12 +51,12 @@ export class SavedUniversitiesService {
   removeFromDb(x: number) {
     return this.http.post<boolean>('/api/remove/', x);    // TO DO
   }
-/*
+
   add(x: University) {
     this.savedUniversities.update((savedUniversities) => { return [...savedUniversities, x] });
     console.log(this.savedUniversities());
   }
-*/
+
   addToDb(x: University) {
     return this.http.post<boolean>('/api/add/', x);    // TO DO
   }

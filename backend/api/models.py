@@ -56,9 +56,9 @@ class Forma(models.Model):
 class savedUniversities(models.Model):
    name = models.CharField(max_length=150)
    country = models.CharField(max_length=150)
-   city = models.CharField(max_length=150)
    rank = models.IntegerField()
    acc = models.FloatField()
    estimatedCost = models.FloatField()
+   
 
     

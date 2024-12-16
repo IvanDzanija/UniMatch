@@ -136,8 +136,12 @@ def forma(request):
             top_universities = universities.sort_values(by='score', ascending=True).head(10)
 
             filtered_universities = top_universities.to_dict(orient='records')
-            new_filtered_universities = [
-                {
+            new_filtered_universities = []
+            brojac = 1
+            for uni in filtered_universities:
+                
+                new_filtered_universities.append(
+                                    {
                     'name': uni.get('university'),
                     'country': uni.get('country'),
                     'rank': uni.get('ranking'),
@@ -145,10 +149,10 @@ def forma(request):
                     'estimatedCost': uni.get('tuition'),
                     'major': major,
                     'website': uni.get('link'),
-                    'choiceNo': 0
-                }
-                for uni in filtered_universities
-            ]
+                    'choiceNo': brojac
+                    }
+                )
+                brojac+=1
             #print("Filtered unis: ")
             print(new_filtered_universities)
             return JsonResponse({'status': 'success', 'data': new_filtered_universities}, status=201)
@@ -159,6 +163,8 @@ def forma(request):
     else:
         return JsonResponse({'status': 'error', 'message': 'Only POST requests are allowed'}, status=405)
 
-def getSavedUniversities():
-   return
+def postSavedUniversities(request):
+   
+       
+   return 
 
