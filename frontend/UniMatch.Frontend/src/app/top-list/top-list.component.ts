@@ -4,12 +4,14 @@ import { UniversityCardComponent } from "../university-card/university-card.comp
 import { University } from './toplist-output.model';
 import { Router } from '@angular/router';
 import { DataService } from '../form/data.service';
+import { HeaderComponent } from "../header/header.component";
 
 @Component({
   selector: 'app-top-list',
   standalone: true,
-  imports: [CommonModule, UniversityCardComponent],
+  imports: [CommonModule, UniversityCardComponent, HeaderComponent],
   template: `
+  <app-header></app-header>
   <div>
     <h2 class="header">
       Top Picks for Your International Journey
@@ -63,9 +65,50 @@ import { DataService } from '../form/data.service';
   `
 })
 export class TopListComponent {
-  constructor(private dataService:DataService){}
+  constructor(private dataService: DataService) { }
   router = inject(Router);
-  universities: University[] = [];
+  universities: University[] = [              // NE BRISATI!!!
+    // {
+    //   name: "Harvard University",
+    //   country: "Cambridge, Massachusetts",
+    //   rank: 1,
+    //   acc: 90,
+    //   estimatedCost: 50000,
+    //   major: "Computer Science",
+    //   choiceNo: 1,
+    //   website: "https://www.harvard.edu"
+    // },
+    // {
+    //   name: "Stanford University",
+    //   country: "Stanford, California",
+    //   rank: 2,
+    //   acc: 90,
+    //   estimatedCost: 50000,
+    //   major: "Computer Science",
+    //   choiceNo: 2,
+    //   website: "https://www.stanford.edu"
+    // },
+    // {
+    //   name: "University of Cambridge",
+    //   country: "Cambridge, Massachusetts",
+    //   rank: 3,
+    //   acc: 90,
+    //   estimatedCost: 50000,
+    //   major: "Computer Science",
+    //   choiceNo: 3,
+    //   website: "https://www.cam.ac.uk"
+    // },
+    // {
+    //   name: "University of Oxford",           // NE BRISATI!!!
+    //   country: "Oxford, England",
+    //   rank: 4,
+    //   acc: 90,
+    //   estimatedCost: 50000,
+    //   major: "Computer Science",
+    //   choiceNo: 4,
+    //   website: "https://www.ox.ac.uk"
+    // }
+  ];
   topList = signal<University[]>([]);
   ngOnInit() {
     /*const navigation = this.router.getCurrentNavigation();
@@ -78,6 +121,6 @@ export class TopListComponent {
     this.topList.set(this.universities)
     console.log("Initial topList: ", this.topList());
   }
- // topList = signal<University[]>(this.universities);
-  
+  // topList = signal<University[]>(this.universities);
+
 }

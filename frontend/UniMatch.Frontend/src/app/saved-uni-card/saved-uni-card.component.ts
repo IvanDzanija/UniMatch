@@ -1,6 +1,8 @@
 import { Component, inject, input } from '@angular/core';
 import { SavedUniversity } from '../saved-universities/saved-uni.output.model';
 import { SavedUniversitiesService } from '../saved-universities/saved-universities.service';
+import { HeaderComponent } from '../header/header.component';
+import { AppModule } from '../app.module';
 
 @Component({
   selector: 'app-saved-uni-card',
@@ -72,7 +74,7 @@ i {
     padding: 5px;
     position: absolute;
     z-index: 1;
-    bottom: 125%; /* Position above the icon */
+    bottom: 125%;
     left: 100%;
     margin-left: -50px;
     opacity: 0;

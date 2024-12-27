@@ -15,12 +15,13 @@ import { UniversityCardComponent } from './university-card/university-card.compo
 import { FontAwesomeModule } from '@fortawesome/angular-fontawesome';
 import { SavedUniversitiesComponent } from './saved-universities/saved-universities.component';
 import { SavedUniCardComponent } from './saved-uni-card/saved-uni-card.component';
+import { LoginComponent } from './login/login.component';
+import { RegistrationComponent } from './registration/registration.component';
 
 
 @NgModule({
   declarations: [
     AppComponent,
-    HeaderComponent,
     FormComponent,
     FormIntroComponent
   ],
@@ -36,7 +37,10 @@ import { SavedUniCardComponent } from './saved-uni-card/saved-uni-card.component
     UniversityCardComponent,
     FontAwesomeModule,
     SavedUniversitiesComponent,
-    SavedUniCardComponent
+    SavedUniCardComponent,
+    LoginComponent,
+    RegistrationComponent,
+    HeaderComponent
   ],
   providers: [],
   bootstrap: [AppComponent],

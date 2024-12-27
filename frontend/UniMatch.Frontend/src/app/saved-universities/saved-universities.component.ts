@@ -3,12 +3,14 @@ import { Component, inject, signal } from '@angular/core';
 import { SavedUniCardComponent } from '../saved-uni-card/saved-uni-card.component';
 import { SavedUniversity } from './saved-uni.output.model';
 import { SavedUniversitiesService } from './saved-universities.service';
+import { HeaderComponent } from "../header/header.component";
 
 @Component({
   selector: 'app-saved-universities',
   standalone: true,
-  imports: [CommonModule, SavedUniCardComponent],
+  imports: [CommonModule, SavedUniCardComponent, HeaderComponent],
   template: `
+  <app-header></app-header>
     <div>
     <h2 class="header">
       Here's what you saved 
@@ -51,14 +53,14 @@ export class SavedUniversitiesComponent {
 
   service = inject(SavedUniversitiesService);
 
-  savedSignal = signal<SavedUniversity[]>([]); // get saved from db
-  //savedSignal = this.service.savedUniversities;
+  //savedSignal = signal<SavedUniversity[]>([]); // get saved from db
+  savedSignal = this.service.savedUniversities;
 
   ngOnInit() {
     console.log(this.savedSignal());
-    this.service.getSaved().subscribe((res) => {
-      this.savedSignal.set([]);
-      this.savedSignal.set(res);
-    });
+    // this.service.getSaved().subscribe((res) => {
+    //   this.savedSignal.set([]);
+    //   this.savedSignal.set(res);
+    // });
   }
 }
