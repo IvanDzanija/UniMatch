@@ -30,7 +30,6 @@ export class UniversityCardComponent {
 
   addToFav(x: University) {
     console.log(x);
-
     if (this.favoriteUnis().includes(x)) {
       this.added = false;
       this.service.remove(x.rank);

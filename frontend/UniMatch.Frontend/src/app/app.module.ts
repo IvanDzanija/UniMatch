@@ -17,6 +17,7 @@ import { SavedUniversitiesComponent } from './saved-universities/saved-universit
 import { SavedUniCardComponent } from './saved-uni-card/saved-uni-card.component';
 import { LoginComponent } from './login/login.component';
 import { RegistrationComponent } from './registration/registration.component';
+import { provideAnimationsAsync } from '@angular/platform-browser/animations/async';
 
 
 @NgModule({
@@ -42,7 +43,9 @@ import { RegistrationComponent } from './registration/registration.component';
     RegistrationComponent,
     HeaderComponent
   ],
-  providers: [],
+  providers: [
+    provideAnimationsAsync()
+  ],
   bootstrap: [AppComponent],
   schemas: [CUSTOM_ELEMENTS_SCHEMA]
 })

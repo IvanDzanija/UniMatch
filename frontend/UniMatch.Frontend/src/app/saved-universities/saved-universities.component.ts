@@ -1,9 +1,11 @@
 import { CommonModule, NgFor } from '@angular/common';
-import { Component, inject, signal } from '@angular/core';
+import { Component, inject, signal, viewChild } from '@angular/core';
 import { SavedUniCardComponent } from '../saved-uni-card/saved-uni-card.component';
 import { SavedUniversity } from './saved-uni.output.model';
 import { SavedUniversitiesService } from './saved-universities.service';
 import { HeaderComponent } from "../header/header.component";
+import { UniversityInfoComponent } from '../university-info/university-info.component';
+import { MatDialog } from '@angular/material/dialog';
 
 @Component({
   selector: 'app-saved-universities',
@@ -18,6 +20,13 @@ import { HeaderComponent } from "../header/header.component";
     <p class="subtext">These are the institutions that caught your eye in case you want to dive deeper into your options!</p>
   </div>
   <div class="saved-container">
+    <div class="icons">
+    <i class="fa-solid fa-building-columns"></i>
+    <i class="fa-solid fa-location-dot"></i> 
+    <i class="fa-solid fa-ranking-star"></i>
+    <i class="fa-solid fa-percent"></i>
+    <i class="fa-solid fa-euro-sign"></i>
+    </div>
     @for (savedUni of savedSignal(); track savedUni) {
     <div>
       <app-saved-uni-card [savedUni]="savedUni"></app-saved-uni-card>
@@ -46,6 +55,15 @@ import { HeaderComponent } from "../header/header.component";
   text-align: center;
   margin-bottom: 30px;
   opacity: 0.8; 
+}
+
+.icons {
+  display: grid;
+  grid-template-columns: 25% 12% 12% 9% 29%;
+
+  > i {
+    justify-self: center;
+  }
 }
   `
 })

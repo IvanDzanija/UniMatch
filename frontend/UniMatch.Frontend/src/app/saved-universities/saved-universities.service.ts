@@ -9,10 +9,11 @@ import { University } from '../top-list/toplist-output.model';
 export class SavedUniversitiesService {
 
   constructor() { }
-  saved = []
-  /*saved = [
+  //saved = []
+  saved = [
     {
       name: 'University of Tokyo',
+      website: 'https://www.u-tokyo.ac.jp/en/',
       country: 'Japan',
       city: 'Tokyo',
       rank: 24,
@@ -21,6 +22,7 @@ export class SavedUniversitiesService {
     },
     {
       name: 'Caltech',
+      website: 'https://www.caltech.edu/',
       country: 'United States',
       city: 'Pasadena, California',
       rank: 6,
@@ -29,6 +31,7 @@ export class SavedUniversitiesService {
     },
     {
       name: 'ETH Zurich',
+      website: 'https://www.ethz.ch/',
       country: 'Switzerland',
       city: 'Zurich',
       rank: 7,
@@ -36,7 +39,7 @@ export class SavedUniversitiesService {
       estimatedCost: 10000
     }
   ];
-*/
+
   savedUniversities = signal<SavedUniversity[]>(this.saved);
 
   http = inject(HttpClient);
