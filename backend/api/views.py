@@ -82,31 +82,6 @@ def forma(request):
                 'major': data["info"].get('major')
             }
 
-            major = data["info"].get('major')
-            for column, value in filters.items():
-                if column == 'safetyCategory':  
-                    if value[0] is not None:  
-                        min_val = safety_mapping.get(value[0], value[0])
-                        universities = universities[universities['safetyCategoryNum'] >= min_val]
-                    if value[1] is not None: 
-                        max_val = safety_mapping.get(value[1], value[1])
-                        universities = universities[universities['safetyCategoryNum'] <= max_val]
-                elif column == 'region' and value:  
-                    universities = universities[universities['region'] == value]
-                elif column == 'major' and value:  
-                    universities = universities[universities[value] == 1]
-                elif isinstance(value, tuple):  
-                    min_val, max_val = value
-                    if min_val is not None:
-                        universities = universities[universities[column] >= min_val]
-                    if max_val is not None:
-                        universities = universities[universities[column] <= max_val]
-
-            
-            filtered_universities = universities.to_dict(orient='records')
-            #print(data)
-            #print(filtered_universities)
-
             rank_prio = data["info"].get('rankPrio')
             safety_prio = data["info"].get('safetyPrio')
             tuition_prio = data["info"].get('tuitionBudgetPrio')
@@ -118,6 +93,48 @@ def forma(request):
             recreation_prio = data["info"].get('recreationPrio')
             healthcare_prio = data["info"].get('healthcareBudgetPrio')
             transport_prio = data["info"].get('transportPrio')
+
+            priority_mapping = {
+                'ranking': rank_prio,
+                'tuition': tuition_prio,
+                'percOfIntStud': ISR_prio,
+                'acceptanceRate': acc_prio,
+                'livingCost': CoL_prio,
+                'rentCost': rent_prio,
+                'groceriesCost': grocery_prio,
+                'recreationCost': recreation_prio,
+                'healthcareCost': healthcare_prio,
+                'transportCost': transport_prio
+            }
+
+            major = data["info"].get('major')
+            for column, value in filters.items():
+                if column == 'safetyCategory':
+                    if safety_prio != 0: 
+                        if value[0] is not None:  
+                            min_val = safety_mapping.get(value[0], value[0])
+                            universities = universities[universities['safetyCategoryNum'] >= min_val]
+                        if value[1] is not None: 
+                            max_val = safety_mapping.get(value[1], value[1])
+                            universities = universities[universities['safetyCategoryNum'] <= max_val]
+                elif column == 'region' and value:  
+                    universities = universities[universities['region'] == value]
+                elif column == 'major' and value:  
+                    universities = universities[universities[value] == 1]
+                elif isinstance(value, tuple): 
+                    priority = priority_mapping.get(column)
+                    if priority != 0: 
+                        min_val, max_val = value
+                        if min_val is not None:
+                            universities = universities[universities[column] >= min_val]
+                        if max_val is not None:
+                            universities = universities[universities[column] <= max_val]
+
+            
+            filtered_universities = universities.to_dict(orient='records')
+            #print(data)
+            #print(filtered_universities)
+
 
             universities['score'] = 0
 
@@ -154,7 +171,7 @@ def forma(request):
                 )
                 brojac+=1
             #print("Filtered unis: ")
-            print(new_filtered_universities)
+            #print(new_filtered_universities)
             return JsonResponse({'status': 'success', 'data': new_filtered_universities}, status=201)
 
         except json.JSONDecodeError:

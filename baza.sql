@@ -1,0 +1,36 @@
+CREATE TABLE KORISNIK
+(
+  idKor SERIAL,
+  imeKor VARCHAR(50) NOT NULL,
+  lozinka VARCHAR(50) NOT NULL,
+  email VARCHAR(50) NOT NULL,
+  PRIMARY KEY (idKor),
+  UNIQUE (imeKor),
+  UNIQUE (email)
+);
+
+CREATE TABLE SVEUCILISTE
+(
+  idSve SERIAL,
+  imeSve VARCHAR(50) NOT NULL,
+  PRIMARY KEY (idSve),
+  UNIQUE (imeSve)
+);
+
+CREATE TABLE lajka
+(
+  idKor INT NOT NULL,
+  idSve INT NOT NULL,
+  PRIMARY KEY (idKor, idSve),
+  FOREIGN KEY (idKor) REFERENCES KORISNIK(idKor),
+  FOREIGN KEY (idSve) REFERENCES SVEUCILISTE(idSve)
+);
+
+CREATE TABLE pretraga
+(
+  idPretrage SERIAL,
+  idKor INT NOT NULL,
+  idSve INT[] NOT NULL,
+  PRIMARY KEY (idPretrage),
+  FOREIGN KEY (idKor) REFERENCES KORISNIK(idKor),
+);
