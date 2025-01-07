@@ -1,7 +1,9 @@
 import { HttpClient } from '@angular/common/http';
-import { Component } from '@angular/core';
+import { Component, inject, OnInit } from '@angular/core';
 import { FormBuilder, FormControl, ReactiveFormsModule } from '@angular/forms';
 import { Router, RouterLink } from '@angular/router';
+import { User } from '../registration/registration.output.model';
+import { AuthService } from '../auth.service';
 
 @Component({
   selector: 'app-login',
@@ -222,11 +224,20 @@ import { Router, RouterLink } from '@angular/router';
   }
   `
 })
-export class LoginComponent {
+export class LoginComponent implements OnInit{
 
   dots: boolean = true;
 
+  user: User | null = null;
+  authService = inject(AuthService);
+
   constructor(private router: Router, private http: HttpClient, private fb: FormBuilder) { }
+
+  ngOnInit(): void {
+    this.authService.getUser().subscribe({
+     next: (user) => {this.user=user}
+    })
+  }
 
   protected loginForm = this.fb.group({
     email: new FormControl(),
@@ -236,16 +247,30 @@ export class LoginComponent {
 
   login() {
     console.log(this.loginForm.value);
-    this.http.post<any>('/api/login', { email: this.loginForm.controls['email'].value, password: this.loginForm.controls['password'].value, rememberMe: this.loginForm.controls['rememberMe'].value })
+   /* this.http.post<any>('/api/login', { email: this.loginForm.controls['email'].value, password: this.loginForm.controls['password'].value, rememberMe: this.loginForm.controls['rememberMe'].value })
       .subscribe(res => {
         // next: () => {
         this.router.navigate(['/']);
         localStorage.setItem('jwt', res.token);
+       
+        
         // },
         // error: error => {
         //   alert("Netočan email ili lozinka!");
         // }
       });
+      */
+      this.authService.login(this.loginForm.controls['email'].value,this.loginForm.controls['password'].value,
+        this.loginForm.controls['rememberMe'].value).subscribe({
+          next : (user) => {
+            this.router.navigate(['/']);
+          
+        },
+        error: (err) => {
+          alert("Netočan email ili lozinka");
+        }
+      }
+      );
   }
 
   showNew() {

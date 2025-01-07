@@ -45,7 +45,7 @@ body{
     text-decoration: underline;
 }
 
-image-container {
+.image-container {
     max-width: 100%;
     overflow: hidden;
 }

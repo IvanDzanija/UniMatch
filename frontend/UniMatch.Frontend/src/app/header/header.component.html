@@ -1,12 +1,14 @@
 <div class="navbar">
     <div class="left">
       <img class="logo" src="logo.jpg" alt="Logo" />
-      <a href="">Home</a>
-      <a href="">Form</a>
-      <a href="/saved">Saved</a>
+      <a routerLink="/">Home</a>
+      <a routerLink="/form">Form</a>
+      <a *ngIf="user" routerLink="/saved">Saved</a>
+      <a *ngIf="!user" routerLink="/login">Saved</a>
     </div>
     <div class="right">
-      <a href="">Log out</a>
-      <img class="profile_pic" src ="profile-icon.png" alt="Profile" />
+      <a *ngIf="!user" routerLink="/login">Log in</a>
+      <a  *ngIf="user" (click)="logout()">Log out</a>
+      <img *ngIf="user" class="profile_pic" src ="profile-icon.png" alt="Profile" />
     </div>
   </div>
