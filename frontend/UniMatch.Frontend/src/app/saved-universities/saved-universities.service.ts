@@ -18,7 +18,9 @@ export class SavedUniversitiesService {
       city: 'Tokyo',
       rank: 24,
       acc: 89.5,
-      estimatedCost: 7500
+      estimatedCost: 7500,
+      lat:50,
+      lng:-10
     },
     {
       name: 'Caltech',
@@ -27,7 +29,9 @@ export class SavedUniversitiesService {
       city: 'Pasadena, California',
       rank: 6,
       acc: 90.4,
-      estimatedCost: 12000
+      estimatedCost: 12000,
+      lat:44,
+      lng:-11.6
     },
     {
       name: 'ETH Zurich',
@@ -36,7 +40,9 @@ export class SavedUniversitiesService {
       city: 'Zurich',
       rank: 7,
       acc: 88.9,
-      estimatedCost: 10000
+      estimatedCost: 10000,
+      lat:55.13,
+      lng:-100
     }
   ];
 

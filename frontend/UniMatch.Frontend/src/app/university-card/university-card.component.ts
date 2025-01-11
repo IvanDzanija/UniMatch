@@ -7,11 +7,11 @@ import { CommonModule } from '@angular/common';
 import { RouterModule } from '@angular/router';
 
 @Component({
-  selector: 'app-university-card',
-  standalone: true,
-  imports: [CommonModule,RouterModule],
-  templateUrl: './university-card.component.html',
-  styleUrl: './university-card.component.scss'
+    selector: 'app-university-card',
+    imports: [CommonModule, RouterModule],
+    standalone:true,
+    templateUrl: './university-card.component.html',
+    styleUrl: './university-card.component.scss'
 })
 export class UniversityCardComponent {
   university = input<University>();

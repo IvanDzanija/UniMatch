@@ -4,6 +4,7 @@ import { FormsModule, ReactiveFormsModule } from '@angular/forms';
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 import { MatSliderModule } from '@angular/material/slider';
 import { HttpClientModule } from '@angular/common/http';
+import {GoogleMapsModule} from '@angular/google-maps';
 
 import { AppComponent } from './app.component';
 import { HeaderComponent } from './header/header.component';
@@ -41,7 +42,8 @@ import { provideAnimationsAsync } from '@angular/platform-browser/animations/asy
     SavedUniCardComponent,
     LoginComponent,
     RegistrationComponent,
-    HeaderComponent
+    HeaderComponent,
+    GoogleMapsModule
   ],
   providers: [
     provideAnimationsAsync()

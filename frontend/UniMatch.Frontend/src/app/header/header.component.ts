@@ -5,11 +5,11 @@ import { CommonModule } from '@angular/common';
 import { RouterModule } from '@angular/router';
 
 @Component({
-  selector: 'app-header',
-  standalone: true,
-  imports: [CommonModule, RouterModule],
-  templateUrl: './header.component.html',
-  styleUrls: ['./header.component.scss', 'header.component.css']
+    selector: 'app-header',
+    imports: [CommonModule, RouterModule],
+    standalone:true,
+    templateUrl: './header.component.html',
+    styleUrls: ['./header.component.scss', 'header.component.css']
 })
 export class HeaderComponent implements OnInit{
   
@@ -17,16 +17,17 @@ export class HeaderComponent implements OnInit{
   authService = inject(AuthService);
   
   ngOnInit(): void {
-    //this.authService.getUser().subscribe({
-    // next: (user) => {this.user=user}
-    //})
-    this.user = {
-      id: 2222,
-      username: "helpy",
-      email: "email",
-      password: "pass"
-    }
-    localStorage.setItem('jwt', "jwt222");
+    this.authService.getUser().subscribe({
+     next: (user) => {this.user=user}
+    })
+    //this.user = {
+      //id: 2222,
+      //username: "helpy",
+      //email: "email",
+      //password: "pass"
+    //}
+    //localStorage.setItem('jwt', "jwt222");
+    
     
   }
   

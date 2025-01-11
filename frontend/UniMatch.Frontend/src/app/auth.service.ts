@@ -61,13 +61,16 @@ export class AuthService {
   );
   }
   logout() : Observable<boolean>{
-    const jwt = localStorage.getItem('jwt');
+    const authToken = localStorage.getItem('jwt');
 
-    if(!jwt) {
+    if(!authToken) {
       console.log("jwt nije prisutan u lokalnom spremištu");
       return of(false);                               //ako user nije uopće ispravno prijavljen preskače se post request i vraća false kao observable
     }
-    return this.http.post<boolean>('api/logout', {token: jwt}).pipe( //post vraća true u slučaju ispravnog log outta
+    const headers = new HttpHeaders({
+      'Authorization': `Bearer ${authToken}` // Add JWT token in the Authorization header
+  });
+    return this.http.post<boolean>('api/logout', headers).pipe( //post vraća true u slučaju ispravnog log outta
       tap(() => {
         this.clearUser();
       }),

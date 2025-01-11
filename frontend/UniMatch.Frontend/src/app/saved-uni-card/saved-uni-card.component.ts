@@ -7,10 +7,10 @@ import { MatDialog } from '@angular/material/dialog';
 import { UniversityInfoComponent } from '../university-info/university-info.component';
 
 @Component({
-  selector: 'app-saved-uni-card',
-  standalone: true,
-  imports: [],
-  template: `
+    selector: 'app-saved-uni-card',
+    imports: [],
+    standalone:true,
+    template: `
   @if (savedUni(); as savedUni) {
     <div class="card-container">
       <div class="name">{{savedUni.name}}</div>
@@ -25,7 +25,7 @@ import { UniversityInfoComponent } from '../university-info/university-info.comp
     </div>
   }
   `,
-  styles: `
+    styles: `
   .card-container {
     display: grid;
     grid-template-columns: 20% 20% 5% 40% 9% 6%;

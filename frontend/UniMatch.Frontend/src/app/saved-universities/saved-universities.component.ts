@@ -6,12 +6,13 @@ import { SavedUniversitiesService } from './saved-universities.service';
 import { HeaderComponent } from "../header/header.component";
 import { UniversityInfoComponent } from '../university-info/university-info.component';
 import { MatDialog } from '@angular/material/dialog';
+import { GoogleMapsModule } from '@angular/google-maps';
 
 @Component({
-  selector: 'app-saved-universities',
-  standalone: true,
-  imports: [CommonModule, SavedUniCardComponent, HeaderComponent],
-  template: `
+    selector: 'app-saved-universities',
+    imports: [CommonModule, SavedUniCardComponent, HeaderComponent, GoogleMapsModule],
+    standalone:true,
+    template: `
   <app-header></app-header>
     <div>
     <h2 class="header">
@@ -19,6 +20,16 @@ import { MatDialog } from '@angular/material/dialog';
     </h2>
     <p class="subtext">These are the institutions that caught your eye in case you want to dive deeper into your options!</p>
   </div>
+  <div class= "map-container">
+  <google-map height="30vw" width="80vw" [options]="options">
+    @for (location of markers; track location) {
+      <map-advanced-marker #markerElem="mapAdvancedMarker" [position] = "{lat: location.lat, lng: location.lng}" (mapClick)="zoomClick({lat: location.lat, lng: location.lng})">
+      </map-advanced-marker>
+    }
+
+  </google-map>
+  </div>
+    
   <div class="saved-container">
     <div class="icons">
     <i class="fa-solid fa-building-columns"></i>
@@ -27,6 +38,9 @@ import { MatDialog } from '@angular/material/dialog';
     <i class="fa-solid fa-percent"></i>
     <i class="fa-solid fa-euro-sign"></i>
     </div>
+    
+   
+    
     @for (savedUni of savedSignal(); track savedUni) {
     <div>
       <app-saved-uni-card [savedUni]="savedUni"></app-saved-uni-card>
@@ -34,7 +48,7 @@ import { MatDialog } from '@angular/material/dialog';
     }
   </div>
   `,
-  styles: `
+    styles: `
   * {
   font-family: 'Poppins', sans-serif;
   }
@@ -64,6 +78,12 @@ import { MatDialog } from '@angular/material/dialog';
   > i {
     justify-self: center;
   }
+  
+}
+.map-container {
+  display:flex;
+  justify-content:center;
+  margin:20px 0px;
 }
   `
 })
@@ -73,9 +93,39 @@ export class SavedUniversitiesComponent {
 
   //savedSignal = signal<SavedUniversity[]>([]); // get saved from db
   savedSignal = this.service.savedUniversities;
+  
+  
+  zoomClick(position: google.maps.LatLngLiteral): void {
+    this.options = {
+      ...this.options,
+      center: position,  
+      zoom: 10           // mapa se zoomira s 2.3 na 10
+    };
+  
+  }
+
+  updateMarkers() : void {
+    this.markers= [];
+    for(var university of this.savedSignal()) {                     
+      this.markers.push({lat: university.lat, lng: university.lng});     //punimo marker s pozicijama sveučilišta
+    }
+  }
+  
+  mapCenter: google.maps.LatLngLiteral = {lat:10, lng:0};
+  mapZoom: number = 2.3;
+  markers: google.maps.LatLngLiteral[] = [];
+  
+  options: google.maps.MapOptions = {
+    center: this.mapCenter,
+    zoom: this.mapZoom,
+    mapId: "DEMO_MAP_ID"
+  };
 
   ngOnInit() {
     console.log(this.savedSignal());
+    for(var university of this.savedSignal()) {                     
+      this.markers.push({lat: university.lat, lng: university.lng});     //punimo marker s pozicijama sveučilišta
+    }
     // this.service.getSaved().subscribe((res) => {
     //   this.savedSignal.set([]);
     //   this.savedSignal.set(res);

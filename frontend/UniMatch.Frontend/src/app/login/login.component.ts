@@ -6,10 +6,10 @@ import { User } from '../registration/registration.output.model';
 import { AuthService } from '../auth.service';
 
 @Component({
-  selector: 'app-login',
-  standalone: true,
-  imports: [ReactiveFormsModule, RouterLink],
-  template: `
+    selector: 'app-login',
+    imports: [ReactiveFormsModule, RouterLink],
+    standalone:true,
+    template: `
     <div class="main-div">
       <div class="one-more-div">
         <div class="auth-header">
@@ -52,7 +52,7 @@ import { AuthService } from '../auth.service';
       </div>
     </div>
   `,
-  styles: `
+    styles: `
   form {
     display: flex;
     flex-direction: column;
@@ -267,7 +267,7 @@ export class LoginComponent implements OnInit{
           
         },
         error: (err) => {
-          alert("Netočan email ili lozinka");
+          console.warn("Netočan email ili lozinka");
         }
       }
       );
