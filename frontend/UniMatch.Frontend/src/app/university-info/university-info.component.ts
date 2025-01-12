@@ -5,10 +5,9 @@ import { UniversityInfoService } from './university-info.service';
 import { UniversityInfo } from './university-info.input.model';
 
 @Component({
-  selector: 'app-university-info',
-  standalone: true,
-  imports: [],
-  template: `
+    selector: 'app-university-info',
+    imports: [],
+    template: `
   @if (university(); as university) {
     <div class="university-dialog">
   <header class="dialog-header">
@@ -95,7 +94,7 @@ import { UniversityInfo } from './university-info.input.model';
 </div>
   }
   `,
-  styles: `
+    styles: `
     body {
     font-family: 'Poppins', sans-serif;
     background-color: #f7f7f7;

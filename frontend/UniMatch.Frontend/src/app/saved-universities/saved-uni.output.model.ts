@@ -5,5 +5,7 @@ export type SavedUniversity = {
     country: string;
     rank: number;
     acc: number;
-    estimatedCost: number;
+    estimatedCost: number,
+    lat: number,
+    lng: number;
 }

@@ -7,10 +7,10 @@ import { Registration } from './registration.output.model';
 import { passwordValidator } from '../validators/password.validator';
 
 @Component({
-  selector: 'app-registration',
-  standalone: true,
-  imports: [ReactiveFormsModule, RouterLink, CommonModule],
-  template: `
+    selector: 'app-registration',
+    imports: [ReactiveFormsModule, RouterLink, CommonModule],
+    standalone:true,
+    template: `
     <div class="main-div">
       <div class="left-side">
         <h1 class="welcome">WELCOME TO</h1>
@@ -76,7 +76,7 @@ import { passwordValidator } from '../validators/password.validator';
       </div>
     </div>
   `,
-  styles: `
+    styles: `
   .role {
     display: flex;
     flex-direction: column;

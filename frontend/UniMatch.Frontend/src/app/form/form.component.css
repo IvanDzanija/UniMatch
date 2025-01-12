@@ -1,9 +1,11 @@
 body {
     background-color: #5cb6f9;
-    margin: 0px;
-    font-family: 'Poppins';
+    margin: -8px -8px -8px -8px;
 }
 .form-background {
+    background-color: #5cb6f9;
+    margin: 0px;
+    font-family: 'Poppins';
     max-width: 100%;
     overflow: hidden;
 }

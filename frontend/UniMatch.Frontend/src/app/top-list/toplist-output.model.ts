@@ -8,4 +8,6 @@ export type University = {
     major: string; 
     website: string;
     choiceNo: number;
+    lat: number,
+    lng:number
 }
