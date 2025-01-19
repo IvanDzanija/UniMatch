@@ -1,0 +1,1899 @@
+Country: Bahrain
+
+University: University of Bahrain
+CollegeRank: 801-1000
+Tuition (EUR/year): 3000
+PercOfIntStud: 8%
+AcceptanceRate (%): 70%
+AvgSafetyIndex (0-100): 75
+CostOfLiving (EUR/month): 1000
+Rent (EUR/month): 500
+Groceries (EUR/month): 300
+RecreationCost (EUR/month): 50
+HealthcarePrice (EUR/year): 150
+AvgMntTransportCost (EUR/month): 20
+Link: University of Bahrain
+Majors: Computer Science (1), Business (1), Economics (1), Psychology (0), Biology (1), Law (1), Medicine (0), Mathematics (1), Art (1), Physics (1)
+Country: Bangladesh
+
+University: University of Dhaka
+CollegeRank: 1001+
+Tuition (EUR/year): 500
+PercOfIntStud: 2%
+AcceptanceRate (%): 75%
+AvgSafetyIndex (0-100): 60
+CostOfLiving (EUR/month): 300
+Rent (EUR/month): 100
+Groceries (EUR/month): 100
+RecreationCost (EUR/month): 20
+HealthcarePrice (EUR/year): 50
+AvgMntTransportCost (EUR/month): 10
+Link: University of Dhaka
+Majors: Computer Science (1), Business (1), Economics (1), Psychology (0), Biology (1), Law (1), Medicine (1), Mathematics (1), Art (0), Physics (1)
+Country: Barbados
+
+University: University of the West Indies, Cave Hill
+CollegeRank: 1001+
+Tuition (EUR/year): 4000
+PercOfIntStud: 15%
+AcceptanceRate (%): 60%
+AvgSafetyIndex (0-100): 70
+CostOfLiving (EUR/month): 1200
+Rent (EUR/month): 600
+Groceries (EUR/month): 300
+RecreationCost (EUR/month): 100
+HealthcarePrice (EUR/year): 200
+AvgMntTransportCost (EUR/month): 30
+Link: UWI Cave Hill
+Majors: Computer Science (1), Business (1), Economics (1), Psychology (1), Biology (1), Law (1), Medicine (1), Mathematics (1), Art (1), Physics (0)
+Country: Belarus
+
+University: Belarusian State University
+CollegeRank: 601-800
+Tuition (EUR/year): 3000
+PercOfIntStud: 7%
+AcceptanceRate (%): 80%
+AvgSafetyIndex (0-100): 65
+CostOfLiving (EUR/month): 400
+Rent (EUR/month): 150
+Groceries (EUR/month): 100
+RecreationCost (EUR/month): 20
+HealthcarePrice (EUR/year): 80
+AvgMntTransportCost (EUR/month): 10
+Link: BSU
+Majors: Computer Science (1), Business (1), Economics (1), Psychology (0), Biology (1), Law (1), Medicine (1), Mathematics (1), Art (1), Physics (1)
+Country: Belgium
+
+University: KU Leuven
+CollegeRank: 42
+Tuition (EUR/year): 1000
+PercOfIntStud: 20%
+AcceptanceRate (%): 50%
+AvgSafetyIndex (0-100): 80
+CostOfLiving (EUR/month): 1200
+Rent (EUR/month): 600
+Groceries (EUR/month): 300
+RecreationCost (EUR/month): 100
+HealthcarePrice (EUR/year): 250
+AvgMntTransportCost (EUR/month): 50
+Link: KU Leuven
+Majors: Computer Science (1), Business (1), Economics (1), Psychology (1), Biology (1), Law (1), Medicine (1), Mathematics (1), Art (1), Physics (1)
+Country: Bolivia
+
+University: Universidad Mayor de San Andres
+CollegeRank: 1001+
+Tuition (EUR/year): 200
+PercOfIntStud: 3%
+AcceptanceRate (%): 80%
+AvgSafetyIndex (0-100): 55
+CostOfLiving (EUR/month): 300
+Rent (EUR/month): 100
+Groceries (EUR/month): 100
+RecreationCost (EUR/month): 20
+HealthcarePrice (EUR/year): 50
+AvgMntTransportCost (EUR/month): 10
+Link: UMSA
+Majors: Computer Science (1), Business (1), Economics (1), Psychology (0), Biology (1), Law (1), Medicine (1), Mathematics (1), Art (0), Physics (1)
+Country: Bosnia And Herzegovina
+
+University: University of Sarajevo
+CollegeRank: 1001+
+Tuition (EUR/year): 1000
+PercOfIntStud: 5%
+AcceptanceRate (%): 70%
+AvgSafetyIndex (0-100): 65
+CostOfLiving (EUR/month): 400
+Rent (EUR/month): 150
+Groceries (EUR/month): 120
+RecreationCost (EUR/month): 30
+HealthcarePrice (EUR/year): 80
+AvgMntTransportCost (EUR/month): 15
+Link: University of Sarajevo
+Majors: Computer Science (1), Business (1), Economics (1), Psychology (0), Biology (1), Law (1), Medicine (1), Mathematics (1), Art (1), Physics (1)
+Country: Botswana
+
+University: University of Botswana
+CollegeRank: 1001+
+Tuition (EUR/year): 2500
+PercOfIntStud: 10%
+AcceptanceRate (%): 75%
+AvgSafetyIndex (0-100): 60
+CostOfLiving (EUR/month): 700
+Rent (EUR/month): 300
+Groceries (EUR/month): 200
+RecreationCost (EUR/month): 50
+HealthcarePrice (EUR/year): 150
+AvgMntTransportCost (EUR/month): 20
+Link: University of Botswana
+Majors: Computer Science (1), Business (1), Economics (1), Psychology (0), Biology (1), Law (1), Medicine (1), Mathematics (1), Art (0), Physics (1)
+Country: Brazil
+
+University: University of Sao Paulo (USP)
+CollegeRank: 115
+Tuition (EUR/year): 0
+PercOfIntStud: 15%
+AcceptanceRate (%): 30%
+AvgSafetyIndex (0-100): 45
+CostOfLiving (EUR/month): 800
+Rent (EUR/month): 400
+Groceries (EUR/month): 250
+RecreationCost (EUR/month): 100
+HealthcarePrice (EUR/year): 200
+AvgMntTransportCost (EUR/month): 40
+Link: USP
+Majors: Computer Science (1), Business (1), Economics (1), Psychology (1), Biology (1), Law (1), Medicine (1), Mathematics (1), Art (1), Physics (1)
+Country: Bulgaria
+
+University: Sofia University
+CollegeRank: 1001+
+Tuition (EUR/year): 2000
+PercOfIntStud: 8%
+AcceptanceRate (%): 70%
+AvgSafetyIndex (0-100): 70
+CostOfLiving (EUR/month): 500
+Rent (EUR/month): 200
+Groceries (EUR/month): 150
+RecreationCost (EUR/month): 50
+HealthcarePrice (EUR/year): 100
+AvgMntTransportCost (EUR/month): 20
+Link: Sofia University
+Majors: Computer Science (1), Business (1), Economics (1), Psychology (1), Biology (1), Law (1), Medicine (1), Mathematics (1), Art (0), Physics (1)
+Country: Cambodia
+
+University: Royal University of Phnom Penh
+CollegeRank: 1001+
+Tuition (EUR/year): 300
+PercOfIntStud: 5%
+AcceptanceRate (%): 80%
+AvgSafetyIndex (0-100): 60
+CostOfLiving (EUR/month): 300
+Rent (EUR/month): 100
+Groceries (EUR/month): 100
+RecreationCost (EUR/month): 20
+HealthcarePrice (EUR/year): 80
+AvgMntTransportCost (EUR/month): 10
+Link: Royal University of Phnom Penh
+Majors: Computer Science (1), Business (0), Economics (0), Psychology (0), Biology (1), Law (1), Medicine (0), Mathematics (1), Art (0), Physics (1)
+Country: Cameroon
+
+University: University of Yaounde I
+CollegeRank: 1001+
+Tuition (EUR/year): 500
+PercOfIntStud: 5%
+AcceptanceRate (%): 70%
+AvgSafetyIndex (0-100): 55
+CostOfLiving (EUR/month): 350
+Rent (EUR/month): 120
+Groceries (EUR/month): 100
+RecreationCost (EUR/month): 20
+HealthcarePrice (EUR/year): 80
+AvgMntTransportCost (EUR/month): 10
+Link: University of Yaoundé I
+Majors: Computer Science (1), Business (0), Economics (1), Psychology (0), Biology (1), Law (1), Medicine (1), Mathematics (1), Art (0), Physics (1)
+Country: Canada
+
+University: University of Toronto
+CollegeRank: 21
+Tuition (EUR/year): 40,000
+PercOfIntStud: 27%
+AcceptanceRate (%): 43%
+AvgSafetyIndex (0-100): 85
+CostOfLiving (EUR/month): 2000
+Rent (EUR/month): 1200
+Groceries (EUR/month): 400
+RecreationCost (EUR/month): 150
+HealthcarePrice (EUR/year): 600
+AvgMntTransportCost (EUR/month): 70
+Link: U of T
+Majors: Computer Science (1), Business (1), Economics (1), Psychology (1), Biology (1), Law (1), Medicine (1), Mathematics (1), Art (1), Physics (1)
+Country: Chile
+
+University: Pontifical Catholic University of Chile
+CollegeRank: 115
+Tuition (EUR/year): 5000
+PercOfIntStud: 12%
+AcceptanceRate (%): 50%
+AvgSafetyIndex (0-100): 70
+CostOfLiving (EUR/month): 850
+Rent (EUR/month): 400
+Groceries (EUR/month): 200
+RecreationCost (EUR/month): 100
+HealthcarePrice (EUR/year): 200
+AvgMntTransportCost (EUR/month): 30
+Link: Pontifical Catholic University of Chile
+Majors: Computer Science (1), Business (1), Economics (1), Psychology (1), Biology (1), Law (1), Medicine (1), Mathematics (1), Art (1), Physics (1)
+Country: China
+
+University: Tsinghua University
+CollegeRank: 20
+Tuition (EUR/year): 7000
+PercOfIntStud: 25%
+AcceptanceRate (%): 20%
+AvgSafetyIndex (0-100): 80
+CostOfLiving (EUR/month): 800
+Rent (EUR/month): 300
+Groceries (EUR/month): 200
+RecreationCost (EUR/month): 100
+HealthcarePrice (EUR/year): 150
+AvgMntTransportCost (EUR/month): 20
+Link: Tsinghua University
+Majors: Computer Science (1), Business (1), Economics (1), Psychology (0), Biology (1), Law (1), Medicine (0), Mathematics (1), Art (1), Physics (1)
+Country: Colombia
+
+University: University of Los Andes, Colombia
+CollegeRank: 220
+Tuition (EUR/year): 6000
+PercOfIntStud: 12%
+AcceptanceRate (%): 35%
+AvgSafetyIndex (0-100): 60
+CostOfLiving (EUR/month): 700
+Rent (EUR/month): 300
+Groceries (EUR/month): 200
+RecreationCost (EUR/month): 70
+HealthcarePrice (EUR/year): 150
+AvgMntTransportCost (EUR/month): 30
+Link: University of Los Andes
+Majors: Computer Science (1), Business (1), Economics (1), Psychology (1), Biology (1), Law (1), Medicine (0), Mathematics (1), Art (1), Physics (0)
+Country: Costa Rica
+
+University: University of Costa Rica
+CollegeRank: 1001+
+Tuition (EUR/year): 3000
+PercOfIntStud: 10%
+AcceptanceRate (%): 50%
+AvgSafetyIndex (0-100): 75
+CostOfLiving (EUR/month): 800
+Rent (EUR/month): 350
+Groceries (EUR/month): 250
+RecreationCost (EUR/month): 80
+HealthcarePrice (EUR/year): 100
+AvgMntTransportCost (EUR/month): 20
+Link: University of Costa Rica
+Majors: Computer Science (1), Business (1), Economics (1), Psychology (1), Biology (1), Law (1), Medicine (0), Mathematics (1), Art (1), Physics (1)
+Country: Croatia
+
+University: University of Zagreb
+CollegeRank: 601-800
+Tuition (EUR/year): 1500
+PercOfIntStud: 8%
+AcceptanceRate (%): 60%
+AvgSafetyIndex (0-100): 80
+CostOfLiving (EUR/month): 700
+Rent (EUR/month): 300
+Groceries (EUR/month): 200
+RecreationCost (EUR/month): 50
+HealthcarePrice (EUR/year): 150
+AvgMntTransportCost (EUR/month): 30
+Link: University of Zagreb
+Majors: Computer Science (1), Business (1), Economics (1), Psychology (1), Biology (1), Law (1), Medicine (1), Mathematics (1), Art (1), Physics (1)
+Country: Cuba
+
+University: University of Havana
+CollegeRank: 1001+
+Tuition (EUR/year): 2000
+PercOfIntStud: 5%
+AcceptanceRate (%): 80%
+AvgSafetyIndex (0-100): 70
+CostOfLiving (EUR/month): 600
+Rent (EUR/month): 200
+Groceries (EUR/month): 150
+RecreationCost (EUR/month): 50
+HealthcarePrice (EUR/year): 100
+AvgMntTransportCost (EUR/month): 20
+Link: University of Havana
+Majors: Computer Science (1), Business (1), Economics (1), Psychology (1), Biology (1), Law (1), Medicine (1), Mathematics (0), Art (1), Physics (1)
+Country: Cyprus
+
+University: University of Cyprus
+CollegeRank: 601-800
+Tuition (EUR/year): 7000
+PercOfIntStud: 15%
+AcceptanceRate (%): 40%
+AvgSafetyIndex (0-100): 85
+CostOfLiving (EUR/month): 900
+Rent (EUR/month): 400
+Groceries (EUR/month): 250
+RecreationCost (EUR/month): 100
+HealthcarePrice (EUR/year): 200
+AvgMntTransportCost (EUR/month): 30
+Link: University of Cyprus
+Majors: Computer Science (1), Business (1), Economics (1), Psychology (1), Biology (1), Law (1), Medicine (1), Mathematics (1), Art (1), Physics (1)
+Country: Czech Republic
+
+University: Charles University
+CollegeRank: 200
+Tuition (EUR/year): 1200
+PercOfIntStud: 20%
+AcceptanceRate (%): 45%
+AvgSafetyIndex (0-100): 85
+CostOfLiving (EUR/month): 900
+Rent (EUR/month): 400
+Groceries (EUR/month): 250
+RecreationCost (EUR/month): 80
+HealthcarePrice (EUR/year): 250
+AvgMntTransportCost (EUR/month): 40
+Link: Charles University
+Majors: Computer Science (1), Business (1), Economics (1), Psychology (1), Biology (1), Law (1), Medicine (1), Mathematics (1), Art (1), Physics (1)
+Country: Denmark
+
+University: University of Copenhagen
+CollegeRank: 75
+Tuition (EUR/year): 8000
+PercOfIntStud: 20%
+AcceptanceRate (%): 40%
+AvgSafetyIndex (0-100): 90
+CostOfLiving (EUR/month): 1400
+Rent (EUR/month): 700
+Groceries (EUR/month): 300
+RecreationCost (EUR/month): 150
+HealthcarePrice (EUR/year): 0
+AvgMntTransportCost (EUR/month): 50
+Link: University of Copenhagen
+Majors: Computer Science (1), Business (1), Economics (1), Psychology (1), Biology (1), Law (1), Medicine (1), Mathematics (1), Art (1), Physics (1)
+Country: Dominican Republic
+
+University: Pontificia Universidad Catolica Madre y Maestra
+CollegeRank: 1001+
+Tuition (EUR/year): 2000
+PercOfIntStud: 5%
+AcceptanceRate (%): 70%
+AvgSafetyIndex (0-100): 60
+CostOfLiving (EUR/month): 700
+Rent (EUR/month): 300
+Groceries (EUR/month): 200
+RecreationCost (EUR/month): 50
+HealthcarePrice (EUR/year): 150
+AvgMntTransportCost (EUR/month): 20
+Link: PUCMM
+Majors: Computer Science (1), Business (1), Economics (1), Psychology (1), Biology (1), Law (1), Medicine (0), Mathematics (1), Art (0), Physics (1)
+Country: Ecuador
+
+University: Pontificia Universidad Catolica del Ecuador
+CollegeRank: 1001+
+Tuition (EUR/year): 4000
+PercOfIntStud: 5%
+AcceptanceRate (%): 70%
+AvgSafetyIndex (0-100): 60
+CostOfLiving (EUR/month): 600
+Rent (EUR/month): 250
+Groceries (EUR/month): 150
+RecreationCost (EUR/month): 50
+HealthcarePrice (EUR/year): 150
+AvgMntTransportCost (EUR/month): 20
+Link: Pontificia Universidad Católica del Ecuador
+Majors: Computer Science (1), Business (1), Economics (1), Psychology (1), Biology (1), Law (1), Medicine (0), Mathematics (1), Art (1), Physics (1)
+Country: Egypt
+
+University: Cairo University
+CollegeRank: 601-800
+Tuition (EUR/year): 2000
+PercOfIntStud: 5%
+AcceptanceRate (%): 75%
+AvgSafetyIndex (0-100): 50
+CostOfLiving (EUR/month): 400
+Rent (EUR/month): 150
+Groceries (EUR/month): 100
+RecreationCost (EUR/month): 30
+HealthcarePrice (EUR/year): 100
+AvgMntTransportCost (EUR/month): 20
+Link: Cairo University
+Majors: Computer Science (1), Business (1), Economics (1), Psychology (1), Biology (1), Law (1), Medicine (1), Mathematics (1), Art (1), Physics (1)
+Country: El Salvador
+
+University: University of El Salvador
+CollegeRank: 1001+
+Tuition (EUR/year): 1500
+PercOfIntStud: 3%
+AcceptanceRate (%): 80%
+AvgSafetyIndex (0-100): 55
+CostOfLiving (EUR/month): 600
+Rent (EUR/month): 200
+Groceries (EUR/month): 150
+RecreationCost (EUR/month): 40
+HealthcarePrice (EUR/year): 100
+AvgMntTransportCost (EUR/month): 15
+Link: University of El Salvador
+Majors: Computer Science (1), Business (1), Economics (1), Psychology (1), Biology (1), Law (1), Medicine (1), Mathematics (1), Art (0), Physics (1)
+Country: Estonia
+
+University: University of Tartu
+CollegeRank: 301-350
+Tuition (EUR/year): 4000
+PercOfIntStud: 10%
+AcceptanceRate (%): 60%
+AvgSafetyIndex (0-100): 80
+CostOfLiving (EUR/month): 900
+Rent (EUR/month): 350
+Groceries (EUR/month): 250
+RecreationCost (EUR/month): 100
+HealthcarePrice (EUR/year): 150
+AvgMntTransportCost (EUR/month): 30
+Link: University of Tartu
+Majors: Computer Science (1), Business (1), Economics (1), Psychology (1), Biology (1), Law (1), Medicine (0), Mathematics (1), Art (1), Physics (1)
+Country: Fiji
+
+University: University of the South Pacific
+CollegeRank: 1001+
+Tuition (EUR/year): 4500
+PercOfIntStud: 15%
+AcceptanceRate (%): 70%
+AvgSafetyIndex (0-100): 70
+CostOfLiving (EUR/month): 700
+Rent (EUR/month): 300
+Groceries (EUR/month): 200
+RecreationCost (EUR/month): 50
+HealthcarePrice (EUR/year): 100
+AvgMntTransportCost (EUR/month): 20
+Link: University of the South Pacific
+Majors: Computer Science (1), Business (1), Economics (1), Psychology (1), Biology (1), Law (1), Medicine (0), Mathematics (1), Art (1), Physics (1)
+Country: Finland
+
+University: University of Helsinki
+CollegeRank: 100
+Tuition (EUR/year): 13000
+PercOfIntStud: 20%
+AcceptanceRate (%): 50%
+AvgSafetyIndex (0-100): 90
+CostOfLiving (EUR/month): 1200
+Rent (EUR/month): 600
+Groceries (EUR/month): 250
+RecreationCost (EUR/month): 100
+HealthcarePrice (EUR/year): 200
+AvgMntTransportCost (EUR/month): 50
+Link: University of Helsinki
+Majors: Computer Science (1), Business (1), Economics (1), Psychology (1), Biology (1), Law (1), Medicine (1), Mathematics (1), Art (1), Physics (1)
+Country: France
+
+University: Sorbonne University
+CollegeRank: 49
+Tuition (EUR/year): 12000
+PercOfIntStud: 30%
+AcceptanceRate (%): 25%
+AvgSafetyIndex (0-100): 65
+CostOfLiving (EUR/month): 1200
+Rent (EUR/month): 650
+Groceries (EUR/month): 300
+RecreationCost (EUR/month): 150
+HealthcarePrice (EUR/year): 300
+AvgMntTransportCost (EUR/month): 60
+Link: Sorbonne University
+Majors: Computer Science (1), Business (1), Economics (1), Psychology (1), Biology (1), Law (1), Medicine (1), Mathematics (1), Art (1), Physics (1)
+Country: Georgia
+
+University: Ivane Javakhishvili Tbilisi State University
+CollegeRank: 1001+
+Tuition (EUR/year): 2000
+PercOfIntStud: 15%
+AcceptanceRate (%): 60%
+AvgSafetyIndex (0-100): 75
+CostOfLiving (EUR/month): 500
+Rent (EUR/month): 200
+Groceries (EUR/month): 150
+RecreationCost (EUR/month): 50
+HealthcarePrice (EUR/year): 100
+AvgMntTransportCost (EUR/month): 15
+Link: Tbilisi State University
+Majors: Computer Science (1), Business (1), Economics (1), Psychology (1), Biology (1), Law (1), Medicine (1), Mathematics (0), Art (1), Physics (0)
+Country: Germany
+
+University: Ludwig Maximilian University of Munich
+CollegeRank: 32
+Tuition (EUR/year): 1500
+PercOfIntStud: 20%
+AcceptanceRate (%): 15%
+AvgSafetyIndex (0-100): 85
+CostOfLiving (EUR/month): 1100
+Rent (EUR/month): 500
+Groceries (EUR/month): 250
+RecreationCost (EUR/month): 100
+HealthcarePrice (EUR/year): 200
+AvgMntTransportCost (EUR/month): 50
+Link: LMU Munich
+Majors: Computer Science (1), Business (1), Economics (1), Psychology (1), Biology (1), Law (1), Medicine (1), Mathematics (1), Art (1), Physics (1)
+Country: Ghana
+
+University: University of Ghana
+CollegeRank: 1001+
+Tuition (EUR/year): 1000
+PercOfIntStud: 10%
+AcceptanceRate (%): 70%
+AvgSafetyIndex (0-100): 55
+CostOfLiving (EUR/month): 500
+Rent (EUR/month): 200
+Groceries (EUR/month): 150
+RecreationCost (EUR/month): 50
+HealthcarePrice (EUR/year): 150
+AvgMntTransportCost (EUR/month): 20
+Link: University of Ghana
+Majors: Computer Science (1), Business (1), Economics (1), Psychology (1), Biology (1), Law (1), Medicine (1), Mathematics (1), Art (1), Physics (1)
+Country: Greece
+
+University: National and Kapodistrian University of Athens
+CollegeRank: 301-350
+Tuition (EUR/year): 1000
+PercOfIntStud: 12%
+AcceptanceRate (%): 60%
+AvgSafetyIndex (0-100): 70
+CostOfLiving (EUR/month): 750
+Rent (EUR/month): 350
+Groceries (EUR/month): 200
+RecreationCost (EUR/month): 100
+HealthcarePrice (EUR/year): 200
+AvgMntTransportCost (EUR/month): 40
+Link: National and Kapodistrian University of Athens
+Majors: Computer Science (1), Business (1), Economics (1), Psychology (1), Biology (1), Law (1), Medicine (1), Mathematics (1), Art (1), Physics (1)
+Country: Guatemala
+
+University: Universidad de San Carlos de Guatemala
+CollegeRank: 1001+
+Tuition (EUR/year): 1000
+PercOfIntStud: 5%
+AcceptanceRate (%): 70%
+AvgSafetyIndex (0-100): 50
+CostOfLiving (EUR/month): 600
+Rent (EUR/month): 200
+Groceries (EUR/month): 150
+RecreationCost (EUR/month): 50
+HealthcarePrice (EUR/year): 100
+AvgMntTransportCost (EUR/month): 20
+Link: Universidad de San Carlos de Guatemala
+Majors: Computer Science (1), Business (1), Economics (1), Psychology (1), Biology (1), Law (1), Medicine (1), Mathematics (1), Art (0), Physics (1)
+Country: Hong Kong
+
+University: The University of Hong Kong
+CollegeRank: 35
+Tuition (EUR/year): 13000
+PercOfIntStud: 40%
+AcceptanceRate (%): 30%
+AvgSafetyIndex (0-100): 85
+CostOfLiving (EUR/month): 1500
+Rent (EUR/month): 800
+Groceries (EUR/month): 300
+RecreationCost (EUR/month): 150
+HealthcarePrice (EUR/year): 500
+AvgMntTransportCost (EUR/month): 50
+Link: The University of Hong Kong
+Majors: Computer Science (1), Business (1), Economics (1), Psychology (1), Biology (1), Law (1), Medicine (1), Mathematics (1), Art (1), Physics (1)
+Country: Hungary
+
+University: Eotvos Lorand University
+CollegeRank: 601-650
+Tuition (EUR/year): 6000
+PercOfIntStud: 15%
+AcceptanceRate (%): 65%
+AvgSafetyIndex (0-100): 70
+CostOfLiving (EUR/month): 800
+Rent (EUR/month): 350
+Groceries (EUR/month): 200
+RecreationCost (EUR/month): 100
+HealthcarePrice (EUR/year): 150
+AvgMntTransportCost (EUR/month): 30
+Link: Eötvös Loránd University
+Majors: Computer Science (1), Business (1), Economics (1), Psychology (1), Biology (1), Law (1), Medicine (1), Mathematics (1), Art (1), Physics (1)
+Country: Iceland
+
+University: University of Iceland
+CollegeRank: 301-350
+Tuition (EUR/year): 10000
+PercOfIntStud: 20%
+AcceptanceRate (%): 50%
+AvgSafetyIndex (0-100): 90
+CostOfLiving (EUR/month): 1200
+Rent (EUR/month): 600
+Groceries (EUR/month): 300
+RecreationCost (EUR/month): 150
+HealthcarePrice (EUR/year): 250
+AvgMntTransportCost (EUR/month): 50
+Link: University of Iceland
+Majors: Computer Science (1), Business (1), Economics (1), Psychology (1), Biology (1), Law (1), Medicine (1), Mathematics (1), Art (1), Physics (1)
+Country: India
+
+University: Indian Institute of Technology Bombay
+CollegeRank: 172
+Tuition (EUR/year): 8000
+PercOfIntStud: 25%
+AcceptanceRate (%): 2%
+AvgSafetyIndex (0-100): 60
+CostOfLiving (EUR/month): 500
+Rent (EUR/month): 150
+Groceries (EUR/month): 100
+RecreationCost (EUR/month): 50
+HealthcarePrice (EUR/year): 150
+AvgMntTransportCost (EUR/month): 20
+Link: IIT Bombay
+Majors: Computer Science (1), Business (1), Economics (1), Psychology (1), Biology (1), Law (1), Medicine (0), Mathematics (1), Art (0), Physics (1)
+Country: Indonesia
+
+University: University of Indonesia
+CollegeRank: 601-650
+Tuition (EUR/year): 3000
+PercOfIntStud: 10%
+AcceptanceRate (%): 45%
+AvgSafetyIndex (0-100): 65
+CostOfLiving (EUR/month): 600
+Rent (EUR/month): 250
+Groceries (EUR/month): 150
+RecreationCost (EUR/month): 50
+HealthcarePrice (EUR/year): 200
+AvgMntTransportCost (EUR/month): 30
+Link: University of Indonesia
+Majors: Computer Science (1), Business (1), Economics (1), Psychology (1), Biology (1), Law (1), Medicine (1), Mathematics (1), Art (0), Physics (1)
+Country: Iran
+
+University: University of Tehran
+CollegeRank: 601-650
+Tuition (EUR/year): 4000
+PercOfIntStud: 5%
+AcceptanceRate (%): 30%
+AvgSafetyIndex (0-100): 55
+CostOfLiving (EUR/month): 500
+Rent (EUR/month): 150
+Groceries (EUR/month): 100
+RecreationCost (EUR/month): 50
+HealthcarePrice (EUR/year): 200
+AvgMntTransportCost (EUR/month): 30
+Link: University of Tehran
+Majors: Computer Science (1), Business (1), Economics (1), Psychology (1), Biology (1), Law (1), Medicine (1), Mathematics (1), Art (1), Physics (1)
+Country: Iraq
+
+University: University of Baghdad
+CollegeRank: 1001+
+Tuition (EUR/year): 1000
+PercOfIntStud: 3%
+AcceptanceRate (%): 80%
+AvgSafetyIndex (0-100): 40
+CostOfLiving (EUR/month): 400
+Rent (EUR/month): 150
+Groceries (EUR/month): 100
+RecreationCost (EUR/month): 30
+HealthcarePrice (EUR/year): 100
+AvgMntTransportCost (EUR/month): 25
+Link: University of Baghdad
+Majors: Computer Science (1), Business (1), Economics (1), Psychology (1), Biology (1), Law (1), Medicine (1), Mathematics (1), Art (1), Physics (1)
+Country: Ireland
+
+University: Trinity College Dublin
+CollegeRank: 101
+Tuition (EUR/year): 15000
+PercOfIntStud: 30%
+AcceptanceRate (%): 15%
+AvgSafetyIndex (0-100): 80
+CostOfLiving (EUR/month): 1200
+Rent (EUR/month): 700
+Groceries (EUR/month): 250
+RecreationCost (EUR/month): 150
+HealthcarePrice (EUR/year): 400
+AvgMntTransportCost (EUR/month): 60
+Link: Trinity College Dublin
+Majors: Computer Science (1), Business (1), Economics (1), Psychology (1), Biology (1), Law (1), Medicine (1), Mathematics (1), Art (1), Physics (1)
+Country: Israel
+
+University: Hebrew University of Jerusalem
+CollegeRank: 203
+Tuition (EUR/year): 9000
+PercOfIntStud: 25%
+AcceptanceRate (%): 40%
+AvgSafetyIndex (0-100): 60
+CostOfLiving (EUR/month): 1100
+Rent (EUR/month): 500
+Groceries (EUR/month): 250
+RecreationCost (EUR/month): 150
+HealthcarePrice (EUR/year): 200
+AvgMntTransportCost (EUR/month): 40
+Link: Hebrew University of Jerusalem
+Majors: Computer Science (1), Business (1), Economics (1), Psychology (1), Biology (1), Law (1), Medicine (1), Mathematics (1), Art (1), Physics (1)
+Country: Italy
+
+University: University of Bologna
+CollegeRank: 160
+Tuition (EUR/year): 9000
+PercOfIntStud: 20%
+AcceptanceRate (%): 35%
+AvgSafetyIndex (0-100): 75
+CostOfLiving (EUR/month): 1000
+Rent (EUR/month): 500
+Groceries (EUR/month): 250
+RecreationCost (EUR/month): 100
+HealthcarePrice (EUR/year): 200
+AvgMntTransportCost (EUR/month): 50
+Link: University of Bologna
+Majors: Computer Science (1), Business (1), Economics (1), Psychology (1), Biology (1), Law (1), Medicine (1), Mathematics (1), Art (1), Physics (1)
+Country: Jamaica
+
+University: University of the West Indies
+CollegeRank: 1001+
+Tuition (EUR/year): 5000
+PercOfIntStud: 10%
+AcceptanceRate (%): 50%
+AvgSafetyIndex (0-100): 60
+CostOfLiving (EUR/month): 700
+Rent (EUR/month): 200
+Groceries (EUR/month): 150
+RecreationCost (EUR/month): 50
+HealthcarePrice (EUR/year): 100
+AvgMntTransportCost (EUR/month): 25
+Link: University of the West Indies
+Majors: Computer Science (1), Business (1), Economics (1), Psychology (1), Biology (1), Law (1), Medicine (1), Mathematics (1), Art (1), Physics (0)
+Country: Japan
+
+University: University of Tokyo
+CollegeRank: 23
+Tuition (EUR/year): 10000
+PercOfIntStud: 10%
+AcceptanceRate (%): 10%
+AvgSafetyIndex (0-100): 85
+CostOfLiving (EUR/month): 1200
+Rent (EUR/month): 500
+Groceries (EUR/month): 200
+RecreationCost (EUR/month): 150
+HealthcarePrice (EUR/year): 200
+AvgMntTransportCost (EUR/month): 100
+Link: University of Tokyo
+Majors: Computer Science (1), Business (1), Economics (1), Psychology (1), Biology (1), Law (1), Medicine (1), Mathematics (1), Art (1), Physics (1)
+Country: Jordan
+
+University: University of Jordan
+CollegeRank: 1001+
+Tuition (EUR/year): 6000
+PercOfIntStud: 15%
+AcceptanceRate (%): 50%
+AvgSafetyIndex (0-100): 65
+CostOfLiving (EUR/month): 600
+Rent (EUR/month): 250
+Groceries (EUR/month): 150
+RecreationCost (EUR/month): 50
+HealthcarePrice (EUR/year): 100
+AvgMntTransportCost (EUR/month): 30
+Link: University of Jordan
+Majors: Computer Science (1), Business (1), Economics (1), Psychology (1), Biology (1), Law (1), Medicine (1), Mathematics (1), Art (1), Physics (0)
+Country: Kazakhstan
+
+University: Al-Farabi Kazakh National University
+CollegeRank: 1001+
+Tuition (EUR/year): 4000
+PercOfIntStud: 20%
+AcceptanceRate (%): 45%
+AvgSafetyIndex (0-100): 55
+CostOfLiving (EUR/month): 600
+Rent (EUR/month): 250
+Groceries (EUR/month): 150
+RecreationCost (EUR/month): 50
+HealthcarePrice (EUR/year): 100
+AvgMntTransportCost (EUR/month): 20
+Link: Al-Farabi Kazakh National University
+Majors: Computer Science (1), Business (1), Economics (1), Psychology (1), Biology (1), Law (1), Medicine (1), Mathematics (1), Art (0), Physics (1)
+Country: Kenya
+
+University: University of Nairobi
+CollegeRank: 601-650
+Tuition (EUR/year): 2000
+PercOfIntStud: 10%
+AcceptanceRate (%): 60%
+AvgSafetyIndex (0-100): 50
+CostOfLiving (EUR/month): 500
+Rent (EUR/month): 150
+Groceries (EUR/month): 100
+RecreationCost (EUR/month): 50
+HealthcarePrice (EUR/year): 200
+AvgMntTransportCost (EUR/month): 30
+Link: University of Nairobi
+Majors: Computer Science (1), Business (1), Economics (1), Psychology (1), Biology (1), Law (1), Medicine (1), Mathematics (1), Art (1), Physics (0)
+Country: Kosovo
+
+University: University of Pristina
+CollegeRank: 1001+
+Tuition (EUR/year): 1500
+PercOfIntStud: 5%
+AcceptanceRate (%): 80%
+AvgSafetyIndex (0-100): 60
+CostOfLiving (EUR/month): 400
+Rent (EUR/month): 150
+Groceries (EUR/month): 100
+RecreationCost (EUR/month): 50
+HealthcarePrice (EUR/year): 50
+AvgMntTransportCost (EUR/month): 20
+Link: University of Pristina
+Majors: Computer Science (1), Business (1), Economics (1), Psychology (1), Biology (1), Law (1), Medicine (1), Mathematics (0), Art (1), Physics (1)
+Country: Kuwait
+
+University: Kuwait University
+CollegeRank: 701-750
+Tuition (EUR/year): 4000
+PercOfIntStud: 20%
+AcceptanceRate (%): 60%
+AvgSafetyIndex (0-100): 75
+CostOfLiving (EUR/month): 1100
+Rent (EUR/month): 500
+Groceries (EUR/month): 200
+RecreationCost (EUR/month): 100
+HealthcarePrice (EUR/year): 300
+AvgMntTransportCost (EUR/month): 50
+Link: Kuwait University
+Majors: Computer Science (1), Business (1), Economics (1), Psychology (1), Biology (1), Law (1), Medicine (1), Mathematics (1), Art (0), Physics (1)
+Country: Kyrgyzstan
+
+University: American University of Central Asia
+CollegeRank: 1001+
+Tuition (EUR/year): 4000
+PercOfIntStud: 15%
+AcceptanceRate (%): 70%
+AvgSafetyIndex (0-100): 55
+CostOfLiving (EUR/month): 400
+Rent (EUR/month): 150
+Groceries (EUR/month): 100
+RecreationCost (EUR/month): 50
+HealthcarePrice (EUR/year): 100
+AvgMntTransportCost (EUR/month): 25
+Link: American University of Central Asia
+Majors: Computer Science (1), Business (1), Economics (1), Psychology (1), Biology (1), Law (1), Medicine (0), Mathematics (1), Art (1), Physics (0)
+Country: Latvia
+
+University: University of Latvia
+CollegeRank: 701-750
+Tuition (EUR/year): 5000
+PercOfIntStud: 20%
+AcceptanceRate (%): 60%
+AvgSafetyIndex (0-100): 75
+CostOfLiving (EUR/month): 700
+Rent (EUR/month): 300
+Groceries (EUR/month): 150
+RecreationCost (EUR/month): 100
+HealthcarePrice (EUR/year): 200
+AvgMntTransportCost (EUR/month): 30
+Link: University of Latvia
+Majors: Computer Science (1), Business (1), Economics (1), Psychology (1), Biology (1), Law (1), Medicine (0), Mathematics (1), Art (1), Physics (1)
+Country: Lebanon
+
+University: American University of Beirut
+CollegeRank: 400
+Tuition (EUR/year): 12000
+PercOfIntStud: 30%
+AcceptanceRate (%): 40%
+AvgSafetyIndex (0-100): 60
+CostOfLiving (EUR/month): 1000
+Rent (EUR/month): 500
+Groceries (EUR/month): 250
+RecreationCost (EUR/month): 100
+HealthcarePrice (EUR/year): 500
+AvgMntTransportCost (EUR/month): 50
+Link: American University of Beirut
+Majors: Computer Science (1), Business (1), Economics (1), Psychology (1), Biology (1), Law (1), Medicine (1), Mathematics (1), Art (1), Physics (1)
+Country: Libya
+
+University: University of Tripoli
+CollegeRank: 1001+
+Tuition (EUR/year): 3000
+PercOfIntStud: 5%
+AcceptanceRate (%): 60%
+AvgSafetyIndex (0-100): 50
+CostOfLiving (EUR/month): 400
+Rent (EUR/month): 150
+Groceries (EUR/month): 100
+RecreationCost (EUR/month): 50
+HealthcarePrice (EUR/year): 100
+AvgMntTransportCost (EUR/month): 30
+Link: University of Tripoli
+Majors: Computer Science (1), Business (1), Economics (1), Psychology (1), Biology (1), Law (1), Medicine (1), Mathematics (0), Art (1), Physics (1)
+Country: Lithuania
+
+University: Vilnius University
+CollegeRank: 400
+Tuition (EUR/year): 7000
+PercOfIntStud: 10%
+AcceptanceRate (%): 55%
+AvgSafetyIndex (0-100): 75
+CostOfLiving (EUR/month): 800
+Rent (EUR/month): 300
+Groceries (EUR/month): 150
+RecreationCost (EUR/month): 100
+HealthcarePrice (EUR/year): 150
+AvgMntTransportCost (EUR/month): 30
+Link: Vilnius University
+Majors: Computer Science (1), Business (1), Economics (1), Psychology (1), Biology (1), Law (1), Medicine (0), Mathematics (1), Art (1), Physics (1)
+Country: Luxembourg
+
+University: University of Luxembourg
+CollegeRank: 300
+Tuition (EUR/year): 10000
+PercOfIntStud: 30%
+AcceptanceRate (%): 40%
+AvgSafetyIndex (0-100): 85
+CostOfLiving (EUR/month): 1500
+Rent (EUR/month): 700
+Groceries (EUR/month): 200
+RecreationCost (EUR/month): 200
+HealthcarePrice (EUR/year): 500
+AvgMntTransportCost (EUR/month): 80
+Link: University of Luxembourg
+Majors: Computer Science (1), Business (1), Economics (1), Psychology (1), Biology (1), Law (1), Medicine (1), Mathematics (1), Art (0), Physics (1)
+Country: Malaysia
+
+University: University of Malaya
+CollegeRank: 59
+Tuition (EUR/year): 3000
+PercOfIntStud: 25%
+AcceptanceRate (%): 30%
+AvgSafetyIndex (0-100): 80
+CostOfLiving (EUR/month): 500
+Rent (EUR/month): 200
+Groceries (EUR/month): 100
+RecreationCost (EUR/month): 50
+HealthcarePrice (EUR/year): 100
+AvgMntTransportCost (EUR/month): 30
+Link: University of Malaya
+Majors: Computer Science (1), Business (1), Economics (1), Psychology (1), Biology (1), Law (1), Medicine (1), Mathematics (1), Art (1), Physics (1)
+Country: Malta
+
+University: University of Malta
+CollegeRank: 801-1000
+Tuition (EUR/year): 9000
+PercOfIntStud: 15%
+AcceptanceRate (%): 40%
+AvgSafetyIndex (0-100): 90
+CostOfLiving (EUR/month): 800
+Rent (EUR/month): 300
+Groceries (EUR/month): 150
+RecreationCost (EUR/month): 100
+HealthcarePrice (EUR/year): 200
+AvgMntTransportCost (EUR/month): 40
+Link: University of Malta
+Majors: Computer Science (1), Business (1), Economics (1), Psychology (1), Biology (1), Law (1), Medicine (1), Mathematics (1), Art (1), Physics (0)
+Country: Mauritius
+
+University: University of Mauritius
+CollegeRank: 1001+
+Tuition (EUR/year): 5000
+PercOfIntStud: 10%
+AcceptanceRate (%): 70%
+AvgSafetyIndex (0-100): 80
+CostOfLiving (EUR/month): 600
+Rent (EUR/month): 200
+Groceries (EUR/month): 150
+RecreationCost (EUR/month): 50
+HealthcarePrice (EUR/year): 100
+AvgMntTransportCost (EUR/month): 40
+Link: University of Mauritius
+Majors: Computer Science (1), Business (1), Economics (1), Psychology (1), Biology (1), Law (1), Medicine (1), Mathematics (0), Art (1), Physics (0)
+Country: Mexico
+
+University: National Autonomous University of Mexico
+CollegeRank: 105
+Tuition (EUR/year): 1500
+PercOfIntStud: 10%
+AcceptanceRate (%): 50%
+AvgSafetyIndex (0-100): 60
+CostOfLiving (EUR/month): 700
+Rent (EUR/month): 250
+Groceries (EUR/month): 150
+RecreationCost (EUR/month): 50
+HealthcarePrice (EUR/year): 200
+AvgMntTransportCost (EUR/month): 40
+Link: National Autonomous University of Mexico
+Majors: Computer Science (1), Business (1), Economics (1), Psychology (1), Biology (1), Law (1), Medicine (1), Mathematics (1), Art (1), Physics (1)
+Country: Moldova
+
+University: Moldova State University
+CollegeRank: 1001+
+Tuition (EUR/year): 2000
+PercOfIntStud: 10%
+AcceptanceRate (%): 80%
+AvgSafetyIndex (0-100): 55
+CostOfLiving (EUR/month): 400
+Rent (EUR/month): 150
+Groceries (EUR/month): 100
+RecreationCost (EUR/month): 50
+HealthcarePrice (EUR/year): 50
+AvgMntTransportCost (EUR/month): 20
+Link: Moldova State University
+Majors: Computer Science (1), Business (1), Economics (1), Psychology (1), Biology (1), Law (1), Medicine (1), Mathematics (1), Art (1), Physics (1)
+Country: Montenegro
+
+University: University of Montenegro
+CollegeRank: 1001+
+Tuition (EUR/year): 3000
+PercOfIntStud: 5%
+AcceptanceRate (%): 70%
+AvgSafetyIndex (0-100): 70
+CostOfLiving (EUR/month): 500
+Rent (EUR/month): 200
+Groceries (EUR/month): 150
+RecreationCost (EUR/month): 50
+HealthcarePrice (EUR/year): 100
+AvgMntTransportCost (EUR/month): 25
+Link: University of Montenegro
+Majors: Computer Science (1), Business (1), Economics (1), Psychology (1), Biology (1), Law (1), Medicine (1), Mathematics (1), Art (1), Physics (0)
+Country: Morocco
+
+University: Mohammed V University
+CollegeRank: 1001+
+Tuition (EUR/year): 2000
+PercOfIntStud: 5%
+AcceptanceRate (%): 80%
+AvgSafetyIndex (0-100): 60
+CostOfLiving (EUR/month): 600
+Rent (EUR/month): 200
+Groceries (EUR/month): 150
+RecreationCost (EUR/month): 50
+HealthcarePrice (EUR/year): 100
+AvgMntTransportCost (EUR/month): 20
+Link: Mohammed V University
+Majors: Computer Science (1), Business (1), Economics (1), Psychology (1), Biology (1), Law (1), Medicine (0), Mathematics (1), Art (1), Physics (1)
+Country: Nepal
+
+University: Tribhuvan University
+CollegeRank: 1001+
+Tuition (EUR/year): 1000
+PercOfIntStud: 10%
+AcceptanceRate (%): 60%
+AvgSafetyIndex (0-100): 55
+CostOfLiving (EUR/month): 400
+Rent (EUR/month): 100
+Groceries (EUR/month): 100
+RecreationCost (EUR/month): 50
+HealthcarePrice (EUR/year): 50
+AvgMntTransportCost (EUR/month): 10
+Link: Tribhuvan University
+Majors: Computer Science (1), Business (1), Economics (1), Psychology (1), Biology (1), Law (1), Medicine (1), Mathematics (0), Art (1), Physics (1)
+Country: Netherlands
+
+University: University of Amsterdam
+CollegeRank: 60
+Tuition (EUR/year): 12000
+PercOfIntStud: 30%
+AcceptanceRate (%): 40%
+AvgSafetyIndex (0-100): 85
+CostOfLiving (EUR/month): 1200
+Rent (EUR/month): 600
+Groceries (EUR/month): 200
+RecreationCost (EUR/month): 100
+HealthcarePrice (EUR/year): 300
+AvgMntTransportCost (EUR/month): 80
+Link: University of Amsterdam
+Majors: Computer Science (1), Business (1), Economics (1), Psychology (1), Biology (1), Law (1), Medicine (1), Mathematics (1), Art (1), Physics (1)
+Country: New Zealand
+
+University: University of Auckland
+CollegeRank: 81
+Tuition (EUR/year): 15000
+PercOfIntStud: 40%
+AcceptanceRate (%): 40%
+AvgSafetyIndex (0-100): 90
+CostOfLiving (EUR/month): 1400
+Rent (EUR/month): 700
+Groceries (EUR/month): 250
+RecreationCost (EUR/month): 150
+HealthcarePrice (EUR/year): 500
+AvgMntTransportCost (EUR/month): 70
+Link: University of Auckland
+Majors: Computer Science (1), Business (1), Economics (1), Psychology (1), Biology (1), Law (1), Medicine (1), Mathematics (1), Art (1), Physics (1)
+Country: Nigeria
+
+University: University of Ibadan
+CollegeRank: 1001+
+Tuition (EUR/year): 1500
+PercOfIntStud: 5%
+AcceptanceRate (%): 60%
+AvgSafetyIndex (0-100): 55
+CostOfLiving (EUR/month): 500
+Rent (EUR/month): 150
+Groceries (EUR/month): 100
+RecreationCost (EUR/month): 50
+HealthcarePrice (EUR/year): 200
+AvgMntTransportCost (EUR/month): 30
+Link: University of Ibadan
+Majors: Computer Science (1), Business (1), Economics (1), Psychology (1), Biology (1), Law (1), Medicine (1), Mathematics (0), Art (1), Physics (1)
+Country: North Macedonia
+
+University: Ss. Cyril and Methodius University
+CollegeRank: 1001+
+Tuition (EUR/year): 3000
+PercOfIntStud: 10%
+AcceptanceRate (%): 75%
+AvgSafetyIndex (0-100): 70
+CostOfLiving (EUR/month): 500
+Rent (EUR/month): 200
+Groceries (EUR/month): 150
+RecreationCost (EUR/month): 50
+HealthcarePrice (EUR/year): 100
+AvgMntTransportCost (EUR/month): 30
+Link: Ss. Cyril and Methodius University
+Majors: Computer Science (1), Business (1), Economics (1), Psychology (1), Biology (1), Law (1), Medicine (1), Mathematics (1), Art (1), Physics (1)
+Country: Norway
+
+University: University of Oslo
+CollegeRank: 113
+Tuition (EUR/year): 0
+PercOfIntStud: 20%
+AcceptanceRate (%): 50%
+AvgSafetyIndex (0-100): 90
+CostOfLiving (EUR/month): 1200
+Rent (EUR/month): 600
+Groceries (EUR/month): 250
+RecreationCost (EUR/month): 150
+HealthcarePrice (EUR/year): 0
+AvgMntTransportCost (EUR/month): 70
+Link: University of Oslo
+Majors: Computer Science (1), Business (1), Economics (1), Psychology (1), Biology (1), Law (1), Medicine (1), Mathematics (1), Art (1), Physics (1)
+Country: Oman
+
+University: Sultan Qaboos University
+CollegeRank: 1001+
+Tuition (EUR/year): 4000
+PercOfIntStud: 5%
+AcceptanceRate (%): 70%
+AvgSafetyIndex (0-100): 80
+CostOfLiving (EUR/month): 700
+Rent (EUR/month): 300
+Groceries (EUR/month): 150
+RecreationCost (EUR/month): 100
+HealthcarePrice (EUR/year): 200
+AvgMntTransportCost (EUR/month): 50
+Link: Sultan Qaboos University
+Majors: Computer Science (1), Business (1), Economics (1), Psychology (1), Biology (1), Law (1), Medicine (1), Mathematics (0), Art (1), Physics (1)
+Country: Pakistan
+
+University: Aga Khan University
+CollegeRank: 1001+
+Tuition (EUR/year): 5000
+PercOfIntStud: 15%
+AcceptanceRate (%): 40%
+AvgSafetyIndex (0-100): 60
+CostOfLiving (EUR/month): 450
+Rent (EUR/month): 200
+Groceries (EUR/month): 100
+RecreationCost (EUR/month): 50
+HealthcarePrice (EUR/year): 200
+AvgMntTransportCost (EUR/month): 40
+Link: Aga Khan University
+Majors: Computer Science (1), Business (1), Economics (1), Psychology (1), Biology (1), Law (1), Medicine (1), Mathematics (0), Art (1), Physics (1)
+Country: Palestine
+
+University: Birzeit University
+CollegeRank: 1001+
+Tuition (EUR/year): 3000
+PercOfIntStud: 10%
+AcceptanceRate (%): 70%
+AvgSafetyIndex (0-100): 40
+CostOfLiving (EUR/month): 500
+Rent (EUR/month): 150
+Groceries (EUR/month): 150
+RecreationCost (EUR/month): 50
+HealthcarePrice (EUR/year): 100
+AvgMntTransportCost (EUR/month): 30
+Link: Birzeit University
+Majors: Computer Science (1), Business (1), Economics (1), Psychology (1), Biology (1), Law (1), Medicine (1), Mathematics (0), Art (1), Physics (1)
+Country: Panama
+
+University: University of Panama
+CollegeRank: 1001+
+Tuition (EUR/year): 2000
+PercOfIntStud: 5%
+AcceptanceRate (%): 75%
+AvgSafetyIndex (0-100): 60
+CostOfLiving (EUR/month): 600
+Rent (EUR/month): 250
+Groceries (EUR/month): 150
+RecreationCost (EUR/month): 50
+HealthcarePrice (EUR/year): 150
+AvgMntTransportCost (EUR/month): 40
+Link: University of Panama
+Majors: Computer Science (1), Business (1), Economics (1), Psychology (1), Biology (1), Law (1), Medicine (1), Mathematics (1), Art (1), Physics (0)
+Country: Paraguay
+
+University: National University of Asuncion
+CollegeRank: 1001+
+Tuition (EUR/year): 2000
+PercOfIntStud: 10%
+AcceptanceRate (%): 80%
+AvgSafetyIndex (0-100): 60
+CostOfLiving (EUR/month): 500
+Rent (EUR/month): 150
+Groceries (EUR/month): 100
+RecreationCost (EUR/month): 50
+HealthcarePrice (EUR/year): 100
+AvgMntTransportCost (EUR/month): 30
+Link: National University of Asunción
+Majors: Computer Science (1), Business (1), Economics (1), Psychology (1), Biology (1), Law (1), Medicine (0), Mathematics (1), Art (1), Physics (1)
+Country: Peru
+
+University: Pontifical Catholic University of Peru
+CollegeRank: 800
+Tuition (EUR/year): 7000
+PercOfIntStud: 10%
+AcceptanceRate (%): 50%
+AvgSafetyIndex (0-100): 55
+CostOfLiving (EUR/month): 500
+Rent (EUR/month): 200
+Groceries (EUR/month): 150
+RecreationCost (EUR/month): 50
+HealthcarePrice (EUR/year): 100
+AvgMntTransportCost (EUR/month): 30
+Link: Pontifical Catholic University of Peru
+Majors: Computer Science (1), Business (1), Economics (1), Psychology (1), Biology (1), Law (1), Medicine (1), Mathematics (1), Art (1), Physics (0)
+Country: Philippines
+
+University: University of the Philippines
+CollegeRank: 400
+Tuition (EUR/year): 1500
+PercOfIntStud: 10%
+AcceptanceRate (%): 30%
+AvgSafetyIndex (0-100): 60
+CostOfLiving (EUR/month): 400
+Rent (EUR/month): 150
+Groceries (EUR/month): 100
+RecreationCost (EUR/month): 50
+HealthcarePrice (EUR/year): 150
+AvgMntTransportCost (EUR/month): 20
+Link: University of the Philippines
+Majors: Computer Science (1), Business (1), Economics (1), Psychology (1), Biology (1), Law (1), Medicine (1), Mathematics (1), Art (1), Physics (1)
+Country: Poland
+
+University: University of Warsaw
+CollegeRank: 320
+Tuition (EUR/year): 8000
+PercOfIntStud: 20%
+AcceptanceRate (%): 40%
+AvgSafetyIndex (0-100): 80
+CostOfLiving (EUR/month): 800
+Rent (EUR/month): 350
+Groceries (EUR/month): 150
+RecreationCost (EUR/month): 100
+HealthcarePrice (EUR/year): 200
+AvgMntTransportCost (EUR/month): 30
+Link: University of Warsaw
+Majors: Computer Science (1), Business (1), Economics (1), Psychology (1), Biology (1), Law (1), Medicine (1), Mathematics (1), Art (1), Physics (1)
+Country: Portugal
+
+University: University of Porto
+CollegeRank: 200
+Tuition (EUR/year): 8000
+PercOfIntStud: 25%
+AcceptanceRate (%): 45%
+AvgSafetyIndex (0-100): 85
+CostOfLiving (EUR/month): 900
+Rent (EUR/month): 450
+Groceries (EUR/month): 200
+RecreationCost (EUR/month): 100
+HealthcarePrice (EUR/year): 200
+AvgMntTransportCost (EUR/month): 40
+Link: University of Porto
+Majors: Computer Science (1), Business (1), Economics (1), Psychology (1), Biology (1), Law (1), Medicine (1), Mathematics (1), Art (1), Physics (1)
+Country: Puerto Rico
+
+University: University of Puerto Rico
+CollegeRank: 1001+
+Tuition (EUR/year): 4000
+PercOfIntStud: 10%
+AcceptanceRate (%): 60%
+AvgSafetyIndex (0-100): 65
+CostOfLiving (EUR/month): 800
+Rent (EUR/month): 400
+Groceries (EUR/month): 200
+RecreationCost (EUR/month): 100
+HealthcarePrice (EUR/year): 150
+AvgMntTransportCost (EUR/month): 50
+Link: University of Puerto Rico
+Majors: Computer Science (1), Business (1), Economics (1), Psychology (1), Biology (1), Law (1), Medicine (1), Mathematics (0), Art (1), Physics (1)
+Country: Qatar
+
+University: Qatar University
+CollegeRank: 276
+Tuition (EUR/year): 13000
+PercOfIntStud: 30%
+AcceptanceRate (%): 70%
+AvgSafetyIndex (0-100): 85
+CostOfLiving (EUR/month): 1500
+Rent (EUR/month): 900
+Groceries (EUR/month): 300
+RecreationCost (EUR/month): 150
+HealthcarePrice (EUR/year): 400
+AvgMntTransportCost (EUR/month): 80
+Link: Qatar University
+Majors: Computer Science (1), Business (1), Economics (1), Psychology (1), Biology (1), Law (1), Medicine (1), Mathematics (1), Art (1), Physics (1)
+Country: Romania
+
+University: University of Bucharest
+CollegeRank: 500
+Tuition (EUR/year): 6000
+PercOfIntStud: 20%
+AcceptanceRate (%): 50%
+AvgSafetyIndex (0-100): 70
+CostOfLiving (EUR/month): 600
+Rent (EUR/month): 250
+Groceries (EUR/month): 150
+RecreationCost (EUR/month): 50
+HealthcarePrice (EUR/year): 200
+AvgMntTransportCost (EUR/month): 30
+Link: University of Bucharest
+Majors: Computer Science (1), Business (1), Economics (1), Psychology (1), Biology (1), Law (1), Medicine (1), Mathematics (1), Art (1), Physics (1)
+Country: Russia
+
+University: Lomonosov Moscow State University
+CollegeRank: 74
+Tuition (EUR/year): 8000
+PercOfIntStud: 15%
+AcceptanceRate (%): 30%
+AvgSafetyIndex (0-100): 65
+CostOfLiving (EUR/month): 500
+Rent (EUR/month): 250
+Groceries (EUR/month): 150
+RecreationCost (EUR/month): 50
+HealthcarePrice (EUR/year): 100
+AvgMntTransportCost (EUR/month): 30
+Link: Lomonosov Moscow State University
+Majors: Computer Science (1), Business (1), Economics (1), Psychology (1), Biology (1), Law (1), Medicine (1), Mathematics (1), Art (1), Physics (1)
+Country: Saudi Arabia
+
+University: King Abdulaziz University
+CollegeRank: 143
+Tuition (EUR/year): 10000
+PercOfIntStud: 30%
+AcceptanceRate (%): 50%
+AvgSafetyIndex (0-100): 70
+CostOfLiving (EUR/month): 1000
+Rent (EUR/month): 500
+Groceries (EUR/month): 200
+RecreationCost (EUR/month): 100
+HealthcarePrice (EUR/year): 300
+AvgMntTransportCost (EUR/month): 80
+Link: King Abdulaziz University
+Majors: Computer Science (1), Business (1), Economics (1), Psychology (1), Biology (1), Law (1), Medicine (1), Mathematics (1), Art (1), Physics (1)
+Country: Serbia
+
+University: University of Belgrade
+CollegeRank: 500
+Tuition (EUR/year): 2000
+PercOfIntStud: 10%
+AcceptanceRate (%): 60%
+AvgSafetyIndex (0-100): 70
+CostOfLiving (EUR/month): 500
+Rent (EUR/month): 200
+Groceries (EUR/month): 150
+RecreationCost (EUR/month): 50
+HealthcarePrice (EUR/year): 100
+AvgMntTransportCost (EUR/month): 30
+Link: University of Belgrade
+Majors: Computer Science (1), Business (1), Economics (1), Psychology (1), Biology (1), Law (1), Medicine (1), Mathematics (1), Art (1), Physics (1)
+Country: Singapore
+
+University: National University of Singapore
+CollegeRank: 11
+Tuition (EUR/year): 15000
+PercOfIntStud: 45%
+AcceptanceRate (%): 20%
+AvgSafetyIndex (0-100): 95
+CostOfLiving (EUR/month): 2000
+Rent (EUR/month): 900
+Groceries (EUR/month): 300
+RecreationCost (EUR/month): 200
+HealthcarePrice (EUR/year): 400
+AvgMntTransportCost (EUR/month): 100
+Link: National University of Singapore
+Majors: Computer Science (1), Business (1), Economics (1), Psychology (1), Biology (1), Law (1), Medicine (1), Mathematics (1), Art (1), Physics (1)
+Country: Slovakia
+
+University: Comenius University Bratislava
+CollegeRank: 500
+Tuition (EUR/year): 5000
+PercOfIntStud: 15%
+AcceptanceRate (%): 50%
+AvgSafetyIndex (0-100): 75
+CostOfLiving (EUR/month): 600
+Rent (EUR/month): 250
+Groceries (EUR/month): 150
+RecreationCost (EUR/month): 50
+HealthcarePrice (EUR/year): 200
+AvgMntTransportCost (EUR/month): 30
+Link: Comenius University Bratislava
+Majors: Computer Science (1), Business (1), Economics (1), Psychology (1), Biology (1), Law (1), Medicine (1), Mathematics (1), Art (1), Physics (1)
+Country: Slovenia
+
+University: University of Ljubljana
+CollegeRank: 400
+Tuition (EUR/year): 5000
+PercOfIntStud: 25%
+AcceptanceRate (%): 70%
+AvgSafetyIndex (0-100): 85
+CostOfLiving (EUR/month): 800
+Rent (EUR/month): 350
+Groceries (EUR/month): 200
+RecreationCost (EUR/month): 100
+HealthcarePrice (EUR/year): 150
+AvgMntTransportCost (EUR/month): 40
+Link: University of Ljubljana
+Majors: Computer Science (1), Business (1), Economics (1), Psychology (1), Biology (1), Law (1), Medicine (1), Mathematics (1), Art (1), Physics (1)
+Country: South Africa
+
+University: University of Cape Town
+CollegeRank: 231
+Tuition (EUR/year): 8000
+PercOfIntStud: 15%
+AcceptanceRate (%): 40%
+AvgSafetyIndex (0-100): 50
+CostOfLiving (EUR/month): 650
+Rent (EUR/month): 300
+Groceries (EUR/month): 150
+RecreationCost (EUR/month): 50
+HealthcarePrice (EUR/year): 200
+AvgMntTransportCost (EUR/month): 40
+Link: University of Cape Town
+Majors: Computer Science (1), Business (1), Economics (1), Psychology (1), Biology (1), Law (1), Medicine (1), Mathematics (1), Art (1), Physics (1)
+Country: South Korea
+
+University: Seoul National University
+CollegeRank: 37
+Tuition (EUR/year): 9000
+PercOfIntStud: 20%
+AcceptanceRate (%): 15%
+AvgSafetyIndex (0-100): 85
+CostOfLiving (EUR/month): 1000
+Rent (EUR/month): 500
+Groceries (EUR/month): 250
+RecreationCost (EUR/month): 150
+HealthcarePrice (EUR/year): 300
+AvgMntTransportCost (EUR/month): 60
+Link: Seoul National University
+Majors: Computer Science (1), Business (1), Economics (1), Psychology (1), Biology (1), Law (1), Medicine (1), Mathematics (1), Art (1), Physics (1)
+Country: Spain
+
+University: University of Barcelona
+CollegeRank: 166
+Tuition (EUR/year): 1500
+PercOfIntStud: 25%
+AcceptanceRate (%): 60%
+AvgSafetyIndex (0-100): 65
+CostOfLiving (EUR/month): 700
+Rent (EUR/month): 400
+Groceries (EUR/month): 200
+RecreationCost (EUR/month): 100
+HealthcarePrice (EUR/year): 300
+AvgMntTransportCost (EUR/month): 50
+Link: University of Barcelona
+Majors: Computer Science (1), Business (1), Economics (1), Psychology (1), Biology (1), Law (1), Medicine (1), Mathematics (1), Art (1), Physics (1)
+Country: Sri Lanka
+
+University: University of Colombo
+CollegeRank: 1001+
+Tuition (EUR/year): 1000
+PercOfIntStud: 5%
+AcceptanceRate (%): 50%
+AvgSafetyIndex (0-100): 60
+CostOfLiving (EUR/month): 400
+Rent (EUR/month): 150
+Groceries (EUR/month): 100
+RecreationCost (EUR/month): 50
+HealthcarePrice (EUR/year): 100
+AvgMntTransportCost (EUR/month): 20
+Link: University of Colombo
+Majors: Computer Science (1), Business (1), Economics (1), Psychology (1), Biology (1), Law (1), Medicine (1), Mathematics (0), Art (1), Physics (1)
+Country: Sweden
+
+University: Lund University
+CollegeRank: 89
+Tuition (EUR/year): 13000
+PercOfIntStud: 45%
+AcceptanceRate (%): 20%
+AvgSafetyIndex (0-100): 85
+CostOfLiving (EUR/month): 1200
+Rent (EUR/month): 600
+Groceries (EUR/month): 250
+RecreationCost (EUR/month): 150
+HealthcarePrice (EUR/year): 200
+AvgMntTransportCost (EUR/month): 100
+Link: Lund University
+Majors: Computer Science (1), Business (1), Economics (1), Psychology (1), Biology (1), Law (1), Medicine (1), Mathematics (1), Art (1), Physics (1)
+Country: Switzerland
+
+University: ETH Zurich
+CollegeRank: 6
+Tuition (EUR/year): 20000
+PercOfIntStud: 50%
+AcceptanceRate (%): 25%
+AvgSafetyIndex (0-100): 90
+CostOfLiving (EUR/month): 1600
+Rent (EUR/month): 800
+Groceries (EUR/month): 300
+RecreationCost (EUR/month): 200
+HealthcarePrice (EUR/year): 500
+AvgMntTransportCost (EUR/month): 150
+Link: ETH Zurich
+Majors: Computer Science (1), Business (1), Economics (1), Psychology (1), Biology (1), Law (1), Medicine (1), Mathematics (1), Art (0), Physics (1)
+Country: Syria
+
+University: Damascus University
+CollegeRank: 1001+
+Tuition (EUR/year): 500
+PercOfIntStud: 5%
+AcceptanceRate (%): 60%
+AvgSafetyIndex (0-100): 40
+CostOfLiving (EUR/month): 300
+Rent (EUR/month): 100
+Groceries (EUR/month): 70
+RecreationCost (EUR/month): 30
+HealthcarePrice (EUR/year): 50
+AvgMntTransportCost (EUR/month): 20
+Link: Damascus University
+Majors: Computer Science (1), Business (1), Economics (1), Psychology (1), Biology (1), Law (1), Medicine (1), Mathematics (1), Art (1), Physics (1)
+Country: Taiwan
+
+University: National Taiwan University
+CollegeRank: 67
+Tuition (EUR/year): 6000
+PercOfIntStud: 10%
+AcceptanceRate (%): 30%
+AvgSafetyIndex (0-100): 90
+CostOfLiving (EUR/month): 800
+Rent (EUR/month): 350
+Groceries (EUR/month): 150
+RecreationCost (EUR/month): 50
+HealthcarePrice (EUR/year): 200
+AvgMntTransportCost (EUR/month): 40
+Link: National Taiwan University
+Majors: Computer Science (1), Business (1), Economics (1), Psychology (1), Biology (1), Law (1), Medicine (1), Mathematics (1), Art (1), Physics (1)
+Country: Tanzania
+
+University: University of Dar es Salaam
+CollegeRank: 1001+
+Tuition (EUR/year): 2000
+PercOfIntStud: 8%
+AcceptanceRate (%): 50%
+AvgSafetyIndex (0-100): 60
+CostOfLiving (EUR/month): 450
+Rent (EUR/month): 150
+Groceries (EUR/month): 100
+RecreationCost (EUR/month): 50
+HealthcarePrice (EUR/year): 100
+AvgMntTransportCost (EUR/month): 20
+Link: University of Dar es Salaam
+Majors: Computer Science (1), Business (1), Economics (1), Psychology (1), Biology (1), Law (1), Medicine (1), Mathematics (1), Art (1), Physics (1)
+Country: Thailand
+
+University: Chulalongkorn University
+CollegeRank: 248
+Tuition (EUR/year): 6000
+PercOfIntStud: 15%
+AcceptanceRate (%): 50%
+AvgSafetyIndex (0-100): 70
+CostOfLiving (EUR/month): 700
+Rent (EUR/month): 300
+Groceries (EUR/month): 150
+RecreationCost (EUR/month): 100
+HealthcarePrice (EUR/year): 250
+AvgMntTransportCost (EUR/month): 40
+Link: Chulalongkorn University
+Majors: Computer Science (1), Business (1), Economics (1), Psychology (1), Biology (1), Law (1), Medicine (1), Mathematics (1), Art (1), Physics (1)
+Country: Trinidad and Tobago
+University: University of the West Indies
+CollegeRank: 1001+
+Tuition (EUR/year): 5000
+PercOfIntStud: 15%
+AcceptanceRate (%): 60%
+AvgSafetyIndex (0-100): 65
+CostOfLiving (EUR/month): 800
+Rent (EUR/month): 400
+Groceries (EUR/month): 200
+RecreationCost (EUR/month): 100
+HealthcarePrice (EUR/year): 150
+AvgMntTransportCost (EUR/month): 50
+Link: University of the West Indies
+Majors: Computer Science (1), Business (1), Economics (1), Psychology (1), Biology (1), Law (1), Medicine (1), Mathematics (1), Art (1), Physics (1)
+Country: Tunisia
+University: University of Tunis El Manar
+CollegeRank: 1001+
+Tuition (EUR/year): 1000
+PercOfIntStud: 3%
+AcceptanceRate (%): 45%
+AvgSafetyIndex (0-100): 60
+CostOfLiving (EUR/month): 500
+Rent (EUR/month): 200
+Groceries (EUR/month): 100
+RecreationCost (EUR/month): 50
+HealthcarePrice (EUR/year): 80
+AvgMntTransportCost (EUR/month): 20
+Link: University of Tunis El Manar
+Majors: Computer Science (1), Business (1), Economics (1), Psychology (1), Biology (1), Law (1), Medicine (1), Mathematics (0), Art (1), Physics (1)
+Country: Turkey
+University: Bogazici University
+CollegeRank: 1001+
+Tuition (EUR/year): 2500
+PercOfIntStud: 12%
+AcceptanceRate (%): 30%
+AvgSafetyIndex (0-100): 60
+CostOfLiving (EUR/month): 600
+Rent (EUR/month): 300
+Groceries (EUR/month): 150
+RecreationCost (EUR/month): 100
+HealthcarePrice (EUR/year): 200
+AvgMntTransportCost (EUR/month): 40
+Link: Boğaziçi University
+Majors: Computer Science (1), Business (1), Economics (1), Psychology (1), Biology (1), Law (1), Medicine (1), Mathematics (1), Art (1), Physics (1)
+Country: Uganda
+University: Makerere University
+CollegeRank: 1001+
+Tuition (EUR/year): 1500
+PercOfIntStud: 7%
+AcceptanceRate (%): 50%
+AvgSafetyIndex (0-100): 55
+CostOfLiving (EUR/month): 400
+Rent (EUR/month): 100
+Groceries (EUR/month): 80
+RecreationCost (EUR/month): 30
+HealthcarePrice (EUR/year): 60
+AvgMntTransportCost (EUR/month): 20
+Link: Makerere University
+Majors: Computer Science (1), Business (1), Economics (1), Psychology (1), Biology (1), Law (1), Medicine (1), Mathematics (1), Art (1), Physics (1)
+Country: Ukraine
+University: Taras Shevchenko National University of Kyiv
+CollegeRank: 1001+
+Tuition (EUR/year): 2000
+PercOfIntStud: 5%
+AcceptanceRate (%): 70%
+AvgSafetyIndex (0-100): 50
+CostOfLiving (EUR/month): 500
+Rent (EUR/month): 250
+Groceries (EUR/month): 150
+RecreationCost (EUR/month): 80
+HealthcarePrice (EUR/year): 100
+AvgMntTransportCost (EUR/month): 20
+Link: Taras Shevchenko National University of Kyiv
+Majors: Computer Science (1), Business (1), Economics (1), Psychology (1), Biology (1), Law (1), Medicine (1), Mathematics (1), Art (1), Physics (1)
+Country: United Arab Emirates
+University: Khalifa University
+CollegeRank: 1001+
+Tuition (EUR/year): 15000
+PercOfIntStud: 40%
+AcceptanceRate (%): 25%
+AvgSafetyIndex (0-100): 85
+CostOfLiving (EUR/month): 1500
+Rent (EUR/month): 800
+Groceries (EUR/month): 250
+RecreationCost (EUR/month): 200
+HealthcarePrice (EUR/year): 400
+AvgMntTransportCost (EUR/month): 150
+Link: Khalifa University
+Majors: Computer Science (1), Business (1), Economics (1), Psychology (0), Biology (1), Law (0), Medicine (1), Mathematics (1), Art (0), Physics (1)
+Country: United Kingdom
+University: University of Oxford
+CollegeRank: 1
+Tuition (EUR/year): 15000
+PercOfIntStud: 40%
+AcceptanceRate (%): 18%
+AvgSafetyIndex (0-100): 80
+CostOfLiving (EUR/month): 1200
+Rent (EUR/month): 600
+Groceries (EUR/month): 250
+RecreationCost (EUR/month): 150
+HealthcarePrice (EUR/year): 250
+AvgMntTransportCost (EUR/month): 100
+Link: University of Oxford
+Majors: Computer Science (1), Business (1), Economics (1), Psychology (1), Biology (1), Law (1), Medicine (1), Mathematics (1), Art (1), Physics (1)
+Country: United States
+University: Massachusetts Institute of Technology (MIT)
+CollegeRank: 1
+Tuition (EUR/year): 50000
+PercOfIntStud: 35%
+AcceptanceRate (%): 6%
+AvgSafetyIndex (0-100): 75
+CostOfLiving (EUR/month): 1800
+Rent (EUR/month): 800
+Groceries (EUR/month): 400
+RecreationCost (EUR/month): 200
+HealthcarePrice (EUR/year): 1200
+AvgMntTransportCost (EUR/month): 100
+Link: Massachusetts Institute of Technology
+Majors: Computer Science (1), Business (1), Economics (1), Psychology (1), Biology (1), Law (1), Medicine (1), Mathematics (1), Art (1), Physics (1)
+Country: Uruguay
+University: University of the Republic
+CollegeRank: 1001+
+Tuition (EUR/year): 800
+PercOfIntStud: 2%
+AcceptanceRate (%): 70%
+AvgSafetyIndex (0-100): 75
+CostOfLiving (EUR/month): 600
+Rent (EUR/month): 300
+Groceries (EUR/month): 150
+RecreationCost (EUR/month): 100
+HealthcarePrice (EUR/year): 100
+AvgMntTransportCost (EUR/month): 30
+Link: University of the Republic
+Majors: Computer Science (1), Business (1), Economics (1), Psychology (1), Biology (1), Law (1), Medicine (1), Mathematics (1), Art (1), Physics (1)
+Country: Uzbekistan
+University: National University of Uzbekistan
+CollegeRank: 1001+
+Tuition (EUR/year): 1500
+PercOfIntStud: 3%
+AcceptanceRate (%): 70%
+AvgSafetyIndex (0-100): 60
+CostOfLiving (EUR/month): 400
+Rent (EUR/month): 100
+Groceries (EUR/month): 80
+RecreationCost (EUR/month): 40
+HealthcarePrice (EUR/year): 50
+AvgMntTransportCost (EUR/month): 20
+Link: National University of Uzbekistan
+Majors: Computer Science (1), Business (1), Economics (1), Psychology (1), Biology (1), Law (1), Medicine (1), Mathematics (1), Art (1), Physics (1)
+Country: Venezuela
+University: Central University of Venezuela
+CollegeRank: 1001+
+Tuition (EUR/year): 1000
+PercOfIntStud: 3%
+AcceptanceRate (%): 60%
+AvgSafetyIndex (0-100): 40
+CostOfLiving (EUR/month): 300
+Rent (EUR/month): 150
+Groceries (EUR/month): 80
+RecreationCost (EUR/month): 40
+HealthcarePrice (EUR/year): 70
+AvgMntTransportCost (EUR/month): 15
+Link: Central University of Venezuela
+Majors: Computer Science (1), Business (1), Economics (1), Psychology (1), Biology (1), Law (1), Medicine (1), Mathematics (1), Art (1), Physics (1)
+Country: Vietnam
+University: Vietnam National University, Hanoi
+CollegeRank: 1001+
+Tuition (EUR/year): 2000
+PercOfIntStud: 10%
+AcceptanceRate (%): 70%
+AvgSafetyIndex (0-100): 65
+CostOfLiving (EUR/month): 400
+Rent (EUR/month): 150
+Groceries (EUR/month): 100
+RecreationCost (EUR/month): 50
+HealthcarePrice (EUR/year): 60
+AvgMntTransportCost (EUR/month): 20
+Link: Vietnam National University, Hanoi
+Majors: Computer Science (1), Business (1), Economics (1), Psychology (1), Biology (1), Law (1), Medicine (1), Mathematics (1), Art (1), Physics (1)
+Country: Zimbabwe
+University: University of Zimbabwe
+CollegeRank: 1001+
+Tuition (EUR/year): 800
+PercOfIntStud: 4%
+AcceptanceRate (%): 50%
+AvgSafetyIndex (0-100): 45
+CostOfLiving (EUR/month): 400
+Rent (EUR/month): 150
+Groceries (EUR/month): 100
+RecreationCost (EUR/month): 30
+HealthcarePrice (EUR/year): 80
+AvgMntTransportCost (EUR/month): 25
+Link: University of Zimbabwe
+Majors: Computer Science (1), Business (1), Economics (1), Psychology (1), Biology (1), Law (1), Medicine (1), Mathematics (1), Art (1), Physics (1)
+Country: Yemen
+University: Sana'a University
+CollegeRank: 1001+
+Tuition (EUR/year): 800
+PercOfIntStud: 2%
+AcceptanceRate (%): 70%
+AvgSafetyIndex (0-100): 30
+CostOfLiving (EUR/month): 300
+Rent (EUR/month): 100
+Groceries (EUR/month): 50
+RecreationCost (EUR/month): 20
+HealthcarePrice (EUR/year): 50
+AvgMntTransportCost (EUR/month): 15
+Link: Sana'a University
+Majors: Computer Science (1), Business (1), Economics (1), Psychology (1), Biology (1), Law (1), Medicine (1), Mathematics (1), Art (1), Physics (1)
+Country: Zambia
+University: University of Zambia
+CollegeRank: 1001+
+Tuition (EUR/year): 1500
+PercOfIntStud: 5%
+AcceptanceRate (%): 75%
+AvgSafetyIndex (0-100): 55
+CostOfLiving (EUR/month): 500
+Rent (EUR/month): 200
+Groceries (EUR/month): 100
+RecreationCost (EUR/month): 50
+HealthcarePrice (EUR/year): 100
+AvgMntTransportCost (EUR/month): 30
+Link: University of Zambia
+Majors: Computer Science (1), Business (1), Economics (1), Psychology (1), Biology (1), Law (1), Medicine (1), Mathematics (1), Art (1), Physics (1)
+Country: Albania
+University: University of Tirana
+CollegeRank: 1001+
+Tuition (EUR/year): 1500
+PercOfIntStud: 5%
+AcceptanceRate (%): 60%
+AvgSafetyIndex (0-100): 70
+CostOfLiving (EUR/month): 600
+Rent (EUR/month): 250
+Groceries (EUR/month): 150
+RecreationCost (EUR/month): 50
+HealthcarePrice (EUR/year): 100
+AvgMntTransportCost (EUR/month): 30
+Link: University of Tirana
+Majors: Computer Science (1), Business (1), Economics (1), Psychology (1), Biology (1), Law (1), Medicine (1), Mathematics (0), Art (1), Physics (1)
+Country: Algeria
+University: University of Algiers
+CollegeRank: 1001+
+Tuition (EUR/year): 800
+PercOfIntStud: 2%
+AcceptanceRate (%): 50%
+AvgSafetyIndex (0-100): 65
+CostOfLiving (EUR/month): 550
+Rent (EUR/month): 200
+Groceries (EUR/month): 120
+RecreationCost (EUR/month): 60
+HealthcarePrice (EUR/year): 120
+AvgMntTransportCost (EUR/month): 40
+Link: University of Algiers
+Majors: Computer Science (1), Business (1), Economics (1), Psychology (0), Biology (1), Law (1), Medicine (1), Mathematics (1), Art (1), Physics (1)
+Country: Argentina
+University: University of Buenos Aires
+CollegeRank: 1001+
+Tuition (EUR/year): 0
+PercOfIntStud: 4%
+AcceptanceRate (%): 20%
+AvgSafetyIndex (0-100): 65
+CostOfLiving (EUR/month): 500
+Rent (EUR/month): 200
+Groceries (EUR/month): 150
+RecreationCost (EUR/month): 50
+HealthcarePrice (EUR/year): 90
+AvgMntTransportCost (EUR/month): 30
+Link: University of Buenos Aires
+Majors: Computer Science (1), Business (1), Economics (1), Psychology (1), Biology (1), Law (1), Medicine (1), Mathematics (1), Art (1), Physics (1)
+Country: Armenia
+University: Yerevan State University
+CollegeRank: 1001+
+Tuition (EUR/year): 2000
+PercOfIntStud: 6%
+AcceptanceRate (%): 40%
+AvgSafetyIndex (0-100): 70
+CostOfLiving (EUR/month): 600
+Rent (EUR/month): 250
+Groceries (EUR/month): 120
+RecreationCost (EUR/month): 50
+HealthcarePrice (EUR/year): 150
+AvgMntTransportCost (EUR/month): 40
+Link: Yerevan State University
+Majors: Computer Science (1), Business (1), Economics (1), Psychology (0), Biology (1), Law (1), Medicine (1), Mathematics (1), Art (1), Physics (1)
+Country: Azerbaijan
+University: Baku State University
+CollegeRank: 1001+
+Tuition (EUR/year): 2500
+PercOfIntStud: 10%
+AcceptanceRate (%): 50%
+AvgSafetyIndex (0-100): 72
+CostOfLiving (EUR/month): 650
+Rent (EUR/month): 300
+Groceries (EUR/month): 150
+RecreationCost (EUR/month): 70
+HealthcarePrice (EUR/year): 120
+AvgMntTransportCost (EUR/month): 30
+Link: Baku State University
+Majors: Computer Science (1), Business (1), Economics (1), Psychology (1), Biology (1), Law (1), Medicine (1), Mathematics (1), Art (1), Physics (1)
+Country: Bahamas
+University: University of the Bahamas
+CollegeRank: 1001+
+Tuition (EUR/year): 4000
+PercOfIntStud: 10%
+AcceptanceRate (%): 70%
+AvgSafetyIndex (0-100): 78
+CostOfLiving (EUR/month): 900
+Rent (EUR/month): 400
+Groceries (EUR/month): 200
+RecreationCost (EUR/month): 100
+HealthcarePrice (EUR/year): 500
+AvgMntTransportCost (EUR/month): 50
+Link: University of the Bahamas
+Majors: Computer Science (1), Business (1), Economics (1), Psychology (0), Biology (1), Law (1), Medicine (1), Mathematics (1), Art (1), Physics (0)

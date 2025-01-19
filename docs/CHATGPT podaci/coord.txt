@@ -1,0 +1,485 @@
+University of Tirana
+
+Website: https://unitir.edu.al
+Coordinates: 41.3275° N, 19.8189° E
+University of Algiers
+
+Website: http://www.univ-alger.dz
+Coordinates: 36.7529° N, 3.0420° E
+University of Buenos Aires
+
+Website: https://www.uba.ar
+Coordinates: 34.5997° S, 58.3733° W
+Yerevan State University
+
+Website: https://www.ysu.am
+Coordinates: 40.1872° N, 44.5152° E
+Australian National University (ANU)
+
+Website: https://www.anu.edu.au
+Coordinates: 35.2777° S, 149.1185° E
+University of Vienna
+
+Website: https://www.univie.ac.at
+Coordinates: 48.2131° N, 16.3600° E
+Baku State University
+
+Website: https://bsu.edu.az
+Coordinates: 40.3953° N, 49.8523° E
+University of the Bahamas
+
+Website: https://www.ub.edu.bs
+Coordinates: 25.0661° N, 77.3450° W
+University of Bahrain
+
+Website: http://www.uob.edu.bh
+Coordinates: 26.1358° N, 50.5047° E
+University of Dhaka
+
+Website: https://www.du.ac.bd
+Coordinates: 23.7333° N, 90.3925° E
+University of the West Indies, Cave Hill
+
+Website: https://www.cavehill.uwi.edu
+Coordinates: 13.1500° N, 59.6425° W
+Belarusian State University
+
+Website: https://www.bsu.by
+Coordinates: 53.8930° N, 27.5477° E
+KU Leuven
+
+Website: https://www.kuleuven.be
+Coordinates: 50.8775° N, 4.7009° E
+Universidad Mayor de San Andres
+
+Website: https://www.umsa.bo
+Coordinates: 16.5000° S, 68.1500° W
+University of Sarajevo
+
+Website: https://www.unsa.ba
+Coordinates: 43.8563° N, 18.4131° E
+University of Botswana
+
+Website: https://www.ub.bw
+Coordinates: 24.6570° S, 25.9089° E
+University of Sao Paulo (USP)
+
+Website: https://www.usp.br
+Coordinates: 23.5617° S, 46.7306° W
+Sofia University
+
+Website: https://www.uni-sofia.bg
+Coordinates: 42.6934° N, 23.3320° E
+Royal University of Phnom Penh
+
+Website: https://www.rupp.edu.kh
+Coordinates: 11.5650° N, 104.8885° E
+University of Yaounde I
+
+Website: https://www.uy1.uninet.cm
+Coordinates: 3.8667° N, 11.5167° E
+University of Toronto
+
+Website: https://www.utoronto.ca
+Coordinates: 43.6629° N, 79.3957° W
+Pontifical Catholic University of Chile
+
+Website: https://www.uc.cl
+Coordinates: 33.4572° S, 70.6506° W
+Tsinghua University
+
+Website: https://www.tsinghua.edu.cn
+Coordinates: 39.9996° N, 116.3265° E
+University of Los Andes, Colombia
+
+Website: https://uniandes.edu.co
+Coordinates: 4.6010° N, 74.0655° W
+University of Costa Rica
+
+Website: https://www.ucr.ac.cr
+Coordinates: 9.9369° N, 84.0517° W
+University of Zagreb
+
+Website: https://www.unizg.hr
+Coordinates: 45.8125° N, 15.9758° E
+University of Havana
+
+Website: http://www.uh.cu
+Coordinates: 23.1383° N, 82.3625° W
+University of Cyprus
+
+Website: https://www.ucy.ac.cy
+Coordinates: 35.1446° N, 33.4112° E
+Charles University
+
+Website: https://www.cuni.cz
+Coordinates: 50.0870° N, 14.4175° E
+University of Copenhagen
+
+Website: https://www.ku.dk
+Coordinates: 55.6822° N, 12.5714° E
+Pontificia Universidad Catolica Madre y Maestra
+
+Website: https://www.pucmm.edu.do
+Coordinates: 19.4671° N, 70.6902° W
+Pontificia Universidad Catolica del Ecuador
+
+Website: https://www.puce.edu.ec
+Coordinates: 0.2118° S, 78.4934° W
+Cairo University
+
+Website: https://cu.edu.eg
+Coordinates: 30.0277° N, 31.2074° E
+University of El Salvador
+
+Website: https://www.ues.edu.sv
+Coordinates: 13.6980° N, 89.1914° W
+University of Tartu
+
+Website: https://www.ut.ee
+Coordinates: 58.3770° N, 26.7290° E
+University of the South Pacific
+
+Website: https://www.usp.ac.fj
+Coordinates: 18.1497° S, 178.4419° E
+University of Helsinki
+
+Website: https://www.helsinki.fi
+Coordinates: 60.1708° N, 24.9375° E
+Sorbonne University
+
+Website: https://www.sorbonne-universite.fr
+Coordinates: 48.8470° N, 2.3417° E
+Ivane Javakhishvili Tbilisi State University
+
+Website: https://www.tsu.ge
+Coordinates: 41.7167° N, 44.7833° E
+Ludwig Maximilian University of Munich
+
+Website: https://www.lmu.de
+Coordinates: 48.1500° N, 11.5833° E
+University of Ghana
+
+Website: https://www.ug.edu.gh
+Coordinates: 5.6500° N, 0.1833° W
+National and Kapodistrian University of Athens
+
+Website: https://en.uoa.gr
+Coordinates: 37.9838° N, 23.7275° E
+Universidad de San Carlos de Guatemala
+
+Website: https://www.usac.edu.gt
+Coordinates: 14.6038° N, 90.4894° W
+The University of Hong Kong
+
+Website: https://www.hku.hk
+Coordinates: 22.2849° N, 114.1378° E
+Eotvos Lorand University
+
+Website: https://www.elte.hu
+Coordinates: 47.4925° N, 19.0514° E
+University of Iceland
+
+Website: https://english.hi.is
+Coordinates: 64.1386° N, 21.9584° W
+Indian Institute of Technology Bombay
+Website: https://www.iitb.ac.in
+Coordinates: 19.1342° N, 72.9136° E
+University of Indonesia
+
+Website: https://www.ui.ac.id
+Coordinates: 6.3360° S, 106.8308° E
+University of Tehran
+
+Website: https://ut.ac.ir
+Coordinates: 35.7022° N, 51.3957° E
+University of Baghdad
+
+Website: https://www.uobaghdad.edu.iq
+Coordinates: 33.2706° N, 44.3911° E
+Trinity College Dublin
+
+Website: https://www.tcd.ie
+Coordinates: 53.3441° N, 6.2577° W
+Hebrew University of Jerusalem
+
+Website: https://en.huji.ac.il
+Coordinates: 31.7690° N, 35.2137° E
+University of Bologna
+
+Website: https://www.unibo.it
+Coordinates: 44.4949° N, 11.3426° E
+University of the West Indies
+
+Website: https://www.uwi.edu
+Coordinates: 13.1165° N, 59.6143° W
+University of Tokyo
+
+Website: https://www.u-tokyo.ac.jp
+Coordinates: 35.7126° N, 139.7612° E
+University of Jordan
+
+Website: https://www.ju.edu.jo
+Coordinates: 32.0110° N, 35.8707° E
+Al-Farabi Kazakh National University
+
+Website: https://www.kaznu.kz
+Coordinates: 43.2241° N, 76.9495° E
+University of Nairobi
+
+Website: https://www.uonbi.ac.ke
+Coordinates: 1.2801° S, 36.8162° E
+University of Pristina
+
+Website: https://uni-pr.edu
+Coordinates: 42.6633° N, 21.1623° E
+Kuwait University
+
+Website: http://www.kuniv.edu
+Coordinates: 29.3783° N, 47.9904° E
+American University of Central Asia
+
+Website: https://www.auca.kg
+Coordinates: 42.8328° N, 74.5939° E
+University of Latvia
+
+Website: https://www.lu.lv
+Coordinates: 56.9504° N, 24.1166° E
+American University of Beirut
+
+Website: https://www.aub.edu.lb
+Coordinates: 33.8961° N, 35.4786° E
+University of Tripoli
+
+Website: https://uot.edu.ly
+Coordinates: 32.8916° N, 13.1872° E
+Vilnius University
+
+Website: https://www.vu.lt
+Coordinates: 54.6820° N, 25.2876° E
+University of Luxembourg
+
+Website: https://www.uni.lu
+Coordinates: 49.6275° N, 6.1590° E
+University of Malaya
+
+Website: https://www.um.edu.my
+Coordinates: 3.1205° N, 101.6542° E
+University of Malta
+
+Website: https://www.um.edu.mt
+Coordinates: 35.9022° N, 14.4841° E
+University of Mauritius
+
+Website: https://www.uom.ac.mu
+Coordinates: 20.2384° S, 57.4989° E
+National Autonomous University of Mexico
+
+Website: https://www.unam.mx
+Coordinates: 19.3322° N, 99.1872° W
+Moldova State University
+
+Website: https://usm.md
+Coordinates: 47.0225° N, 28.8306° E
+University of Montenegro
+
+Website: https://www.ucg.ac.me
+Coordinates: 42.4425° N, 19.2680° E
+Mohammed V University
+
+Website: https://www.um5.ac.ma
+Coordinates: 34.0194° N, 6.8416° W
+Tribhuvan University
+
+Website: https://tribhuvan-university.edu.np
+Coordinates: 27.6786° N, 85.3401° E
+University of Amsterdam
+
+Website: https://www.uva.nl
+Coordinates: 52.3546° N, 4.9041° E
+University of Auckland
+
+Website: https://www.auckland.ac.nz
+Coordinates: 36.8523° S, 174.7691° E
+University of Ibadan
+
+Website: https://www.ui.edu.ng
+Coordinates: 7.4414° N, 3.8993° E
+Ss. Cyril and Methodius University
+
+Website: https://www.ukim.edu.mk
+Coordinates: 41.9981° N, 21.4254° E
+University of Oslo
+
+Website: https://www.uio.no
+Coordinates: 59.9398° N, 10.7203° E
+Sultan Qaboos University
+
+Website: https://www.squ.edu.om
+Coordinates: 23.5976° N, 58.1713° E
+Aga Khan University
+
+Website: https://www.aku.edu
+Coordinates: 24.8980° N, 67.0759° E
+Birzeit University
+
+Website: https://www.birzeit.edu
+Coordinates: 31.9586° N, 35.1889° E
+University of Panama
+
+Website: https://www.up.ac.pa
+Coordinates: 8.9853° N, 79.5198° W
+National University of Asuncion
+
+Website: https://www.una.py
+Coordinates: 25.3531° S, 57.5738° W
+Pontifical Catholic University of Peru
+
+Website: https://www.pucp.edu.pe
+Coordinates: 12.0587° S, 77.0868° W
+University of the Philippines
+
+Website: https://www.up.edu.ph
+Coordinates: 14.6537° N, 121.0643° E
+University of Warsaw
+
+Website: https://www.uw.edu.pl
+Coordinates: 52.2401° N, 21.0196° E
+University of Porto
+
+Website: https://www.up.pt
+Coordinates: 41.1523° N, 8.6096° W
+University of Puerto Rico
+
+Website: https://www.upr.edu
+Coordinates: 18.4037° N, 66.0485° W
+Qatar University
+
+Website: https://www.qu.edu.qa
+Coordinates: 25.3775° N, 51.4901° E
+University of Bucharest
+
+Website: https://www.unibuc.ro
+Coordinates: 44.4346° N, 26.0975° E
+Lomonosov Moscow State University
+
+Website: https://www.msu.ru
+Coordinates: 55.7023° N, 37.5306° E
+King Abdulaziz University
+
+Website: https://www.kau.edu.sa
+Coordinates: 21.5010° N, 39.2386° E
+University of Belgrade
+
+Website: https://www.bg.ac.rs
+Coordinates: 44.8186° N, 20.4578° E
+National University of Singapore
+
+Website: https://www.nus.edu.sg
+Coordinates: 1.2956° N, 103.7764° E
+Comenius University Bratislava
+
+Website: https://www.uniba.sk
+Coordinates: 48.1522° N, 17.0732° E
+University of Ljubljana
+
+Website: https://www.uni-lj.si
+Coordinates: 46.0486° N, 14.4698° E
+University of Cape Town
+
+Website: https://www.uct.ac.za
+Coordinates: 33.9568° S, 18.4606° E
+Seoul National University
+
+Website: https://www.useoul.edu
+Coordinates: 37.4599° N, 126.9516° E
+University of Barcelona
+Website: https://www.ub.edu
+Coordinates: 41.3869° N, 2.1699° E
+University of Colombo
+- Website: https://www.cmb.ac.lk
+- Coordinates: 6.9008° N, 79.8585° E
+
+Lund University
+- Website: https://www.lu.se
+- Coordinates: 55.7047° N, 13.1910° E
+
+ETH Zurich
+- Website: https://ethz.ch
+- Coordinates: 47.3769° N, 8.5417° E
+
+Damascus University
+- Website: https://www.damascusuniversity.edu.sy
+- Coordinates: 33.5094° N, 36.3064° E
+
+National Taiwan University
+- Website: https://www.ntu.edu.tw
+- Coordinates: 25.0173° N, 121.5398° E
+
+University of Dar es Salaam
+- Website: https://www.udsm.ac.tz
+- Coordinates: 6.7736° S, 39.2083° E
+
+Chulalongkorn University
+- Website: https://www.chula.ac.th
+- Coordinates: 13.7385° N, 100.5327° E
+
+University of the West Indies
+- Website: https://www.uwi.edu
+- Coordinates: 13.1168° N, 59.5988° W
+
+University of Tunis El Manar
+- Website: http://www.utm.rnu.tn
+- Coordinates: 36.8028° N, 10.1794° E
+
+Bogazici University
+- Website: https://www.boun.edu.tr
+- Coordinates: 41.0845° N, 29.0512° E
+
+Makerere University
+- Website: https://www.mak.ac.ug
+- Coordinates: 0.3311° N, 32.5764° E
+
+Taras Shevchenko National University of Kyiv
+- Website: http://www.univ.kiev.ua
+- Coordinates: 50.4438° N, 30.5116° E
+
+Khalifa University
+- Website: https://www.ku.ac.ae
+- Coordinates: 24.4214° N, 54.4341° E
+
+University of Oxford
+- Website: https://www.ox.ac.uk
+- Coordinates: 51.7548° N, 1.2544° W
+
+Massachusetts Institute of Technology (MIT)
+- Website: https://www.mit.edu
+- Coordinates: 42.3601° N, 71.0942° W
+
+University of the Republic
+- Website: https://www.udelar.edu.uy
+- Coordinates: 34.9033° S, 56.1882° W
+
+National University of Uzbekistan
+- Website: https://nuu.uz
+- Coordinates: 41.3261° N, 69.2814° E
+
+Central University of Venezuela
+- Website: https://www.ucv.ve
+- Coordinates: 10.4905° N, 66.8916° W
+
+Vietnam National University, Hanoi
+- Website: https://www.vnu.edu.vn
+- Coordinates: 21.0333° N, 105.8019° E
+
+University of Zimbabwe
+- Website: https://www.uz.ac.zw
+- Coordinates: 17.7944° S, 31.0534° E
+
+Sana'a University
+- Website: https://su.edu.ye/en/
+- Coordinates: 15.3694° N, 44.1910° E
+
+University of Zambia
+- Website: https://www.unza.zm
+- Coordinates: 15.3946° S, 28.3100° E
