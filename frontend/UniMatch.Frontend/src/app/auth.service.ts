@@ -49,8 +49,9 @@ export class AuthService {
     localStorage.removeItem('jwt');       //briše jwt iz lokalnog spremišta
   }
  login(username:string, password:string, rememberMe:boolean) : Observable<User|null> {
-    return this.http.post<{user:User, jwt:string}>('/api/login', {username, password, rememberMe}).pipe(
+    return this.http.post<{user:User, jwt:string}>('http://localhost:8000/user/login/', {username, password, rememberMe}).pipe(
       tap( res => {
+        console.log("res = ",res )
         this.setUser(res.user, res.jwt);        
       }),
       map(res => res.user),   //tap koristi jwt, observable koji se vraća jedino treba user iz post odgovora

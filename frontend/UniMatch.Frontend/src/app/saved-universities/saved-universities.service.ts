@@ -67,7 +67,7 @@ export class SavedUniversitiesService {
   }
 
   addToDb(x: University) {
-    return this.http.post<boolean>('/api/add/', x);    // TO DO
+    return this.http.post<boolean>('http://localhost:8000/api/add/', x);    // TO DO
   }
 
   getSaved() {

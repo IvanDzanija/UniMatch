@@ -14,7 +14,7 @@ export class RegistrationService {
   http = inject(HttpClient);
 
   register(data: Registration) {
-    this.http.post<boolean>('/api/register', data).subscribe(
+    this.http.post<boolean>('http://localhost:8000/user/register/', data).subscribe(
       (res) => {
         if (res) {
           this.router.navigate(['/login']);

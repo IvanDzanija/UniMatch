@@ -7,6 +7,11 @@ from .models import Forma
 import os
 # Create your views here.
 from django.views.decorators.csrf import csrf_exempt
+from rest_framework.decorators import api_view, permission_classes
+from rest_framework.permissions import IsAuthenticated
+from .models import savedUniversities
+from authentication.models import User
+
 
 def load_data():
     dataset_path = os.path.abspath(
@@ -180,8 +185,38 @@ def forma(request):
     else:
         return JsonResponse({'status': 'error', 'message': 'Only POST requests are allowed'}, status=405)
 
-def postSavedUniversities(request):
-   
-       
-   return 
+@api_view(['POST'])
+@permission_classes([IsAuthenticated])
+@csrf_exempt
+def addUni(request):
+       try:
+        body = json.loads(request.body)
+        user = request.user
+        print(user.username)    
+        print("body = ", body)
+        name = body.get("name")
+        country = body.get("country")
+        rank = body.get("rank")
+        acc = body.get("acc")
+        estimatedCost = body.get("estimatedCost")
+        major = body.get("major")
+        website = body.get("website")
+        choiceNo = body.get("choiceNo")
+        user2 = User.objects.get(username=user.username)
+
+        savedUni = savedUniversities(name=name,country=country,rank=rank,acc=acc,estimatedCost=estimatedCost,major=major,website=website,choiceNo=choiceNo)
+        savedUni.save()
+        user2.universities_saved.add(savedUni)
+        for uni in user2.universities_saved:
+            print(uni.name)
+        uni = savedUniversities.objects.get(name=name)
+        print(uni.acc)
+
+        return JsonResponse({'status': 'success', 'data': True}, status=201)
+
+       except json.JSONDecodeError:
+            return JsonResponse({'status': 'error', 'message': 'Invalid JSON'}, status=400)
+
+  
+
 

@@ -1,5 +1,6 @@
 from django.db import models
 
+
 # Create your models here.
 
 class Forma(models.Model):
@@ -59,6 +60,9 @@ class savedUniversities(models.Model):
    rank = models.IntegerField()
    acc = models.FloatField()
    estimatedCost = models.FloatField()
-   
+   major = models.CharField(max_length=100,null=True)
+   website = models.CharField(max_length=200,null=True)
+   choiceNo = models.IntegerField(default=0)
 
+  
     
