@@ -1,0 +1,36 @@
+@if (university(); as university) {
+<div class="card-container">
+    <div>
+        <div class="score">
+            <div>{{university.choiceNo}}</div>
+            <div class="rank">#{{university.rank}} in rank</div>
+        </div>
+        <div class="name">{{university.name}}</div>
+    </div>
+    <div class="second-row">
+        <div class="location"> {{university.country}}</div>
+    </div>
+    <div class="third-row">
+        <div class="acceptance">Acceptance rate: <i>{{university.acc}} %</i></div>
+        <div class="est-cost">Estimated cost of 1 year: <i>{{university.estimatedCost}} EUR</i></div>
+    </div>
+    <div>Available majors: {{university.major}}</div>
+    <div>Visit their website for more info <a class="follow-link-button" [href]="university.website" target="_blank"><i class="fa-solid fa-arrow-up-right-from-square"></i><span class="link-text">{{university.website}}</span></a></div>
+    <div class="fifth-row">
+        <button *ngIf="!user" class="save-button" routerLink="/login">
+            @if (added) {
+            <i class="fa-regular fa-heart red"></i><span class="add-to-favourites">Remove from favourites</span>
+            } @else {
+                <i class="fa-regular fa-heart"></i><span class="add-to-favourites">Add to favourites</span>
+            }
+        </button>
+        <button *ngIf="user" class="save-button" (click)="addToFav(university)">
+            @if (added) {
+            <i class="fa-regular fa-heart red"></i><span class="add-to-favourites">Remove from favourites</span>
+            } @else {
+                <i class="fa-regular fa-heart"></i><span class="add-to-favourites">Add to favourites</span>
+            }
+        </button>
+    </div>
+</div>
+}

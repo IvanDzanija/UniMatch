@@ -1,6 +1,6 @@
 body{
     background-color: #5cb6f9;
-    margin: -8px -8px -30px -8px;
+    margin: 0px;
 }
 
 .intro-container{
@@ -45,10 +45,17 @@ body{
     text-decoration: underline;
 }
 
-img {
-    margin-top: 5px;
-    width: 45vw;
+.image-container {
+    max-width: 100%;
+    overflow: hidden;
 }
+
+img {
+    max-width: 100%;
+    height: auto;    
+    display: block;
+}
+
 hr.divider {
     padding: 20px;
     border: none;

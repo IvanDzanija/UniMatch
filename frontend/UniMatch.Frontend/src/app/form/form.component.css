@@ -2,22 +2,40 @@ body {
     background-color: #5cb6f9;
     margin: -8px -8px -8px -8px;
 }
+.form-background {
+    background-color: #5cb6f9;
+    margin: 0px;
+    font-family: 'Poppins';
+    max-width: 100%;
+    overflow: hidden;
+}
+
+.form-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding-left: 10%;
+    padding-right: 10%;
+}
+
 .form-name {
-    font-family: 'Staatliches';
+    font-family: 'Poppins';
     font-size: 100px;
     font-weight: bold;
     text-align: center;
     padding-top: 0.5em;
+    color: #333;
 
 }
 .form {
-    height:100vw;
-    margin: 0.5rem 7rem 0.5rem 7rem;
-    border: 8px solid #5e17eb;
-    padding:20px;
-    border-radius: 4%;
+    width: 100%;
+    background-color: #f7f7f7;
+    border: solid #f7f7f7;
+    border-radius: 15px;
     display: grid;
     grid-template-columns: 25% 75%;
+    grid-gap: 10px;
     grid-template-areas:
     'item1 item2' 
     'item3 item4'
@@ -185,10 +203,31 @@ em {
     color: red;
 }
 .btn {
-    color:#050a30;
-    align-self: center;
-    width: 25vw;
-    height:3.5vw;
-    font-size: 20px;
+  padding: 10px 20px;
+  color: #fff;
+  background-color: #007bff; /* Accent color */
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+  align-self: center;
+  width: 25vw;
+  height:3.5vw;
+  font-size: 20px;
+  justify-self: center;
+}
 
+.btn:hover {
+  background-color: #0056b3; /* Darker accent color on hover */
+}
+
+.form-right.item2 {
+    display: grid;
+    grid-template-columns: auto auto auto auto auto auto; 
+}
+
+.form-right.minmax-container.item6 {
+    display: grid;
+    grid-template-columns: 28% 28% 44%;
+    justify-content: space-between;
 }

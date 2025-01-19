@@ -2,118 +2,186 @@ from django.http import JsonResponse
 from django.http import HttpResponse
 from django.shortcuts import render
 import json
+import pandas as pd 
 from .models import Forma
+import os
 # Create your views here.
 from django.views.decorators.csrf import csrf_exempt
 
+def load_data():
+    dataset_path = os.path.abspath(
+        os.path.join(
+            os.path.dirname(__file__),  
+            '..',                       
+            '..',                       
+            'datasets',                 
+            'completeDatasets',         
+            'pricesComplete2.csv'       
+        )
+    )
+    data = pd.read_csv(dataset_path)
+    return data
+
+def load_date2():
+    dataset_path = os.path.abspath(
+        os.path.join(
+            os.path.dirname(__file__),  
+            '..',                       
+            '..',                       
+            'datasets',                 
+            'completeDatasets',         
+            'indexComplete.csv'       
+        )
+    )
+    data = pd.read_csv(dataset_path)
+    return data
+
 @csrf_exempt
 def forma(request):
-   
-   if(request.method=='POST'):
-      try:
-         data = json.loads(request.body)
-         
+    if request.method == 'POST':
+        try:
+            data = json.loads(request.body)
 
-         continent = data['info'].get('continent')
-         print(continent)
-         rankMin = data["info"].get('rankMin')
-         rankMax = data["info"].get('rankMax')
-         rankPrio = data["info"].get('rankPrio')
+           
+            universities = load_data()
+            index_complete = load_date2()
 
-         safetyMin= data["info"].get('safetyMin')
-         safetyMax= data["info"].get('safetyMax')
-         safetyPrio = data["info"].get('safetyPrio')
-         
-         accMin = data["info"].get('accMin')
-         accMax = data["info"].get('accMax')
-         accPrio = data["info"].get('accPrio')
+            safety_mapping = {
+                'low-safety': 0,
+                'medium-low-safety': 1,
+                'medium-safety': 2,
+                'medium-high-safety': 3,
+                'high-safety': 4
+            }
 
-         ISRMin = data["info"].get('ISRMin')
-         ISRMax = data["info"].get('ISRMax')
-         ISRPrio = data["info"].get('ISRPrio')
+            universities['safetyCategoryNum'] = universities['safetyCategory'].map({
+               'low-safety': 0,
+               'medium-low-safety': 1,
+               'medium-safety': 2,
+               'medium-high-safety': 3,
+               'high-safety': 4
+            })
 
-         CoLMin = data["info"].get('CoLMin')
-         CoLMax = data["info"].get('CoLMax')
-         CoLPrio = data["info"].get('CoLPrio')
+            universities = universities.merge(index_complete[['university', 'livingCostIndex', 'rentIndex', 'groceriesIndex', 'recreationIndex', 'healthcareIndex', 'transportIndex']],
+                                              how='left', on='university')
 
-         rentMin = data["info"].get('rentMin')
+            
+            filters = {
+                'ranking': (data["info"].get('rankMin'), data["info"].get('rankMax')),
+                'safetyCategory': (data["info"].get('safetyMin'), data["info"].get('safetyMax')),
+                'tuition': (data["info"].get('tuitionBudgetMin'), data["info"].get('tuitionBudgetMax')),
+                'percOfIntStud': (data["info"].get('ISRMin'), data["info"].get('ISRMax')),
+                'acceptanceRate': (data["info"].get('accMin'), data["info"].get('accMax')),
+                'livingCost': (data["info"].get('CoLMin'), data["info"].get('CoLMax')),
+                'rentCost': (data["info"].get('rentMin'), data["info"].get('rentMax')),
+                'groceriesCost': (data["info"].get('groceryMin'), data["info"].get('groceryMax')),
+                'recreationCost': (data["info"].get('recreationMin'), data["info"].get('recreationMax')),
+                'healthcareCost': (data["info"].get('healthcareBudgetMin'), data["info"].get('healthcareBudgetMax')),
+                'transportCost': (data["info"].get('transportMin'), data["info"].get('transportMax')),
+                'region': data["info"].get('continent'),
+                'major': data["info"].get('major')
+            }
 
-         rentMax = data["info"].get('rentMax')
-         rentPrio = data["info"].get('rentPrio')
+            rank_prio = data["info"].get('rankPrio')
+            safety_prio = data["info"].get('safetyPrio')
+            tuition_prio = data["info"].get('tuitionBudgetPrio')
+            ISR_prio = data["info"].get('ISRPrio')
+            acc_prio = data["info"].get('accPrio')
+            CoL_prio = data["info"].get('CoLPrio')  
+            rent_prio = data["info"].get('rentPrio')
+            grocery_prio = data["info"].get('groceryPrio')
+            recreation_prio = data["info"].get('recreationPrio')
+            healthcare_prio = data["info"].get('healthcareBudgetPrio')
+            transport_prio = data["info"].get('transportPrio')
 
-         groceryMin = data["info"].get('groceryMin')
-         groceryMax = data["info"].get('groceryMax')
-         groceryPrio = data["info"].get('groceryPrio')
+            priority_mapping = {
+                'ranking': rank_prio,
+                'tuition': tuition_prio,
+                'percOfIntStud': ISR_prio,
+                'acceptanceRate': acc_prio,
+                'livingCost': CoL_prio,
+                'rentCost': rent_prio,
+                'groceriesCost': grocery_prio,
+                'recreationCost': recreation_prio,
+                'healthcareCost': healthcare_prio,
+                'transportCost': transport_prio
+            }
 
-         transportMin=  data["info"].get('transportMin')
-         transportMax = data["info"].get('transportMax')
-         transportPrio = data["info"].get('transportPrio')
+            major = data["info"].get('major')
+            for column, value in filters.items():
+                if column == 'safetyCategory':
+                    if safety_prio != 0: 
+                        if value[0] is not None:  
+                            min_val = safety_mapping.get(value[0], value[0])
+                            universities = universities[universities['safetyCategoryNum'] >= min_val]
+                        if value[1] is not None: 
+                            max_val = safety_mapping.get(value[1], value[1])
+                            universities = universities[universities['safetyCategoryNum'] <= max_val]
+                elif column == 'region' and value:  
+                    universities = universities[universities['region'] == value]
+                elif column == 'major' and value:  
+                    universities = universities[universities[value] == 1]
+                elif isinstance(value, tuple): 
+                    priority = priority_mapping.get(column)
+                    if priority != 0: 
+                        min_val, max_val = value
+                        if min_val is not None:
+                            universities = universities[universities[column] >= min_val]
+                        if max_val is not None:
+                            universities = universities[universities[column] <= max_val]
 
-         recreationMin = data["info"].get('recreationMin')
-         recreationMax = data["info"].get('recreationMax')
-         recreationPrio = data["info"].get('recreationPrio')
-         
-         healthcareBudgetMin = data["info"].get('healthcareBudgetMin')
-         healthcareBudgetMax = data["info"].get('healthcareBudgetMax')
-         healthcareBudgetPrio = data["info"].get('healthcareBudgetPrio')
+            
+            filtered_universities = universities.to_dict(orient='records')
+            #print(data)
+            #print(filtered_universities)
 
-         tuitionBudgetMin = data["info"].get('tuitionBudgetMin')
-         tuitionBudgetMax = data["info"].get('tuitionBudgetMax')
-         tuitionBudgetPrio = data["info"].get('tuitionBudgetPrio')
 
-         major = data["info"].get('major')
+            universities['score'] = 0
 
-         new_form = Forma(
-      continent=continent,
-      rankMin=rankMin,
-      rankMax=rankMax,
-      rankPrio=rankPrio,
-      safetyMin=safetyMin,
-      safetyMax=safetyMax,
-      safetyPrio=safetyPrio,
-      accMin=accMin,
-      accMax=accMax,
-      accPrio=accPrio,
-      ISRMin=ISRMin,
-      ISRMax=ISRMax,
-      ISRPrio=ISRPrio,
-      CoLMin=CoLMin,
-      CoLMax=CoLMax,
-      CoLPrio=CoLPrio,
-      rentMin=rentMin,
-      rentMax=rentMax,
-      rentPrio=rentPrio,
-      groceryMin=groceryMin,
-      groceryMax=groceryMax,
-      groceryPrio=groceryPrio,
-      transportMin=transportMin,
-      transportMax=transportMax,
-      transportPrio=transportPrio,
-      recreationMin=recreationMin,
-      recreationMax=recreationMax,
-      recreationPrio=recreationPrio,
-      healthcareBudgetMin=healthcareBudgetMin,
-      healthcareBudgetMax=healthcareBudgetMax,
-      healthcareBudgetPrio=healthcareBudgetPrio,
-      tuitionBudgetMin=tuitionBudgetMin,
-      tuitionBudgetMax=tuitionBudgetMax,
-      tuitionBudgetPrio=tuitionBudgetPrio,
-      major=major
-   )
-        # filter(new_form)
-         print(data)
-         new_form.save()
+            universities['score'] += universities['ranking'] * rank_prio
+            universities['score'] += universities['safetyIndex'] * safety_prio
+            universities['score'] += universities['tuition'] * tuition_prio
+            #universities['score'] += universities['percOfIntStud'] * ISR_prio
+            universities['score'] += universities['acceptanceRate'] * acc_prio
+            universities['score'] += universities['livingCostIndex'] * CoL_prio
+            universities['score'] += universities['rentIndex'] * rent_prio
+            universities['score'] += universities['groceriesIndex'] * grocery_prio
+            universities['score'] += universities['recreationIndex'] * recreation_prio
+            universities['score'] += universities['healthcareIndex'] * healthcare_prio
+            universities['score'] += universities['transportIndex'] * transport_prio
 
-         
+            top_universities = universities.sort_values(by='score', ascending=True).head(10)
 
-      except json.JSONDecodeError:
+            filtered_universities = top_universities.to_dict(orient='records')
+            new_filtered_universities = []
+            brojac = 1
+            for uni in filtered_universities:
+                
+                new_filtered_universities.append(
+                                    {
+                    'name': uni.get('university'),
+                    'country': uni.get('country'),
+                    'rank': uni.get('ranking'),
+                    'acc': uni.get('acceptanceRate'),
+                    'estimatedCost': uni.get('tuition'),
+                    'major': major,
+                    'website': uni.get('link'),
+                    'choiceNo': brojac
+                    }
+                )
+                brojac+=1
+            #print("Filtered unis: ")
+            #print(new_filtered_universities)
+            return JsonResponse({'status': 'success', 'data': new_filtered_universities}, status=201)
+
+        except json.JSONDecodeError:
             return JsonResponse({'status': 'error', 'message': 'Invalid JSON'}, status=400)
-      return JsonResponse({'status': 'success', 'message': 'Resource created successfully'}, status=201)
-   else:
-        return JsonResponse({'status': 'error', 'message': 'Only POST requests are allowed'}, status=405)     
-   
 
-def getSavedUniversities(request):
+    else:
+        return JsonResponse({'status': 'error', 'message': 'Only POST requests are allowed'}, status=405)
+
+def postSavedUniversities(request):
    
-      
-   return 0
+       
+   return 
+
