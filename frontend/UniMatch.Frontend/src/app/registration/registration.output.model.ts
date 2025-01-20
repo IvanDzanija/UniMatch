@@ -1,4 +1,5 @@
 import { NumberSymbol } from "@angular/common";
+import { SavedUniversity } from "../saved-universities/saved-uni.output.model";
 
 export type Registration = {
     id: number;
@@ -10,5 +11,6 @@ export interface User {
     id: number;
     username: string;
     email: string;
-    password: string;
+    //password: string;
+    savedUniversities: SavedUniversity[];
 }

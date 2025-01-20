@@ -45,12 +45,14 @@ export class UniversityCardComponent {
     console.log(x);
     if (this.favoriteUnis().includes(x)) {
       this.added = false;
-      this.service.remove(x.rank);
-      this.service.removeFromDb(x.rank).subscribe((res) => { console.log("Uspješno obrisano:", res) });
+      //this.service.remove(x.rank);
+      //this.service.removeFromDb(x.rank).subscribe((res) => { console.log("Uspješno obrisano:", res) });
+      this.service.removeFromDb(x.rank);
     } else {
       this.added = true;
-      this.service.add(x);
-      this.service.addToDb(x).subscribe((res) => { console.log("Uspješno dodano:", res) });
+      //this.service.add(x);
+      //this.service.addToDb(x).subscribe((res) => { console.log("Uspješno dodano:", res) });
+      this.service.addToDb(x.rank);
     }
 
     console.log(this.favoriteUnis());

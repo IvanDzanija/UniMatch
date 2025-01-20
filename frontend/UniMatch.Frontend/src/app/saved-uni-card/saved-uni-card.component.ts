@@ -127,7 +127,7 @@ export class SavedUniCardComponent {
   service = inject(SavedUniversitiesService);
 
   remove(rank: number) {
-    this.service.remove(rank);
+    /*this.service.remove(rank);
     this.service.removeFromDb(rank).subscribe((res) => {
       if (res) {
         console.log("Uspješno obrisano!");
@@ -136,6 +136,8 @@ export class SavedUniCardComponent {
       }
     }
     )
+    */
+   this.service.removeFromDb(rank);
   }
 
   constructor(private dialog: MatDialog) { }

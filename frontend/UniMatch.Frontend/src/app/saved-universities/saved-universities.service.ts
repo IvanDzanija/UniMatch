@@ -2,16 +2,17 @@ import { inject, Injectable, signal } from '@angular/core';
 import { SavedUniversity } from './saved-uni.output.model';
 import { HttpClient, HttpHeaders } from '@angular/common/http';
 import { University } from '../top-list/toplist-output.model';
-import { tap } from 'rxjs';
+import { Observable, tap } from 'rxjs';
+import { User } from '../registration/registration.output.model';
+import { AuthService } from '../auth.service';
 
 @Injectable({
   providedIn: 'root'
 })
 export class SavedUniversitiesService {
 
-  constructor() { }
   //saved = []
-  saved = [
+  /*saved = [
     {
       name: 'University of Tokyo',
       website: 'https://www.u-tokyo.ac.jp/en/',
@@ -46,54 +47,61 @@ export class SavedUniversitiesService {
       lng:-100
     }
   ];
+  */
 
-  savedUniversities = signal<SavedUniversity[]>(this.saved);
+  savedUniversities = signal<SavedUniversity[]>([]); //ne koristi se
 
   http = inject(HttpClient);
+  authService = inject(AuthService);
 
-  remove(x: number) {
+ /* remove(x: number) {
     this.savedUniversities.update((savedUniversities) => {
       return savedUniversities.filter((university) => university.rank != x)
     });
     console.log(this.savedUniversities());
   }
-
+*/
   removeFromDb(x: number) {
-    return this.http.post<boolean>('/api/remove/', x);    // TO DO
+    const jwt= localStorage.getItem('jwt');
+    if(jwt)this.authService.remove(x, jwt).subscribe((res) => {
+      if (res) {
+        console.log("Uspješno obrisano!");
+      } else {
+        console.log("Neuspjelo brisanje!");
+      }
+    } );
   }
-
+/*
   add(x: University) {
     this.savedUniversities.update((savedUniversities) => { return [...savedUniversities, x] });
     console.log(this.savedUniversities());
   }
-
-  addToDb(x: University) {
-    return this.http.post<boolean>('http://localhost:8000/api/add/', x);    // TO DO
+*/
+  addToDb(x: number) {
+    const jwt= localStorage.getItem('jwt');
+    if(jwt)this.authService.add(x, jwt).subscribe((res) => {
+      if(res) {
+        console.log("Uspješno dodano!");
+      } else {
+        console.log("Neuspjelo dodavanje");
+      }
+    });
   }
 
-  getSaved(): void {
+  getSaved() : any{     //ne koristi se
     const authToken = localStorage.getItem('jwt');
-    console.log("authToken: ", authToken);
-  
-    if (authToken) {
+    if(authToken) {
       const headers = new HttpHeaders({
         'Authorization': `Bearer ${authToken}` // Add JWT token in the Authorization header
-      });
-  
-      this.http.get<SavedUniversity[]>('http://localhost:8000/api/getUniversitiesSaved/', { headers })
-        .subscribe({
-          next: (savedUniversities: SavedUniversity[]) => {
-            // Update the signal with the fetched data
-            console.log("Data fetched successfully: ", savedUniversities);
-            this.savedUniversities.set(savedUniversities);
-          },
-          error: (error) => {
-            console.error("Error fetching saved universities: ", error);
-          }
-        });
-    } else {
-      console.warn("No auth token found. Cannot fetch saved universities.");
+    });
+    return this.http.get<SavedUniversity[]>('http://localhost:8000/api/getSavedUniversities', { headers }).pipe(
+      tap((savedUniversities: SavedUniversity[]) => {
+        // Update the signal with the fetched data
+        this.savedUniversities.set(savedUniversities);
+      })
+    );
     }
+    else return null;
+    
   }
-  
 }
