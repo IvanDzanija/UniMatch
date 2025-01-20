@@ -2,7 +2,7 @@ from django.db import models
 from django.contrib.auth.models import AbstractUser, BaseUserManager
 from django.contrib.auth.hashers import make_password
 
-from api.models import savedUniversities
+from api.models import savedUniversities,Forma
 
 class UserManager(BaseUserManager):
     def create_user(self,email, username, password,**extra_fields):
@@ -42,7 +42,8 @@ class User(AbstractUser):
     USERNAME_FIELD = 'username'
     EMAIL_FIELD = 'email'
     universities_saved = models.ManyToManyField(savedUniversities, related_name='users')
-
+    
+    
     #REQUIRED_FIELDS = ['name', 'surname']
 
     def __str__(self):

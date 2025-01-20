@@ -150,7 +150,7 @@ export class SavedUniversitiesComponent {
   trackByLatLng(index: number, location: google.maps.LatLngLiteral): string {
     return `${location.lat},${location.lng}`; 
   }
-
+/*
   ngOnInit() {
     this.savedUniversities$= this.authService.user$.pipe(
       map(user => user?.savedUniversities || [])
@@ -173,5 +173,5 @@ export class SavedUniversitiesComponent {
     //   this.savedSignal.set(res);
     // });
     
-  }
+  }*/
 }
