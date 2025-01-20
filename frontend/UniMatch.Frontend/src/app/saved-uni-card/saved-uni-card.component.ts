@@ -5,6 +5,7 @@ import { HeaderComponent } from '../header/header.component';
 import { AppModule } from '../app.module';
 import { MatDialog } from '@angular/material/dialog';
 import { UniversityInfoComponent } from '../university-info/university-info.component';
+import { University } from '../top-list/toplist-output.model';
 
 @Component({
     selector: 'app-saved-uni-card',
@@ -20,7 +21,7 @@ import { UniversityInfoComponent } from '../university-info/university-info.comp
         <div>Acceptance rate: <i>{{savedUni.acc}}</i></div>
         <div>Estimated cost of 1 year: <i>{{savedUni.estimatedCost}} EUR</i></div>
       </div>
-      <div class="some-class"><button class="trash-button" (click)="remove(savedUni.rank)"><i class="fa-solid fa-circle-minus"></i><span class="trash-text">Remove from favourites</span></button></div>
+      <div class="some-class"><button class="trash-button" (click)="remove(savedUni)"><i class="fa-solid fa-circle-minus"></i><span class="trash-text">Remove from favourites</span></button></div>
       <div class="some-class"><button class="info-button" (click)="openDialog()"><i class="fa-solid fa-circle-info"></i><span class="info-text">More details</span></button></div>
     </div>
   }
@@ -126,7 +127,7 @@ export class SavedUniCardComponent {
 
   service = inject(SavedUniversitiesService);
 
-  remove(rank: number) {
+  remove(uni: SavedUniversity) {
     /*this.service.remove(rank);
     this.service.removeFromDb(rank).subscribe((res) => {
       if (res) {
@@ -137,7 +138,7 @@ export class SavedUniCardComponent {
     }
     )
     */
-   this.service.removeFromDb(rank);
+   this.service.removeFromDb(uni);
   }
 
   constructor(private dialog: MatDialog) { }
@@ -145,4 +146,9 @@ export class SavedUniCardComponent {
   openDialog() {
     this.dialog.open(UniversityInfoComponent, { data: this.savedUni() });
   }
+
+}
+function translateToSavedUniversity(university: University): SavedUniversity {  //ne koristi se
+  const { choiceNo, major, ...savedUniversity } = university;
+  return savedUniversity;
 }

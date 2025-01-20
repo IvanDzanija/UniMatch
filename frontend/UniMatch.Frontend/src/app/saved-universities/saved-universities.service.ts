@@ -61,7 +61,7 @@ export class SavedUniversitiesService {
     console.log(this.savedUniversities());
   }
 */
-  removeFromDb(x: number) {
+  removeFromDb(x: SavedUniversity) {
     const jwt= localStorage.getItem('jwt');
     if(jwt)this.authService.remove(x, jwt).subscribe((res) => {
       if (res) {
@@ -77,7 +77,7 @@ export class SavedUniversitiesService {
     console.log(this.savedUniversities());
   }
 */
-  addToDb(x: number) {
+  addToDb(x: SavedUniversity) {
     const jwt= localStorage.getItem('jwt');
     if(jwt)this.authService.add(x, jwt).subscribe((res) => {
       if(res) {

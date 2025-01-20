@@ -2,6 +2,7 @@ import { Injectable } from '@angular/core';
 import { User } from './registration/registration.output.model';
 import { BehaviorSubject, catchError, map, Observable, of, tap, throwError } from 'rxjs';
 import { HttpClient, HttpHeaders } from '@angular/common/http';
+import { SavedUniversity } from './saved-universities/saved-uni.output.model';
 
 @Injectable({
   providedIn: 'root'
@@ -46,9 +47,9 @@ export class AuthService {
         console.warn('No token found in localStorage. Setting user to null.');
       }
   }
-  add(rank:number, authToken:string) : Observable<User|null>{
+  add(university:SavedUniversity, authToken:string) : Observable<User|null>{
     const headers = new HttpHeaders().set('Authorization', `Bearer ${authToken}`);
-    return this.http.post<User>('https://localhost:8000/api/add/', {rank}, {headers}).pipe(
+    return this.http.post<User>('https://localhost:8000/api/add/', {university}, {headers}).pipe(
       tap( user => {
         this.user.next(user);
       }),
@@ -58,9 +59,9 @@ export class AuthService {
       })
     );
   }
-  remove(rank:number, authToken:string) : Observable<User|null> {
+  remove(university: SavedUniversity, authToken:string) : Observable<User|null> {
     const headers = new HttpHeaders().set('Authorization', `Bearer ${authToken}`);
-    return this.http.post<User>('https://localhost:8000/api/remove/', {rank}, {headers} ).pipe(
+    return this.http.post<User>('https://localhost:8000/api/remove/', {university}, {headers} ).pipe(
       tap( user => {
         this.user.next(user);
       }),
