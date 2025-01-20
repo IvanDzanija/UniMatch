@@ -25,7 +25,7 @@ export class AuthService {
     const authToken= localStorage.getItem('jwt');    //svaki put kad se dogodi login, stavi se jwt u lokalnu memoriju kao dokaz
     if(authToken) {
       const headers = new HttpHeaders().set('Authorization', `Bearer ${authToken}`);
-      this.http.get<User>("auth/validate-session", {headers}).subscribe({
+      this.http.get<User>("http://localhost:8000/user/validate-session/", {headers}).subscribe({
           next: (user) => {
             this.user.next(user); //ako je token u backend-u, user poprima vrijednost koja odgovara njegovom tokenu
           },
@@ -68,19 +68,23 @@ export class AuthService {
       console.log("jwt nije prisutan u lokalnom spremištu");
       return of(false);                               //ako user nije uopće ispravno prijavljen preskače se post request i vraća false kao observable
     }
-    const headers = new HttpHeaders({
-      'Authorization': `Bearer ${authToken}` // Add JWT token in the Authorization header
-  });
-    return this.http.post<boolean>('api/logout', headers).pipe( //post vraća true u slučaju ispravnog log outta
-      tap(() => {
-        this.clearUser();
-      }),
-      catchError(error => {
-        console.error('Logout failed',error);
-        return throwError(() => new Error("logout failed"));
-      })
+    else {
+      this.clearUser();
+      return of(true);
+    }
+  //  const headers = new HttpHeaders({
+  //    'Authorization': Bearer ${authToken} // Add JWT token in the Authorization header
+  //});
+    //return this.http.post<boolean>('api/logout', headers).pipe( //post vraća true u slučaju ispravnog log outta
+    //  tap(() => {
+    //    this.clearUser();
+    //  }),
+    //  catchError(error => {
+    //    console.error('Logout failed',error);
+    //    return throwError(() => new Error("logout failed"));
+    //  })
 
-      );
+    //  );
   }
 
 }

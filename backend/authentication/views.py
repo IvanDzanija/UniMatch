@@ -20,7 +20,8 @@ from rest_framework.response import Response
 
 from authentication.serializers import UserSerializer,SavedUniversitySerializer
 
-
+from rest_framework.decorators import api_view, permission_classes
+from rest_framework.permissions import IsAuthenticated
 User = get_user_model()
 
 
@@ -102,3 +103,19 @@ def login(request):
             return JsonResponse({'status': 'error', 'message': 'Invalid JSON'}, status=400)
     else:
         return JsonResponse({'status': 'error', 'message': 'Only POST requests are allowed'}, status=405)
+    
+
+
+
+@csrf_exempt
+@api_view(['GET'])
+@permission_classes([IsAuthenticated])
+
+def validateSession(request):
+    user = request.user
+
+    user2 = User.objects.get(id = user.id)
+
+    user2 = UserSerializer(user2)
+
+    return JsonResponse({'status':'success','user': user2.data})

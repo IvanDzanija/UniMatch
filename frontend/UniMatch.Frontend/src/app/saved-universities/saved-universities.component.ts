@@ -122,8 +122,13 @@ export class SavedUniversitiesComponent {
   };
 
   ngOnInit() {
-    console.log(this.savedSignal());
-    for(var university of this.savedSignal()) {                     
+    console.log("U SAVED");
+    this.service.getSaved();
+    console.log("nakon getSaved()");
+    console.log("SERVICE = ", this.service.savedUniversities);
+    console.log("SAVED = ", this.savedSignal());
+    //const data = this.savedSignal().data;
+    for(var university of this.savedSignal()) {
       this.markers.push({lat: university.lat, lng: university.lng});     //punimo marker s pozicijama sveučilišta
     }
     // this.service.getSaved().subscribe((res) => {
@@ -132,3 +137,4 @@ export class SavedUniversitiesComponent {
     // });
   }
 }
+

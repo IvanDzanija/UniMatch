@@ -6,5 +6,6 @@ urlpatterns = [
     path("forma/",views.forma, name='forma'),
     path("add/",views.addUni,name='Uni'),
     path("getUniversitiesSaved/",views.getUniversitiesSaved, name="getSavedUniversities"),
+    path("removeUni/",views.removeUni),
 
 ]

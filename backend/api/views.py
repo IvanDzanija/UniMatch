@@ -21,8 +21,8 @@ def load_data():
             '..',                       
             '..',                       
             'datasets',                 
-            'completeDatasets',         
-            'pricesComplete2.csv'       
+            'LLM_generated',         
+            'pricesLLM.csv'       
         )
     )
     data = pd.read_csv(dataset_path)
@@ -231,6 +231,7 @@ def addUni(request):
 @api_view(['GET'])
 @permission_classes([IsAuthenticated])
 def getUniversitiesSaved(request):
+    print("dosao")
     user = request.user
 
     user2 = User.objects.get(id=user.id)
@@ -244,3 +245,28 @@ def getUniversitiesSaved(request):
     return JsonResponse({'status': 'success', 'data': lista}, status=200)
 
 
+
+
+@csrf_exempt
+@api_view(['POST'])
+@permission_classes([IsAuthenticated])
+def removeUni(request):
+    user = request.user
+    body = json.loads(request.body)
+    
+    print("body = ", body)
+    uni_id = body.get("id")
+
+    user2 = User.objects.get(id= user.id)
+    lista = []
+    lista2 = []
+    for uni in user2.universities_saved.all():
+        if(uni_id == uni.id):
+            continue
+        lista2.append(uni)
+        uni = SavedUniversitySerializer(uni)
+        lista.append(uni.data)
+
+    user2.universities_saved.set(lista2)
+    user2.save()
+    return JsonResponse({'status': 'success', 'data': lista}, status=200)

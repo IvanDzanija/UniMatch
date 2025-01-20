@@ -1,7 +1,8 @@
 import { inject, Injectable, signal } from '@angular/core';
 import { SavedUniversity } from './saved-uni.output.model';
-import { HttpClient } from '@angular/common/http';
+import { HttpClient, HttpHeaders } from '@angular/common/http';
 import { University } from '../top-list/toplist-output.model';
+import { tap } from 'rxjs';
 
 @Injectable({
   providedIn: 'root'
@@ -70,7 +71,29 @@ export class SavedUniversitiesService {
     return this.http.post<boolean>('http://localhost:8000/api/add/', x);    // TO DO
   }
 
-  getSaved() {
-    return this.http.get<SavedUniversity[]>('/api/getSavedUniversities');
+  getSaved(): void {
+    const authToken = localStorage.getItem('jwt');
+    console.log("authToken: ", authToken);
+  
+    if (authToken) {
+      const headers = new HttpHeaders({
+        'Authorization': `Bearer ${authToken}` // Add JWT token in the Authorization header
+      });
+  
+      this.http.get<SavedUniversity[]>('http://localhost:8000/api/getUniversitiesSaved/', { headers })
+        .subscribe({
+          next: (savedUniversities: SavedUniversity[]) => {
+            // Update the signal with the fetched data
+            console.log("Data fetched successfully: ", savedUniversities);
+            this.savedUniversities.set(savedUniversities);
+          },
+          error: (error) => {
+            console.error("Error fetching saved universities: ", error);
+          }
+        });
+    } else {
+      console.warn("No auth token found. Cannot fetch saved universities.");
+    }
   }
+  
 }
