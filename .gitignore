@@ -1,7 +1,14 @@
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+.venv
 .DS_Store
 .env
+.idea/
+.ropeproject/
 __pycache__/
-*.py[cod]
 venv/
 .vscode/
 env/
