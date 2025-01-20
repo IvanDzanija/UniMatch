@@ -1,0 +1,435 @@
+Country,University,CollegeRank,Tuition,PercOfIntStud,AcceptanceRate,SafetyIndex,Link,Computer Science,Business,Economics,Psychology,Biology,Law,Medicine,Mathematics,Art,Physics,Latitude,Longitude,Ranking,region,RecreationIndex,HealthcareIndex,TransportIndex,LivingCostIndex,RentIndex,GroceriesIndex
+ALBANIA,University of Tirana,1001+,1500,5,60,70,https://unitir.edu.al,1,1,1,1,1,1,1,0,1,1,41.3275,19.8189,2001.0,Europe,25.0,12.5,33.3,30.0,20.8,42.9
+ALGERIA,University of Algiers,1001+,800,2,50,65,http://www.univ-alger.dz,1,1,1,0,1,1,1,1,1,1,36.7529,3.042,2001.0,Africa,30.0,15.0,44.4,27.5,16.7,34.3
+ARGENTINA,University of Buenos Aires,131,0,8,65,70,https://www.uba.ar,1,1,1,1,1,1,1,1,1,1,-34.5997,-58.3721,2001.0,Southern America,50.0,25.0,33.3,30.0,20.8,42.9
+ARMENIA,Yerevan State University,1001+,2000,6,40,70,https://www.ysu.am,1,1,1,0,1,1,1,1,1,1,40.1872,44.5152,1902.0,Asia,25.0,18.8,44.4,30.0,20.8,34.3
+AUSTRALIA,University of Melbourne,32,32000,44,70,85,https://www.unimelb.edu.au,1,1,1,1,1,1,1,1,1,1,-37.7962,144.9614,37.0,Oceania,100.0,125.0,100.0,100.0,100.0,114.3
+AUSTRALIA,University of Sydney,37,36000,45,30,85,https://www.sydney.edu.au,1,1,1,1,1,1,1,1,1,1,-33.8886,151.1872,60.0,Oceania,100.0,125.0,100.0,110.0,108.3,114.3
+AUSTRALIA,University of New South Wales,49,33000,40,30,82,https://www.unsw.edu.au,1,1,1,1,1,1,1,1,1,1,-33.917,151.2311,1167.0,Oceania,100.0,87.5,100.0,100.0,100.0,114.3
+AUSTRALIA,University of Queensland,58,32000,39,40,85,https://www.uq.edu.au,1,1,1,1,1,1,1,1,1,1,-27.4975,153.0137,70.0,Oceania,100.0,87.5,100.0,100.0,91.7,114.3
+AUSTRALIA,University of Adelaide,64,28000,31,44,87,https://www.adelaide.edu.au,1,1,1,1,1,1,1,1,1,1,-34.9212,138.605,111.0,Oceania,75.0,75.0,77.8,90.0,75.0,85.7
+AUSTRALIA,Macquarie University,282,25000,27,40,85,https://www.mq.edu.au,1,1,1,1,1,1,0,1,1,1,-33.7739,151.1117,180.0,Oceania,100.0,50.0,111.1,110.0,75.0,100.0
+AUSTRALIA,University of Tasmania,377,22000,19,75,88,https://www.utas.edu.au,1,1,1,1,1,1,1,1,1,1,-42.9036,147.3272,297.0,Oceania,100.0,50.0,66.7,80.0,54.2,85.7
+AUSTRALIA,University of Wollongong,383,24000,25,75,90,https://www.uow.edu.au,1,1,1,1,1,1,1,1,1,1,-34.4065,150.8785,250.0,Oceania,100.0,50.0,72.2,90.0,62.5,100.0
+AUSTRALIA,University of Western Australia,489,35000,25,63,88,https://www.uwa.edu.au,1,1,1,1,1,1,1,1,1,1,-31.9797,115.8199,144.0,Oceania,105.0,62.5,77.8,95.0,70.8,105.7
+AUSTRALIA,Western Sydney University,606,20000,15,30,85,https://www.westernsydney.edu.au,1,1,1,1,1,1,0,1,1,1,-33.885,150.9921,348.0,Oceania,100.0,62.5,111.1,90.0,83.3,100.0
+AUSTRALIA,James Cook University,642,20000,22,80,75,https://www.jcu.edu.au,1,1,1,1,1,1,1,1,1,1,-19.3312,146.7586,375.0,Oceania,60.0,62.5,66.7,75.0,58.3,85.7
+AUSTRALIA,Flinders University,652,20000,25,65,75,https://www.flinders.edu.au,1,1,1,1,1,1,1,1,1,1,-35.0231,138.5723,314.0,Oceania,60.0,62.5,55.6,70.0,58.3,71.4
+AUSTRALIA,Swinburne University of Technology,659,22000,35,75,85,https://www.swinburne.edu.au,1,1,1,1,1,1,1,1,1,1,-37.824,145.0364,242.0,Oceania,45.0,62.5,66.7,60.0,50.0,71.4
+AUSTRALIA,University of South Australia,662,22000,30,80,80,https://www.unisa.edu.au,1,1,1,1,1,1,1,1,1,1,-34.9204,138.599,335.0,Oceania,50.0,62.5,66.7,65.0,50.0,71.4
+AUSTRIA,University of Vienna,61,1500,28,25,88,https://www.univie.ac.at/en/,1,1,1,1,1,1,1,1,1,1,48.2132,16.3608,120.0,Europe,75.0,50.0,66.7,65.0,58.3,71.4
+AUSTRIA,Johannes Kepler University Linz,206,1500,14,50,89,https://www.jku.at/en,1,1,1,1,1,1,1,1,1,1,48.3364,14.3198,444.0,Europe,65.0,31.2,50.0,55.0,37.5,85.7
+AUSTRIA,University of Innsbruck,223,1500,17,55,92,https://www.uibk.ac.at,1,1,1,1,1,1,1,1,1,1,47.2644,11.3437,320.0,Europe,75.0,25.0,44.4,50.0,33.3,71.4
+AUSTRIA,University of Graz,364,1500,15,65,86,https://www.uni-graz.at,1,1,1,1,1,1,1,1,0,1,47.0805,15.4486,537.0,Europe,75.0,25.0,55.6,55.0,37.5,85.7
+AUSTRIA,Medical University of Innsbruck,601,1500,9,45,90,https://www.i-med.ac.at,0,0,0,1,1,0,1,0,0,1,47.2644,11.343,277.0,Europe,60.0,43.8,66.7,75.0,54.2,85.7
+AUSTRIA,Medical University of Graz,601,1500,13,35,85,https://www.medunigraz.at,0,0,0,1,1,0,1,0,0,0,47.0739,15.4355,223.0,Europe,75.0,37.5,55.6,50.0,41.7,71.4
+AZERBAIJAN,Baku State University,1001+,2500,10,50,72,https://bsu.edu.az,1,1,1,1,1,1,1,1,1,1,40.3953,49.8523,1544.0,Asia,35.0,15.0,33.3,32.5,25.0,42.9
+BAHAMAS,University of the Bahamas,1001+,4000,10,70,78,https://www.ub.edu.bs,1,1,1,0,1,1,1,1,1,0,25.0661,-77.345,2001.0,Southern America,50.0,62.5,55.6,45.0,33.3,57.1
+BAHRAIN,University of Bahrain,801-1000,3000,8,70,75,http://www.uob.edu.bh,1,1,1,0,1,1,0,1,1,1,26.1358,50.5047,2001.0,Asia,25.0,18.8,22.2,50.0,41.7,85.7
+BANGLADESH,University of Dhaka,1001+,500,2,75,60,https://www.du.ac.bd,1,1,1,0,1,1,1,1,0,1,23.7333,90.3925,855.0,Asia,10.0,6.2,11.1,15.0,8.3,28.6
+BARBADOS,"University of the West Indies, Cave Hill",1001+,4000,15,60,70,https://www.cavehill.uwi.edu,1,1,1,1,1,1,1,1,1,0,13.15,-59.6425,1194.0,Southern America,50.0,25.0,33.3,60.0,50.0,85.7
+BELARUS,Belarusian State University,601-800,3000,7,80,65,https://www.bsu.by,1,1,1,0,1,1,1,1,1,1,53.893,27.5477,1226.0,Europe,10.0,10.0,11.1,20.0,12.5,28.6
+BELGIUM,KU Leuven,41,1750,20,30,85,https://www.kuleuven.be,1,1,1,1,1,1,1,1,1,1,50.8789,4.7005,45.0,Europe,75.0,87.5,66.7,65.0,50.0,85.7
+BELGIUM,University of Antwerp,70,900,18,45,87,https://www.uantwerpen.be/en/,1,1,1,1,1,1,1,1,1,1,51.2205,4.3997,161.0,Europe,75.0,37.5,66.7,60.0,50.0,71.4
+BELGIUM,Ghent University,145,6000,18,50,90,https://www.ugent.be,1,1,1,1,1,1,1,1,1,1,51.0486,3.7252,115.0,Europe,75.0,50.0,66.7,60.0,41.7,71.4
+BELGIUM,University of Liege,182,4175,23,55,85,https://www.uliege.be,1,1,1,1,1,1,1,1,1,1,50.58,5.567,323.0,Europe,65.0,43.8,44.4,55.0,37.5,71.4
+BELGIUM,Vrije Universiteit Brussel,588,3000,21,31,85,https://www.vub.be,1,1,1,1,1,1,1,1,1,1,50.8211,4.3952,248.0,Europe,70.0,43.8,55.6,70.0,58.3,71.4
+BOLIVIA,Universidad Mayor de San Andres,1001+,200,3,80,55,https://www.umsa.bo,1,1,1,0,1,1,1,1,0,1,-16.5,-68.15,2001.0,Southern America,10.0,6.2,11.1,15.0,8.3,28.6
+BOSNIA AND HERZEGOVINA,University of Sarajevo,1001+,1000,5,70,65,https://www.unsa.ba,1,1,1,0,1,1,1,1,1,1,43.8563,18.4131,1829.0,Europe,15.0,10.0,16.7,20.0,12.5,34.3
+BOTSWANA,University of Botswana,1001+,2500,10,75,60,https://www.ub.bw,1,1,1,0,1,1,1,1,0,1,-24.657,25.9089,1229.0,Africa,25.0,18.8,22.2,35.0,25.0,57.1
+BRAZIL,University of Sao Paulo,88,0,9,13,50,https://www5.usp.br,1,1,1,1,1,1,1,1,1,1,-23.5617,-46.7309,238.0,Southern America,50.0,31.2,44.4,50.0,33.3,57.1
+BRAZIL,Federal University of Minas Gerais,208,0,4,65,55,https://ufmg.br,1,1,1,1,1,1,1,1,1,1,-19.9366,-43.9389,857.0,Southern America,40.0,12.5,22.2,30.0,16.7,42.9
+BRAZIL,Federal University of Rio de Janeiro,298,500,3,70,50,https://ufrj.br,1,1,1,1,1,1,1,1,1,1,-22.861,-43.2296,653.0,Southern America,50.0,12.5,33.3,35.0,20.8,57.1
+BULGARIA,Sofia University,1001+,2000,8,70,70,https://www.uni-sofia.bg,1,1,1,1,1,1,1,1,0,1,42.6934,23.332,1847.0,Europe,25.0,12.5,22.2,25.0,16.7,42.9
+CAMBODIA,Royal University of Phnom Penh,1001+,300,5,80,60,https://www.rupp.edu.kh,1,0,0,0,1,1,0,1,0,1,11.565,104.8885,2001.0,Asia,10.0,10.0,11.1,15.0,8.3,28.6
+CAMEROON,University of Yaounde I,1001+,500,5,70,55,https://www.uy1.uninet.cm,1,0,1,0,1,1,1,1,0,1,3.8667,11.5167,2001.0,Africa,10.0,10.0,11.1,17.5,10.0,28.6
+CANADA,University of Toronto,24,38000,25,43,80,https://www.utoronto.ca,1,1,1,1,1,1,1,1,1,1,43.6629,-79.3957,21.0,Northern America,75.0,87.5,100.0,90.0,83.3,100.0
+CANADA,University of British Columbia,39,35000,28,52,85,https://www.ubc.ca,1,1,1,1,1,1,1,1,1,1,49.2606,-123.246,41.0,Northern America,100.0,87.5,100.0,90.0,83.3,100.0
+CANADA,McMaster University,62,25000,18,58,85,https://www.mcmaster.ca,1,1,1,1,1,1,1,1,1,1,43.2615,-79.9198,104.0,Northern America,75.0,75.0,77.8,75.0,66.7,100.0
+CANADA,University of Calgary,69,18000,20,50,88,https://www.ucalgary.ca,1,1,1,1,1,1,1,1,1,1,51.078,-114.1336,207.0,Northern America,75.0,62.5,77.8,80.0,66.7,100.0
+CANADA,University of Ottawa,71,18500,24,42,86,https://www.uottawa.ca,1,1,1,1,1,1,1,1,1,1,45.4215,-75.6879,179.0,Northern America,75.0,62.5,77.8,80.0,66.7,100.0
+CANADA,University of Alberta,76,20000,25,58,85,https://www.ualberta.ca,1,1,1,1,1,1,1,1,1,1,53.5232,-113.5263,110.0,Northern America,75.0,50.0,77.8,75.0,62.5,85.7
+CANADA,York University,253,25000,30,27,88,https://www.yorku.ca,1,1,1,1,1,1,1,1,1,1,43.7748,-79.5015,27.0,Northern America,75.0,50.0,66.7,75.0,66.7,85.7
+CANADA,University of Victoria,369,16000,18,64,87,https://www.uvic.ca,1,1,1,1,1,1,0,1,1,1,48.4634,-123.3117,399.0,Northern America,100.0,50.0,66.7,75.0,50.0,85.7
+CANADA,University of Manitoba,378,14000,15,52,85,https://umanitoba.ca,1,1,1,1,1,1,1,1,1,1,49.8072,-97.1325,380.0,Northern America,75.0,43.8,61.1,70.0,50.0,85.7
+CANADA,University of Guelph,384,18000,14,66,88,https://www.uoguelph.ca,1,1,1,1,1,0,0,1,1,1,43.5346,-80.232,435.0,Northern America,75.0,37.5,55.6,75.0,50.0,85.7
+CANADA,University of Waterloo,488,35000,22,53,86,https://uwaterloo.ca,1,1,1,1,1,0,0,1,1,1,43.4723,-80.5449,159.0,Northern America,95.0,50.0,72.2,85.0,66.7,100.0
+CANADA,Western University,594,20000,12,58,85,https://www.uwo.ca,1,1,1,1,1,1,1,1,1,1,43.0087,-81.2775,249.0,Northern America,75.0,37.5,77.8,70.0,50.0,85.7
+CANADA,Carleton University,601,20000,22,21,85,https://carleton.ca,1,1,1,1,1,1,0,1,1,1,45.3876,-75.696,522.0,Northern America,67.5,41.9,66.7,60.0,50.0,67.1
+CANADA,University of Sherbrooke,750,3000,15,65,90,https://www.usherbrooke.ca,1,1,1,0,0,0,0,1,0,1,45.3806,-71.9271,2001.0,Northern America,50.0,50.0,55.6,50.0,50.0,85.7
+CANADA,Concordia University,650,8000,15,45,80,https://www.concordia.ca,1,1,1,0,1,0,0,1,1,1,45.4973,-73.5795,526.0,Northern America,50.0,50.0,66.7,50.0,41.7,57.1
+CHILE,University of Chile,157,5000,6,25,70,https://www.uchile.cl,1,1,1,1,1,1,1,1,1,1,-33.4489,-70.6693,841.0,Southern America,50.0,31.2,44.4,40.0,29.2,57.1
+CHILE,Pontifical Catholic University of Chile,170,6000,7,25,75,https://www.uc.cl,1,1,1,1,1,1,1,1,1,1,-33.4413,-70.6405,2001.0,Southern America,60.0,31.2,44.4,45.0,33.3,57.1
+CHILE,Pontifical Catholic University of Valparaiso,311,4500,4,45,60,https://www.pucv.cl,1,1,1,1,1,1,0,1,1,1,-33.0324,-71.6029,1393.0,Southern America,50.0,18.8,38.9,35.0,25.0,57.1
+CHINA,Peking University,23,4500,13,1,75,https://english.pku.edu.cn,1,1,1,1,1,1,1,1,1,1,39.9928,116.3055,14.0,Asia,50.0,37.5,27.8,40.0,33.3,42.9
+CHINA,Tsinghua University,36,5000,12,2,75,https://www.tsinghua.edu.cn,1,1,1,1,1,1,1,1,1,1,40.0037,116.3269,12.0,Asia,50.0,37.5,27.8,45.0,41.7,42.9
+CHINA,Nankai University,254,4500,8,50,80,https://www.nankai.edu.cn,1,1,1,1,1,1,1,1,1,1,39.1089,117.174,278.0,Asia,40.0,25.0,33.3,40.0,25.0,42.9
+CHINA,Wuhan University,598,4000,7,75,82,https://www.whu.edu.cn,1,1,1,1,1,1,1,1,1,1,30.5479,114.3727,165.0,Asia,50.0,12.5,22.2,30.0,20.8,34.3
+CHINA,Xiamen University,599,4500,6,80,84,https://www.xmu.edu.cn,1,1,1,1,1,1,1,1,1,1,24.4414,118.0889,350.0,Asia,55.0,15.0,27.8,32.5,25.0,42.9
+CHINA,Xidian University,601,3500,5,45,75,https://en.xidian.edu.cn,1,1,0,0,1,0,0,1,0,1,34.2322,108.9153,800.0,Asia,40.0,25.0,22.2,30.0,20.8,34.3
+CHINA,Fuzhou University,608,3000,3,70,73,https://www.fzu.edu.cn,1,1,0,0,1,0,0,1,0,1,26.0789,119.2099,864.0,Asia,35.0,18.8,22.2,25.0,16.7,28.6
+CHINA,Jiangnan University,608,3500,5,45,75,https://www.jiangnan.edu.cn,1,1,1,0,1,0,0,1,1,1,31.5526,120.309,892.0,Asia,40.0,25.0,33.3,30.0,20.8,42.9
+CHINA,Qingdao University,609,3200,4,50,77,https://www.qdu.edu.cn,1,1,1,0,1,0,1,1,1,1,36.062,120.3735,753.0,Asia,35.0,22.5,27.8,30.0,20.8,42.9
+CHINA,Guangdong University of Technology,613,3000,4,55,76,https://www.gdut.edu.cn,1,1,1,0,1,0,0,1,1,1,23.02,113.23,660.0,Asia,35.0,22.5,33.3,30.0,20.8,42.9
+CHINA,North China Electric Power University,626,4000,2,50,70,https://english.ncepu.edu.cn,1,0,0,0,0,0,0,1,0,1,40.1518,116.2863,936.0,Asia,30.0,18.8,27.8,30.0,25.0,42.9
+CHINA,Ocean University of China,631,4500,10,80,75,https://english.ouc.edu.cn,1,1,0,0,1,0,0,1,0,1,36.0649,120.3289,2001.0,Asia,25.0,18.8,22.2,30.0,20.8,28.6
+CHINA,Beijing Jiaotong University,632,4000,5,70,72,https://english.bjtu.edu.cn,1,1,0,0,0,0,0,1,0,1,39.9512,116.3524,2001.0,Asia,30.0,18.8,44.4,25.0,16.7,28.6
+CHINA,Nanchang University,638,3000,5,80,70,http://www.ncu.edu.cn,1,1,0,0,1,0,0,1,0,1,28.6837,115.8532,2001.0,Asia,20.0,18.8,22.2,25.0,20.8,42.9
+CHINA,Renmin University of China,639,5000,3,50,78,https://www.ruc.edu.cn,1,1,1,1,1,1,1,1,1,1,39.9673,116.3655,2001.0,Asia,25.0,25.0,33.3,32.5,25.0,42.9
+CHINA,Zhejiang University of Technology,646,4000,12,85,70,https://www.zjut.edu.cn,1,1,0,0,1,0,0,1,0,1,30.3092,120.3688,2001.0,Asia,20.0,25.0,33.3,30.0,25.0,42.9
+CHINA,University of Macau,651,6000,18,80,90,https://www.um.edu.mo,1,1,1,1,1,1,1,1,1,1,22.1598,113.5634,194.0,Asia,35.0,37.5,33.3,50.0,37.5,57.1
+CHINA,Nanjing Normal University,656,4500,18,85,80,https://www.njnu.edu.cn,1,1,1,1,1,0,0,1,0,1,32.0572,118.7892,73.0,Asia,25.0,18.8,33.3,35.0,25.0,42.9
+CHINA,China University of Geosciences,661,3500,15,85,75,https://www.cug.edu.cn,1,1,1,1,1,1,1,1,0,1,30.5191,114.3592,2001.0,Asia,25.0,25.0,44.4,35.0,25.0,42.9
+CHINA,Beijing University of Technology,663,4000,20,80,75,https://www.bjut.edu.cn,1,1,1,1,1,1,0,1,0,1,39.8675,116.4834,2001.0,Asia,20.0,18.8,33.3,30.0,25.0,28.6
+CHINA,Hefei University of Technology,668,3000,12,80,75,https://www.hfut.edu.cn,1,1,1,1,1,0,0,1,0,1,31.8392,117.2571,2001.0,Asia,25.0,25.0,44.4,30.0,20.8,28.6
+CHINA,Yangzhou University,801,2000,4,40,78,https://www.yzu.edu.cn,1,1,1,0,1,0,1,1,1,1,32.3942,119.4277,604.0,Asia,40.0,12.5,22.2,25.0,16.7,34.3
+CHINA,Southwest Jiaotong University,801,2500,3,45,76,https://www.swjtu.edu.cn,1,0,0,0,1,0,0,1,1,1,30.7549,103.9317,2001.0,Asia,45.0,15.0,27.8,30.0,20.8,37.1
+CHINA,Donghua University,702,3400,10,45,72,https://english.dhu.edu.cn,1,1,1,0,0,0,0,1,1,0,31.2195,121.417,531.0,Asia,20.0,25.0,33.3,21.5,15.0,22.9
+CHINA,Tianjin Medical University,708,4000,9,50,72,http://www.tmu.edu.cn,0,0,0,0,1,0,1,0,0,0,39.1075,117.1967,244.0,Asia,25.0,27.5,27.8,25.0,16.7,25.7
+CHINA,Central China Normal University,710,2800,10,75,75,http://english.ccnu.edu.cn,1,1,1,1,1,0,0,1,1,0,30.5166,114.3499,2001.0,Asia,20.0,25.0,27.8,22.5,15.0,22.9
+CHINA,Guangzhou Medical University,876,4000,5,75,80,https://www.gzhmu.edu.cn,0,0,0,0,1,0,1,0,0,0,23.051,113.2926,868.0,Asia,25.0,37.5,44.4,30.0,16.7,42.9
+CHINA,Hohai University,700,3500,8,75,80,https://www.hhu.edu.cn,1,1,1,0,0,0,0,1,0,1,32.0835,118.7789,2001.0,Asia,30.0,25.0,33.3,27.5,20.8,34.3
+CHINA,Naval Medical University,820,4000,5,70,85,http://www.smmu.edu.cn,0,0,0,0,1,0,1,0,0,0,31.2001,121.4452,2001.0,Asia,25.0,31.2,44.4,30.0,25.0,42.9
+CHINA,South China Normal University,850,3200,10,75,80,https://www.scnu.edu.cn,1,1,1,0,0,0,0,1,0,1,23.1479,113.345,768.0,Asia,25.0,25.0,33.3,25.0,16.7,28.6
+CHINA,ShanghaiTech University,400,5000,5,30,75,https://www.shanghaitech.edu.cn,1,0,1,0,1,0,1,1,0,1,31.1765,121.6003,2001.0,Asia,40.0,50.0,50.0,42.5,41.7,71.4
+CHINA,China University of Mining and Technology,750,3500,10,70,80,https://www.cumt.edu.cn,1,1,1,0,1,0,0,1,0,1,34.2054,117.2789,2001.0,Asia,25.0,31.2,33.3,30.0,20.8,42.9
+CHINA,South China Agricultural University,600,3000,12,70,80,https://www.scau.edu.cn,1,1,0,0,1,0,0,1,0,1,23.156,113.3495,2001.0,Asia,20.0,25.0,33.3,25.0,16.7,42.9
+CHINA,National University of Defense Technology,600,2500,5,35,80,https://www.udn.edu.cn,1,0,1,0,1,0,0,1,0,1,28.1987,112.9454,2001.0,Asia,20.0,25.0,33.3,30.0,25.0,42.9
+CHINA,"China University of Geosciences, Beijing",700,2500,8,60,80,https://www.cug.edu.cn,1,0,0,0,1,0,0,1,0,1,39.9917,116.3655,2001.0,Asia,25.0,25.0,33.3,32.5,25.0,42.9
+CHINA,Shaanxi Normal University,1000,2000,4,80,75,https://www.snnu.edu.cn,1,0,0,0,1,0,0,1,0,0,34.1572,108.8967,2001.0,Asia,25.0,22.5,33.3,27.5,20.8,42.9
+COLOMBIA,University of the Andes,166,6000,8,35,65,https://uniandes.edu.co,1,1,1,1,1,1,1,1,1,1,4.601,-74.0656,813.0,Southern America,50.0,25.0,44.4,35.0,25.0,42.9
+COLOMBIA,"University of Los Andes, Colombia",220,6000,12,35,60,https://uniandes.edu.co,1,1,1,1,1,1,0,1,1,0,4.601,-74.0655,2001.0,Southern America,35.0,18.8,33.3,35.0,25.0,57.1
+COSTA RICA,University of Costa Rica,1001+,3000,10,50,75,https://www.ucr.ac.cr,1,1,1,1,1,1,0,1,1,1,9.9369,-84.0517,1250.0,Southern America,40.0,12.5,22.2,40.0,29.2,71.4
+CROATIA,University of Zagreb,494,2000,5,70,85,https://www.unizg.hr,1,1,1,1,1,1,1,1,1,1,45.815,15.9819,1199.0,Europe,50.0,18.8,33.3,45.0,33.3,57.1
+CUBA,University of Havana,1001+,2000,5,80,70,http://www.uh.cu,1,1,1,1,1,1,1,0,1,1,23.1383,-82.3625,1642.0,Southern America,25.0,12.5,22.2,30.0,16.7,42.9
+CYPRUS,University of Cyprus,601-800,7000,15,40,85,https://www.ucy.ac.cy,1,1,1,1,1,1,1,1,1,1,35.1446,33.4112,529.0,Asia,50.0,25.0,33.3,45.0,33.3,71.4
+CZECH REPUBLIC,Masaryk University,203,3000,12,45,85,https://www.muni.cz/en,1,1,1,1,1,1,1,1,1,1,49.194,16.6082,708.0,Europe,50.0,18.8,33.3,40.0,29.2,57.1
+CZECH REPUBLIC,Palacky University Olomouc,850,3500,10,60,80,https://www.upol.cz,1,1,1,1,1,0,0,1,0,0,49.5901,17.251,945.0,Europe,25.0,25.0,33.3,35.0,25.0,42.9
+CZECH REPUBLIC,Charles University,200,1200,20,45,85,https://www.cuni.cz,1,1,1,1,1,1,1,1,1,1,50.087,14.4175,416.0,Europe,40.0,31.2,44.4,45.0,33.3,71.4
+DENMARK,University of Copenhagen,129,15000,25,22,95,https://www.ku.dk,1,1,1,1,1,1,1,1,1,1,55.6781,12.5683,103.0,Europe,100.0,50.0,77.8,100.0,75.0,114.3
+DENMARK,Aarhus University,146,15000,12,40,94,https://international.au.dk,1,1,1,1,1,1,1,1,1,1,56.1684,10.202,109.0,Europe,100.0,62.5,66.7,75.0,50.0,85.7
+DENMARK,Aalborg University,212,10000,16,40,93,https://www.en.aau.dk,1,1,1,1,1,1,1,1,1,1,57.0483,9.9196,202.0,Europe,75.0,37.5,55.6,60.0,41.7,85.7
+DOMINICAN REPUBLIC,Pontificia Universidad Catolica Madre y Maestra,1001+,2000,5,70,60,https://www.pucmm.edu.do,1,1,1,1,1,1,0,1,0,1,19.4671,-70.6902,2001.0,Southern America,25.0,18.8,22.2,35.0,25.0,57.1
+ECUADOR,Pontificia Universidad Catolica del Ecuador,1001+,4000,5,70,60,https://www.puce.edu.ec,1,1,1,1,1,1,0,1,1,1,-0.2118,-78.4934,1805.0,Southern America,25.0,18.8,22.2,30.0,20.8,42.9
+EGYPT,American University in Cairo,174,10000,14,35,65,https://www.aucegypt.edu,1,1,1,1,1,1,1,1,1,1,30.0188,31.5014,612.0,Africa,50.0,31.2,33.3,35.0,25.0,42.9
+EGYPT,Cairo University,635,3500,5,85,65,https://www.cu.edu.eg,1,1,1,1,1,1,1,1,1,1,30.0277,31.2107,829.0,Africa,25.0,25.0,33.3,30.0,20.8,42.9
+EL SALVADOR,University of El Salvador,1001+,1500,3,80,55,https://www.ues.edu.sv,1,1,1,1,1,1,1,1,0,1,13.698,-89.1914,2001.0,Southern America,20.0,12.5,16.7,30.0,16.7,42.9
+ESTONIA,University of Tartu,134,3800,20,35,90,https://www.ut.ee,1,1,1,1,1,1,1,1,1,1,58.378,26.729,341.0,Europe,50.0,25.0,44.4,45.0,29.2,57.1
+FIJI,University of the South Pacific,1001+,4500,15,70,70,https://www.usp.ac.fj,1,1,1,1,1,1,0,1,1,1,-18.1497,178.4419,1166.0,Oceania,25.0,12.5,22.2,35.0,25.0,57.1
+FINLAND,University of Helsinki,57,13000,15,17,93,https://www.helsinki.fi/en,1,1,1,1,1,1,1,1,1,1,60.1695,24.9354,121.0,Europe,75.0,50.0,77.8,80.0,70.8,85.7
+FINLAND,Aalto University,163,12000,18,25,98,https://www.aalto.fi,1,1,1,1,0,0,0,1,1,1,60.1867,24.8292,203.0,Europe,75.0,62.5,66.7,75.0,50.0,85.7
+FINLAND,University of Turku,177,10000,9,45,90,https://www.utu.fi,1,1,1,1,1,1,0,1,1,1,60.4545,22.2841,344.0,Europe,75.0,37.5,55.6,55.0,37.5,71.4
+FINLAND,University of Oulu,385,10000,16,60,93,https://www.oulu.fi,1,1,1,1,1,0,1,1,1,1,65.0121,25.4651,280.0,Europe,75.0,25.0,55.6,65.0,41.7,71.4
+FINLAND,Tampere University,603,6000,10,47,88,https://www.tuni.fi,1,1,1,1,1,0,0,1,1,1,61.4936,23.7551,340.0,Europe,50.0,31.2,55.6,55.0,37.5,71.4
+FINLAND,University of Eastern Finland,607,10000,9,40,90,https://www.uef.fi,1,1,1,1,1,0,1,1,1,1,62.6,29.75,532.0,Europe,50.0,50.0,66.7,60.0,50.0,71.4
+FINLAND,University of Jyvaskyla,600,1800,10,60,90,https://www.jyu.fi,1,1,1,0,1,0,0,1,0,1,62.2408,25.7472,445.0,Europe,30.0,37.5,55.6,45.0,37.5,57.1
+FRANCE,Universite Paris Saclay,283,2770,23,15,79,https://www.universite-paris-saclay.fr,1,1,1,1,1,0,0,1,1,1,48.7095,2.1691,58.0,Europe,75.0,37.5,77.8,70.0,50.0,71.4
+FRANCE,University of Montpellier,381,3000,12,70,86,https://www.umontpellier.fr,1,1,1,1,1,1,1,1,1,1,43.6337,3.8612,324.0,Europe,75.0,25.0,44.4,60.0,41.7,71.4
+FRANCE,University of Strasbourg,467,500,20,70,85,https://www.unistra.fr,1,1,1,1,1,1,1,1,1,1,48.5846,7.7507,2001.0,Europe,70.0,25.0,50.0,55.0,37.5,71.4
+FRANCE,University of Cote dAzur,602,300,12,50,80,https://univ-cotedazur.eu,1,1,1,1,1,1,0,1,1,1,43.7078,7.2683,527.0,Europe,75.0,37.5,44.4,50.0,41.7,71.4
+FRANCE,Ecole normale superieure de Lyon,648,10000,12,40,90,https://www.ens-lyon.fr,1,1,1,1,1,1,0,1,1,1,45.7299,4.821,259.0,Europe,45.0,50.0,55.6,60.0,50.0,71.4
+FRANCE,University of Burgundy,800,2200,12,70,85,https://www.u-bourgogne.fr,1,0,1,0,0,0,0,1,1,0,47.3152,5.0687,2001.0,Europe,45.0,37.5,38.9,42.5,33.3,71.4
+FRANCE,Gustave Eiffel University,800,2000,10,55,85,https://www.u-ge.fr,1,1,0,0,0,0,0,1,0,1,48.8406,2.5848,2001.0,Europe,35.0,37.5,55.6,47.5,41.7,71.4
+FRANCE,Savoie Mont Blanc University,900,2000,7,70,85,https://www.univ-smb.fr,1,0,1,1,1,0,0,1,0,0,45.6425,5.8702,2001.0,Europe,25.0,37.5,44.4,40.0,33.3,57.1
+FRANCE,Sorbonne University,49,12000,30,25,65,https://www.sorbonne-universite.fr,1,1,1,1,1,1,1,1,1,1,48.847,2.3417,75.0,Europe,75.0,37.5,66.7,60.0,54.2,85.7
+GEORGIA,Ivane Javakhishvili Tbilisi State University,1001+,2000,15,60,75,https://www.tsu.ge,1,1,1,1,1,1,1,0,1,0,41.7167,44.7833,1661.0,Asia,25.0,12.5,16.7,25.0,16.7,42.9
+GERMANY,University of Cologne,72,500,18,35,90,https://www.uni-koeln.de,1,1,1,1,1,1,1,1,1,1,50.9271,6.9286,160.0,Europe,75.0,50.0,66.7,60.0,50.0,71.4
+GERMANY,University of Gottingen,128,700,15,38,86,https://www.uni-goettingen.de,1,1,1,1,1,1,1,1,1,1,51.5403,9.9347,112.0,Europe,75.0,37.5,55.6,50.0,33.3,71.4
+GERMANY,University of Stuttgart,252,1500,20,60,85,https://www.uni-stuttgart.de,1,1,1,1,1,1,1,1,1,1,48.7816,9.172,293.0,Europe,60.0,37.5,55.6,50.0,41.7,71.4
+GERMANY,University of Duisburg-Essen,353,1500,14,70,88,https://www.uni-due.de,1,1,1,1,1,1,1,1,0,1,51.4582,6.7746,2001.0,Europe,75.0,25.0,55.6,50.0,33.3,71.4
+GERMANY,University of Wurzburg,492,1500,14,60,88,https://www.uni-wuerzburg.de,1,1,1,1,1,1,1,1,1,1,49.789,9.9362,176.0,Europe,75.0,25.0,55.6,60.0,45.8,71.4
+GERMANY,University of Bremen,531,0,13,55,82,https://www.uni-bremen.de,1,1,1,1,1,1,0,1,1,1,53.1068,8.8546,304.0,Europe,50.0,37.5,44.4,45.0,33.3,71.4
+GERMANY,University of Tubingen,568,1500,16,28,84,https://www.uni-tuebingen.de,1,1,1,1,1,1,1,1,1,1,48.5216,9.0577,96.0,Europe,50.0,43.8,66.7,60.0,41.7,57.1
+GERMANY,University of Regensburg,605,0,15,60,85,https://www.uni-regensburg.de,1,1,1,1,1,1,1,1,1,1,49.0134,12.1016,2001.0,Europe,50.0,37.5,55.6,45.0,33.3,57.1
+GERMANY,University of Potsdam,628,3000,13,70,85,https://www.uni-potsdam.de,1,1,1,1,1,1,0,1,1,1,52.401,13.0104,233.0,Europe,45.0,37.5,55.6,60.0,41.7,71.4
+GERMANY,Technical University of Darmstadt,643,1500,25,60,85,https://www.tu-darmstadt.de,1,1,1,1,1,1,0,1,0,1,49.8771,8.6568,298.0,Europe,40.0,25.0,44.4,50.0,41.7,57.1
+GERMANY,University of Konstanz,501,1500,13,36,85,https://www.uni-konstanz.de,1,1,1,1,1,1,0,1,1,1,47.6912,9.1861,268.0,Europe,50.0,37.5,55.6,60.0,41.7,71.4
+GERMANY,University of Rostock,801,1500,12,50,83,https://www.uni-rostock.de,1,1,1,1,1,0,1,1,0,1,54.0914,12.1001,2001.0,Europe,45.0,35.0,50.0,55.0,37.5,65.7
+GERMANY,Technical University of Dortmund,801,1500,10,55,83,https://www.tu-dortmund.de,1,1,1,0,0,0,0,1,0,1,51.4923,7.4145,2001.0,Europe,50.0,15.0,55.6,42.5,33.3,71.4
+GERMANY,Leibniz University Hannover,701,1500,12,50,85,https://www.uni-hannover.de,1,1,1,0,1,0,0,1,0,1,52.3818,9.7217,379.0,Europe,50.0,15.0,55.6,42.5,33.3,71.4
+GERMANY,Ludwig Maximilian University of Munich,32,1500,20,15,85,https://www.lmu.de,1,1,1,1,1,1,1,1,1,1,48.15,11.5833,2001.0,Europe,50.0,25.0,55.6,55.0,41.7,71.4
+GHANA,University of Cape Coast,98,2500,5,70,60,https://ucc.edu.gh,1,1,1,1,1,1,1,1,1,1,5.1061,-1.2445,628.0,Africa,50.0,25.0,44.4,30.0,20.8,42.9
+GHANA,University of Ghana,1001+,1000,10,70,55,https://www.ug.edu.gh,1,1,1,1,1,1,1,1,1,1,5.65,-0.1833,1063.0,Africa,25.0,18.8,22.2,25.0,16.7,42.9
+GREECE,National and Kapodistrian University of Athens,154,3000,10,60,80,https://en.uoa.gr,1,1,1,1,1,1,1,1,1,1,37.9714,23.749,565.0,Europe,50.0,31.2,44.4,40.0,25.0,57.1
+GREECE,Aristotle University of Thessaloniki,210,1000,8,70,85,https://www.auth.gr/en,1,1,1,1,1,1,1,1,1,1,40.631,22.9574,815.0,Europe,60.0,18.8,33.3,40.0,25.0,57.1
+GREECE,University of Crete,302,1000,7,60,85,https://www.uoc.gr,1,1,1,1,1,0,1,1,0,1,35.34,25.133,528.0,Europe,50.0,18.8,44.4,40.0,25.0,57.1
+GREECE,National Technical University of Athens,500,1500,12,70,75,https://www.ntua.gr,1,0,0,0,0,0,0,1,0,1,37.975,23.7355,722.0,Europe,25.0,25.0,38.9,40.0,33.3,57.1
+GUATEMALA,Universidad de San Carlos de Guatemala,1001+,1000,5,70,50,https://www.usac.edu.gt,1,1,1,1,1,1,1,1,0,1,14.6038,-90.4894,2001.0,Southern America,25.0,12.5,22.2,30.0,16.7,42.9
+HONG KONG,University of Hong Kong,34,12000,40,10,75,https://www.hku.hk,1,1,1,1,1,1,1,1,1,1,22.2838,114.1374,35.0,Asia,75.0,62.5,55.6,80.0,75.0,85.7
+HUNGARY,Eotvos Lorand University,153,5000,12,47,85,https://www.elte.hu,1,1,1,1,1,1,1,1,1,1,47.482,19.0627,2001.0,Europe,50.0,37.5,44.4,45.0,29.2,57.1
+HUNGARY,University of Szeged,375,2500,14,74,83,https://u-szeged.hu,1,1,1,1,1,1,1,1,1,1,46.253,20.1482,1173.0,Europe,60.0,18.8,33.3,40.0,29.2,57.1
+ICELAND,University of Iceland,550,500,10,90,100,https://www.hi.is,1,1,0,1,1,0,1,1,0,1,64.1355,-21.8954,543.0,Europe,40.0,43.8,55.6,60.0,58.3,85.7
+INDIA,University of Delhi,136,300,5,35,60,https://www.du.ac.in,1,1,1,1,1,1,1,1,1,1,28.5846,77.1621,852.0,Asia,25.0,12.5,22.2,25.0,16.7,28.6
+INDIA,Indian Institute of Technology Bombay,161,5000,3,8,75,https://www.iitb.ac.in,1,1,1,0,1,0,0,1,0,1,19.1334,72.9133,670.0,Asia,50.0,12.5,33.3,30.0,16.7,42.9
+INDIA,Indian Institute of Technology Kanpur,178,2000,2,10,70,https://www.iitk.ac.in,1,1,1,0,1,0,0,1,0,1,26.5123,80.2329,2001.0,Asia,50.0,12.5,22.2,30.0,16.7,42.9
+INDIA,Indian Institute of Science,623,5000,1,15,55,https://www.iisc.ac.in,1,0,0,0,1,0,0,1,0,1,13.0212,77.5668,216.0,Asia,25.0,12.5,22.2,30.0,16.7,42.9
+INDIA,Indian Institute of Technology Madras,715,1800,2,10,65,https://www.iitm.ac.in,1,0,1,0,1,0,0,1,0,1,12.9902,80.2335,2001.0,Asia,25.0,25.0,22.2,27.5,16.7,28.6
+INDIA,Tata Institute of Fundamental Research,450,1000,5,25,70,https://www.tifr.res.in,1,0,0,0,1,0,0,1,0,1,19.0176,72.8282,2001.0,Asia,25.0,25.0,27.8,32.5,25.0,42.9
+INDIA,Indian Institute of Technology Delhi,170,6000,10,2,70,https://www.iitd.ac.in,1,0,1,0,0,0,0,1,0,1,28.545,77.1926,2001.0,Asia,40.0,18.8,55.6,35.0,29.2,42.9
+INDONESIA,University of Indonesia,190,1000,5,60,65,https://www.ui.ac.id,1,1,1,1,1,1,1,1,1,1,-6.362,106.8231,878.0,Asia,40.0,18.8,22.2,30.0,20.8,42.9
+IRAN,University of Tehran,181,3000,5,35,60,https://ut.ac.ir,1,1,1,1,1,1,1,1,1,1,35.7033,51.418,487.0,Asia,50.0,18.8,27.8,30.0,16.7,42.9
+IRAN,Tehran University of Medical Sciences,716,3000,4,30,60,https://www.tums.ac.ir,0,0,0,0,1,0,1,0,0,0,35.6976,51.4238,776.0,Asia,20.0,25.0,27.8,20.0,12.5,20.0
+IRAQ,University of Baghdad,1001+,1000,3,80,40,https://www.uobaghdad.edu.iq,1,1,1,1,1,1,1,1,1,1,33.2706,44.3911,1543.0,Asia,15.0,12.5,27.8,20.0,12.5,28.6
+IRELAND,University of Galway,142,15000,15,36,89,https://www.universityofgalway.ie,1,1,1,1,1,1,1,1,1,1,53.2797,-9.0598,315.0,Europe,75.0,50.0,66.7,75.0,50.0,85.7
+IRELAND,University of Limerick,308,12000,13,70,87,https://www.ul.ie,1,1,1,1,1,0,0,1,1,1,52.6691,-8.6263,450.0,Europe,75.0,37.5,55.6,60.0,41.7,71.4
+IRELAND,University College Cork,664,14000,15,80,90,https://www.ucc.ie,1,1,1,1,1,1,1,1,1,1,51.8936,-8.4934,346.0,Europe,45.0,43.8,55.6,50.0,41.7,71.4
+IRELAND,Trinity College Dublin,101,15000,30,15,80,https://www.tcd.ie,1,1,1,1,1,1,1,1,1,1,53.3441,-6.2577,134.0,Europe,75.0,50.0,66.7,60.0,58.3,71.4
+ISRAEL,Hebrew University of Jerusalem,155,10000,12,45,75,https://en.huji.ac.il,1,1,1,1,1,1,1,1,1,1,31.783,35.2137,318.0,Asia,75.0,50.0,66.7,70.0,50.0,85.7
+ISRAEL,Technion - Israel Institute of Technology,220,4500,10,25,80,https://www.technion.ac.il/en,1,1,1,1,1,1,1,1,1,1,32.7768,35.024,394.0,Asia,75.0,37.5,44.4,60.0,41.7,85.7
+ISRAEL,Bar-Ilan University,301,4000,8,50,75,https://www.biu.ac.il,1,1,1,1,1,1,0,1,0,1,32.0739,34.9025,514.0,Asia,75.0,31.2,66.7,60.0,50.0,85.7
+ISRAEL,Weizmann Institute of Science,593,18000,14,12,70,https://www.weizmann.ac.il,0,0,0,0,1,0,0,1,0,1,31.9077,34.8096,2001.0,Asia,50.0,37.5,55.6,70.0,50.0,71.4
+ITALY,University of Milan,77,2000,12,35,85,https://www.unimi.it,1,1,1,1,1,1,1,1,1,1,45.4629,9.194,382.0,Europe,75.0,37.5,66.7,70.0,58.3,85.7
+ITALY,University of Pisa,122,2500,12,40,84,https://www.unipi.it,1,1,1,1,1,1,1,1,1,1,43.716,10.4003,467.0,Europe,75.0,37.5,50.0,50.0,41.7,71.4
+ITALY,University of Pavia,255,3500,15,55,77,https://web.unipv.it,1,1,1,1,1,1,1,1,1,1,45.1881,9.1569,330.0,Europe,50.0,31.2,44.4,50.0,37.5,57.1
+ITALY,University of Naples Federico II,290,2000,5,55,72,https://www.unina.it,1,1,1,0,1,1,1,1,1,1,40.853,14.2681,385.0,Europe,75.0,25.0,55.6,55.0,41.7,71.4
+ITALY,University of Siena,316,2000,8,60,85,https://www.unisi.it,1,1,1,1,1,1,1,1,1,1,43.3185,11.3307,585.0,Europe,75.0,25.0,44.4,50.0,33.3,71.4
+ITALY,University of Turin,356,2800,9,65,83,https://www.unito.it,1,1,1,1,1,1,1,1,1,1,45.0621,7.6629,492.0,Europe,75.0,25.0,44.4,50.0,33.3,71.4
+ITALY,University of Padua,365,2800,10,70,83,https://www.unipd.it,1,1,1,1,1,1,1,1,1,1,45.4064,11.8768,230.0,Europe,75.0,25.0,44.4,50.0,33.3,71.4
+ITALY,University of Trento,372,2500,11,68,85,https://www.unitn.it,1,1,1,1,1,1,0,1,1,1,46.0694,11.1211,397.0,Europe,75.0,18.8,44.4,50.0,33.3,71.4
+ITALY,University of Trieste,614,2000,7,60,82,https://www.units.it,1,1,1,1,1,1,1,1,1,1,45.6495,13.7768,594.0,Europe,50.0,37.5,38.9,50.0,41.7,71.4
+ITALY,University of Catania,624,2000,5,70,75,https://www.unict.it,1,1,1,1,1,1,1,1,1,1,37.5251,15.0816,413.0,Europe,40.0,37.5,55.6,50.0,33.3,71.4
+ITALY,University of Verona,653,1500,15,80,85,https://www.univr.it,1,1,1,1,1,1,1,1,1,1,45.4282,10.9846,496.0,Europe,35.0,37.5,44.4,40.0,33.3,57.1
+ITALY,University of Ferrara,658,1500,20,75,90,https://www.unife.it,1,1,1,1,1,0,1,1,1,1,44.8381,11.6186,535.0,Europe,30.0,37.5,44.4,40.0,29.2,57.1
+ITALY,University of Modena and Reggio Emilia,665,2000,15,85,85,https://www.unimore.it,1,1,1,1,1,1,1,1,1,1,44.6461,10.9252,457.0,Europe,35.0,37.5,44.4,40.0,29.2,57.1
+ITALY,Bocconi University,650,14000,25,38,83,https://www.unibocconi.eu,0,1,1,0,0,1,0,1,0,0,45.4487,9.188,2001.0,Europe,75.0,31.2,55.6,75.0,66.7,85.7
+ITALY,University of Palermo,950,1200,10,65,75,https://www.unipa.it,1,0,1,0,0,0,0,0,0,0,38.1125,13.3627,743.0,Europe,25.0,37.5,33.3,40.0,33.3,57.1
+ITALY,University of Brescia,950,1200,8,60,75,https://www.unibs.it,1,0,0,0,0,0,0,1,0,0,45.5543,10.2312,409.0,Europe,25.0,37.5,33.3,40.0,33.3,57.1
+ITALY,Polytechnic University of Turin,600,2800,20,60,75,https://www.polito.it,1,1,1,0,0,0,0,1,0,1,45.0621,7.6622,469.0,Europe,40.0,43.8,50.0,45.0,41.7,71.4
+ITALY,University of Salerno,750,2500,10,50,85,https://www.unisa.it,1,1,1,1,1,0,0,1,0,0,40.7756,14.7873,580.0,Europe,30.0,31.2,44.4,40.0,33.3,57.1
+ITALY,University of Bologna,160,9000,20,35,75,https://www.unibo.it,1,1,1,1,1,1,1,1,1,1,44.4949,11.3426,156.0,Europe,50.0,25.0,55.6,50.0,41.7,71.4
+JAMAICA,University of the West Indies,1001+,5000,10,50,60,https://www.uwi.edu,1,1,1,1,1,1,1,1,1,0,13.1168,-59.5988,2001.0,Southern America,25.0,12.5,27.8,35.0,16.7,42.9
+JAPAN,Tokyo Medical and Dental University,251,6000,12,40,90,https://www.tmd.ac.jp,1,1,1,1,1,1,1,1,1,1,35.7043,139.765,489.0,Asia,75.0,50.0,66.7,75.0,58.3,85.7
+JAPAN,Tokyo University of Science,289,10000,8,45,90,https://www.tus.ac.jp,1,1,0,0,1,0,0,1,0,1,35.7172,139.7778,1465.0,Asia,75.0,37.5,77.8,75.0,58.3,85.7
+JAPAN,Okayama University,655,6000,20,80,80,https://www.okayama-u.ac.jp,1,1,1,1,1,0,1,1,0,1,34.6935,133.917,941.0,Asia,30.0,25.0,55.6,50.0,37.5,57.1
+JAPAN,Hitotsubashi University,751,3325,15,30,90,https://www.hit-u.ac.jp,0,1,1,0,0,1,0,1,0,0,35.6895,139.5405,2001.0,Asia,62.5,23.1,33.3,46.5,36.2,52.9
+JAPAN,Chiba University,700,4500,6,65,85,https://www.chiba-u.ac.jp,1,0,0,1,0,0,0,1,0,1,35.631,140.1016,840.0,Asia,30.0,31.2,44.4,30.0,29.2,42.9
+JAPAN,Osaka Metropolitan University,700,4000,10,70,85,https://www.osaka-cu.ac.jp,1,0,0,0,1,0,1,1,0,1,34.6058,135.5067,1383.0,Asia,35.0,37.5,44.4,40.0,33.3,57.1
+JAPAN,University of Tokyo,23,10000,10,10,85,https://www.u-tokyo.ac.jp,1,1,1,1,1,1,1,1,1,1,35.7126,139.7612,29.0,Asia,75.0,25.0,111.1,60.0,41.7,57.1
+JORDAN,University of Jordan,1001+,6000,15,50,65,https://www.ju.edu.jo,1,1,1,1,1,1,1,1,1,0,32.011,35.8707,683.0,Asia,25.0,12.5,33.3,30.0,20.8,42.9
+KAZAKHSTAN,Al-Farabi Kazakh National University,1001+,4000,20,45,55,https://www.kaznu.kz,1,1,1,1,1,1,1,1,0,1,43.2241,76.9495,1207.0,Asia,25.0,12.5,22.2,30.0,20.8,42.9
+KENYA,University of Nairobi,601-650,2000,10,60,50,https://www.uonbi.ac.ke,1,1,1,1,1,1,1,1,1,0,-1.2801,36.8162,1364.0,Africa,25.0,25.0,33.3,25.0,12.5,28.6
+KOSOVO,University of Pristina,1001+,1500,5,80,60,https://uni-pr.edu,1,1,1,1,1,1,1,0,1,1,42.6633,21.1623,1809.0,Europe,25.0,6.2,22.2,20.0,12.5,28.6
+KUWAIT,Kuwait University,701-750,4000,20,60,75,http://www.kuniv.edu,1,1,1,1,1,1,1,1,0,1,29.3783,47.9904,1096.0,Asia,50.0,37.5,55.6,55.0,41.7,57.1
+KYRGYZSTAN,American University of Central Asia,1001+,4000,15,70,55,https://www.auca.kg,1,1,1,1,1,1,0,1,1,0,42.8328,74.5939,2001.0,Asia,25.0,12.5,27.8,20.0,12.5,28.6
+LATVIA,University of Latvia,701-750,5000,20,60,75,https://www.lu.lv,1,1,1,1,1,1,0,1,1,1,56.9504,24.1166,1101.0,Europe,50.0,25.0,33.3,35.0,25.0,42.9
+LEBANON,American University of Beirut,400,12000,30,40,60,https://www.aub.edu.lb,1,1,1,1,1,1,1,1,1,1,33.8961,35.4786,508.0,Asia,50.0,62.5,55.6,50.0,41.7,71.4
+LIBYA,University of Tripoli,1001+,3000,5,60,50,https://uot.edu.ly,1,1,1,1,1,1,1,0,1,1,32.8916,13.1872,2001.0,Africa,25.0,12.5,33.3,20.0,12.5,28.6
+LITHUANIA,Vilnius University,400,7000,10,55,75,https://www.vu.lt,1,1,1,1,1,1,0,1,1,1,54.682,25.2876,991.0,Europe,50.0,18.8,33.3,40.0,25.0,42.9
+LUXEMBOURG,University of Luxembourg,300,10000,30,40,85,https://www.uni.lu,1,1,1,1,1,1,1,1,0,1,49.6275,6.159,222.0,Europe,100.0,62.5,88.9,75.0,58.3,57.1
+MALAYSIA,University of Malaya,133,2500,18,42,72,https://www.um.edu.my,1,1,1,1,1,1,1,1,1,1,3.1203,101.6544,276.0,Asia,50.0,25.0,33.3,30.0,20.8,42.9
+MALTA,University of Malta,801-1000,9000,15,40,90,https://www.um.edu.mt,1,1,1,1,1,1,1,1,1,0,35.9022,14.4841,918.0,Europe,50.0,25.0,44.4,40.0,25.0,42.9
+MAURITIUS,University of Mauritius,1001+,5000,10,70,80,https://www.uom.ac.mu,1,1,1,1,1,1,1,0,1,0,-20.2384,57.4989,1346.0,Africa,25.0,12.5,44.4,30.0,16.7,42.9
+MEXICO,Monterrey Institute of Technology,300,12000,5,40,65,https://tec.mx,1,1,1,1,1,1,0,1,1,1,25.643,-100.3136,713.0,Southern America,75.0,25.0,55.6,45.0,29.2,57.1
+MEXICO,National Autonomous University of Mexico,105,1500,10,50,60,https://www.unam.mx,1,1,1,1,1,1,1,1,1,1,19.3322,-99.1872,931.0,Southern America,25.0,25.0,44.4,35.0,20.8,42.9
+MOLDOVA,Moldova State University,1001+,2000,10,80,55,https://usm.md,1,1,1,1,1,1,1,1,1,1,47.0225,28.8306,2001.0,Europe,25.0,6.2,22.2,20.0,12.5,28.6
+MONTENEGRO,University of Montenegro,1001+,3000,5,70,70,https://www.ucg.ac.me,1,1,1,1,1,1,1,1,1,0,42.4425,19.268,1731.0,Europe,25.0,12.5,27.8,25.0,16.7,42.9
+MOROCCO,Mohammed V University,1001+,2000,5,80,60,https://www.um5.ac.ma,1,1,1,1,1,1,0,1,1,1,34.0194,-6.8416,1354.0,Africa,25.0,12.5,22.2,30.0,16.7,42.9
+NEPAL,Tribhuvan University,1001+,1000,10,60,55,https://tribhuvan-university.edu.np,1,1,1,1,1,1,1,0,1,1,27.6786,85.3401,1469.0,Asia,25.0,6.2,11.1,20.0,8.3,28.6
+NETHERLANDS,Utrecht University,54,14000,18,35,85,https://www.uu.nl,1,1,1,1,1,1,1,1,1,1,52.0876,5.1214,2001.0,Europe,75.0,75.0,77.8,70.0,66.7,85.7
+NETHERLANDS,University of Groningen,66,2200,30,47,89,https://www.rug.nl,1,1,1,1,1,1,1,1,1,1,53.2194,6.5665,79.0,Europe,75.0,62.5,66.7,60.0,50.0,71.4
+NETHERLANDS,Vrije Universiteit Amsterdam,587,12000,20,25,88,https://vu.nl,1,1,1,1,1,1,1,1,1,1,52.3347,4.8661,125.0,Europe,75.0,50.0,66.7,75.0,66.7,71.4
+NETHERLANDS,University of Amsterdam,60,12000,30,40,85,https://www.uva.nl,1,1,1,1,1,1,1,1,1,1,52.3546,4.9041,61.0,Europe,50.0,37.5,88.9,60.0,50.0,57.1
+NEW ZEALAND,University of Auckland,96,20000,32,45,85,https://www.auckland.ac.nz,1,1,1,1,1,1,1,1,1,1,-36.8521,174.7682,150.0,Oceania,100.0,62.5,88.9,95.0,79.2,114.3
+NEW ZEALAND,Victoria University of Wellington,183,25000,21,64,90,https://www.wgtn.ac.nz,1,1,1,1,1,1,0,1,1,1,-41.2904,174.7686,498.0,Oceania,75.0,50.0,66.7,70.0,50.0,85.7
+NEW ZEALAND,University of Waikato,219,6000,20,50,92,https://www.waikato.ac.nz,1,1,1,1,1,1,1,1,1,1,-37.787,175.3163,500.0,Oceania,75.0,50.0,55.6,60.0,41.7,85.7
+NEW ZEALAND,Massey University,313,22000,18,65,90,https://www.massey.ac.nz,1,1,1,1,1,0,0,1,1,1,-40.3669,175.6115,558.0,Oceania,75.0,50.0,66.7,75.0,50.0,85.7
+NEW ZEALAND,University of Canterbury,393,21000,18,70,89,https://www.canterbury.ac.nz,1,1,1,1,1,1,0,1,1,1,-43.5231,172.5838,521.0,Oceania,100.0,37.5,66.7,85.0,62.5,100.0
+NIGERIA,University of Ibadan,1001+,1500,5,60,55,https://www.ui.edu.ng,1,1,1,1,1,1,1,0,1,1,7.4414,3.8993,874.0,Africa,25.0,25.0,33.3,25.0,12.5,28.6
+NORTH MACEDONIA,Ss. Cyril and Methodius University,1001+,3000,10,75,70,https://www.ukim.edu.mk,1,1,1,1,1,1,1,1,1,1,41.9981,21.4254,2001.0,Europe,25.0,12.5,33.3,25.0,16.7,42.9
+NORWAY,University of Bergen,67,10000,13,18,93,https://www.uib.no/en,1,1,1,1,1,1,1,1,1,1,60.3884,5.3322,253.0,Europe,75.0,37.5,88.9,90.0,79.2,100.0
+NORWAY,University of Oslo,74,9000,16,22,94,https://www.uio.no,1,1,1,1,1,1,1,1,1,1,59.9419,10.7211,127.0,Europe,75.0,50.0,88.9,95.0,83.3,100.0
+NORWAY,Norwegian University of Science and Technology,205,0,9,35,93,https://www.ntnu.edu,1,1,1,1,1,1,1,1,1,1,63.4167,10.4034,327.0,Europe,100.0,37.5,66.7,75.0,50.0,100.0
+OMAN,Sultan Qaboos University,1001+,4000,5,70,80,https://www.squ.edu.om,1,1,1,1,1,1,1,0,1,1,23.5976,58.1713,772.0,Asia,50.0,25.0,55.6,35.0,25.0,42.9
+PAKISTAN,Aga Khan University,1001+,5000,15,40,60,https://www.aku.edu,1,1,1,1,1,1,1,0,1,1,24.898,67.0759,2001.0,Asia,25.0,25.0,44.4,22.5,16.7,28.6
+PALESTINE,Birzeit University,1001+,3000,10,70,40,https://www.birzeit.edu,1,1,1,1,1,1,1,0,1,1,31.9586,35.1889,2001.0,Asia,25.0,12.5,33.3,25.0,12.5,42.9
+PANAMA,University of Panama,1001+,2000,5,75,60,https://www.up.ac.pa,1,1,1,1,1,1,1,1,1,0,8.9853,-79.5198,2001.0,Southern America,25.0,18.8,44.4,30.0,20.8,42.9
+PARAGUAY,National University of Asuncion,1001+,2000,10,80,60,https://www.una.py,1,1,1,1,1,1,0,1,1,1,-25.3531,-57.5738,2001.0,Southern America,25.0,12.5,33.3,25.0,12.5,28.6
+PERU,Pontifical Catholic University of Peru,800,7000,10,50,55,https://www.pucp.edu.pe,1,1,1,1,1,1,1,1,1,0,-12.0587,-77.0868,1392.0,Southern America,25.0,12.5,33.3,25.0,16.7,42.9
+PHILIPPINES,University of the Philippines,400,1500,10,30,60,https://www.up.edu.ph,1,1,1,1,1,1,1,1,1,1,14.6537,121.0643,1389.0,Asia,25.0,18.8,22.2,20.0,12.5,28.6
+POLAND,University of Warsaw,123,2000,10,45,78,https://www.uw.edu.pl,1,1,1,1,1,1,1,1,1,1,52.24,21.0209,791.0,Europe,60.0,25.0,44.4,45.0,33.3,71.4
+POLAND,Jagiellonian University,215,2500,13,35,88,https://en.uj.edu.pl,1,1,1,1,1,1,1,1,1,1,50.0614,19.9366,678.0,Europe,50.0,18.8,38.9,40.0,25.0,57.1
+PORTUGAL,University of Porto,78,1500,14,45,88,https://www.up.pt,1,1,1,1,1,1,1,1,1,1,41.1523,-8.6292,471.0,Europe,75.0,37.5,55.6,60.0,41.7,71.4
+PORTUGAL,University of Minho,211,2000,12,55,87,https://www.uminho.pt,1,1,1,1,1,1,1,1,1,1,41.5567,-8.3974,711.0,Europe,60.0,25.0,44.4,45.0,29.2,71.4
+PORTUGAL,University of Coimbra,299,2500,15,50,88,https://www.uc.pt,1,1,1,1,1,1,1,1,1,1,40.2074,-8.4265,420.0,Europe,75.0,25.0,44.4,45.0,33.3,57.1
+PORTUGAL,University of Lisbon,368,3000,10,65,88,https://www.ulisboa.pt,1,1,1,1,1,1,1,1,1,1,38.7527,-9.1576,452.0,Europe,75.0,18.8,50.0,50.0,33.3,71.4
+PORTUGAL,NOVA University of Lisbon,641,7000,20,85,85,https://www.unl.pt,1,1,1,1,1,1,1,1,1,1,38.7071,-9.1572,573.0,Europe,50.0,37.5,55.6,60.0,50.0,71.4
+PORTUGAL,University of Aveiro,650,2500,15,75,80,https://www.ua.pt,1,1,1,0,0,0,0,1,0,1,40.6309,-8.6572,615.0,Europe,30.0,37.5,44.4,35.0,25.0,42.9
+PUERTO RICO,University of Puerto Rico,1001+,4000,10,60,65,https://www.upr.edu,1,1,1,1,1,1,1,0,1,1,18.4037,-66.0485,1400.0,Southern America,50.0,18.8,55.6,40.0,33.3,57.1
+QATAR,Qatar University,276,13000,30,70,85,https://www.qu.edu.qa,1,1,1,1,1,1,1,1,1,1,25.3775,51.4901,281.0,Asia,75.0,50.0,88.9,75.0,75.0,85.7
+ROMANIA,University of Bucharest,500,6000,20,50,70,https://www.unibuc.ro,1,1,1,1,1,1,1,1,1,1,44.4346,26.0975,1026.0,Europe,25.0,25.0,33.3,30.0,20.8,42.9
+RUSSIA,Lomonosov Moscow State University,169,4000,15,12,70,https://www.msu.ru,1,1,1,1,1,1,1,1,1,1,55.7025,37.5309,95.0,Europe,50.0,25.0,38.9,40.0,25.0,57.1
+RUSSIA,Saint Petersburg State University,194,3000,12,45,75,https://english.spbu.ru,1,1,1,1,1,1,1,1,1,1,59.9391,30.3006,2001.0,Europe,50.0,18.8,27.8,40.0,25.0,57.1
+RUSSIA,Moscow Institute of Physics and Technology,645,4000,10,50,80,https://mipt.ru/english,1,1,1,0,1,0,0,1,0,1,55.9304,37.5189,226.0,Europe,30.0,25.0,44.4,30.0,20.8,42.9
+RUSSIA,Novosibirsk State University,228,3000,22,30,72,https://english.nsu.ru,1,1,1,0,1,0,0,1,0,1,54.8496,83.0934,733.0,Europe,35.0,18.8,16.7,20.0,15.0,28.6
+RUSSIA,Joint Institute for Nuclear Research,750,1500,15,40,60,https://www.jinr.ru,1,0,0,0,0,0,0,1,0,1,56.7435,37.2146,2001.0,Europe,25.0,31.2,22.2,35.0,29.2,57.1
+SAUDI ARABIA,King Saud University,158,7000,10,50,85,https://ksu.edu.sa,1,1,1,1,1,1,1,1,1,1,24.7006,46.682,449.0,Asia,75.0,37.5,44.4,50.0,33.3,71.4
+SAUDI ARABIA,King Fahd University of Petroleum and Minerals,193,3000,6,20,80,https://www.kfupm.edu.sa,1,1,1,0,1,0,0,1,0,1,26.3103,50.1381,218.0,Asia,60.0,25.0,55.6,45.0,33.3,71.4
+SAUDI ARABIA,King Abdulaziz University,143,10000,30,50,70,https://www.kau.edu.sa,1,1,1,1,1,1,1,1,1,1,21.501,39.2386,267.0,Asia,50.0,37.5,88.9,50.0,41.7,57.1
+UNITED KINGDOM,University of Edinburgh,27,23000,44,10,75,https://www.ed.ac.uk,1,1,1,1,1,1,1,1,1,1,55.9444,-3.187,30.0,Europe,75.0,50.0,83.3,70.0,66.7,85.7
+SERBIA,University of Belgrade,500,2000,10,60,70,https://www.bg.ac.rs,1,1,1,1,1,1,1,1,1,1,44.8186,20.4578,822.0,Europe,25.0,12.5,33.3,25.0,16.7,42.9
+SINGAPORE,Singapore Management University,200,18000,20,30,90,https://www.smu.edu.sg,1,1,1,1,0,1,0,1,1,0,1.2966,103.8502,2001.0,Asia,100.0,62.5,66.7,75.0,50.0,85.7
+SINGAPORE,National University of Singapore,11,15000,45,20,95,https://www.nus.edu.sg,1,1,1,1,1,1,1,1,1,1,1.2956,103.7764,19.0,Asia,100.0,50.0,111.1,100.0,75.0,85.7
+SLOVAKIA,Comenius University Bratislava,500,5000,15,50,75,https://www.uniba.sk,1,1,1,1,1,1,1,1,1,1,48.1522,17.0732,1036.0,Europe,25.0,25.0,33.3,30.0,20.8,42.9
+SLOVENIA,University of Ljubljana,545,3000,8,60,85,https://www.uni-lj.si,1,1,1,1,1,1,0,1,1,1,46.05,14.505,913.0,Europe,50.0,31.2,33.3,40.0,33.3,42.9
+SOUTH AFRICA,University of Cape Town,60,6000,18,30,65,https://www.uct.ac.za,1,1,1,1,1,1,1,1,1,1,-33.9576,18.4609,167.0,Africa,50.0,37.5,55.6,40.0,33.3,57.1
+SOUTH AFRICA,University of Pretoria,132,4000,15,45,60,https://www.up.ac.za,1,1,1,1,1,1,1,1,1,1,-25.7538,28.2314,575.0,Africa,50.0,31.2,44.4,35.0,25.0,42.9
+SOUTH AFRICA,Stellenbosch University,191,3000,12,50,55,https://www.sun.ac.za,1,1,1,1,1,1,1,1,1,1,-33.9359,18.8644,337.0,Africa,50.0,25.0,33.3,37.5,25.0,57.1
+SOUTH AFRICA,University of KwaZulu-Natal,207,3000,6,55,60,https://www.ukzn.ac.za,1,1,1,1,1,1,1,1,1,1,-29.8587,30.98,550.0,Africa,45.0,18.8,27.8,35.0,20.8,51.4
+SOUTH AFRICA,University of Johannesburg,700,2000,5,50,65,https://www.uj.ac.za,1,1,1,1,1,0,0,1,0,1,-26.1909,28.0254,443.0,Africa,35.0,31.2,44.4,30.0,25.0,42.9
+SOUTH KOREA,Seoul National University,44,5000,15,15,85,https://www.useoul.edu,1,1,1,1,1,1,1,1,1,1,37.4599,126.9523,62.0,Asia,75.0,62.5,55.6,60.0,50.0,71.4
+SOUTH KOREA,Korea University,149,10000,11,19,85,https://www.korea.ac.kr,1,1,1,1,1,1,1,1,1,1,37.5915,127.0166,219.0,Asia,75.0,50.0,55.6,60.0,41.7,71.4
+SOUTH KOREA,Kyung Hee University,284,8000,11,37,87,https://www.khu.ac.kr,1,1,1,1,1,1,1,1,1,1,37.3982,127.1082,269.0,Asia,75.0,25.0,55.6,50.0,33.3,71.4
+SOUTH KOREA,Hanyang University,285,8500,12,40,86,https://www.hanyang.ac.kr,1,1,1,1,1,1,1,1,1,1,37.5665,127.0457,317.0,Asia,75.0,25.0,55.6,50.0,33.3,71.4
+SOUTH KOREA,Ulsan National Institute of Science and Technology,603,3500,12,20,88,https://unist.ac.kr,1,1,0,0,1,0,0,1,0,1,35.538,129.264,201.0,Asia,50.0,37.5,44.4,40.0,33.3,57.1
+SOUTH KOREA,Ewha Womans University,650,4000,20,50,90,https://www.ewha.ac.kr,1,1,1,0,1,0,1,0,0,1,37.561,126.9469,652.0,Asia,35.0,37.5,44.4,50.0,33.3,71.4
+SPAIN,University of Barcelona,81,2900,16,55,88,https://www.ub.edu,1,1,1,1,1,1,1,1,1,1,41.3851,2.1734,152.0,Europe,75.0,50.0,66.7,75.0,58.3,85.7
+SPAIN,Autonomous University of Madrid,250,3000,10,45,75,https://www.uam.es,1,1,1,1,1,1,1,1,1,1,40.5463,-3.6961,353.0,Europe,50.0,31.2,44.4,45.0,33.3,57.1
+SPAIN,University of Valencia,286,3000,10,65,85,https://www.uv.es,1,1,1,1,1,1,1,1,1,1,39.485,-0.4943,599.0,Europe,75.0,31.2,66.7,60.0,41.7,71.4
+SPAIN,University of Zaragoza,317,1500,7,70,88,https://www.unizar.es,1,1,1,1,1,1,1,1,1,1,41.6488,-0.8891,999.0,Europe,75.0,25.0,44.4,45.0,29.2,71.4
+SPAIN,University of Santiago de Compostela,618,1800,5,60,82,https://www.usc.es,1,1,1,1,1,1,1,1,1,1,42.8763,-8.5544,763.0,Europe,50.0,31.2,38.9,45.0,33.3,71.4
+SPAIN,Polytechnic University of Valencia,644,2000,15,70,75,https://www.upv.es,1,1,1,0,1,0,0,1,1,1,39.4812,-0.3406,749.0,Europe,35.0,18.8,55.6,40.0,29.2,42.9
+SPAIN,Polytechnic University of Madrid,601,3500,7,35,85,https://www.upm.es,1,1,0,0,0,0,0,1,1,1,40.4409,-3.726,2001.0,Europe,50.0,25.0,50.0,50.0,41.7,71.4
+SPAIN,Rovira i Virgili University,801,2000,10,60,78,https://www.urv.cat,1,1,1,1,1,0,1,1,1,1,41.1167,1.2481,578.0,Europe,40.0,31.2,44.4,45.0,33.3,57.1
+SPAIN,University of Oviedo,706,1200,5,75,80,https://www.uniovi.es,1,1,1,1,1,1,1,1,1,1,43.3623,-5.8496,942.0,Europe,50.0,31.2,50.0,45.0,29.2,42.9
+SPAIN,University of La Laguna,850,1200,5,70,80,https://www.ull.es,1,1,1,1,1,0,0,1,0,0,28.4818,-16.3161,1099.0,Europe,35.0,31.2,44.4,40.0,29.2,57.1
+SRI LANKA,University of Colombo,1001+,1000,5,50,60,https://www.cmb.ac.lk,1,1,1,1,1,1,1,0,1,1,6.9008,79.8585,1035.0,Asia,25.0,12.5,22.2,20.0,12.5,28.6
+SWEDEN,Lund University,52,12000,20,34,90,https://www.lu.se,1,1,1,1,1,1,1,1,1,1,55.7047,13.191,107.0,Europe,75.0,37.5,77.8,70.0,58.3,85.7
+SWEDEN,University of Gothenburg,75,8000,19,40,90,https://www.gu.se,1,1,1,1,1,1,1,1,1,1,57.689,11.9746,213.0,Europe,75.0,43.8,77.8,80.0,66.7,85.7
+SWEDEN,Umea University,256,9000,11,60,92,https://www.umu.se,1,1,1,1,1,1,1,1,1,1,63.821,20.3053,493.0,Europe,75.0,37.5,55.6,60.0,41.7,71.4
+SWEDEN,Uppsala University,496,10000,12,75,92,https://www.uu.se,1,1,1,1,1,1,1,1,1,1,59.8586,17.6389,142.0,Europe,90.0,37.5,66.7,75.0,58.3,85.7
+SWITZERLAND,ETH Zurich,7,1500,38,27,85,https://ethz.ch/en.html,1,1,1,0,1,0,0,1,0,1,47.3769,8.5417,11.0,Europe,100.0,100.0,100.0,100.0,100.0,100.0
+SWITZERLAND,Ecole Polytechnique Federale de Lausanne,40,1200,48,27,90,https://www.epfl.ch,1,1,1,0,1,0,0,1,0,1,46.5191,6.5668,33.0,Europe,100.0,125.0,111.1,100.0,100.0,114.3
+SWITZERLAND,University of Zurich,55,1500,20,23,92,https://www.uzh.ch/en.html,1,1,1,1,1,1,1,1,1,1,47.3744,8.5481,80.0,Europe,100.0,100.0,111.1,100.0,100.0,114.3
+SWITZERLAND,University of Geneva,65,1000,35,21,91,https://www.unige.ch,1,1,1,1,1,1,1,1,1,1,46.1998,6.1443,183.0,Europe,100.0,100.0,100.0,110.0,108.3,114.3
+SWITZERLAND,University of Basel,85,1700,23,25,91,https://www.unibas.ch,1,1,1,1,1,1,1,1,1,1,47.5586,7.5834,123.0,Europe,125.0,87.5,100.0,115.0,100.0,114.3
+SWITZERLAND,University of Bern,102,1500,18,30,93,https://www.unibe.ch,1,1,1,1,1,1,1,1,1,1,46.9506,7.438,116.0,Europe,125.0,75.0,77.8,120.0,91.7,114.3
+SWITZERLAND,University of Lausanne,543,1200,38,41,92,https://www.unil.ch,1,1,1,1,1,1,1,1,1,1,46.5191,6.6332,143.0,Europe,100.0,62.5,88.9,90.0,66.7,114.3
+SWITZERLAND,University of St. Gallen,500,3500,25,40,95,https://www.unisg.ch,0,1,1,0,0,1,0,0,0,0,47.4231,9.3757,388.0,Europe,60.0,62.5,66.7,75.0,75.0,114.3
+SYRIA,Damascus University,1001+,500,5,60,40,https://www.damascusuniversity.edu.sy,1,1,1,1,1,1,1,1,1,1,33.5094,36.3064,2001.0,Asia,15.0,6.2,22.2,15.0,8.3,20.0
+TAIWAN,National Taiwan University,159,5000,11,30,85,https://www.ntu.edu.tw,1,1,1,1,1,1,1,1,1,1,25.0173,121.5398,153.0,Asia,75.0,37.5,55.6,50.0,33.3,71.4
+TAIWAN,"China Medical University, Taiwan",629,10000,5,45,78,https://english.cmu.edu.tw,0,0,0,0,1,0,1,0,0,0,24.1515,120.6838,307.0,Asia,35.0,25.0,44.4,40.0,25.0,57.1
+TAIWAN,Chang Gung University,700,3800,15,60,80,https://www.cgu.edu.tw,1,0,1,0,1,0,1,1,0,1,25.0574,121.5439,633.0,Asia,30.0,43.8,38.9,37.5,25.0,57.1
+TANZANIA,University of Dar es Salaam,1001+,2000,8,50,60,https://www.udsm.ac.tz,1,1,1,1,1,1,1,1,1,1,-6.7736,39.2083,1592.0,Africa,25.0,12.5,22.2,22.5,12.5,28.6
+THAILAND,Chulalongkorn University,172,2500,8,20,80,https://www.chula.ac.th,1,1,1,1,1,1,1,1,1,1,13.7386,100.5327,634.0,Asia,60.0,37.5,44.4,40.0,29.2,57.1
+THAILAND,Mahidol University,649,5000,7,70,85,https://www.mahidol.ac.th,1,1,1,1,1,1,1,1,1,1,13.7945,100.3233,702.0,Asia,25.0,25.0,22.2,30.0,20.8,28.6
+TUNISIA,University of Tunis El Manar,1001+,1000,3,45,60,http://www.utm.rnu.tn,1,1,1,1,1,1,1,0,1,1,36.8028,10.1794,986.0,Africa,25.0,10.0,22.2,25.0,16.7,28.6
+TURKEY,Koc University,148,17500,8,12,70,https://www.ku.edu.tr,1,1,1,1,1,1,1,1,1,1,41.2056,29.0374,378.0,Asia,50.0,37.5,44.4,40.0,25.0,42.9
+TURKEY,Hacettepe University,309,1500,4,40,65,https://www.hacettepe.edu.tr,1,1,1,1,1,0,1,1,1,1,39.8723,32.6484,661.0,Asia,50.0,12.5,33.3,30.0,20.8,42.9
+TURKEY,Bogazici University,1001+,2500,12,30,60,https://www.boun.edu.tr,1,1,1,1,1,1,1,1,1,1,41.0845,29.0512,2001.0,Asia,50.0,25.0,44.4,30.0,25.0,42.9
+UGANDA,Makerere University,1001+,1500,7,50,55,https://www.mak.ac.ug,1,1,1,1,1,1,1,1,1,1,0.3311,32.5764,916.0,Africa,15.0,7.5,22.2,20.0,8.3,22.9
+UKRAINE,Taras Shevchenko National University of Kyiv,1001+,2000,5,70,50,http://www.univ.kiev.ua,1,1,1,1,1,1,1,1,1,1,50.4438,30.5116,1450.0,Europe,40.0,12.5,22.2,25.0,20.8,42.9
+UNITED ARAB EMIRATES,Khalifa University,1001+,15000,40,25,85,https://www.ku.ac.ae,1,1,1,0,1,0,1,1,0,1,24.4214,54.4341,266.0,Asia,100.0,50.0,166.7,75.0,66.7,71.4
+UNITED KINGDOM,University of Cambridge,6,35000,41,21,82,https://www.cam.ac.uk/,1,1,1,1,1,1,1,1,1,1,52.2043,0.1166,5.0,Europe,65.0,62.5,77.8,70.0,66.7,71.4
+UNITED KINGDOM,Imperial College London,8,40000,60,14,77,https://www.imperial.ac.uk/,1,1,1,0,1,0,1,1,0,1,51.4988,-0.1749,8.0,Europe,75.0,75.0,111.1,80.0,83.3,85.7
+UNITED KINGDOM,UCL,10,38000,48,15,78,https://www.ucl.ac.uk/,1,1,1,1,1,1,1,1,1,1,51.5246,-0.134,22.0,Europe,70.0,75.0,100.0,75.0,75.0,80.0
+UNITED KINGDOM,London School of Economics and Political Science,22,24000,67,8,65,https://www.lse.ac.uk,0,1,1,1,0,1,0,1,0,0,51.5145,-0.1165,46.0,Europe,100.0,62.5,166.7,100.0,100.0,114.3
+UNITED KINGDOM,Kings College London,33,25000,45,13,70,https://www.kcl.ac.uk,1,1,1,1,1,1,1,1,1,1,51.5118,-0.1153,38.0,Europe,100.0,62.5,166.7,110.0,108.3,114.3
+UNITED KINGDOM,University of Manchester,38,22000,41,59,70,https://www.manchester.ac.uk,1,1,1,1,1,1,1,1,1,1,53.4668,-2.2339,51.0,Europe,75.0,50.0,83.3,70.0,66.7,85.7
+UNITED KINGDOM,University of Leeds,63,23000,27,46,83,https://www.leeds.ac.uk,1,1,1,1,1,1,1,1,1,1,53.8077,-1.5529,129.0,Europe,75.0,50.0,66.7,70.0,58.3,71.4
+UNITED KINGDOM,University of Liverpool,68,21000,27,48,80,https://www.liverpool.ac.uk,1,1,1,1,1,1,1,1,1,1,53.4066,-2.9665,171.0,Europe,75.0,50.0,66.7,65.0,50.0,71.4
+UNITED KINGDOM,University of St Andrews,93,25000,30,41,92,https://www.st-andrews.ac.uk,1,1,1,1,1,1,0,1,1,1,56.3398,-2.7967,196.0,Europe,100.0,62.5,66.7,90.0,75.0,100.0
+UNITED KINGDOM,University of Reading,112,18000,25,20,85,https://www.reading.ac.uk,1,1,1,1,1,1,1,1,1,1,51.4418,-0.9416,235.0,Europe,90.0,62.5,66.7,80.0,62.5,100.0
+UNITED KINGDOM,Newcastle University,144,20000,25,37,87,https://www.ncl.ac.uk,1,1,1,1,1,1,1,1,1,1,54.9783,-1.6174,172.0,Europe,75.0,50.0,66.7,70.0,50.0,71.4
+UNITED KINGDOM,University of Bath,280,19000,32,20,83,https://www.bath.ac.uk,1,1,1,1,1,1,0,1,1,1,51.381,-2.361,251.0,Europe,60.0,31.2,66.7,65.0,50.0,71.4
+UNITED KINGDOM,University of Hull,292,15000,14,79,82,https://www.hull.ac.uk,1,1,1,1,1,1,0,1,1,1,53.767,-0.327,438.0,Europe,75.0,37.5,66.7,65.0,41.7,71.4
+UNITED KINGDOM,University of East Anglia,305,18000,23,79,85,https://www.uea.ac.uk,1,1,1,1,1,1,0,1,1,1,52.6244,1.2903,258.0,Europe,75.0,37.5,55.6,70.0,50.0,85.7
+UNITED KINGDOM,University of Salford,315,14500,20,75,82,https://www.salford.ac.uk,1,1,1,1,1,1,0,1,1,1,53.48,-2.2961,962.0,Europe,75.0,37.5,55.6,65.0,41.7,85.7
+UNITED KINGDOM,University of Aberdeen,351,17500,25,78,85,https://www.abdn.ac.uk,1,1,1,1,1,1,1,1,1,1,57.1655,-2.0999,204.0,Europe,75.0,37.5,55.6,70.0,50.0,85.7
+UNITED KINGDOM,University of Leicester,397,18000,21,72,84,https://le.ac.uk,1,1,1,1,1,1,1,1,1,1,52.62,-1.1265,220.0,Europe,85.0,37.5,61.1,70.0,50.0,77.1
+UNITED KINGDOM,University of Surrey,468,19000,35,60,82,https://www.surrey.ac.uk,1,1,1,1,1,1,0,1,1,1,51.2426,-0.5905,294.0,Europe,80.0,37.5,61.1,80.0,54.2,85.7
+UNITED KINGDOM,University of Sussex,469,20000,36,58,83,https://www.sussex.ac.uk,1,1,1,1,1,1,0,1,1,1,50.867,-0.087,241.0,Europe,85.0,37.5,66.7,80.0,58.3,91.4
+UNITED KINGDOM,University of Strathclyde,616,20000,24,42,75,https://www.strath.ac.uk,1,1,1,1,1,1,0,1,1,1,55.8611,-4.2443,338.0,Europe,60.0,37.5,77.8,80.0,66.7,85.7
+UNITED KINGDOM,Swansea University,707,18400,22,82,78,https://www.swansea.ac.uk,1,1,1,1,1,1,0,1,1,1,51.6096,-3.9804,296.0,Europe,75.0,37.5,55.6,57.5,50.0,57.1
+UNITED KINGDOM,"Royal Holloway, University of London",400,12000,30,80,75,https://www.royalholloway.ac.uk,1,1,1,1,0,1,0,1,1,1,51.4249,-0.5616,332.0,Europe,60.0,37.5,111.1,75.0,66.7,71.4
+UNITED KINGDOM,Brunel University London,700,6500,30,50,85,https://www.brunel.ac.uk,1,1,1,1,0,1,0,1,0,1,51.5321,-0.4691,356.0,Europe,60.0,50.0,55.6,60.0,54.2,85.7
+UNITED KINGDOM,Loughborough University,600,7000,25,45,80,https://www.lboro.ac.uk,1,1,1,0,1,0,0,1,0,1,52.7653,-1.2264,274.0,Europe,60.0,62.5,66.7,55.0,50.0,71.4
+UNITED KINGDOM,"Institute of Cancer Research, University of London",600,9000,25,40,85,https://www.icr.ac.uk,0,0,0,0,1,0,1,0,0,0,51.2963,-0.2063,2001.0,Europe,75.0,75.0,66.7,65.0,58.3,85.7
+UNITED KINGDOM,University of Oxford,1,15000,40,18,80,https://www.ox.ac.uk,1,1,1,1,1,1,1,1,1,1,51.7548,-1.2544,1.0,Europe,75.0,31.2,111.1,60.0,50.0,71.4
+UNITED STATES,University of Miami,247,45000,13,33,60,https://www.miami.edu,1,1,1,1,1,1,1,1,1,1,25.7215,-80.2781,225.0,Northern America,75.0,62.5,55.6,60.0,58.3,71.4
+UNITED STATES,University of Delaware,257,30000,9,66,70,https://www.udel.edu,1,1,1,1,1,0,0,1,1,1,39.6824,-75.754,424.0,Northern America,75.0,62.5,55.6,60.0,50.0,71.4
+UNITED STATES,University of Kansas,258,28000,7,93,65,https://www.ku.edu,1,1,1,1,1,1,1,1,1,1,38.9544,-95.2558,377.0,Northern America,65.0,56.2,50.0,55.0,45.8,62.9
+UNITED STATES,University of Nebraska Lincoln,259,25000,8,78,72,https://www.unl.edu,1,1,1,1,1,0,0,1,1,1,40.8206,-96.7056,462.0,Northern America,50.0,50.0,55.6,55.0,41.7,57.1
+UNITED STATES,University of Oklahoma,260,24000,6,80,68,https://www.ou.edu,1,1,1,1,1,1,0,1,1,1,35.2058,-97.4457,2001.0,Northern America,50.0,50.0,50.0,50.0,37.5,57.1
+UNITED STATES,University of South Carolina,259,30000,9,68,70,https://sc.edu,1,1,1,1,1,1,0,1,1,1,33.9966,-81.0272,481.0,Northern America,75.0,62.5,55.6,60.0,50.0,71.4
+UNITED STATES,University of Tennessee,260,31000,7,79,65,https://www.utk.edu,1,1,1,1,1,0,0,1,1,1,35.9543,-83.9294,2001.0,Northern America,65.0,56.2,50.0,55.0,45.8,62.9
+UNITED STATES,University of Utah,261,29000,8,62,75,https://www.utah.edu,1,1,1,1,1,1,1,1,1,1,40.7645,-111.8422,247.0,Northern America,75.0,62.5,55.6,60.0,50.0,71.4
+UNITED STATES,University of Iowa,262,28000,7,83,68,https://uiowa.edu,1,1,1,1,1,1,1,1,1,1,41.6611,-91.5302,217.0,Northern America,65.0,56.2,50.0,55.0,45.8,62.9
+UNITED STATES,University of Oregon,263,32000,9,83,72,https://www.uoregon.edu,1,1,1,1,1,1,0,1,1,1,44.0521,-123.0867,465.0,Northern America,75.0,62.5,55.6,60.0,50.0,71.4
+UNITED STATES,University of New Mexico,267,27000,5,96,68,https://www.unm.edu,1,1,1,1,1,1,1,1,1,1,35.085,-106.605,2001.0,Northern America,60.0,50.0,44.4,50.0,41.7,57.1
+UNITED STATES,University of South Florida,386,22000,8,49,77,https://www.usf.edu,1,1,1,1,1,1,1,1,1,1,27.9478,-82.4572,132.0,Northern America,100.0,56.2,66.7,85.0,58.3,100.0
+UNITED STATES,University of Alabama at Birmingham,391,24000,5,81,75,https://www.uab.edu,1,1,1,1,1,1,1,1,1,1,33.5024,-86.8063,101.0,Northern America,90.0,50.0,55.6,75.0,54.2,85.7
+UNITED STATES,University of Arkansas,392,23000,4,77,76,https://www.uark.edu,1,1,1,1,1,1,0,1,1,1,36.0687,-94.1732,614.0,Northern America,80.0,47.5,61.1,70.0,50.0,80.0
+UNITED STATES,University of Georgia,394,28000,7,48,79,https://www.uga.edu,1,1,1,1,1,1,0,1,1,1,33.9519,-83.373,368.0,Northern America,90.0,56.2,66.7,80.0,54.2,85.7
+UNITED STATES,University of Houston,395,25000,8,63,74,https://www.uh.edu,1,1,1,1,1,1,0,1,1,1,29.7199,-95.3422,541.0,Northern America,85.0,50.0,61.1,80.0,54.2,91.4
+UNITED STATES,University of Louisville,398,25000,4,69,76,https://louisville.edu,1,1,1,1,1,1,1,1,1,1,38.2161,-85.7585,2001.0,Northern America,90.0,50.0,61.1,75.0,54.2,85.7
+UNITED STATES,University of Rochester,463,55000,27,30,72,https://www.rochester.edu,1,1,1,1,1,0,1,1,1,1,43.1573,-77.6158,133.0,Northern America,100.0,75.0,72.2,90.0,66.7,100.0
+UNITED STATES,University of Southern California,465,60000,23,13,65,https://www.usc.edu,1,1,1,1,1,1,1,1,1,1,34.0224,-118.2851,74.0,Northern America,125.0,75.0,77.8,110.0,100.0,100.0
+UNITED STATES,University of Texas at Austin,474,40000,10,32,72,https://www.utexas.edu,1,1,1,1,1,1,1,1,1,1,30.2849,-97.7341,52.0,Northern America,100.0,50.0,66.7,90.0,75.0,100.0
+UNITED STATES,University of Texas at Dallas,475,36000,18,79,75,https://www.utdallas.edu,1,1,1,1,1,0,0,1,1,1,32.9866,-96.7501,396.0,Northern America,90.0,50.0,61.1,80.0,62.5,91.4
+UNITED STATES,University of Texas Health Science Center,476,45000,5,20,70,https://www.uth.edu,0,0,0,1,1,0,1,0,0,0,29.7108,-95.4013,2001.0,Northern America,110.0,62.5,72.2,95.0,79.2,105.7
+UNITED STATES,University of Texas Medical Branch,477,42000,4,21,73,https://www.utmb.edu,0,0,0,1,1,0,1,0,0,0,29.3104,-94.7703,2001.0,Northern America,95.0,62.5,66.7,90.0,73.3,100.0
+UNITED STATES,University of Texas Southwestern Medical Center,478,43000,3,15,74,https://www.utsouthwestern.edu,0,0,0,1,1,0,1,0,0,0,32.8176,-96.8451,2001.0,Northern America,115.0,62.5,72.2,100.0,83.3,108.6
+UNITED STATES,University of Virginia,485,42000,11,24,78,https://www.virginia.edu,1,1,1,1,1,1,0,1,1,1,38.0336,-78.508,166.0,Northern America,105.0,56.2,77.8,95.0,75.0,105.7
+UNITED STATES,University of Wisconsin Madison,490,39000,14,57,80,https://www.wisc.edu,1,1,1,1,1,1,1,1,1,1,43.0766,-89.4125,63.0,Northern America,100.0,56.2,72.2,90.0,70.8,102.9
+UNITED STATES,Vanderbilt University,498,53000,10,11,75,https://www.vanderbilt.edu,1,1,1,1,1,1,1,1,1,1,36.1447,-86.8027,93.0,Northern America,125.0,62.5,88.9,110.0,100.0,114.3
+UNITED STATES,Virginia Commonwealth University,500,36000,9,87,72,https://www.vcu.edu,1,1,1,1,1,1,1,1,1,1,37.5483,-77.452,499.0,Northern America,95.0,56.2,72.2,90.0,75.0,100.0
+UNITED STATES,University of Connecticut,535,32000,9,56,72,https://www.uconn.edu,1,1,1,1,1,1,0,1,1,1,41.8084,-72.2495,362.0,Northern America,75.0,62.5,77.8,65.0,58.3,85.7
+UNITED STATES,University of Kentucky,542,10000,6,96,76,https://www.uky.edu,1,1,1,1,1,1,0,1,1,1,38.0317,-84.5037,448.0,Northern America,45.0,43.8,66.7,55.0,41.7,71.4
+UNITED STATES,University of Nebraska Medical Center,549,32000,7,40,72,https://www.unmc.edu,0,0,0,1,1,0,1,0,0,0,41.2568,-95.9775,569.0,Northern America,75.0,75.0,77.8,75.0,50.0,71.4
+UNITED STATES,"University of Nevada, Reno",550,22000,5,88,70,https://www.unr.edu,1,1,1,1,1,0,0,1,1,1,39.5443,-119.8164,2001.0,Northern America,60.0,62.5,66.7,70.0,45.8,71.4
+UNITED STATES,University of New Hampshire,551,34000,4,85,75,https://www.unh.edu,1,1,1,1,1,0,0,1,1,1,43.1332,-70.9324,2001.0,Northern America,75.0,75.0,77.8,80.0,54.2,85.7
+UNITED STATES,University of Notre Dame,552,50000,11,19,80,https://www.nd.edu,1,1,1,1,1,0,0,1,1,1,41.7056,-86.2353,199.0,Northern America,100.0,87.5,88.9,100.0,66.7,100.0
+UNITED STATES,University of Oklahoma Health Sciences Center,553,30000,5,65,73,https://www.ouhsc.edu,0,0,0,1,1,0,1,0,0,0,35.4772,-97.5087,2001.0,Northern America,50.0,62.5,66.7,65.0,45.8,71.4
+UNITED STATES,University of Texas at Arlington,560,27000,12,78,72,https://www.uta.edu,1,1,1,1,1,0,0,1,1,1,32.731,-97.1148,778.0,Northern America,75.0,75.0,88.9,80.0,58.3,71.4
+UNITED STATES,University of Vermont,570,37000,5,67,83,https://www.uvm.edu,1,1,1,1,1,0,1,1,1,1,44.4766,-73.1952,2001.0,Northern America,60.0,56.2,77.8,85.0,66.7,85.7
+UNITED STATES,Wake Forest University,589,55000,8,29,78,https://www.wfu.edu,1,1,1,1,1,0,0,1,1,1,36.1352,-80.2781,501.0,Northern America,75.0,62.5,77.8,85.0,70.8,91.4
+UNITED STATES,Washington State University,590,26000,7,76,80,https://wsu.edu,1,1,1,1,1,0,0,1,1,1,46.731,-117.1542,347.0,Northern America,60.0,56.2,66.7,75.0,58.3,80.0
+UNITED STATES,Washington University in St. Louis,591,58000,15,16,75,https://wustl.edu,1,1,1,1,1,1,1,1,1,1,38.6488,-90.3108,68.0,Northern America,75.0,62.5,77.8,90.0,75.0,100.0
+UNITED STATES,Wayne State University,592,30000,5,73,72,https://wayne.edu,1,1,1,1,1,1,1,1,1,1,42.3589,-83.0707,600.0,Northern America,60.0,56.2,72.2,80.0,62.5,82.9
+UNITED STATES,West Virginia University,593,22000,5,83,72,https://www.wvu.edu,1,1,1,1,1,0,1,1,1,1,39.635,-79.9542,2001.0,Northern America,75.0,50.0,66.7,55.0,41.7,71.4
+UNITED STATES,William & Mary,595,23000,6,38,80,https://www.wm.edu,1,1,1,1,1,1,0,1,1,1,37.2707,-76.7173,794.0,Northern America,85.0,50.0,72.2,65.0,50.0,80.0
+UNITED STATES,Worcester Polytechnic Institute,596,46000,8,59,77,https://www.wpi.edu,1,1,0,0,1,0,0,1,0,1,42.2749,-71.8063,796.0,Northern America,90.0,62.5,77.8,75.0,58.3,85.7
+UNITED STATES,Wright State University,597,19000,5,96,75,https://www.wright.edu,1,1,1,1,1,0,1,1,1,1,39.7798,-84.0601,2001.0,Northern America,70.0,43.8,61.1,50.0,37.5,71.4
+UNITED STATES,Yale University,600,55000,21,6,86,https://www.yale.edu,1,1,1,1,1,1,1,1,1,1,41.3163,-72.9223,10.0,Northern America,125.0,75.0,88.9,100.0,75.0,114.3
+UNITED STATES,Thomas Jefferson University,604,35000,8,58,65,https://www.jefferson.edu,0,1,0,1,1,0,1,0,1,0,39.95,-75.1573,2001.0,Northern America,100.0,100.0,77.8,90.0,66.7,85.7
+UNITED STATES,Tulane University,607,50000,10,13,60,https://tulane.edu,1,1,1,1,1,1,1,1,1,1,29.939,-90.12,491.0,Northern America,125.0,112.5,111.1,100.0,75.0,100.0
+UNITED STATES,University of Central Florida,602,22500,4,45,60,https://www.ucf.edu,1,1,1,1,1,0,1,1,1,1,28.6024,-81.2001,415.0,Northern America,75.0,100.0,77.8,80.0,83.3,85.7
+UNITED STATES,University of Texas Health Science Center at San Antonio,604,22000,3,15,60,https://www.uthscsa.edu,0,0,0,0,1,0,1,0,0,0,29.506,-98.5755,2001.0,Northern America,75.0,150.0,66.7,70.0,75.0,85.7
+UNITED STATES,University of Alabama - Tuscaloosa,610,31000,4,80,60,https://www.ua.edu,1,1,1,1,1,1,0,1,1,1,33.2125,-87.5458,2001.0,Northern America,75.0,75.0,77.8,80.0,75.0,100.0
+UNITED STATES,Syracuse University,612,46000,19,69,60,https://www.syr.edu,1,1,1,1,1,1,0,1,1,1,43.0379,-76.1318,485.0,Northern America,75.0,75.0,77.8,95.0,91.7,100.0
+UNITED STATES,Rush University,615,45000,6,37,58,https://www.rush.edu,0,0,0,1,1,0,1,0,0,0,41.8745,-87.6696,579.0,Northern America,100.0,100.0,111.1,110.0,108.3,114.3
+UNITED STATES,Lehigh University,619,50000,9,32,72,https://www.lehigh.edu,1,1,1,1,1,0,0,1,1,1,40.6078,-75.3805,696.0,Northern America,75.0,87.5,111.1,105.0,100.0,114.3
+UNITED STATES,Florida International University,620,18500,8,58,64,https://www.fiu.edu,1,1,1,1,1,1,1,1,1,1,25.7574,-80.3742,428.0,Northern America,75.0,75.0,111.1,100.0,100.0,114.3
+UNITED STATES,Kansas State University,625,24000,5,94,70,https://www.k-state.edu,1,1,1,1,1,0,0,1,1,1,39.1922,-96.5827,687.0,Northern America,50.0,75.0,77.8,75.0,66.7,100.0
+UNITED STATES,University of Tennessee Health Science Center,627,34000,3,40,68,https://www.uthsc.edu,0,0,0,0,1,0,1,0,0,0,35.1391,-90.0304,2001.0,Northern America,50.0,87.5,88.9,80.0,66.7,114.3
+UNITED STATES,University of Hawaii at Manoa,633,34000,7,83,75,https://manoa.hawaii.edu,1,1,1,1,1,1,1,1,1,1,21.2971,-157.8174,214.0,Northern America,75.0,150.0,111.1,100.0,91.7,114.3
+UNITED STATES,Baylor University,640,40000,5,68,80,https://www.baylor.edu,1,1,1,1,1,1,1,1,1,1,31.5493,-97.1147,620.0,Northern America,50.0,125.0,55.6,60.0,50.0,71.4
+UNITED STATES,Boston College,647,45000,9,27,85,https://www.bc.edu,1,1,1,1,1,1,1,1,1,1,42.3356,-71.1685,254.0,Northern America,50.0,150.0,88.9,75.0,66.7,85.7
+UNITED STATES,University of Colorado Denver,657,30000,15,70,85,https://www.ucdenver.edu,1,1,1,1,1,1,1,1,1,1,39.7468,-104.9915,530.0,Northern America,50.0,125.0,77.8,75.0,62.5,85.7
+UNITED STATES,Georgia State University,667,27000,10,70,75,https://www.gsu.edu,1,1,1,1,1,1,1,1,1,1,33.7531,-84.3863,432.0,Northern America,50.0,125.0,88.9,70.0,66.7,85.7
+UNITED STATES,Auburn University,721,29000,7,85,72,https://www.auburn.edu,1,1,1,1,1,0,0,1,1,1,32.601,-85.4828,512.0,Northern America,75.0,50.0,66.7,90.0,70.8,85.7
+UNITED STATES,Mayo Clinic College of Medicine and Science,150,54600,5,2,70,https://college.mayo.edu,0,0,0,0,1,0,1,0,0,0,44.0217,-92.4666,2001.0,Northern America,150.0,250.0,111.1,100.0,83.3,114.3
+UNITED STATES,Antioch College,703,31150,3,80,65,https://antiochcollege.edu,0,1,1,1,1,0,0,1,1,0,39.8033,-83.8908,2001.0,Northern America,75.0,62.5,66.7,68.2,50.0,71.4
+UNITED STATES,Oklahoma State University,704,20950,6,67,70,https://go.okstate.edu,1,1,1,1,1,0,0,1,1,1,36.1225,-97.068,735.0,Northern America,75.0,50.0,66.7,63.8,41.7,57.1
+UNITED STATES,University of Arkansas - Fayetteville,705,18000,4,77,68,https://www.uark.edu,1,1,1,1,1,0,0,1,1,1,36.0687,-94.176,2001.0,Northern America,60.0,43.8,61.1,59.2,40.0,51.4
+UNITED STATES,Clemson University,711,19500,5,61,70,https://www.clemson.edu,1,1,1,1,1,0,0,1,1,1,34.6767,-82.8369,2001.0,Northern America,75.0,50.0,66.7,67.5,45.8,57.1
+UNITED STATES,Colorado School of Mines,712,37000,8,53,75,https://www.mines.edu,1,0,1,0,0,0,0,1,0,1,39.7518,-105.2226,2001.0,Northern America,100.0,56.2,77.8,75.0,58.3,71.4
+UNITED STATES,San Diego State University,300,8000,25,35,75,https://www.sdsu.edu,1,1,1,1,1,0,1,1,0,1,32.7756,-117.0713,963.0,Northern America,75.0,75.0,77.8,60.0,50.0,85.7
+UNITED STATES,Massachusetts Institute of Technology,1,50000,35,6,75,https://www.mit.edu,1,1,1,1,1,1,1,1,1,1,42.3601,-71.0942,3.0,Northern America,100.0,150.0,111.1,90.0,66.7,114.3
+UNITED STATES,Stanford University,2,53000,23,4,75,https://www.stanford.edu/,1,1,1,1,1,1,1,1,1,1,37.4275,-122.1697,2.0,Northern America,90.0,150.0,111.1,90.0,100.0,100.0
+UNITED STATES,California Institute of Technology,4,50000,33,6,68,https://www.caltech.edu/,1,0,1,0,1,0,0,1,0,1,34.1377,-118.1253,7.0,Northern America,85.0,143.8,94.4,85.0,91.7,91.4
+UNITED STATES,University of Chicago,9,55000,21,6,65,https://www.uchicago.edu/,1,1,1,1,1,1,0,1,1,1,41.7897,-87.5997,13.0,Northern America,85.0,150.0,94.4,85.0,83.3,85.7
+UNITED STATES,University of Michigan - Ann Arbor,21,47500,15,20,70,https://umich.edu,1,1,1,1,1,1,1,1,1,1,42.278,-83.7382,23.0,Northern America,75.0,150.0,66.7,75.0,66.7,85.7
+UNITED STATES,Johns Hopkins University,25,58000,21,11,65,https://www.jhu.edu,1,1,1,1,1,1,1,1,1,1,39.3289,-76.6205,15.0,Northern America,100.0,162.5,77.8,85.0,75.0,100.0
+UNITED STATES,University of Washington,26,38000,17,45,75,https://www.washington.edu,1,1,1,1,1,1,1,1,1,1,47.6553,-122.3035,25.0,Northern America,75.0,112.5,94.4,80.0,75.0,85.7
+UNITED STATES,"University of California, San Diego",28,44000,22,34,80,https://ucsd.edu,1,1,1,1,1,0,1,1,1,1,32.8801,-117.234,34.0,Northern America,75.0,100.0,88.9,90.0,83.3,100.0
+UNITED STATES,"University of California, Davis",35,44000,18,39,80,https://www.ucdavis.edu,1,1,1,1,1,0,1,1,1,1,38.5382,-121.7617,59.0,Northern America,75.0,112.5,94.4,90.0,83.3,100.0
+UNITED STATES,University of Illinois Urbana-Champaign,42,35000,23,63,80,https://illinois.edu,1,1,1,1,1,1,0,1,1,1,40.102,-88.2272,42.0,Northern America,75.0,125.0,88.9,75.0,66.7,100.0
+UNITED STATES,Illinois Institute of Technology,450,35000,25,60,70,https://www.iit.edu,1,1,0,0,0,0,0,1,0,1,41.8349,-87.627,373.0,Northern America,50.0,312.5,111.1,60.0,66.7,57.1
+URUGUAY,University of the Republic,1001+,800,2,70,75,https://www.udelar.edu.uy,1,1,1,1,1,1,1,1,1,1,-34.9033,-56.1882,2001.0,Southern America,50.0,12.5,33.3,30.0,25.0,42.9
+UZBEKISTAN,National University of Uzbekistan,1001+,1500,3,70,60,https://nuu.uz,1,1,1,1,1,1,1,1,1,1,41.3261,69.2814,2001.0,Asia,20.0,6.2,22.2,20.0,8.3,22.9
+VENEZUELA,Central University of Venezuela,1001+,1000,3,60,40,https://www.ucv.ve,1,1,1,1,1,1,1,1,1,1,10.4905,-66.8916,2001.0,Southern America,20.0,8.8,16.7,15.0,12.5,22.9
+VIETNAM,"Vietnam National University, Hanoi",1001+,2000,10,70,65,https://www.vnu.edu.vn,1,1,1,1,1,1,1,1,1,1,21.0333,105.8019,1479.0,Asia,25.0,7.5,22.2,20.0,12.5,28.6
+YEMEN,Sana'a University,1001+,800,2,70,30,https://su.edu.ye/en/,1,1,1,1,1,1,1,1,1,1,15.3694,44.191,2001.0,Asia,10.0,6.2,16.7,15.0,8.3,14.3
+ZAMBIA,University of Zambia,1001+,1500,5,75,55,https://www.unza.zm,1,1,1,1,1,1,1,1,1,1,-15.3946,28.31,1505.0,Africa,25.0,12.5,33.3,25.0,16.7,28.6
+ZIMBABWE,University of Zimbabwe,1001+,800,4,50,45,https://www.uz.ac.zw,1,1,1,1,1,1,1,1,1,1,-17.7944,31.0534,1509.0,Africa,15.0,10.0,27.8,20.0,12.5,28.6
