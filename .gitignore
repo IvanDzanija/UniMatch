@@ -5,6 +5,7 @@ wheels/
 *.egg-info
 .venv
 .DS_Store
+.python-version
 .env
 .idea/
 .ropeproject/
