@@ -18,7 +18,7 @@ from rest_framework.permissions import IsAuthenticated
 from rest_framework.views import APIView
 from rest_framework.response import Response
 
-
+from authentication.serializers import UserSerializer,SavedUniversitySerializer
 
 
 User = get_user_model()
@@ -54,7 +54,7 @@ def register(request):
 def login(request):
     if request.method == "POST":
         try:
-            # Parse the JSON data from the request
+           
             data = json.loads(request.body)
             username = data.get("username")
             password = data.get("password")
@@ -68,10 +68,10 @@ def login(request):
                 return JsonResponse({'status': 'error', 'message': 'Invalid credentials (user not found)'}, status=401)
             print(f"Entered password: {password}")
             print(f"Stored password hash: {user.password}") 
-            # Debugging: Output user details to check if we're getting the correct user
+           
             print(f"User found: {user.username}, Password stored: {user.password}")
 
-            # Authenticate the user using the provided username and password
+            
             user = AuthenticationBackend().authenticate(request=request,username=username, password=password)
             print(user)
             # Check if user is authenticated
@@ -79,12 +79,19 @@ def login(request):
                 # Generate JWT tokens
                 refresh = RefreshToken.for_user(user)
                 access_token = str(refresh.access_token)
-
-                # Return the JWT tokens in the response
+                lista = []
+                for uni in user.universities_saved.all():
+                    uni = SavedUniversitySerializer(uni)
+                    lista.append(uni.data)
+                
+                user = UserSerializer(user)
+                user.universities_saved = lista
+                
+                
                 return JsonResponse({
                     'status': 'success',
                     'message': 'Login successful',
-                    'user': user.username,
+                    'user': user.data,
                     'jwt': access_token,
                     'refresh_token': str(refresh)
                 }, status=200)

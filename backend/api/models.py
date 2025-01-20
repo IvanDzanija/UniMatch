@@ -63,6 +63,7 @@ class savedUniversities(models.Model):
    major = models.CharField(max_length=100,null=True)
    website = models.CharField(max_length=200,null=True)
    choiceNo = models.IntegerField(default=0)
+   lng = models.FloatField(default=0)
+   lat = models.FloatField(default=0)
 
-  
     

@@ -12,6 +12,7 @@ from rest_framework.permissions import IsAuthenticated
 from .models import savedUniversities
 from authentication.models import User
 
+from authentication.serializers import UserSerializer,SavedUniversitySerializer
 
 def load_data():
     dataset_path = os.path.abspath(
@@ -203,11 +204,18 @@ def addUni(request):
         website = body.get("website")
         choiceNo = body.get("choiceNo")
         user2 = User.objects.get(username=user.username)
-
-        savedUni = savedUniversities(name=name,country=country,rank=rank,acc=acc,estimatedCost=estimatedCost,major=major,website=website,choiceNo=choiceNo)
-        savedUni.save()
-        user2.universities_saved.add(savedUni)
-        for uni in user2.universities_saved:
+        zastava = False
+        for uni in user2.universities_saved.all():
+            if(uni.name==name):
+                zastava = True
+        #uni = savedUniversities.objects.get(name=name)
+        if zastava is False:
+            savedUni = savedUniversities(name=name,country=country,rank=rank,acc=acc,estimatedCost=estimatedCost,major=major,website=website,choiceNo=choiceNo)
+       
+            savedUni.save()
+            user2.universities_saved.add(savedUni) 
+        
+        for uni in user2.universities_saved.all():
             print(uni.name)
         uni = savedUniversities.objects.get(name=name)
         print(uni.acc)
@@ -218,5 +226,21 @@ def addUni(request):
             return JsonResponse({'status': 'error', 'message': 'Invalid JSON'}, status=400)
 
   
+
+@csrf_exempt
+@api_view(['GET'])
+@permission_classes([IsAuthenticated])
+def getUniversitiesSaved(request):
+    user = request.user
+
+    user2 = User.objects.get(id=user.id)
+    unis = user2.universities_saved.all()
+
+    lista = []
+    for uni in unis:
+        uni2 = SavedUniversitySerializer(uni)
+        lista.append(uni2.data)
+    
+    return JsonResponse({'status': 'success', 'data': lista}, status=200)
 
 
