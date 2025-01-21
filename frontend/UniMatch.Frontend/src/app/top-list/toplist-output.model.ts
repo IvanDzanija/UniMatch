@@ -9,5 +9,6 @@ export type University = {
     website: string;
     choiceNo: number;
     lat: number,
-    lng:number
+    lng:number;
+    id:number;
 }

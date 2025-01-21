@@ -61,7 +61,7 @@ export class AuthService {
   }
   remove(university: SavedUniversity, authToken:string) : Observable<User|null> {
     const headers = new HttpHeaders().set('Authorization', `Bearer ${authToken}`);
-    return this.http.post<User>('http://localhost:8000/api/remove/', {university}, {headers} ).pipe(
+    return this.http.post<User>('http://localhost:8000/api/removeUni/', {university}, {headers} ).pipe(
       tap( user => {
         this.user.next(user);
       }),

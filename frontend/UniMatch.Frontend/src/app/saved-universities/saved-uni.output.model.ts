@@ -8,4 +8,5 @@ export type SavedUniversity = {
     estimatedCost: number,
     lat: number,
     lng: number;
+    id:number;
 }

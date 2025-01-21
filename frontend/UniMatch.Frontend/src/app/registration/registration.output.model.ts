@@ -12,5 +12,5 @@ export interface User {
     username: string;
     email: string;
     //password: string;
-    savedUniversities: SavedUniversity[];
+    universities_saved: SavedUniversity[];
 }

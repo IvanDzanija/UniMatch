@@ -54,13 +54,13 @@ export class SavedUniversitiesService {
   http = inject(HttpClient);
   authService = inject(AuthService);
 
- /* remove(x: number) {
+ remove(x: number) {
     this.savedUniversities.update((savedUniversities) => {
       return savedUniversities.filter((university) => university.rank != x)
     });
     console.log(this.savedUniversities());
   }
-*/
+
   removeFromDb(x: SavedUniversity) {
     const jwt= localStorage.getItem('jwt');
     if(jwt)this.authService.remove(x, jwt).subscribe((res) => {
@@ -71,12 +71,12 @@ export class SavedUniversitiesService {
       }
     } );
   }
-/*
-  add(x: University) {
+
+  add(x: SavedUniversity) {
     this.savedUniversities.update((savedUniversities) => { return [...savedUniversities, x] });
     console.log(this.savedUniversities());
   }
-*/
+
   addToDb(x: SavedUniversity) {
     const jwt= localStorage.getItem('jwt');
     if(jwt)this.authService.add(x, jwt).subscribe((res) => {

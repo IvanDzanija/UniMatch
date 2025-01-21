@@ -160,7 +160,7 @@ options: google.maps.MapOptions = {
     this.universities = navigation?.extras?.state?.['unis'];
     console.log(this.universities)*/
     this.universities = this.dataService.getUniversities();    //dohvaća se search iz forme
-    if(!this.universities) {                                   //ako ga nema(npr. zbog refresh-a) provjerava se lokalno spremište
+    if(!this.universities|| this.universities.length === 0) {                                   //ako ga nema(npr. zbog refresh-a) provjerava se lokalno spremište
       const savedSearch = localStorage.getItem('search');       
       if(savedSearch) {
         try{
@@ -177,9 +177,7 @@ options: google.maps.MapOptions = {
         return;
       }
     }
-    else {
       localStorage.setItem('search', JSON.stringify(this.universities));//JSON od array-a se stavlja u lokalnu memoriju samo ako se obavlja novi search
-    }
     console.log("Universities: ", this.universities)
     this.topList.set(this.universities)
     console.log("Initial topList: ", this.topList());
