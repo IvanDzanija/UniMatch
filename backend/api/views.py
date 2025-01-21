@@ -84,7 +84,7 @@ def forma(request):
                 'RecreationCost': (data["info"].get('recreationMin'), data["info"].get('recreationMax')),
                 'HealthcareCost': (data["info"].get('healthcareBudgetMin'), data["info"].get('healthcareBudgetMax')),
                 'TransportCost': (data["info"].get('transportMin'), data["info"].get('transportMax')),
-                'Region': data["info"].get('continent'),
+                'region': data["info"].get('continent'),
                 'Major': data["info"].get('major')
             }
 
