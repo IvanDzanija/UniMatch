@@ -59,7 +59,7 @@ def forma(request):
                 'medium-high-safety': 3,
                 'high-safety': 4
             }
-
+            print(universities.columns)
             universities['safetyCategoryNum'] = universities['SafetyCategory'].map({
                'low-safety': 0,
                'medium-low-safety': 1,
