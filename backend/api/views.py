@@ -225,8 +225,8 @@ def addUni(request):
             print(uni.name)
         uni = savedUniversities.objects.get(name=name)
         print(uni.acc)
-        
-        return JsonResponse({'status': 'success', 'data':user2 }, status=201)
+        user2 = UserSerializer(user2)
+        return JsonResponse({'status': 'success', 'data':user2.data }, status=201)
 
        except json.JSONDecodeError:
             return JsonResponse({'status': 'error', 'message': 'Invalid JSON'}, status=400)
@@ -275,7 +275,8 @@ def removeUni(request):
 
     user2.universities_saved.set(lista2)
     user2.save()
-    return JsonResponse({'status': 'success', 'data': user2}, status=200)
+    user2 = UserSerializer(user2)
+    return JsonResponse({'status': 'success', 'data': user2.data}, status=200)
 
 @csrf_exempt
 @api_view(['GET'])
