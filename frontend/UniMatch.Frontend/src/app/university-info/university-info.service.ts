@@ -11,6 +11,6 @@ export class UniversityInfoService {
   http = inject(HttpClient)
 
   showInfo(rank: number) {
-    return this.http.get<UniversityInfo>(`/api/university/${rank}`);
+    return this.http.get<UniversityInfo>(`http://localhost:8000/api/university/${rank}`);
   }
 }

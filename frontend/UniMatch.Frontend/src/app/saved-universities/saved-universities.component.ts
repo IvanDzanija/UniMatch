@@ -7,6 +7,9 @@ import { HeaderComponent } from "../header/header.component";
 import { UniversityInfoComponent } from '../university-info/university-info.component';
 import { MatDialog } from '@angular/material/dialog';
 import { GoogleMapsModule } from '@angular/google-maps';
+import { map, Observable, tap } from 'rxjs';
+import { AuthService } from '../auth.service';
+import { User } from '../registration/registration.output.model';
 
 @Component({
     selector: 'app-saved-universities',
@@ -21,6 +24,7 @@ import { GoogleMapsModule } from '@angular/google-maps';
     <p class="subtext">These are the institutions that caught your eye in case you want to dive deeper into your options!</p>
   </div>
   <div class= "map-container">
+  <!--
   <google-map height="30vw" width="80vw" [options]="options">
     @for (location of markers; track location) {
       <map-advanced-marker #markerElem="mapAdvancedMarker" [position] = "{lat: location.lat, lng: location.lng}" (mapClick)="zoomClick({lat: location.lat, lng: location.lng})">
@@ -28,7 +32,18 @@ import { GoogleMapsModule } from '@angular/google-maps';
     }
 
   </google-map>
-  </div>
+-->
+  <<google-map height="30vw" width="80vw" [options]="options">
+  <ng-container *ngIf="markers.length > 0">
+    <ng-container *ngFor="let location of markers; trackBy: trackByLatLng">
+      <map-advanced-marker 
+        #markerElem="mapAdvancedMarker" 
+        [position]="location" 
+        (mapClick)="zoomClick(location)">
+      </map-advanced-marker>
+    </ng-container>
+  </ng-container>
+</google-map>
     
   <div class="saved-container">
     <div class="icons">
@@ -40,13 +55,19 @@ import { GoogleMapsModule } from '@angular/google-maps';
     </div>
     
    
-    
+    <ng-container *ngIf="savedUniversities.length > 0">
+  <div *ngFor="let savedUni of savedUniversities; trackBy: trackBySavedUni">
+    <app-saved-uni-card [savedUni]="savedUni"></app-saved-uni-card>
+  </div>
+</ng-container>
+    <!--
     @for (savedUni of savedSignal(); track savedUni) {
     <div>
       <app-saved-uni-card [savedUni]="savedUni"></app-saved-uni-card>
     </div>
     }
   </div>
+   -->
   `,
     styles: `
   * {
@@ -89,46 +110,53 @@ import { GoogleMapsModule } from '@angular/google-maps';
 })
 export class SavedUniversitiesComponent {
 
-  service = inject(SavedUniversitiesService);
+  savedUniversities: SavedUniversity[] = [];
+  markers: google.maps.LatLngLiteral[] = [];
+  user$: Observable<User | null>;
 
-  //savedSignal = signal<SavedUniversity[]>([]); // get saved from db
-  savedSignal = this.service.savedUniversities;
-  
-  
+  constructor(private authService: AuthService) {
+    this.user$ = this.authService.user$;
+  }
+
+  ngOnInit(): void {
+    // Subscribe to savedUniversities$ and markers$
+    this.authService.user$.subscribe(user => {
+      if (user) {
+        // Assign saved universities and markers directly
+        console.log(user);
+        console.log("universities saved", user.universities_saved[0]);
+        this.savedUniversities = user.universities_saved ?? [];
+        this.markers = this.savedUniversities.map(university => ({
+          lat: university.lat,
+          lng: university.lng
+        }));
+        console.log('Saved Universities:', this.savedUniversities);
+        console.log('Markers:', this.markers);
+      }
+    });
+  }
+
   zoomClick(position: google.maps.LatLngLiteral): void {
     this.options = {
       ...this.options,
-      center: position,  
-      zoom: 10           // mapa se zoomira s 2.3 na 10
+      center: position,
+      zoom: 10  // Zoom level for the map
     };
-  
   }
 
-  updateMarkers() : void {
-    this.markers= [];
-    for(var university of this.savedSignal()) {                     
-      this.markers.push({lat: university.lat, lng: university.lng});     //punimo marker s pozicijama sveučilišta
-    }
-  }
-  
-  mapCenter: google.maps.LatLngLiteral = {lat:10, lng:0};
+  mapCenter: google.maps.LatLngLiteral = { lat: 10, lng: 0 };
   mapZoom: number = 2.3;
-  markers: google.maps.LatLngLiteral[] = [];
-  
   options: google.maps.MapOptions = {
     center: this.mapCenter,
     zoom: this.mapZoom,
     mapId: "DEMO_MAP_ID"
   };
 
-  ngOnInit() {
-    console.log(this.savedSignal());
-    for(var university of this.savedSignal()) {                     
-      this.markers.push({lat: university.lat, lng: university.lng});     //punimo marker s pozicijama sveučilišta
-    }
-    // this.service.getSaved().subscribe((res) => {
-    //   this.savedSignal.set([]);
-    //   this.savedSignal.set(res);
-    // });
+  trackBySavedUni(index: number, savedUni: SavedUniversity): number {
+    return savedUni.rank; 
+  }
+
+  trackByLatLng(index: number, location: google.maps.LatLngLiteral): string {
+    return `${location.lat},${location.lng}`; 
   }
 }

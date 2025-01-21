@@ -4,6 +4,9 @@ from . import views
 
 urlpatterns = [
     path("forma/",views.forma, name='forma'),
-    #path("getSavedUniversities/",views.getSavedUniversities, name="getSavedUniversities"),
+    path("add/",views.addUni,name='Uni'),
+    path("getUniversitiesSaved/",views.getUniversitiesSaved, name="getSavedUniversities"),
+    path("removeUni/",views.removeUni),
+    path("university/<int:rank>/",views.showUniInfo)
 
 ]

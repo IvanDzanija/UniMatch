@@ -5,6 +5,7 @@ import { AuthService } from '../auth.service';
 import { User } from '../registration/registration.output.model';
 import { CommonModule } from '@angular/common';
 import { RouterModule } from '@angular/router';
+import { SavedUniversity } from '../saved-universities/saved-uni.output.model';
 
 @Component({
     selector: 'app-university-card',
@@ -41,16 +42,18 @@ export class UniversityCardComponent {
     })
   }
 
-  addToFav(x: University) {
+  addToFav(x: SavedUniversity) {
     console.log(x);
     if (this.favoriteUnis().includes(x)) {
       this.added = false;
       this.service.remove(x.rank);
-      this.service.removeFromDb(x.rank).subscribe((res) => { console.log("Uspješno obrisano:", res) });
+      //this.service.removeFromDb(x.rank).subscribe((res) => { console.log("Uspješno obrisano:", res) });
+      this.service.removeFromDb(x);
     } else {
       this.added = true;
       this.service.add(x);
-      this.service.addToDb(x).subscribe((res) => { console.log("Uspješno dodano:", res) });
+      //this.service.addToDb(x).subscribe((res) => { console.log("Uspješno dodano:", res) });
+      this.service.addToDb(x);
     }
 
     console.log(this.favoriteUnis());

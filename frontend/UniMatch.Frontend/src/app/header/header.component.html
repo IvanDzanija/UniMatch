@@ -3,12 +3,12 @@
       <img class="logo" src="logo.jpg" alt="Logo" />
       <a routerLink="/">Home</a>
       <a routerLink="/form">Form</a>
-      <a *ngIf="user" routerLink="/saved">Saved</a>
-      <a *ngIf="!user" routerLink="/login">Saved</a>
+      <a *ngIf="user$ | async as user" routerLink="/saved">Saved</a>
+      <a *ngIf="!(user$ | async)" routerLink="/login">Saved</a>
     </div>
     <div class="right">
-      <a *ngIf="!user" routerLink="/login">Log in</a>
-      <a  *ngIf="user" (click)="logout()">Log out</a>
-      <img *ngIf="user" class="profile_pic" src ="profile-icon.png" alt="Profile" />
+      <a *ngIf="!(user$ | async)" routerLink="/login">Log in</a>
+      <a  *ngIf="user$ | async as user" (click)="logout()">Log out</a>
+      <img *ngIf="user$ | async as user" class="profile_pic" src ="profile-icon.png" alt="Profile" />
     </div>
   </div>

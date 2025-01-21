@@ -159,7 +159,25 @@ options: google.maps.MapOptions = {
     console.log(navigation?.extras?.state?.['unis'])
     this.universities = navigation?.extras?.state?.['unis'];
     console.log(this.universities)*/
-    this.universities = this.dataService.getUniversities();
+    this.universities = this.dataService.getUniversities();    //dohvaća se search iz forme
+    if(!this.universities|| this.universities.length === 0) {                                   //ako ga nema(npr. zbog refresh-a) provjerava se lokalno spremište
+      const savedSearch = localStorage.getItem('search');       
+      if(savedSearch) {
+        try{
+          this.universities= JSON.parse(savedSearch) as University[];   //pokušava se dobiti university array iz spremišta
+        }
+        catch(error) {
+          console.error("Unable to parse search json");                 //user se preusmjerava na glavnu stranicu ako je u lokalnom spremištu spremljeno
+          this.router.navigate(['/form']);                              //nešto što se ne može parsirati u university array
+          return;
+        }
+      }
+      else {
+        this.router.navigate(['/form']);                  //user se preusmjerava na glavnu stranicu ako nema posla tu
+        return;
+      }
+    }
+      localStorage.setItem('search', JSON.stringify(this.universities));//JSON od array-a se stavlja u lokalnu memoriju samo ako se obavlja novi search
     console.log("Universities: ", this.universities)
     this.topList.set(this.universities)
     console.log("Initial topList: ", this.topList());

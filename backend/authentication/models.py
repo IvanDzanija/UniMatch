@@ -2,9 +2,10 @@ from django.db import models
 from django.contrib.auth.models import AbstractUser, BaseUserManager
 from django.contrib.auth.hashers import make_password
 
+from api.models import savedUniversities,Forma
 
 class UserManager(BaseUserManager):
-    def create_user(self, username, password, name, surname, **extra_fields):
+    def create_user(self,email, username, password,**extra_fields):
         if not username:
             raise ValueError('The Username field is required')
 
@@ -13,12 +14,12 @@ class UserManager(BaseUserManager):
         extra_fields.setdefault('is_superuser', False)
 
         # Create and save the user
-        user = self.model(username=username, name=name, surname=surname, **extra_fields)
+        user = self.model(email = email,username=username, **extra_fields)
         user.set_password(password)  # Hash the password
         user.save(using=self._db)
         return user
 
-    def create_superuser(self, username, password, name, surname, **extra_fields):
+    def create_superuser(self,email, username, password,  **extra_fields):
         # Set fields required for superusers
         extra_fields.setdefault('is_staff', True)
         extra_fields.setdefault('is_superuser', True)
@@ -29,18 +30,21 @@ class UserManager(BaseUserManager):
         if not extra_fields.get('is_superuser'):
             raise ValueError('Superuser must have is_superuser=True.')
 
-        return self.create_user(username, password, name, surname, **extra_fields)
+        return self.create_user(email, username, password,  **extra_fields)
 
 
 class User(AbstractUser):
-    name = models.CharField(max_length=50)
-    surname = models.CharField(max_length=50)
+    
     is_active = models.BooleanField(default=True)  # Active by default
 
     objects = UserManager()
 
     USERNAME_FIELD = 'username'
-    REQUIRED_FIELDS = ['name', 'surname']
+    EMAIL_FIELD = 'email'
+    universities_saved = models.ManyToManyField(savedUniversities, related_name='users')
+    
+    
+    #REQUIRED_FIELDS = ['name', 'surname']
 
     def __str__(self):
         return self.username
