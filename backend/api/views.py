@@ -208,6 +208,10 @@ def addUni(request):
         estimatedCost = body.get("estimatedCost")
         #major = body.get("major")
         website = body.get("website")
+        lat = body.get("lat")
+        lng = body.get("lng")
+        print("lat = ",lat )
+        print("lng =",body.get("lng"))
         #choiceNo = body.get("choiceNo")
         user2 = User.objects.get(username=user.username)
         zastava = False
@@ -215,9 +219,9 @@ def addUni(request):
             if(uni.name==name):
                 zastava = True
         #uni = savedUniversities.objects.get(name=name)
+        print(zastava)
         if zastava is False:
-            savedUni = savedUniversities(name=name,country=country,rank=rank,acc=acc,estimatedCost=estimatedCost,website=website)
-       
+            savedUni = savedUniversities(name=name,country=country,rank=rank,acc=acc,estimatedCost=estimatedCost,website=website,lat=float(lat),lng=float(lng))
             savedUni.save()
             user2.universities_saved.add(savedUni) 
             user2.save()
@@ -225,7 +229,9 @@ def addUni(request):
             print(uni.name)
         uni = savedUniversities.objects.get(name=name)
         print(uni.acc)
+        user2 = User.objects.get(id=user2.id)
         user2 = UserSerializer(user2)
+        print(user2.data)
         return JsonResponse({'status': 'success', 'data':user2.data }, status=201)
 
        except json.JSONDecodeError:
