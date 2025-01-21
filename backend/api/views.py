@@ -163,7 +163,9 @@ def forma(request):
             new_filtered_universities = []
             brojac = 1
             for uni in filtered_universities:
-                
+                uni2  = universities[universities['Ranking']==uni.get('Ranking')]
+                lat = uni2['Latitude'].iloc[0]
+                lng = uni2['Longitude'].iloc[0]
                 new_filtered_universities.append(
                                     {
                     'name': uni.get('University'),
@@ -173,12 +175,14 @@ def forma(request):
                     'estimatedCost': uni.get('Tuition'),
                     'major': major,
                     'website': uni.get('Link'),
-                    'choiceNo': brojac
+                    'choiceNo': brojac,
+                    'lat':float(lat),
+                    'lng':float(lng)
                     }
                 )
                 brojac+=1
             #print("Filtered unis: ")
-            #print(new_filtered_universities)
+            print(new_filtered_universities)
             return JsonResponse({'status': 'success', 'data': new_filtered_universities}, status=201)
 
         except json.JSONDecodeError:
@@ -216,13 +220,13 @@ def addUni(request):
        
             savedUni.save()
             user2.universities_saved.add(savedUni) 
-        
+            user2.save()
         for uni in user2.universities_saved.all():
             print(uni.name)
         uni = savedUniversities.objects.get(name=name)
         print(uni.acc)
-
-        return JsonResponse({'status': 'success', 'data': True}, status=201)
+        
+        return JsonResponse({'status': 'success', 'data':user2 }, status=201)
 
        except json.JSONDecodeError:
             return JsonResponse({'status': 'error', 'message': 'Invalid JSON'}, status=400)
@@ -271,7 +275,7 @@ def removeUni(request):
 
     user2.universities_saved.set(lista2)
     user2.save()
-    return JsonResponse({'status': 'success', 'data': lista}, status=200)
+    return JsonResponse({'status': 'success', 'data': user2}, status=200)
 
 @csrf_exempt
 @api_view(['GET'])
