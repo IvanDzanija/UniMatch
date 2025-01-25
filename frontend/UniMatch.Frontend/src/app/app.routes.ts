@@ -5,6 +5,7 @@ import { TopListComponent } from './top-list/top-list.component';
 import { SavedUniversitiesComponent } from './saved-universities/saved-universities.component';
 import { LoginComponent } from './login/login.component';
 import { RegistrationComponent } from './registration/registration.component';
+import { SearchHistoryComponent } from './search-history/search-history.component';
 
 
 
@@ -26,6 +27,9 @@ export const routes: Routes = [
   },
   {
     path: 'register', component: RegistrationComponent, title: "Register"
+  },
+  {
+    path: 'search-history', component: SearchHistoryComponent, title: "Search History"
   }
 ];
 

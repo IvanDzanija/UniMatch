@@ -4,7 +4,7 @@ import { FormsModule, ReactiveFormsModule } from '@angular/forms';
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 import { MatSliderModule } from '@angular/material/slider';
 import { HttpClientModule } from '@angular/common/http';
-import {GoogleMapsModule} from '@angular/google-maps';
+import { GoogleMapsModule } from '@angular/google-maps';
 
 import { AppComponent } from './app.component';
 import { HeaderComponent } from './header/header.component';
@@ -19,6 +19,8 @@ import { SavedUniCardComponent } from './saved-uni-card/saved-uni-card.component
 import { LoginComponent } from './login/login.component';
 import { RegistrationComponent } from './registration/registration.component';
 import { provideAnimationsAsync } from '@angular/platform-browser/animations/async';
+import { SearchHistoryComponent } from './search-history/search-history.component';
+import { SearchHistoryCardComponent } from './search-history-card/search-history-card.component';
 
 
 @NgModule({
@@ -43,7 +45,9 @@ import { provideAnimationsAsync } from '@angular/platform-browser/animations/asy
     LoginComponent,
     RegistrationComponent,
     HeaderComponent,
-    GoogleMapsModule
+    GoogleMapsModule,
+    SearchHistoryComponent,
+    SearchHistoryCardComponent
   ],
   providers: [
     provideAnimationsAsync()
