@@ -53,7 +53,7 @@ export class FormComponent {
     continent: "",
     rankMin: 1,
     rankMax: 10000,
-    rankPrio: 100,
+    rankPrio: 0,
     safetyMin: "",
     safetyMax: "",
     safetyPrio: 0,
