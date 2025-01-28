@@ -12,7 +12,7 @@ export class SearchHistoryServiceService {
     const authToken = localStorage.getItem('jwt');     
     if (authToken) {
       const headers = new HttpHeaders().set('Authorization', `Bearer ${authToken}`);   //stavlja token u header da backend zna tko traži zahtjev
-      return this.http.get<SearchHistoryItem[]>("http://localhost:8000/user/validate-session", { headers }).pipe(
+      return this.http.get<SearchHistoryItem[]>("http://localhost:8000/search-history", { headers }).pipe(
         //traži se ISKLJUČIVO array, ako želite dodati status ili nešto drugo treba se dodati to u zahtjevu i mapirati odgovor na taj array
         tap({
           next: (response: any) => {
