@@ -9,7 +9,12 @@ import { SavedUniversity } from './saved-universities/saved-uni.output.model';
 })
 export class AuthService {
 
-  private user= new BehaviorSubject<User | null>(null);
+  private user= new BehaviorSubject<User | null>({
+    id: 0,
+  username: '',
+  email: '',
+  universities_saved: []
+  });
   user$ = this.user.asObservable();
 
   constructor(private http: HttpClient) {
@@ -31,10 +36,18 @@ export class AuthService {
 
     if(authToken) {
       const headers = new HttpHeaders().set('Authorization', `Bearer ${authToken}`);
-      this.http.get<User>("http://localhost:8000/user/validate-session", {headers}).subscribe({
-          next: (user) => {
-            console.log('validateSession success. User:', user);
-            this.user.next(user); //ako je token u backend-u, user poprima vrijednost koja odgovara njegovom tokenu
+      this.http.get<{status:string, user:User}>("http://localhost:8000/user/validate-session", {headers}).subscribe({
+          next: (response) => {
+            if(response.status=="success") {
+              const user = response.user;
+              console.log('validateSession success. User:', response);
+              this.user.next(user); //ako je token u backend-u, user poprima vrijednost koja odgovara njegovom tokenu
+            }
+            else {
+              console.warn("validation wasn't successful");
+              this.user.next(null);
+            }
+            
           },
           error: (err) => {
             console.error('validateSession error:', err);
@@ -49,9 +62,11 @@ export class AuthService {
   }
   add(university:SavedUniversity, authToken:string) : Observable<User|null>{
     const headers = new HttpHeaders().set('Authorization', `Bearer ${authToken}`);
-    return this.http.post<User>('http://localhost:8000/api/add/', {university}, {headers}).pipe(
-      tap( user => {
+    return this.http.post<{status:string, data: User}>('http://localhost:8000/api/add/', {university}, {headers}).pipe(
+      map( response => {
+        const user= response.data;
         this.user.next(user);
+        return user;
       }),
       catchError(error => {
         console.error('Saving the university failed', error);
@@ -61,9 +76,12 @@ export class AuthService {
   }
   remove(university: SavedUniversity, authToken:string) : Observable<User|null> {
     const headers = new HttpHeaders().set('Authorization', `Bearer ${authToken}`);
-    return this.http.post<User>('http://localhost:8000/api/removeUni/', {university}, {headers} ).pipe(
-      tap( user => {
-        this.user.next(user);
+    return this.http.post<{status:string, data: User}>('http://localhost:8000/api/removeUni/', {university}, {headers} ).pipe(
+      
+      map(response => {
+        const user = response.data; 
+        this.user.next(user); 
+      return user;
       }),
       catchError(error => {
         console.error('Removing the university failed', error);
@@ -82,7 +100,12 @@ export class AuthService {
     localStorage.removeItem('jwt');       //briše jwt iz lokalnog spremišta
   }
  login(username:string, password:string, rememberMe:boolean) : Observable<User|null> {
-    return this.http.post<{user:User, jwt:string}>('http://localhost:8000/user/login/', {username, password, rememberMe}).pipe(
+    return this.http.post<{status: string,
+      message: string,
+      user: User,
+      jwt: string,
+      refresh_token: string}>
+      ('http://localhost:8000/user/login/', {username, password, rememberMe}).pipe(
       tap( res => {
         console.log("res = ",res )
         this.setUser(res.user, res.jwt);        

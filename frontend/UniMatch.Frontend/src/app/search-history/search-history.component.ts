@@ -3,6 +3,7 @@ import { HeaderComponent } from "../header/header.component";
 import { SearchHistoryCardComponent } from "../search-history-card/search-history-card.component";
 import { CommonModule } from '@angular/common';
 import { SearchHistoryItem } from './search-history-item.output.model';
+import { SearchHistoryServiceService } from './search-history-service.service';
 
 @Component({
   selector: 'app-search-history',
@@ -249,4 +250,21 @@ export class SearchHistoryComponent {
       }))
     }
   ];
+  searchItems2: SearchHistoryItem[] = [];    //zamijenite searchItems s ovime u template-u kad odradite zahtjev
+  constructor(private service: SearchHistoryServiceService) {
+
+  }
+
+  ngnInit() {
+    this.service.getItems().subscribe({
+      next: (items: SearchHistoryItem[]) => {
+        this.searchItems2= items;               //pri refreshu se dohvaća povijest sa backenda
+      }, error: (err) => {
+        console.error("Error happened while gathering search history", err);
+      }
+      }
+    );
+  }
+
+  
 }
