@@ -139,8 +139,8 @@ def forma(request):
 
             
             filtered_universities = universities.to_dict(orient='records')
-            #print(data)
-            #print(filtered_universities)
+            print(data)
+            print(filtered_universities)
 
 
             universities['score'] = 0
