@@ -8,10 +8,10 @@ import { HeaderComponent } from "../header/header.component";
 import { GoogleMapsModule } from '@angular/google-maps';
 
 @Component({
-    selector: 'app-top-list',
-    imports: [CommonModule, UniversityCardComponent, HeaderComponent, GoogleMapsModule],
-    standalone:true,
-    template: `
+  selector: 'app-top-list',
+  imports: [CommonModule, UniversityCardComponent, HeaderComponent, GoogleMapsModule],
+  standalone: true,
+  template: `
   <app-header></app-header>
   <div>
     <h2 class="header">
@@ -36,7 +36,7 @@ import { GoogleMapsModule } from '@angular/google-maps';
     }
   </div>
   `,
-    styles: `
+  styles: `
   * {
   font-family: 'Poppins', sans-serif;
   }
@@ -80,76 +80,79 @@ import { GoogleMapsModule } from '@angular/google-maps';
   `
 })
 export class TopListComponent {
-zoomClick(position: google.maps.LatLngLiteral): void {
-  this.options = {
-    ...this.options,
-    center: position,  
-    zoom: 10           // mapa se zoomira s 2.3 na 10
+  zoomClick(position: google.maps.LatLngLiteral): void {
+    this.options = {
+      ...this.options,
+      center: position,
+      zoom: 10           // mapa se zoomira s 2.3 na 10
+    };
+
+  }
+
+  mapCenter: google.maps.LatLngLiteral = { lat: 10, lng: 0 };
+  mapZoom: number = 2.3;
+
+  options: google.maps.MapOptions = {
+    center: this.mapCenter,
+    zoom: this.mapZoom,
+    mapId: "DEMO_MAP_ID"
   };
-
-}
-
-mapCenter: google.maps.LatLngLiteral = {lat:10, lng:0};
-mapZoom: number = 2.3;
-
-options: google.maps.MapOptions = {
-  center: this.mapCenter,
-  zoom: this.mapZoom,
-  mapId: "DEMO_MAP_ID"
-};
   constructor(private dataService: DataService) { }
   router = inject(Router);
   markers: google.maps.LatLngLiteral[] = [];
   universities: University[] = [              // NE BRISATI!!!
-    /* {
+    /*{
+      id: 1,
       name: "Harvard University",
-       country: "Cambridge, Massachusetts",
+      country: "Cambridge, Massachusetts",
       rank: 1,
-       acc: 90,
+      acc: 90,
       estimatedCost: 50000,
       major: "Computer Science",
-       choiceNo: 1,
+      choiceNo: 1,
       website: "https://www.harvard.edu",
-       lat:-1,                              //dodao sam koordinate u University tip podatka
-       lng:15
-     },
-     {
-       name: "Stanford University",
-       country: "Stanford, California",
-       rank: 2,
-       acc: 90,
-       estimatedCost: 50000,
-       major: "Computer Science",
-       choiceNo: 2,
-       website: "https://www.stanford.edu",
-       lat:60,
-       lng:14
-     },
-     {
-       name: "University of Cambridge",
-       country: "Cambridge, Massachusetts",
-       rank: 3,
-       acc: 90,
-       estimatedCost: 50000,
-       major: "Computer Science",
-       choiceNo: 3,
-       website: "https://www.cam.ac.uk",
-       lat:55,
-       lng: 144
-     },
-     {
-       name: "University of Oxford",           // NE BRISATI!!!
-       country: "Oxford, England",
-       rank: 4,
-       acc: 90,
-       estimatedCost: 50000,
+      lat: -1,                              //dodao sam koordinate u University tip podatka
+      lng: 15
+    },
+    {
+      id: 2,
+      name: "Stanford University",
+      country: "Stanford, California",
+      rank: 2,
+      acc: 90,
+      estimatedCost: 50000,
       major: "Computer Science",
-       choiceNo: 4,
-       website: "https://www.ox.ac.uk",
-      lat:55,
-       lng: -100
-     }
-    */
+      choiceNo: 2,
+      website: "https://www.stanford.edu",
+      lat: 60,
+      lng: 14
+    },
+    {
+      id: 3,
+      name: "University of Cambridge",
+      country: "Cambridge, Massachusetts",
+      rank: 3,
+      acc: 90,
+      estimatedCost: 50000,
+      major: "Computer Science",
+      choiceNo: 3,
+      website: "https://www.cam.ac.uk",
+      lat: 55,
+      lng: 144
+    },
+    {
+      id: 4,
+      name: "University of Oxford",           // NE BRISATI!!!
+      country: "Oxford, England",
+      rank: 4,
+      acc: 90,
+      estimatedCost: 50000,
+      major: "Computer Science",
+      choiceNo: 4,
+      website: "https://www.ox.ac.uk",
+      lat: 55,
+      lng: -100
+    }*/
   ];
   topList = signal<University[]>([]);
   //topList:University[] = [];
@@ -160,13 +163,13 @@ options: google.maps.MapOptions = {
     this.universities = navigation?.extras?.state?.['unis'];
     console.log(this.universities)*/
     this.universities = this.dataService.getUniversities();    //dohvaća se search iz forme
-    if(!this.universities|| this.universities.length === 0) {                                   //ako ga nema(npr. zbog refresh-a) provjerava se lokalno spremište
-      const savedSearch = localStorage.getItem('search');       
-      if(savedSearch) {
-        try{
-          this.universities= JSON.parse(savedSearch) as University[];   //pokušava se dobiti university array iz spremišta
+    if (!this.universities || this.universities.length === 0) {                                   //ako ga nema(npr. zbog refresh-a) provjerava se lokalno spremište
+      const savedSearch = localStorage.getItem('search');
+      if (savedSearch) {
+        try {
+          this.universities = JSON.parse(savedSearch) as University[];   //pokušava se dobiti university array iz spremišta
         }
-        catch(error) {
+        catch (error) {
           console.error("Unable to parse search json");                 //user se preusmjerava na glavnu stranicu ako je u lokalnom spremištu spremljeno
           this.router.navigate(['/form']);                              //nešto što se ne može parsirati u university array
           return;
@@ -177,18 +180,18 @@ options: google.maps.MapOptions = {
         return;
       }
     }
-      localStorage.setItem('search', JSON.stringify(this.universities));//JSON od array-a se stavlja u lokalnu memoriju samo ako se obavlja novi search
+    localStorage.setItem('search', JSON.stringify(this.universities));//JSON od array-a se stavlja u lokalnu memoriju samo ako se obavlja novi search
     console.log("Universities: ", this.universities)
     this.topList.set(this.universities)
     console.log("Initial topList: ", this.topList());
-    for(var university of this.topList()) {                     
-      this.markers.push({lat: university.lat, lng: university.lng});     //punimo marker s pozicijama sveučilišta
+    for (var university of this.topList()) {
+      this.markers.push({ lat: university.lat, lng: university.lng });     //punimo marker s pozicijama sveučilišta
     }
 
 
 
 
   }
-  // topList = signal<University[]>(this.universities);
+  //topList = signal<University[]>(this.universities);
 
 }

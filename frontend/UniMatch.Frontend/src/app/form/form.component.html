@@ -1,11 +1,12 @@
 <body>
 <app-form-intro></app-form-intro>
-<div class="form-background">
+
 <div class = "form-container">
-<div class="form-name" id="form">
+<h2>
     FORM
-</div>
+</h2>
 <form class="form" #form="ngForm" (ngSubmit)="uniFilter()">
+        <!-- <div class="form-group">
             <div class="form-left item1">Continent</div> 
             
             <div class="form-right item2">
@@ -34,7 +35,22 @@
                         <label for="south-america" class="grid-label">South America</label>
                 </div>
            </div>
+        </div> -->
 
+        <div class="form-group">
+            <label for="continent">Continent</label>
+            <select id="continent" name="continent" required>
+              <option value="" disabled selected>Select a continent</option>
+              <option value="Asia" [(ngModel)]="info.continent">Asia</option>
+              <option value="Europe" [(ngModel)]="info.continent">Europe</option>
+              <option value="Africa" [(ngModel)]="info.continent">Africa</option>
+              <option value="Oceania" [(ngModel)]="info.continent">Australia</option>
+              <option value="Northern America" [(ngModel)]="info.continent">North America</option>
+              <option value="Southern America" [(ngModel)]="info.continent">South America</option>
+            </select>
+        </div>
+
+        
            <div class="form-left item3">University Rank</div>
         
            <div class = "form-right  two-sliders item4">
@@ -56,11 +72,11 @@
            <div class="form-left item5">Safety index</div>
 
            <div class="form-right minmax-container item6">
-                <div class="min-container">
+                <div class="some-container">
                         <label for="safety-min" class="name">Min</label>
                         <select class="form-select" id="safety-min" aria-label="Default select example" required 
                                     (ngModelChange)="minValidateSafety($event)" name="safetyMin" [(ngModel)]="info.safetyMin">
-                                            <option disabled selected>Pick minimum safety index category</option>
+                                            <option value="" disabled selected>Pick minimum safety index category</option>
                                             <option value="high-safety" name="safetyMin">High safety</option>
                                             <option value="medium-high-safety" name="safetyMin" >Medium high safety</option>
                                             <option value="medium-safety" name="safetyMin" >Medium safety</option>
@@ -70,11 +86,11 @@
 
                 </div>
                 <em *ngIf="safetyError">Invalid safety values</em>
-                <div class="max-container">
+                <div class="some-container">
                         <label for="safety-max" class="name">Max</label>
                         <select class="form-select" id="safety-max" aria-label="Default select example" required
                                      (ngModelChange)="maxValidateSafety($event)" name="safetyMax" [(ngModel)]="info.safetyMax">
-                                            <option disabled selected>Pick maximum safety index category</option>
+                                            <option value="" disabled selected>Pick maximum safety index category</option>
                                             <option value="high-safety" name="safetyMax" [(ngModel)]="info.safetyMax">High safety</option>
                                             <option value="medium-high-safety" name="safetyMax" [(ngModel)]="info.safetyMax">Medium high safety</option>
                                             <option value="medium-safety" name="safetyMax" [(ngModel)]="info.safetyMax">Medium safety</option>
@@ -111,7 +127,7 @@
            
         
            
-            <div class="form-left item9">International student<br> ratio</div>
+            <div class="form-left item9">International student ratio</div>
             
             <div class = "form-right two-sliders item10">
                 <div class="dual-slider-container">
@@ -144,7 +160,7 @@
                         </mat-slider>
                 </div>
            </div>
-        <div class="form-left item13">&nbsp;&nbsp;&nbsp;&nbsp;Rent cost</div>
+        <div class="form-left item13">Rent cost</div>
 
           <div class="form-right  two-sliders item14">
            <div class="dual-slider-container">
@@ -162,7 +178,7 @@
            </div>
         </div>
 
-        <div class="form-left item15">&nbsp;&nbsp;&nbsp;&nbsp;Grocery cost</div>
+        <div class="form-left item15">Grocery cost</div>
 
           <div class="form-right  two-sliders item16">
            <div class="dual-slider-container">
@@ -180,7 +196,7 @@
            </div>
         </div>
 
-        <div class="form-left item17">&nbsp;&nbsp;&nbsp;&nbsp;Transport cost</div>
+        <div class="form-left item17">Transport cost</div>
 
           <div class="form-right  two-sliders item18">
            <div class="dual-slider-container">
@@ -198,7 +214,7 @@
            </div>
         </div>
 
-        <div class="form-left item19">&nbsp;&nbsp;&nbsp;&nbsp;Recreation cost</div>
+        <div class="form-left item19">Recreation cost</div>
 
           <div class="form-right two-sliders item20">
            <div class="dual-slider-container">
@@ -253,18 +269,214 @@
                 </div>
            </div>
          
-           <div class="form-left major-left">Preferred major</div>
-
-           <div class="form-right major-right">
+           <div class="form-group">
+           <label for="major">Preferred major</label>
                 <select class="form-select" name="major" required aria-label="Default select example" [(ngModel)]="info.major">
-                                    <option disabled selected>Pick preferred major</option>
+                                    <option value="" disabled selected>Pick preferred major</option>
                                     <option *ngFor="let options of majorOptions" [value]="options.value">{{options.text}}</option>
                                 </select>
-           </div>
            
-        <button type="submit" [disabled]="form.invalid || safetyError" class="btn btn-primary">Submit</button>
+        </div>
+           
+        <button type="submit" [disabled]="form.invalid || safetyError" class="btn">Submit</button>
 </form>
 
 </div>
-</div>
-</body>
+
+<!-- sth else-->
+<!-- <div class="form-container">
+        <h2>University Filter</h2>
+        <form>
+         
+          <div class="form-group">
+            <label for="continent">Continent</label>
+            <select id="continent" name="continent" required>
+              <option value="" disabled selected>Select a continent</option>
+              <option value="Asia">Asia</option>
+              <option value="Europe">Europe</option>
+              <option value="Africa">Africa</option>
+              <option value="Oceania">Australia</option>
+              <option value="Northern America">North America</option>
+              <option value="Southern America">South America</option>
+            </select>
+          </div>
+    
+          
+          <div class="form-group">
+            <label for="university-rank">University Rank (0 - 2000)</label>
+            <div class="slider-container">
+              <input type="range" id="university-rank" name="universityRank" min="0" max="2000" step="1">
+              <div class="slider-value" id="university-rank-value">0</div>
+            </div>
+            <div class="slider-container priority-slider">
+              <label>Priority</label>
+              <input type="range" min="0" max="10" step="0.1">
+            </div>
+          </div>-->
+    
+          <!-- Safety Index 
+          <div class="form-group">
+            <label for="safety-min">Safety Index</label>
+            <select id="safety-min" name="safetyMin" required>
+              <option value="" disabled selected>Min Safety</option>
+              <option value="High">High</option>
+              <option value="Medium-High">Medium High</option>
+              <option value="Medium">Medium</option>
+              <option value="Medium-Low">Medium Low</option>
+              <option value="Low">Low</option>
+            </select>
+            <select id="safety-max" name="safetyMax" required>
+              <option value="" disabled selected>Max Safety</option>
+              <option value="High">High</option>
+              <option value="Medium-High">Medium High</option>
+              <option value="Medium">Medium</option>
+              <option value="Medium-Low">Medium Low</option>
+              <option value="Low">Low</option>
+            </select>
+            <div class="slider-container priority-slider">
+              <label>Priority</label>
+              <input type="range" min="0" max="10" step="0.1">
+            </div>
+          </div>-->
+    
+          <!-- Repeat for all other parameters -->
+          <!-- Acceptance Rate 
+          <div class="form-group">
+            <label for="acceptance-rate">Acceptance Rate (0 - 100%)</label>
+            <div class="slider-container">
+              <input type="range" id="acceptance-rate" name="acceptanceRate" min="0" max="100" step="1">
+              <div class="slider-value" id="acceptance-rate-value">0%</div>
+            </div>
+            <div class="slider-container priority-slider">
+              <label>Priority</label>
+              <input type="range" min="0" max="10" step="0.1">
+            </div>
+          </div>-->
+    
+          <!-- Submit Button -->
+          <!--<button type="submit" class="btn-submit">Submit</button>
+        </form>
+      </div> -->
+
+      <!-- NEW -->
+      <!-- <div class="form-wrapper">
+        <form class="form-container">
+          <h1 class="form-title">University Preference Form</h1>
+
+          <div class="form-group">
+            <label for="continent">Continent</label>
+            <select id="continent" class="dropdown">
+              <option value="" disabled selected>Choose a continent</option>
+              <option value="Asia">Asia</option>
+              <option value="Europe">Europe</option>
+              <option value="Africa">Africa</option>
+              <option value="Oceania">Oceania</option>
+              <option value="North America">North America</option>
+              <option value="South America">South America</option>
+            </select>
+          </div>
+    
+          <div class="form-group">
+            <label for="rank">University Rank</label>
+            <div class="slider-group">
+              <input id="rank" type="range" min="0" max="2000" step="1" class="slider" oninput="updateValue('rank', this.value)" />
+              <span id="rank-value" class="slider-value">0</span>
+            </div>
+            <label for="rank-priority" class="priority-label">Priority</label>
+            <input id="rank-priority" type="range" min="0" max="10" step="0.1" class="slider priority-slider" oninput="updateValue('rank-priority', this.value)" />
+            <span id="rank-priority-value" class="slider-value">0.0</span>
+          </div>
+    
+          <div class="form-group">
+            <label for="safety-min">Safety Index (Min & Max)</label>
+            <div class="dropdown-group">
+              <select id="safety-min" class="dropdown">
+                <option value="" disabled selected>Min</option>
+                <option value="High">High</option>
+                <option value="Medium-High">Medium-High</option>
+                <option value="Medium">Medium</option>
+                <option value="Medium-Low">Medium-Low</option>
+                <option value="Low">Low</option>
+              </select>
+              <select id="safety-max" class="dropdown">
+                <option value="" disabled selected>Max</option>
+                <option value="High">High</option>
+                <option value="Medium-High">Medium-High</option>
+                <option value="Medium">Medium</option>
+                <option value="Medium-Low">Medium-Low</option>
+                <option value="Low">Low</option>
+              </select>
+            </div>
+            <label for="safety-priority" class="priority-label">Priority</label>
+            <input id="safety-priority" type="range" min="0" max="10" step="0.1" class="slider priority-slider" oninput="updateValue('safety-priority', this.value)" />
+            <span id="safety-priority-value" class="slider-value">0.0</span>
+          </div>
+    
+         
+          <div class="form-group">
+            <label for="acceptance-rate">Acceptance Rate</label>
+            <div class="slider-group">
+              <input id="acceptance-rate" type="range" min="0" max="100" step="1" class="slider" oninput="updateValue('acceptance-rate', this.value)" />
+              <span id="acceptance-rate-value" class="slider-value">0%</span>
+            </div>
+            <label for="acceptance-priority" class="priority-label">Priority</label>
+            <input id="acceptance-priority" type="range" min="0" max="10" step="0.1" class="slider priority-slider" oninput="updateValue('acceptance-priority', this.value)" />
+            <span id="acceptance-priority-value" class="slider-value">0.0</span>
+          </div>
+    
+         
+          <div class="form-group">
+            <label for="student-ratio">International Student Ratio</label>
+            <div class="slider-group">
+              <input id="student-ratio" type="range" min="0" max="100" step="1" class="slider" oninput="updateValue('student-ratio', this.value)" />
+              <span id="student-ratio-value" class="slider-value">0%</span>
+            </div>
+            <label for="student-priority" class="priority-label">Priority</label>
+            <input id="student-priority" type="range" min="0" max="10" step="0.1" class="slider priority-slider" oninput="updateValue('student-priority', this.value)" />
+            <span id="student-priority-value" class="slider-value">0.0</span>
+          </div>
+    
+
+          <div class="form-group">
+            <label for="rent-cost">Rent Cost</label>
+            <div class="slider-group">
+              <input id="rent-cost" type="range" min="0" max="3000" step="50" class="slider" oninput="updateValue('rent-cost', this.value)" />
+              <span id="rent-cost-value" class="slider-value">$0</span>
+            </div>
+            <label for="rent-priority" class="priority-label">Priority</label>
+            <input id="rent-priority" type="range" min="0" max="10" step="0.1" class="slider priority-slider" oninput="updateValue('rent-priority', this.value)" />
+            <span id="rent-priority-value" class="slider-value">0.0</span>
+          </div>
+    
+          
+          <div class="form-group">
+            <label for="grocery-cost">Grocery Cost</label>
+            <div class="slider-group">
+              <input id="grocery-cost" type="range" min="0" max="1000" step="10" class="slider" oninput="updateValue('grocery-cost', this.value)" />
+              <span id="grocery-cost-value" class="slider-value">$0</span>
+            </div>
+            <label for="grocery-priority" class="priority-label">Priority</label>
+            <input id="grocery-priority" type="range" min="0" max="10" step="0.1" class="slider priority-slider" oninput="updateValue('grocery-priority', this.value)" />
+            <span id="grocery-priority-value" class="slider-value">0.0</span>
+          </div>
+    
+          
+          <div class="form-group">
+            <label for="preferred-major">Preferred Major</label>
+            <select id="preferred-major" class="dropdown">
+              <option value="" disabled selected>Choose a major</option>
+              <option value="Engineering">Engineering</option>
+              <option value="Business">Business</option>
+              <option value="Medicine">Medicine</option>
+              <option value="Science">Science</option>
+              <option value="Arts">Arts</option>
+            </select>
+          </div>
+    
+          
+          <div class="form-group">
+            <button type="submit" class="submit-btn">Submit</button>
+          </div>
+        </form>
+      </div>
+</body> -->

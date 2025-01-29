@@ -37,6 +37,22 @@ export class FormComponent {
     { text: 'Physics', value: 'Physics' }
   ]
 
+  // function updateValue(id, value) {
+  //   document.getElementById(`${id}-value`).innerText = value;
+  // }
+
+  // document.querySelectorAll('.slider-container input[type="range"]').forEach(slider => {
+  //   const valueBox = slider.nextElementSibling;
+  //   slider.addEventListener('input', () => {
+  //     valueBox.textContent = slider.value;
+  //     const sliderWidth = slider.offsetWidth;
+  //     const thumbWidth = 15; // Thumb size in CSS
+  //     const percentage = (slider.value - slider.min) / (slider.max - slider.min);
+  //     const valueOffset = (sliderWidth - thumbWidth) * percentage;
+  //     valueBox.style.left = `${valueOffset}px`;
+  //   });
+  // });
+
   //ngmodelchange se poziva PRIJE binding-a pri promjeni minSafety ili maxSafety, pa prvo trebamo uhvatiti novu vrijednost iz event-a
   //i onda tek pozvati validatesafety
   maxValidateSafety(value: string) {       //update-amo maxSafety i zovemo validateSafety
