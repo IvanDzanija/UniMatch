@@ -24,26 +24,19 @@ import { User } from '../registration/registration.output.model';
     <p class="subtext">These are the institutions that caught your eye in case you want to dive deeper into your options!</p>
   </div>
   <div class= "map-container">
-  <!--
+ 
   <google-map height="30vw" width="80vw" [options]="options">
-    @for (location of markers; track location) {
-      <map-advanced-marker #markerElem="mapAdvancedMarker" [position] = "{lat: location.lat, lng: location.lng}" (mapClick)="zoomClick({lat: location.lat, lng: location.lng})">
-      </map-advanced-marker>
-    }
-
-  </google-map>
--->
-  <<google-map height="30vw" width="80vw" [options]="options">
-  <ng-container *ngIf="markers.length > 0">
-    <ng-container *ngFor="let location of markers; trackBy: trackByLatLng">
+  <ng-container *ngIf="user$ | async as user">
+    <ng-container *ngFor="let location of user.universities_saved; trackBy: trackByLatLng">
       <map-advanced-marker 
         #markerElem="mapAdvancedMarker" 
-        [position]="location" 
+        [position]="{lat: location.lat, lng:location.lng}" 
         (mapClick)="zoomClick(location)">
       </map-advanced-marker>
     </ng-container>
   </ng-container>
 </google-map>
+  </div>
     
   <div class="saved-container">
     <div class="icons">
@@ -55,19 +48,12 @@ import { User } from '../registration/registration.output.model';
     </div>
     
    
-    <ng-container *ngIf="savedUniversities.length > 0">
-  <div *ngFor="let savedUni of savedUniversities; trackBy: trackBySavedUni">
+    <ng-container *ngIf="user$ | async as user">
+  <div *ngFor="let savedUni of user.universities_saved; trackBy: trackBySavedUni">
     <app-saved-uni-card [savedUni]="savedUni"></app-saved-uni-card>
   </div>
 </ng-container>
-    <!--
-    @for (savedUni of savedSignal(); track savedUni) {
-    <div>
-      <app-saved-uni-card [savedUni]="savedUni"></app-saved-uni-card>
-    </div>
-    }
   </div>
-   -->
   `,
   styles: `
   * {
@@ -110,8 +96,6 @@ import { User } from '../registration/registration.output.model';
 })
 export class SavedUniversitiesComponent {
 
-  savedUniversities: SavedUniversity[] = [];
-  markers: google.maps.LatLngLiteral[] = [];
   user$: Observable<User | null>;
 
   constructor(private authService: AuthService) {
@@ -119,21 +103,34 @@ export class SavedUniversitiesComponent {
   }
 
   ngOnInit(): void {
-    // Subscribe to savedUniversities$ and markers$
     this.authService.user$.subscribe(user => {
-      if (user) {
-        // Assign saved universities and markers directly
-        console.log(user);
-        console.log("universities saved", user.universities_saved[0]);
-        this.savedUniversities = user.universities_saved ?? [];
-        this.markers = this.savedUniversities.map(university => ({
-          lat: university.lat,
-          lng: university.lng
-        }));
-        console.log('Saved Universities:', this.savedUniversities);
-        console.log('Markers:', this.markers);
-      }
+      console.log('SavedComponent received user update:', user);
+      //console.log(user?.universities_saved);
+    if (user && user.universities_saved!= null && user.universities_saved.length > 0) {
+      console.log('universities_saved:', user.universities_saved);
+    } else {
+      console.warn('No universities saved.');
+    }
+    if(user && user.email != "") {
+      console.log("user email", user.email);
+    }
+    else {
+      console.log("No user email");
+    }
+    if(user && user.username!= "") {
+      console.log("user name ", user.username);
+    } 
+    else {
+      console.log("No username");
+    }
+    if(user && user.id) {
+      console.log("user id", user?.id);
+    } 
+    else {
+      console.log("No user id");
+    }
     });
+    
   }
 
   zoomClick(position: google.maps.LatLngLiteral): void {
