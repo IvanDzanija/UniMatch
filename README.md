@@ -21,7 +21,7 @@ This project aims to simplify the process of researching availability and attain
 ## Installation
 1. Clone the repository:
 ```sh
-git clone https://github.com/IvanDzanija/hotelOccupancy.git
+git clone https://github.com/IvanDzanija/UniMatch.git
 ```
 2. Run the frontend server:
 ```sh
