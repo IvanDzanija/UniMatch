@@ -1,5 +1,4 @@
 # UniMatch
-# Hotel Occupancy Prediction
 
 ## Overview
 This project aims to simplify the process of researching availability and attainability of enrolling in some of the most popular universities in the world. The goal is to provide accurate data and information with easy to use and intuitive interface.
