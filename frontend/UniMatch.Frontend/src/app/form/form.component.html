@@ -39,14 +39,14 @@
 
         <div class="form-group">
             <label for="continent">Continent</label>
-            <select id="continent" name="continent" required>
+            <select id="continent" name="continent" [(ngModel)]="info.continent" required>
               <option value="" disabled selected>Select a continent</option>
-              <option value="Asia" [(ngModel)]="info.continent">Asia</option>
-              <option value="Europe" [(ngModel)]="info.continent">Europe</option>
-              <option value="Africa" [(ngModel)]="info.continent">Africa</option>
-              <option value="Oceania" [(ngModel)]="info.continent">Australia</option>
-              <option value="Northern America" [(ngModel)]="info.continent">North America</option>
-              <option value="Southern America" [(ngModel)]="info.continent">South America</option>
+              <option value="Asia" >Asia</option>
+              <option value="Europe" >Europe</option>
+              <option value="Africa" >Africa</option>
+              <option value="Oceania" >Australia</option>
+              <option value="Northern America" >North America</option>
+              <option value="Southern America" >South America</option>
             </select>
         </div>
 

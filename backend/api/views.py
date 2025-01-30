@@ -47,7 +47,7 @@ def forma(request):
     if request.method == 'POST':
         try:
             data = json.loads(request.body)
-           
+            print(data)
            
             universities = load_data()
             index_complete = load_date2()
@@ -139,8 +139,8 @@ def forma(request):
 
             
             filtered_universities = universities.to_dict(orient='records')
-            print(data)
-            print(filtered_universities)
+           
+            #print(filtered_universities)
 
 
             universities['score'] = 0
@@ -227,8 +227,8 @@ def addUni(request):
             user2.save()
         for uni in user2.universities_saved.all():
             print(uni.name)
-        uni = savedUniversities.objects.get(name=name)
-        print(uni.acc)
+        #uni = savedUniversities.objects.get(name=name)
+        #print(uni.acc)
         user2 = User.objects.get(id=user2.id)
         user2 = UserSerializer(user2)
         print(user2.data)
@@ -267,20 +267,22 @@ def removeUni(request):
     body = json.loads(request.body)
     
     print("body = ", body)
-    uni_id = body.get("id")
+    uni_id = body["university"].get("rank")
 
-    user2 = User.objects.get(id= user.id)
+    user2 = User.objects.get(id=user.id)
     lista = []
     lista2 = []
     for uni in user2.universities_saved.all():
-        if(uni_id == uni.id):
+        
+        if(uni_id == uni.rank):
             continue
         lista2.append(uni)
         uni = SavedUniversitySerializer(uni)
         lista.append(uni.data)
-
+    print(lista)
     user2.universities_saved.set(lista2)
     user2.save()
+    user2 = User.objects.get(id=user.id)
     user2 = UserSerializer(user2)
     return JsonResponse({'status': 'success', 'data': user2.data}, status=200)
 
