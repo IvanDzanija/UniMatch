@@ -53,7 +53,7 @@ Luka Alfirević -- luka.alfirevic@fer.unizg.hr;
 Karlo Bašić -- karlo.basic@fer.unizg.hr;
 Rita Zonjić -- rita.zonjic@fer.unizg.hr
 Adam Šinjori -- adam.sinjori@fer.unizg.hr;
-Džanija Ivan -- ivan.dzanija@fer.hr;
+Džanija Ivan -- ivan.dzanija@fer.unizg.hr;
 
 
 
