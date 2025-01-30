@@ -2,7 +2,8 @@
     <div class="left">
       <img class="logo" src="logo2.png" alt="Logo" />
       <a routerLink="/">Home</a>
-      <a routerLink="/form">Form</a>
+      <a *ngIf="user$ | async as user" routerLink="/search-history">History</a>
+      <a *ngIf="!(user$ | async)" routerLink="/login">History</a>
       <a *ngIf="user$ | async as user" routerLink="/saved">Saved</a>
       <a *ngIf="!(user$ | async)" routerLink="/login">Saved</a>
     </div>

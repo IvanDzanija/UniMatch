@@ -1,6 +1,6 @@
 import { Injectable } from '@angular/core';
 import { inputInformation } from '../form-input.model';
-import { HttpClient } from '@angular/common/http';
+import { HttpClient, HttpHeaders } from '@angular/common/http';
 import { University } from '../top-list/toplist-output.model';
 
 @Injectable({
@@ -20,12 +20,17 @@ export class FormService {
   // }
 
   toPost(info: inputInformation) {
+    const authToken = localStorage.getItem('jwt');
+    let headers = new HttpHeaders();
+
+    if (authToken) {
+        headers = headers.set('Authorization', `Bearer ${authToken}`);
+    }
 
 
     return this.http.post<{status:string, data:University[]}>('http://localhost:8000/api/forma/',{ info},{   //šaljemo json od info na api-server i logiramo response
 
-      headers: { 'Content-Type': 'application/json' }
-    });
+      headers});
   }
 
   readonly safetyLevels = [
