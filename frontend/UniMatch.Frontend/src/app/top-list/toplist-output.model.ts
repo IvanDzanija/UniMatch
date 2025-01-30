@@ -1,14 +1,13 @@
 export type University = {
     name: string;
     country: string;
-   // city: string; //--
     rank: number;
     acc: number;
     estimatedCost: number; //tuition
-    major: string; 
+    major: string;
     website: string;
     choiceNo: number;
     lat: number,
-    lng:number;
-    id:number;
+    lng: number;
+    id: number;
 }

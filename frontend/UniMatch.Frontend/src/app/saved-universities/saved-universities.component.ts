@@ -12,10 +12,10 @@ import { AuthService } from '../auth.service';
 import { User } from '../registration/registration.output.model';
 
 @Component({
-    selector: 'app-saved-universities',
-    imports: [CommonModule, SavedUniCardComponent, HeaderComponent, GoogleMapsModule],
-    standalone:true,
-    template: `
+  selector: 'app-saved-universities',
+  imports: [CommonModule, SavedUniCardComponent, HeaderComponent, GoogleMapsModule],
+  standalone: true,
+  template: `
   <app-header></app-header>
     <div>
     <h2 class="header">
@@ -69,7 +69,7 @@ import { User } from '../registration/registration.output.model';
   </div>
    -->
   `,
-    styles: `
+  styles: `
   * {
   font-family: 'Poppins', sans-serif;
   }
@@ -153,10 +153,10 @@ export class SavedUniversitiesComponent {
   };
 
   trackBySavedUni(index: number, savedUni: SavedUniversity): number {
-    return savedUni.rank; 
+    return savedUni.rank;
   }
 
   trackByLatLng(index: number, location: google.maps.LatLngLiteral): string {
-    return `${location.lat},${location.lng}`; 
+    return `${location.lat},${location.lng}`;
   }
 }

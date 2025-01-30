@@ -1,5 +1,5 @@
 body{
-    background-color: #5cb6f9;
+    background-color: #f4f8fc;
     margin: 0px;
 }
 
@@ -9,9 +9,9 @@ body{
     justify-content:space-around;
 
 }
-.intro-container * {
+.intro-container  {
     font-family: 'Poppins';
-    color: white;
+    color: #12229d;
 }
 .text-container {
     display:flex;
@@ -33,16 +33,24 @@ body{
     text-align: center;
 }
 .to-form {
-    background-color: #050a30;
+    background-color: #12229D;
+    color: white;
+    padding: 12px 24px;
     font-size: 16px;
-    padding: 1.5em 3em 1.5em 3em;
-    border-radius: 20%;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
 }
-.to-form a:link{
+
+.to-form a{
+    color: white;
     text-decoration: none;
 }
-.to-form a:hover {
-    text-decoration: underline;
+.to-form:hover {
+    background-color: #2a3bdc;
+    box-shadow: 0px 6px 10px rgba(0, 0, 0, 0.15);
 }
 
 .image-container {
@@ -57,16 +65,18 @@ img {
 }
 
 hr.divider {
+    background-color: #f4f8fc;
     padding: 20px;
     border: none;
-    border-top: 5px double #fafffc;
-    border-bottom: 5px double #fafffc;
-    color: #fafffc;
+    border-top: 5px double #5cb6f9;
+    border-bottom: 5px double #5cb6f9;
+    color: #5cb6f9;
     text-align: center;
     margin: 30px;
   }
   
   hr.divider:after {
+    background-color: #f4f8fc;
     content: "★ ★ ★ ★ ★";
     display: inline-block;
     position: relative;
@@ -74,5 +84,5 @@ hr.divider {
     font-size: 1.75em;
     padding: 0 0.5em;
     font-weight: normal;
-    background-color: #5cb6f9;
+    background-color: white;
   }
