@@ -255,7 +255,7 @@ export class SearchHistoryComponent {
 
   }
 
-  ngnInit() {
+  ngOnInit() {
     this.service.getItems().subscribe({
       next: (items: SearchHistoryItem[]) => {
         this.searchItems2= items;               //pri refreshu se dohvaća povijest sa backenda
