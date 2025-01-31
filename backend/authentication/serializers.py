@@ -1,6 +1,6 @@
 from rest_framework import serializers
 from .models import User  
-from api.models import savedUniversities, Forma  
+from api.models import savedUniversities
 
 class SavedUniversitySerializer(serializers.ModelSerializer):
     class Meta:

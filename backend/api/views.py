@@ -3,16 +3,24 @@ from django.http import HttpResponse
 from django.shortcuts import render
 import json
 import pandas as pd 
-from .models import Forma
+from .models import SearchHistoryItem
 import os
 # Create your views here.
+from rest_framework_simplejwt.tokens import AccessToken
 from django.views.decorators.csrf import csrf_exempt
 from rest_framework.decorators import api_view, permission_classes
 from rest_framework.permissions import IsAuthenticated
-from .models import savedUniversities
+from .models import savedUniversities,Uni
 from authentication.models import User
+from .serializers import SearchHistoryItemSerializer
 
 from authentication.serializers import UserSerializer,SavedUniversitySerializer
+
+
+from .forms import Forma
+
+
+
 
 def load_data():
     dataset_path = os.path.abspath(
@@ -48,9 +56,103 @@ def forma(request):
         try:
             data = json.loads(request.body)
             print(data)
-           
+            flag = False
+            auth_header = request.headers.get('Authorization')
+
+            if auth_header and  auth_header.startswith('Bearer '):
+                 flag = True
+
+        # Get the actual token string
+            token = auth_header.split(' ')[1]
+
+
+            # Decode and verify the JWT token
+            decoded_token = AccessToken(token)
+            print(decoded_token.payload)
+            user_id = decoded_token['user_id']  # Extract user info
+            
+            
             universities = load_data()
             index_complete = load_date2()
+            if(flag is True):
+                continent = data["info"].get('continent')
+                rankMin = data["info"].get('rankMin')
+                rankMax = data["info"].get('rankMax')
+                rankPrio = data["info"].get('rankPrio')
+                safetyMin= data["info"].get('safetyMin')
+                safetyMax= data["info"].get('safetyMax')
+                safetyPrio = data["info"].get('safetyPrio')
+            
+                accMin = data["info"].get('accMin')
+                accMax = data["info"].get('accMax')
+                accPrio = data["info"].get('accPrio')
+                ISRMin = data["info"].get('ISRMin')
+                ISRMax = data["info"].get('ISRMax')
+                ISRPrio = data["info"].get('ISRPrio')
+                CoLMin = data["info"].get('CoLMin')
+                CoLMax = data["info"].get('CoLMax')
+                CoLPrio = data["info"].get('CoLPrio')
+                rentMin = data["info"].get('rentMin')
+                rentMax = data["info"].get('rentMax')
+                rentPrio = data["info"].get('rentPrio')
+                groceryMin = data["info"].get('groceryMin')
+                groceryMax = data["info"].get('groceryMax')
+                groceryPrio = data["info"].get('groceryPrio')
+                transportMin=  data["info"].get('transportMin')
+                transportMax = data["info"].get('transportMax')
+                transportPrio = data["info"].get('transportPrio')
+                recreationMin = data["info"].get('recreationMin')
+                recreationMax = data["info"].get('recreationMax')
+                recreationPrio = data["info"].get('recreationPrio')
+            
+                healthcareBudgetMin = data["info"].get('healthcareBudgetMin')
+                healthcareBudgetMax = data["info"].get('healthcareBudgetMax')
+                healthcareBudgetPrio = data["info"].get('healthcareBudgetPrio')
+                tuitionBudgetMin = data["info"].get('tuitionBudgetMin')
+                tuitionBudgetMax = data["info"].get('tuitionBudgetMax')
+                tuitionBudgetPrio = data["info"].get('tuitionBudgetPrio')
+                major = data["info"].get('major')
+                new_form = Forma(
+      continent=continent,
+      rankMin=rankMin,
+      rankMax=rankMax,
+      rankPrio=rankPrio,
+      safetyMin=safetyMin,
+      safetyMax=safetyMax,
+      safetyPrio=safetyPrio,
+      accMin=accMin,
+      accMax=accMax,
+      accPrio=accPrio,
+      ISRMin=ISRMin,
+      ISRMax=ISRMax,
+      ISRPrio=ISRPrio,
+      CoLMin=CoLMin,
+      CoLMax=CoLMax,
+      CoLPrio=CoLPrio,
+      rentMin=rentMin,
+      rentMax=rentMax,
+      rentPrio=rentPrio,
+      groceryMin=groceryMin,
+      groceryMax=groceryMax,
+      groceryPrio=groceryPrio,
+      transportMin=transportMin,
+      transportMax=transportMax,
+      transportPrio=transportPrio,
+      recreationMin=recreationMin,
+      recreationMax=recreationMax,
+      recreationPrio=recreationPrio,
+      healthcareBudgetMin=healthcareBudgetMin,
+      healthcareBudgetMax=healthcareBudgetMax,
+      healthcareBudgetPrio=healthcareBudgetPrio,
+      tuitionBudgetMin=tuitionBudgetMin,
+      tuitionBudgetMax=tuitionBudgetMax,
+      tuitionBudgetPrio=tuitionBudgetPrio,
+      major=major
+   )            
+                
+                
+                searchItem = SearchHistoryItem.objects.create(inputInformation=new_form,user_id=user_id)
+                searchItem.save()
 
             safety_mapping = {
                 'low-safety': 0,
@@ -100,6 +202,8 @@ def forma(request):
             healthcare_prio = data["info"].get('healthcareBudgetPrio')
             transport_prio = data["info"].get('transportPrio')
 
+
+           
             priority_mapping = {
                 'Ranking': rank_prio,
                 'Tuition': tuition_prio,
@@ -162,6 +266,14 @@ def forma(request):
             filtered_universities = top_universities.to_dict(orient='records')
             new_filtered_universities = []
             brojac = 1
+            
+            searchItem = SearchHistoryItem.objects.filter(user_id=user_id).last()
+            if searchItem:
+    # Proceed with logic
+                print(searchItem)
+            else:
+                print("No search history found for this user.")
+
             for uni in filtered_universities:
                 uni2  = universities[universities['Ranking']==uni.get('Ranking')]
                 lat = uni2['Latitude'].iloc[0]
@@ -180,9 +292,15 @@ def forma(request):
                     'lng':float(lng)
                     }
                 )
+                if(flag is True):
+                    uni3 = Uni(name=uni.get("University"), country = uni.get("Country"),rank=uni.get("Ranking"),acc=uni.get("AcceptanceRate"),estimatedCost=uni.get("Tuition"),major=major,website=uni.get("Link"),choiceNo=brojac,lat=float(lat),lng=float(lng))
+                    uni3.save()
+                    searchItem.results.add(uni3)
                 brojac+=1
             #print("Filtered unis: ")
             print(new_filtered_universities)
+            
+
             return JsonResponse({'status': 'success', 'data': new_filtered_universities}, status=201)
 
         except json.JSONDecodeError:
@@ -308,3 +426,23 @@ def showUniInfo(request, rank):
     
     print(row)
     return JsonResponse({'status': "success", 'data': row_dict})
+
+
+@csrf_exempt
+@api_view(['GET'])
+@permission_classes([IsAuthenticated])
+def searchHistory(request):
+    print("Tu sam")
+    user = request.user
+
+    searchItem = SearchHistoryItem.objects.filter(user_id=user.id)
+    print(searchItem)
+    polje = []
+    for item in searchItem:
+        searchItem = SearchHistoryItemSerializer(item)
+        polje.append(searchItem.data)
+        print(searchItem.data)
+        print()
+        print()
+    #print(polje)
+    return JsonResponse(polje, safe=False)

@@ -2,7 +2,7 @@ from django.db import models
 from django.contrib.auth.models import AbstractUser, BaseUserManager
 from django.contrib.auth.hashers import make_password
 
-from api.models import savedUniversities,Forma
+from api.models import savedUniversities
 
 class UserManager(BaseUserManager):
     def create_user(self,email, username, password,**extra_fields):

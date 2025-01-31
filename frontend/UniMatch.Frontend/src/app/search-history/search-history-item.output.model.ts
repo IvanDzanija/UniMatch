@@ -5,4 +5,5 @@ export type SearchHistoryItem = {
     id: number; //
     inputInformation: inputInformation;
     results: University[];
+    user_id: number;
 }
