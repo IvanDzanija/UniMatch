@@ -181,7 +181,7 @@ export class UniversityInfoComponent {
   service = inject(UniversityInfoService);
   university = signal<UniversityInfo | undefined>(undefined);
   info: UniversityInfo = {
-    name: 'University', country: 'Country', costOfLiving: 50000, rank: 1, acceptanceRate: 90, estimatedCost: 50000, region: 'Region', internationalStudentRatio: 90, tuition: 50000, safetyIndex: 22, rentCost: 50000, groceryCost: 50000, recreationCost: 50000, healthcareCost: 50000, transportCost: 50000, computerScience: true, business: false, economics: false, psychology: true, biology: false, law: false, medicine: false, mathematics: false, art: false, physics: false, website: 'https://www.harvard.edu'
+    id:12,name: 'University', country: 'Country', costOfLiving: 50000, rank: 1, acceptanceRate: 90, estimatedCost: 50000, region: 'Region', internationalStudentRatio: 90, tuition: 50000, safetyIndex: 22, rentCost: 50000, groceryCost: 50000, recreationCost: 50000, healthcareCost: 50000, transportCost: 50000, computerScience: true, business: false, economics: false, psychology: true, biology: false, law: false, medicine: false, mathematics: false, art: false, physics: false, website: 'https://www.harvard.edu'
   };
   //random = signal<UniversityInfo>(this.info);   // NE BRISATI KOMENTARE!!!
 

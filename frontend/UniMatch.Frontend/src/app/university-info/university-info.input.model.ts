@@ -1,4 +1,5 @@
 export type UniversityInfo = {
+    id:number,
     country: string,
     region: string,
     name: string,

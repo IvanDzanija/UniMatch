@@ -407,9 +407,11 @@ def removeUni(request):
 @csrf_exempt
 @api_view(['GET'])
 #@permission_classes([IsAuthenticated])
-def showUniInfo(request, name):
-    print(f"University Name Passed: {name}")
+def showUniInfo(request):
+    
     data = load_data()
+    body =json.loads(request.body)
+    name = body.get("name")
     print("Data Loaded")
 
     # Ensure University names are stripped and case-insensitive
@@ -456,6 +458,7 @@ def showUniInfo(request, name):
         physics=bool(row_dict['Physics']),
     )
 
+    university.save()
     # Serialize and return response
     serializer = UniversitySerializer(university)
     return JsonResponse(serializer.data)
