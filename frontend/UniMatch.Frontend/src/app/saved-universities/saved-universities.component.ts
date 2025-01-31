@@ -10,10 +10,11 @@ import { GoogleMapsModule } from '@angular/google-maps';
 import { map, Observable, tap } from 'rxjs';
 import { AuthService } from '../auth.service';
 import { User } from '../registration/registration.output.model';
+import { MatIconModule } from '@angular/material/icon';
 
 @Component({
   selector: 'app-saved-universities',
-  imports: [CommonModule, SavedUniCardComponent, HeaderComponent, GoogleMapsModule],
+  imports: [CommonModule, SavedUniCardComponent, HeaderComponent, GoogleMapsModule, MatIconModule],
   standalone: true,
   template: `
   <app-header></app-header>
@@ -40,11 +41,17 @@ import { User } from '../registration/registration.output.model';
     
   <div class="saved-container">
     <div class="icons">
-    <i class="fa-solid fa-building-columns"></i>
+    <!--<i class="fa-solid fa-building-columns"></i>
     <i class="fa-solid fa-location-dot"></i> 
     <i class="fa-solid fa-ranking-star"></i>
     <i class="fa-solid fa-percent"></i>
     <i class="fa-solid fa-euro-sign"></i>
+-->
+    <mat-icon>school</mat-icon>
+    <mat-icon>location_on</mat-icon>
+    <mat-icon>bar_chart</mat-icon>
+    <mat-icon>percent</mat-icon>
+    <mat-icon>euro</mat-icon>
     </div>
     
    
@@ -77,12 +84,15 @@ import { User } from '../registration/registration.output.model';
   margin-bottom: 30px;
   opacity: 0.8; 
 }
+.mat-icon {
+  font-family: 'Material Icons', sans-serif !important;
+}
 
 .icons {
   display: grid;
   grid-template-columns: 25% 12% 12% 9% 29%;
 
-  > i {
+  > mat-icon {
     justify-self: center;
   }
   
