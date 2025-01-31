@@ -1,5 +1,5 @@
 from rest_framework import serializers
-from .models import SearchHistoryItem, Uni
+from .models import SearchHistoryItem, Uni,University
 from .forms import Forma  # Import Forma class
 
 
@@ -43,6 +43,10 @@ class FormaSerializer(serializers.Serializer):
     tuitionBudgetPrio = serializers.IntegerField(required=False, allow_null=True)
     major = serializers.CharField(required=False, allow_blank=True)  # String field, allows empty strings
 
+class UniversitySerializer(serializers.ModelSerializer):
+    class Meta:
+        model = University
+        fields = '__all__'  
 
 class UniSerializer(serializers.ModelSerializer):
     class Meta:
@@ -50,8 +54,8 @@ class UniSerializer(serializers.ModelSerializer):
         fields = ['id', 'name', 'country', 'rank', 'acc', 'estimatedCost', 'major', 'website', 'choiceNo', 'lng', 'lat']
 
 class SearchHistoryItemSerializer(serializers.ModelSerializer):
-    inputInformation = FormaSerializer() # Serialize Forma object as JSON
-    results = UniSerializer(many=True)  # Many-to-many relation with Uni
+    inputInformation = FormaSerializer() 
+    results = UniSerializer(many=True)  
 
     class Meta:
         model = SearchHistoryItem

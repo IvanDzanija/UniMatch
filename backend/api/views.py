@@ -10,9 +10,9 @@ from rest_framework_simplejwt.tokens import AccessToken
 from django.views.decorators.csrf import csrf_exempt
 from rest_framework.decorators import api_view, permission_classes
 from rest_framework.permissions import IsAuthenticated
-from .models import savedUniversities,Uni
+from .models import savedUniversities,Uni,University
 from authentication.models import User
-from .serializers import SearchHistoryItemSerializer
+from .serializers import SearchHistoryItemSerializer,UniversitySerializer
 
 from authentication.serializers import UserSerializer,SavedUniversitySerializer
 
@@ -406,26 +406,60 @@ def removeUni(request):
 
 @csrf_exempt
 @api_view(['GET'])
-@permission_classes([IsAuthenticated])
-def showUniInfo(request, rank):
-    print(rank)
+#@permission_classes([IsAuthenticated])
+def showUniInfo(request, name):
+    print(f"University Name Passed: {name}")
     data = load_data()
-    
-   
-    data['ranking'] = pd.to_numeric(data['ranking'], errors='coerce')
-    
+    print("Data Loaded")
 
-    row = data[data['ranking'] == rank]
-    
-    
+    # Ensure University names are stripped and case-insensitive
+    data['University'] = data['University'].str.strip().str.lower()
+    name = name.strip().lower()
+
+    # Find the row where the university name matches
+    row = data[data['University'] == name]
+
     if row.empty:
-        return JsonResponse({'status': "error", 'message': f"No university found with rank {rank}"})
-    
-    
-    row_dict = row.to_dict(orient='records')[0]  
-    
-    print(row)
-    return JsonResponse({'status': "success", 'data': row_dict})
+        return JsonResponse({'status': "error", 'message': f"No university found for name {name}"})
+
+    # Convert row to dictionary
+    row_dict = row.to_dict(orient='records')[0]
+    print(row_dict)  # Debugging
+
+    # Create University object
+    university = University(
+        country=row_dict['Country'],
+        region=row_dict['region'],
+        name=row_dict['University'],
+        rank=row_dict['CollegeRank'],  # Keep the rank but use name for lookup
+        tuition=row_dict['Tuition'],
+        internationalStudentRatio=row_dict['PercOfIntStud'],
+        acceptanceRate=row_dict['AcceptanceRate'],
+        safetyIndex=row_dict['SafetyIndex'],
+        costOfLiving=row_dict['LivingCost'],
+        rentCost=row_dict['RentCost'],
+        groceryCost=row_dict['GroceriesCost'],
+        transportCost=row_dict['TransportCost'],
+        recreationCost=row_dict['RecreationCost'],
+        healthcareCost=row_dict['HealthcareCost'],
+        estimatedCost=row_dict['LivingCost'] + row_dict['RentCost'] + row_dict['GroceriesCost'],
+        website=row_dict['Link'],
+        computerScience=bool(row_dict['Computer Science']),
+        business=bool(row_dict['Business']),
+        economics=bool(row_dict['Economics']),
+        psychology=bool(row_dict['Psychology']),
+        biology=bool(row_dict['Biology']),
+        law=bool(row_dict['Law']),
+        medicine=bool(row_dict['Medicine']),
+        mathematics=bool(row_dict['Mathematics']),
+        art=bool(row_dict['Art']),
+        physics=bool(row_dict['Physics']),
+    )
+
+    # Serialize and return response
+    serializer = UniversitySerializer(university)
+    return JsonResponse(serializer.data)
+
 
 
 @csrf_exempt
