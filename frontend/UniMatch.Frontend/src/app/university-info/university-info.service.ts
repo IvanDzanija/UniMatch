@@ -10,7 +10,7 @@ export class UniversityInfoService {
   constructor() { }
   http = inject(HttpClient)
 
-  showInfo(rank: number) {
-    return this.http.get<UniversityInfo>(`http://localhost:8000/api/university/${rank}`);
+  showInfo(name: string) {
+    return this.http.post<UniversityInfo>(`http://localhost:8000/api/university/`,{name});
   }
 }

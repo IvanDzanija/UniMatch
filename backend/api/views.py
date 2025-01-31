@@ -405,7 +405,7 @@ def removeUni(request):
     return JsonResponse({'status': 'success', 'data': user2.data}, status=200)
 
 @csrf_exempt
-@api_view(['GET'])
+@api_view(['POST'])
 #@permission_classes([IsAuthenticated])
 def showUniInfo(request):
     

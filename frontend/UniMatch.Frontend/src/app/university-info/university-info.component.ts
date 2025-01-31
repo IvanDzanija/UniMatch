@@ -188,7 +188,7 @@ export class UniversityInfoComponent {
   ngOnInit() {
     console.log(this.data);
     //this.university.set(this.random());
-    this.service.showInfo(this.data!.rank).subscribe((res) => { this.university.set(res) });
+    this.service.showInfo(this.data!.name).subscribe((res) => { this.university.set(res) });
   }
 
   closeDialog() {
