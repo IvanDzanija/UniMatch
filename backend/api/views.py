@@ -433,7 +433,7 @@ def showUniInfo(request):
         country=row_dict['Country'],
         region=row_dict['region'],
         name=row_dict['University'],
-        rank=row_dict['CollegeRank'],  # Keep the rank but use name for lookup
+        rank=row_dict['Ranking'],  # Keep the rank but use name for lookup
         tuition=row_dict['Tuition'],
         internationalStudentRatio=row_dict['PercOfIntStud'],
         acceptanceRate=row_dict['AcceptanceRate'],
