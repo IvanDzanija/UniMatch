@@ -1,0 +1,9 @@
+university,ranking,tuition,percOfIntStud,acceptanceRate,safetyIndex,livingCost,rentCost,groceriesCost,recreationCost,healthcareCost,transportCost,link,Computer Science,Business,Economics,Psychology,Biology,Law,Medicine,Mathematics,Art,Physics
+University of Zagreb,800,2000,10%,50%,75,600,300,200,80,150,30,https://www.unizg.hr/,1,1,1,1,1,1,1,1,1,1
+University of Vienna,150,1500,25%,40%,80,900,600,250,100,200,30,https://www.univie.ac.at/,1,1,1,1,1,1,1,1,1,1
+Technical University of Munich,50,3000,30%,8%,85,900,700,200,100,200,70,https://www.tum.de/,1,1,1,1,1,1,1,1,1,1
+KU Leuven,80,4000,35%,50%,85,900,600,250,100,200,50,https://www.kuleuven.be/,1,1,1,1,1,1,1,1,1,1
+The University of Melbourne,41,25000,48%,70%,85,1200,800,300,150,500,80,https://www.unimelb.edu.au/,1,1,1,1,1,1,1,1,1,1
+University of Iceland,400,0,15%,60%,90,1100,800,300,150,300,50,https://english.hi.is/,1,1,1,1,1,1,1,1,1,1
+Massachusetts Institute of Technology (MIT),1,53000,33%,7%,70,1800,1500,350,200,1200,90,https://www.mit.edu/,1,1,1,1,1,0,1,1,1,1
+Imperial College London,7,35000,60%,14%,80,1500,1200,300,150,300,100,https://www.imperial.ac.uk/,1,1,1,1,1,0,1,1,1,1
