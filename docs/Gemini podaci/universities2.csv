@@ -1,0 +1,33 @@
+country,university,collegeRank,tuition,percOfIntStud,acceptanceRate,avgSafetyIndex,costOfLiving,rent,groceries,recreationCost,healthcarePrice,avgMntTransportCost,link,Computer Science,Business,Economics,Psychology,Biology,Law,Medicine,Mathematics,Art,Physics
+Albania,University of Tirana,1001-1200,2000,5,60,65,500,250,150,50,300,30,https://unitir.edu.al/en/,1,1,1,1,1,1,1,1,1,1
+Algeria,University of Science and Technology Houari Boumediene,1001-1200,500,10,40,55,600,300,180,60,350,40,https://www.usthb.dz/en/,1,1,1,0,1,0,1,1,0,1
+Argentina,University of Buenos Aires,67,100,15,30,60,700,350,200,70,400,50,https://www.uba.ar/internacionales/index_ingles.php,1,1,1,1,1,1,1,1,1,1
+Armenia,Yerevan State University,1201-1400,1500,8,50,70,450,200,130,40,250,25,https://ysu.am/en/,1,1,1,1,1,1,1,1,1,1
+El Salvador,University of El Salvador,1201-1400,800,3,70,50,550,280,160,55,320,35,http://www.ues.edu.sv/index.php/en/,1,1,1,1,1,1,1,1,1,1
+Libya,University of Tripoli,1201-1400,300,5,80,40,650,320,190,65,380,45,http://uot.edu.ly/en/,1,1,1,0,1,1,1,1,0,1
+Russia,Lomonosov Moscow State University,84,6000,18,25,55,800,400,220,80,450,60,https://www.msu.ru/en/,1,1,1,1,1,1,1,1,1,1
+Saudi Arabia,King Abdulaziz University,143,8000,20,35,75,900,450,250,90,500,70,https://www.kau.edu.sa/Home.aspx?Lng=EN,1,1,1,1,1,1,1,1,1,1
+Serbia,University of Belgrade,801-1000,2500,10,45,68,550,280,160,55,320,35,https://bg.ac.rs/en/,1,1,1,1,1,1,1,1,1,1
+Singapore,National University of Singapore,8,30000,30,8,85,1500,800,400,150,900,120,https://www.nus.edu.sg/oam/apply-to-nus,1,1,1,1,1,1,1,1,1,1
+Slovakia,Comenius University in Bratislava,801-1000,4000,12,50,70,600,300,180,60,350,40,https://uniba.sk/en/,1,1,1,1,1,1,1,1,1,1
+Slovenia,University of Ljubljana,601-650,3500,15,40,75,650,320,190,65,380,45,https://www.uni-lj.si/eng/,1,1,1,1,1,1,1,1,1,1
+South Africa,University of Cape Town,173,6000,20,30,60,750,380,210,75,420,55,http://www.uct.ac.za/,1,1,1,1,1,1,1,1,1,1
+South Korea,Seoul National University,29,5000,18,15,80,1200,600,300,120,700,90,https://en.snu.ac.kr/,1,1,1,1,1,1,1,1,1,1
+Spain,Complutense University of Madrid,206,1500,10,60,70,700,350,200,70,400,50,https://www.ucm.es/english/,1,1,1,1,1,1,1,1,1,1
+Sri Lanka,University of Colombo,1001-1200,1000,5,65,65,450,200,130,40,250,25,https://cmb.ac.lk/international/,1,1,1,1,1,1,1,1,1,1
+Syria,Damascus University,1201-1400,500,2,80,35,500,250,150,50,300,30,http://damascusuniversity.edu.sy/index.php?lang=en,1,1,1,1,1,1,1,1,1,1
+Taiwan,National Taiwan University,69,4000,20,20,80,1000,500,250,100,600,80,https://www.ntu.edu.tw/english/,1,1,1,1,1,1,1,1,1,1
+Tanzania,University of Dar es Salaam,1201-1400,1500,8,70,55,400,180,120,35,220,20,https://www.udsm.ac.tz/web/index.php/international-students,1,1,1,1,1,1,1,1,1,1
+Thailand,Chulalongkorn University,211,3000,15,40,70,800,400,220,80,450,60,https://www.chula.ac.th/en/,1,1,1,1,1,1,1,1,1,1
+Trinidad and Tobago,University of the West Indies, St. Augustine Campus,1201-1400,5000,10,60,65,850,420,240,85,480,65,https://sta.uwi.edu/international,1,1,1,1,1,1,1,1,1,1
+Tunisia,University of Tunis El Manar,801-1000,1000,8,50,60,550,280,160,55,320,35,https://www.utm.rnu.tn/en/,1,1,1,1,1,1,1,1,1,1
+Turkey,Istanbul University,451-500,1500,15,30,65,600,300,180,60,350,40,https://www.istanbul.edu.tr/en,1,1,1,1,1,1,1,1,1,1
+Uganda,Makerere University,1201-1400,1500,5,70,50,400,180,120,35,220,20,https://mak.ac.ug/,1,1,1,1,1,1,1,1,1,1
+Ukraine,Taras Shevchenko National University of Kyiv,401-450,3000,12,40,60,500,250,150,50,300,30,http://www.univ.kiev.ua/en/,1,1,1,1,1,1,1,1,1,1
+United Arab Emirates,United Arab Emirates University,280,7000,25,20,80,1000,500,250,100,600,80,https://www.uaeu.ac.ae/en/,1,1,1,1,1,1,1,1,1,1
+United States,Massachusetts Institute of Technology,1,57000,34,4,85,1800,1000,500,200,1200,150,https://www.mit.edu/,1,1,1,1,1,1,1,1,1,1
+Uruguay,University of the Republic (Uruguay),801-1000,1000,5,60,60,600,300,180,60,350,40,https://www.universidad.edu.uy/preguntas-frecuentes/,1,1,1,1,1,1,1,1,1,1
+Uzbekistan,National University of Uzbekistan,701-750,2000,8,50,70,400,180,120,35,220,20,https://nuu.uz/en/,1,1,1,1,1,1,1,1,1,1
+Venezuela,Central University of Venezuela,1001-1200,500,3,70,45,450,220,140,45,280,25,https://ucv.ve/,1,1,1,1,1,1,1,1,1,1
+Vietnam,Hanoi University of Science and Technology,801-1000,1000,5,60,65,500,250,150,50,300,30,https://en.hust.edu.vn/,1,1,1,1,1,1,1,1,1,1
+Zimbabwe,University of Zimbabwe,1201-1400,1500,8,70,50,450,220,140,45,280,25,https://www.uz.ac.zw/,1,1,1,1,1,1,1,1,1,1

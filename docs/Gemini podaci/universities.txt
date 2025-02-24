@@ -1,0 +1,1535 @@
+Country: Canada
+University: University of Toronto
+CollegeRank: 34
+Tuition (EUR/year): 30,000
+Percentage of International Students: 25%
+Acceptance Rate: 43%
+Average Safety Index (0-100): 80
+Cost of Living (EUR/month): 1,500
+Rent (EUR/month): 1,000
+Groceries (EUR/month): 300
+Recreation Cost (EUR/month): 150
+Healthcare Price (EUR/year): 1,000
+Average Monthly Transportation Cost (EUR/month): 80
+Link: https://www.utoronto.ca/
+Majors: Computer Science (1), Business (1), Economics (1), Psychology (1), Biology (1), Law (1), Medicine (1), Mathematics (1), Art (1), Physics (1)
+
+Country: UK
+University: University of Oxford
+CollegeRank: 3
+Tuition (EUR/year): 35,000
+Percentage of International Students: 40%
+Acceptance Rate: 17%
+Average Safety Index (0-100): 70
+Cost of Living (EUR/month): 1,600
+Rent (EUR/month): 1,000
+Groceries (EUR/month): 300
+Recreation Cost (EUR/month): 200
+Healthcare Price (EUR/year): 1,500
+Average Monthly Transportation Cost (EUR/month): 100
+Link: https://www.ox.ac.uk/
+Majors: Computer Science (1), Business (1), Economics (1), Psychology (1), Biology (1), Law (1), Medicine (1), Mathematics (1), Art (1), Physics (1)
+
+Country: Germany
+University: Technical University of Munich
+CollegeRank: 49
+Tuition (EUR/year): 0
+Percentage of International Students: 38%
+Acceptance Rate: 8%
+Average Safety Index (0-100): 75
+Cost of Living (EUR/month): 1,400
+Rent (EUR/month): 800
+Groceries (EUR/month): 300
+Recreation Cost (EUR/month): 150
+Healthcare Price (EUR/year): 800
+Average Monthly Transportation Cost (EUR/month): 70
+Link: https://www.tum.de/
+Majors: Computer Science (1), Business (1), Economics (1), Psychology (1), Biology (1), Law (0), Medicine (1), Mathematics (1), Art (0), Physics (1)
+
+Country: Australia
+University: University of Melbourne
+CollegeRank: 33
+Tuition (EUR/year): 40,000
+Percentage of International Students: 40%
+Acceptance Rate: 30%
+Average Safety Index (0-100): 80
+Cost of Living (EUR/month): 1,600
+Rent (EUR/month): 1,000
+Groceries (EUR/month): 300
+Recreation Cost (EUR/month): 200
+Healthcare Price (EUR/year): 1,200
+Average Monthly Transportation Cost (EUR/month): 100
+Link: https://www.unimelb.edu.au/
+Majors: Computer Science (1), Business (1), Economics (1), Psychology (1), Biology (1), Law (1), Medicine (1), Mathematics (1), Art (1), Physics (1)
+
+Country: France
+University: PSL Research University
+CollegeRank: 26
+Tuition (EUR/year): 3,000
+Percentage of International Students: 30%
+Acceptance Rate: 10%
+Average Safety Index (0-100): 65
+Cost of Living (EUR/month): 1,500
+Rent (EUR/month): 900
+Groceries (EUR/month): 300
+Recreation Cost (EUR/month): 200
+Healthcare Price (EUR/year): 1,000
+Average Monthly Transportation Cost (EUR/month): 80
+Link: https://psl.eu/en
+Majors: Computer Science (1), Business (1), Economics (1), Psychology (1), Biology (1), Law (1), Medicine (1), Mathematics (1), Art (1), Physics (1)
+
+Country: Netherlands
+University: Delft University of Technology
+CollegeRank: 61
+Tuition (EUR/year): 10,000
+Percentage of International Students: 25%
+Acceptance Rate: 20%
+Average Safety Index (0-100): 75
+Cost of Living (EUR/month): 1,400
+Rent (EUR/month): 800
+Groceries (EUR/month): 300
+Recreation Cost (EUR/month): 150
+Healthcare Price (EUR/year): 1,000
+Average Monthly Transportation Cost (EUR/month): 70
+Link: https://www.tudelft.nl/en/
+Majors: Computer Science (1), Business (0), Economics (0), Psychology (0), Biology (0), Law (0), Medicine (0), Mathematics (1), Art (0), Physics (1)
+
+Country: Switzerland
+University: ETH Zurich
+CollegeRank: 11
+Tuition (EUR/year): 1,500
+Percentage of International Students: 35%
+Acceptance Rate: 27%
+Average Safety Index (0-100): 85
+Cost of Living (EUR/month): 2,500
+Rent (EUR/month): 1,500
+Groceries (EUR/month): 400
+Recreation Cost (EUR/month): 300
+Healthcare Price (EUR/year): 2,000
+Average Monthly Transportation Cost (EUR/month): 100
+Link: https://ethz.ch/en.html
+Majors: Computer Science (1), Business (0), Economics (0), Psychology (0), Biology (1), Law (0), Medicine (0), Mathematics (1), Art (0), Physics (1)
+
+Country: Sweden
+University: Lund University
+CollegeRank: 95
+Tuition (EUR/year): 15,000
+Percentage of International Students: 20%
+Acceptance Rate: 25%
+Average Safety Index (0-100): 80
+Cost of Living (EUR/month): 1,200
+Rent (EUR/month): 700
+Groceries (EUR/month): 250
+Recreation Cost (EUR/month): 150
+Healthcare Price (EUR/year): 1,000
+Average Monthly Transportation Cost (EUR/month): 60
+Link: https://www.lunduniversity.lu.se/admissions/bachelors-and-masters-studies/bachelors-degree-studies
+Majors: Computer Science (1), Business (1), Economics (1), Psychology (1), Biology (1), Law (1), Medicine (1), Mathematics (1), Art (1), Physics (1)
+
+Country: Denmark
+University: University of Copenhagen
+CollegeRank: 69
+Tuition (EUR/year): 15,000
+Percentage of International Students: 15%
+Acceptance Rate: 15%
+Average Safety Index (0-100): 80
+Cost of Living (EUR/month): 1,500
+Rent (EUR/month): 900
+Groceries (EUR/month): 300
+Recreation Cost (EUR/month): 200
+Healthcare Price (EUR/year): 1,200
+Average Monthly Transportation Cost (EUR/month): 80
+Link: https://www.ku.dk/en
+Majors: Computer Science (1), Business (1), Economics (1), Psychology (1), Biology (1), Law (1), Medicine (1), Mathematics (1), Art (1), Physics (1)
+
+Country: Norway
+University: University of Oslo
+CollegeRank: 135
+Tuition (EUR/year): 0
+Percentage of International Students: 15%
+Acceptance Rate: 20%
+Average Safety Index (0-100): 80
+Cost of Living (EUR/month): 1,800
+Rent (EUR/month): 1,000
+Groceries (EUR/month): 350
+Recreation Cost (EUR/month): 250
+Healthcare Price (EUR/year): 1,000
+Average Monthly Transportation Cost (EUR/month): 70
+Link: https://www.uio.no/english/studies/programmes/
+Majors: Computer Science (1), Business (1), Economics (1), Psychology (1), Biology (1), Law (1), Medicine (1), Mathematics (1), Art (1), Physics (1)
+
+Country: Finland
+University: University of Helsinki
+CollegeRank: 106
+Tuition (EUR/year): 10,000
+Percentage of International Students: 10%
+Acceptance Rate: 15%
+Average Safety Index (0-100): 80
+Cost of Living (EUR/month): 1,400
+Rent (EUR/month): 800
+Groceries (EUR/month): 300
+Recreation Cost (EUR/month): 200
+Healthcare Price (EUR/year): 1,000
+Average Monthly Transportation Cost (EUR/month): 70
+Link: https://www.helsinki.fi/en/admissions-and-education/international-students/studies-available-english
+Majors: Computer Science (1), Business (1), Economics (1), Psychology (1), Biology (1), Law (1), Medicine (1), Mathematics (1), Art (1), Physics (1)
+
+Country: Belgium
+University: KU Leuven
+CollegeRank: 70
+Tuition (EUR/year): 5,000
+Percentage of International Students: 20%
+Acceptance Rate: 30%
+Average Safety Index (0-100): 75
+Cost of Living (EUR/month): 1,300
+Rent (EUR/month): 700
+Groceries (EUR/month): 250
+Recreation Cost (EUR/month): 150
+Healthcare Price (EUR/year): 1,000
+Average Monthly Transportation Cost (EUR/month): 60
+Link: https://www.kuleuven.be/programmes/search
+Majors: Computer Science (1), Business (1), Economics (1), Psychology (1), Biology (1), Law (1), Medicine (1), Mathematics (1), Art (1), Physics (1)
+
+Country: Austria
+University: University of Vienna
+CollegeRank: 151
+Tuition (EUR/year): 750
+Percentage of International Students: 25%
+Acceptance Rate: 30%
+Average Safety Index (0-100): 80
+Cost of Living (EUR/month): 1,400
+Rent (EUR/month): 800
+Groceries (EUR/month): 300
+Recreation Cost (EUR/month): 200
+Healthcare Price (EUR/year): 1,000
+Average Monthly Transportation Cost (EUR/month): 60
+Link: https://www.univie.ac.at/en/
+Majors: Computer Science (1), Business (1), Economics (1), Psychology (1), Biology (1), Law (1), Medicine (1), Mathematics (1), Art (1), Physics (1)
+
+Country: Azerbaijan
+University: Baku State University
+CollegeRank: 1500+ 
+Tuition (EUR/year): 2,500
+Percentage of International Students: 5%
+Acceptance Rate: 20%
+Average Safety Index (0-100): 70
+Cost of Living (EUR/month): 800
+Rent (EUR/month): 400
+Groceries (EUR/month): 200
+Recreation Cost (EUR/month): 100
+Healthcare Price (EUR/year): 500
+Average Monthly Transportation Cost (EUR/month): 30
+Link: http://bsu.edu.az/en/welcome_to_baku_state_university
+Majors: Computer Science (1), Business (1), Economics (1), Psychology (1), Biology (1), Law (1), Medicine (1), Mathematics (1), Art (1), Physics (1)
+
+Country: Bahamas
+University: University of The Bahamas
+CollegeRank: 0
+Tuition (EUR/year): 4,000
+Percentage of International Students: 10%
+Acceptance Rate: 60%
+Average Safety Index (0-100): 40
+Cost of Living (EUR/month): 1,800
+Rent (EUR/month): 1,000
+Groceries (EUR/month): 400
+Recreation Cost (EUR/month): 200
+Healthcare Price (EUR/year): 1,500
+Average Monthly Transportation Cost (EUR/month): 100
+Link: https://www.ub.edu.bs/
+Majors:  Computer Science (1), Business (1), Economics (0), Psychology (1), Biology (1), Law (0), Medicine (0), Mathematics (1), Art (1), Physics (0)
+
+Country: Bahrain
+University: University of Bahrain
+CollegeRank: 1000+ (estimated)
+Tuition (EUR/year): 5,000
+Percentage of International Students: 20% (estimate)
+Acceptance Rate: 70% (estimate)
+Average Safety Index (0-100): 75
+Cost of Living (EUR/month): 1,200
+Rent (EUR/month): 600
+Groceries (EUR/month): 250
+Recreation Cost (EUR/month): 150
+Healthcare Price (EUR/year): 1,000
+Average Monthly Transportation Cost (EUR/month): 50
+Link: https://www.uob.edu.bh/
+Majors: Computer Science (1), Business (1), Economics (1), Psychology (1), Biology (1), Law (1), Medicine (0), Mathematics (1), Art (1), Physics (1)
+
+Country: Bangladesh
+University: University of Dhaka
+CollegeRank: 1200+ (estimated)
+Tuition (EUR/year): 500
+Percentage of International Students: 1% (very low)
+Acceptance Rate: 10% (highly competitive)
+Average Safety Index (0-100): 60
+Cost of Living (EUR/month): 400
+Rent (EUR/month): 200
+Groceries (EUR/month): 100
+Recreation Cost (EUR/month): 50
+Healthcare Price (EUR/year): 300
+Average Monthly Transportation Cost (EUR/month): 20
+Link: https://en.wikipedia.org/wiki/University_of_Dhaka
+Majors: Computer Science (1), Business (1), Economics (1), Psychology (0), Biology (1), Law (1), Medicine (1), Mathematics (1), Art (1), Physics (1)
+
+Country: Barbados
+University: University of the West Indies, Cave Hill Campus
+CollegeRank: 0
+Tuition (EUR/year): 9,000
+Percentage of International Students: 15% (estimate)
+Acceptance Rate: 50% (estimate)
+Average Safety Index (0-100): 65
+Cost of Living (EUR/month): 1,500
+Rent (EUR/month): 800
+Groceries (EUR/month): 350
+Recreation Cost (EUR/month): 150
+Healthcare Price (EUR/year): 1,200
+Average Monthly Transportation Cost (EUR/month): 80
+Link: http://www.cavehill.uwi.edu/
+Majors: Computer Science (1), Business (1), Economics (1), Psychology (1), Biology (1), Law (1), Medicine (1), Mathematics (1), Art (0), Physics (0)
+
+Country: Belarus
+University: Belarusian State University
+CollegeRank: 800+ (estimated)
+Tuition (EUR/year): 2,000
+Percentage of International Students: 15% (estimate)
+Acceptance Rate: 40% (estimate)
+Average Safety Index (0-100): 75
+Cost of Living (EUR/month): 700
+Rent (EUR/month): 350
+Groceries (EUR/month): 150
+Recreation Cost (EUR/month): 100
+Healthcare Price (EUR/year): 500
+Average Monthly Transportation Cost (EUR/month): 40
+Link: https://bsu.by/en/
+Majors: Computer Science (1), Business (1), Economics (1), Psychology (1), Biology (1), Law (1), Medicine (0), Mathematics (1), Art (1), Physics (1)
+
+Country: Bolivia
+University: Universidad Mayor de San Andrés (UMSA)
+CollegeRank: 2500+ (estimated)
+Tuition (EUR/year): 1,000
+Percentage of International Students: 5% (estimate)
+Acceptance Rate: 60% (estimate)
+Average Safety Index (0-100): 55
+Cost of Living (EUR/month): 600
+Rent (EUR/month): 300
+Groceries (EUR/month): 150
+Recreation Cost (EUR/month): 80
+Healthcare Price (EUR/year): 400
+Average Monthly Transportation Cost (EUR/month): 30
+Link: https://www.umsa.bo/
+Majors:  Computer Science (1), Business (1), Economics (1), Psychology (1), Biology (0), Law (1), Medicine (1), Mathematics (1), Art (0), Physics (0)
+
+Country: Bosnia and Herzegovina
+University: University of Sarajevo
+CollegeRank: 0
+Tuition (EUR/year): 1,500
+Percentage of International Students: 5% (estimate)
+Acceptance Rate: 50% (estimate)
+Average Safety Index (0-100): 70
+Cost of Living (EUR/month): 700
+Rent (EUR/month): 350
+Groceries (EUR/month): 150
+Recreation Cost (EUR/month): 100
+Healthcare Price (EUR/year): 600
+Average Monthly Transportation Cost (EUR/month): 40
+Link: https://www.unsa.ba/en
+Majors: Computer Science (1), Business (1), Economics (1), Psychology (1), Biology (0), Law (1), Medicine (1), Mathematics (1), Art (1), Physics (0)
+
+Country: Botswana
+University: University of Botswana
+CollegeRank: 0
+Tuition (EUR/year): 3,000
+Percentage of International Students: 10% (estimate)
+Acceptance Rate: 40% (estimate)
+Average Safety Index (0-100): 60
+Cost of Living (EUR/month): 800
+Rent (EUR/month): 400
+Groceries (EUR/month): 200
+Recreation Cost (EUR/month): 100
+Healthcare Price (EUR/year): 700
+Average Monthly Transportation Cost (EUR/month): 50
+Link: https://www.ub.bw/
+Majors: Computer Science (1), Business (1), Economics (1), Psychology (1), Biology (1), Law (1), Medicine (0), Mathematics (1), Art (0), Physics (0)
+
+Country: Brazil
+University: University of São Paulo
+CollegeRank: 115
+Tuition (EUR/year): 1,000 (public universities are mostly free)
+Percentage of International Students: 5% (estimate)
+Acceptance Rate: 15% (highly competitive)
+Average Safety Index (0-100): 45 (safety varies greatly between cities)
+Cost of Living (EUR/month): 800
+Rent (EUR/month): 400
+Groceries (EUR/month): 200
+Recreation Cost (EUR/month): 100
+Healthcare Price (EUR/year): 600
+Average Monthly Transportation Cost (EUR/month): 40
+Link: https://www5.usp.br/english/institutional/
+Majors: Computer Science (1), Business (1), Economics (1), Psychology (1), Biology (1), Law (1), Medicine (1), Mathematics (1), Art (1), Physics (1)
+
+Country: Bulgaria
+University: Sofia University St. Kliment Ohridski
+CollegeRank: 800+ (estimated)
+Tuition (EUR/year): 2,000
+Percentage of International Students: 10% (estimate)
+Acceptance Rate: 40% (estimate)
+Average Safety Index (0-100): 70
+Cost of Living (EUR/month): 600
+Rent (EUR/month): 300
+Groceries (EUR/month): 150
+Recreation Cost (EUR/month): 80
+Healthcare Price (EUR/year): 500
+Average Monthly Transportation Cost (EUR/month): 30
+Link: https://www.uni-sofia.bg/eng
+Majors: Computer Science (1), Business (1), Economics (1), Psychology (1), Biology (1), Law (1), Medicine (0), Mathematics (1), Art (1), Physics (1)
+
+Country: Cambodia
+University: Royal University of Phnom Penh
+CollegeRank: 0 
+Tuition (EUR/year): 1,000
+Percentage of International Students: 5% (estimate)
+Acceptance Rate: 70% (estimate)
+Average Safety Index (0-100): 65
+Cost of Living (EUR/month): 500
+Rent (EUR/month): 250
+Groceries (EUR/month): 100
+Recreation Cost (EUR/month): 80
+Healthcare Price (EUR/year): 400
+Average Monthly Transportation Cost (EUR/month): 30
+Link: https://www.rupp.edu.kh/
+Majors: Computer Science (1), Business (1), Economics (1), Psychology (0), Biology (0), Law (1), Medicine (0), Mathematics (1), Art (1), Physics (0)
+
+Country: Cameroon
+University: University of Yaoundé I
+CollegeRank: 0
+Tuition (EUR/year): 500
+Percentage of International Students: 5% (estimate)
+Acceptance Rate: 60% (estimate)
+Average Safety Index (0-100): 50 (safety varies greatly between regions)
+Cost of Living (EUR/month): 500
+Rent (EUR/month): 200
+Groceries (EUR/month): 150
+Recreation Cost (EUR/month): 80
+Healthcare Price (EUR/year): 300
+Average Monthly Transportation Cost (EUR/month): 30
+Link: https://uy1.uninet.cm/
+Majors: Computer Science (1), Business (1), Economics (1), Psychology (0), Biology (1), Law (1), Medicine (1), Mathematics (1), Art (0), Physics (0)
+
+Country: Chile
+University: Pontificia Universidad Católica de Chile (UC)
+CollegeRank: 121
+Tuition (EUR/year): 7,000
+Percentage of International Students: 10% (estimate)
+Acceptance Rate: 30% (estimate)
+Average Safety Index (0-100): 60
+Cost of Living (EUR/month): 900
+Rent (EUR/month): 500
+Groceries (EUR/month): 200
+Recreation Cost (EUR/month): 100
+Healthcare Price (EUR/year): 800
+Average Monthly Transportation Cost (EUR/month): 50
+Link: https://www.uc.cl/en
+Majors: Computer Science (1), Business (1), Economics (1), Psychology (1), Biology (1), Law (1), Medicine (1), Mathematics (1), Art (1), Physics (1)
+
+Country: China
+University: Tsinghua University
+CollegeRank: 25
+Tuition (EUR/year): 3,000 (can vary by program)
+Percentage of International Students: 15% (estimate)
+Acceptance Rate: 10% (highly competitive)
+Average Safety Index (0-100): 75
+Cost of Living (EUR/month): 800 (varies greatly between cities)
+Rent (EUR/month): 400
+Groceries (EUR/month): 200
+Recreation Cost (EUR/month): 100
+Healthcare Price (EUR/year): 500
+Average Monthly Transportation Cost (EUR/month): 30
+Link: https://www.tsinghua.edu.cn/en/Admissions/Graduate1/Programs_in_English.htm
+Majors: Computer Science (1), Business (1), Economics (1), Psychology (1), Biology (1), Law (1), Medicine (1), Mathematics (1), Art (1), Physics (1)
+
+Country: Colombia
+University: Universidad de Los Andes, Colombia
+CollegeRank: 218
+Tuition (EUR/year): 5,000
+Percentage of International Students: 10% (estimate)
+Acceptance Rate: 20% (estimate)
+Average Safety Index (0-100): 50 (safety varies greatly between cities)
+Cost of Living (EUR/month): 700
+Rent (EUR/month): 350
+Groceries (EUR/month): 150
+Recreation Cost (EUR/month): 100
+Healthcare Price (EUR/year): 600
+Average Monthly Transportation Cost (EUR/month): 40
+Link: https://www.uniandes.edu.co/
+Majors: Computer Science (1), Business (1), Economics (1), Psychology (1), Biology (1), Law (1), Medicine (1), Mathematics (1), Art (1), Physics (1)
+
+Country: Costa Rica
+University: University of Costa Rica
+CollegeRank: 601-650
+Tuition (EUR/year): 1,000 (public universities are generally affordable)
+Percentage of International Students: 5% (estimate)
+Acceptance Rate: 40% (estimate)
+Average Safety Index (0-100): 65
+Cost of Living (EUR/month): 800
+Rent (EUR/month): 400
+Groceries (EUR/month): 200
+Recreation Cost (EUR/month): 100
+Healthcare Price (EUR/year): 700
+Average Monthly Transportation Cost (EUR/month): 50
+Link: https://www.ucr.ac.cr/
+Majors: Computer Science (1), Business (1), Economics (1), Psychology (1), Biology (1), Law (1), Medicine (1), Mathematics (1), Art (1), Physics (0)
+
+Country: Croatia
+University: University of Zagreb
+CollegeRank: 801-900
+Tuition (EUR/year): 3,000
+Percentage of International Students: 10% (estimate)
+Acceptance Rate: 30% (estimate)
+Average Safety Index (0-100): 75
+Cost of Living (EUR/month): 800
+Rent (EUR/month): 400
+Groceries (EUR/month): 200
+Recreation Cost (EUR/month): 100
+Healthcare Price (EUR/year): 600
+Average Monthly Transportation Cost (EUR/month): 50
+Link: https://www.unizg.hr/en
+Majors: Computer Science (1), Business (1), Economics (1), Psychology (1), Biology (1), Law (1), Medicine (1), Mathematics (1), Art (1), Physics (1)
+
+Country: Cuba
+University: University of Havana
+CollegeRank: 601-800
+Tuition (EUR/year): 0 (higher education is free for Cuban citizens)
+Percentage of International Students: 5% (estimate)
+Acceptance Rate: 20% (estimate)
+Average Safety Index (0-100): 70
+Cost of Living (EUR/month): 500
+Rent (EUR/month): 200
+Groceries (EUR/month): 150
+Recreation Cost (EUR/month): 80
+Healthcare Price (EUR/year): 300
+Average Monthly Transportation Cost (EUR/month): 20
+Link: https://www.uh.cu/en
+Majors: Computer Science (1), Business (1), Economics (1), Psychology (1), Biology (1), Law (1), Medicine (1), Mathematics (1), Art (1), Physics (1)
+
+Country: Cyprus
+University: University of Cyprus
+CollegeRank: 601-800
+Tuition (EUR/year): 7,000
+Percentage of International Students: 20% (estimate)
+Acceptance Rate: 40% (estimate)
+Average Safety Index (0-100): 80
+Cost of Living (EUR/month): 1,200
+Rent (EUR/month): 600
+Groceries (EUR/month): 250
+Recreation Cost (EUR/month): 150
+Healthcare Price (EUR/year): 800
+Average Monthly Transportation Cost (EUR/month): 50
+Link: https://www.ucy.ac.cy/en/
+Majors: Computer Science (1), Business (1), Economics (1), Psychology (1), Biology (1), Law (1), Medicine (0), Mathematics (1), Art (1), Physics (1)
+
+Country: Czech Republic
+University: Charles University
+CollegeRank: 70
+Tuition (EUR/year): 5,000
+Percentage of International Students: 20% (estimate)
+Acceptance Rate: 30% (estimate)
+Average Safety Index (0-100): 80
+Cost of Living (EUR/month): 1,000
+Rent (EUR/month): 500
+Groceries (EUR/month): 250
+Recreation Cost (EUR/month): 150
+Healthcare Price (EUR/year): 800
+Average Monthly Transportation Cost (EUR/month): 50
+Link: https://www.cuni.cz/uk-128.html
+Majors: Computer Science (1), Business (1), Economics (1), Psychology (1), Biology (1), Law (1), Medicine (1), Mathematics (1), Art (1), Physics (1)
+
+Country: Dominican Republic
+University: Pontificia Universidad Católica Madre y Maestra (PUCMM)
+CollegeRank: 0
+Tuition (EUR/year): 4,000
+Percentage of International Students: 10% (estimate)
+Acceptance Rate: 50% (estimate)
+Average Safety Index (0-100): 55 (safety varies between cities)
+Cost of Living (EUR/month): 800
+Rent (EUR/month): 400
+Groceries (EUR/month): 200
+Recreation Cost (EUR/month): 100
+Healthcare Price (EUR/year): 600
+Average Monthly Transportation Cost (EUR/month): 50
+Link: https://pucmm.edu.do/
+Majors: Computer Science (1), Business (1), Economics (1), Psychology (1), Biology (1), Law (1), Medicine (1), Mathematics (1), Art (1), Physics (0)
+
+Country: Ecuador
+University: Pontificia Universidad Católica del Ecuador (PUCE)
+CollegeRank: 701-800
+Tuition (EUR/year): 3,000
+Percentage of International Students: 10% (estimate)
+Acceptance Rate: 40% (estimate)
+Average Safety Index (0-100): 60
+Cost of Living (EUR/month): 600
+Rent (EUR/month): 300
+Groceries (EUR/month): 150
+Recreation Cost (EUR/month): 80
+Healthcare Price (EUR/year): 500
+Average Monthly Transportation Cost (EUR/month): 30
+Link: https://www.puce.edu.ec/sitio/
+Majors: Computer Science (1), Business (1), Economics (1), Psychology (1), Biology (1), Law (1), Medicine (1), Mathematics (1), Art (1), Physics (1)
+
+Country: Egypt
+University: The American University in Cairo (AUC)
+CollegeRank: 401-500
+Tuition (EUR/year): 15,000
+Percentage of International Students: 20% (estimate)
+Acceptance Rate: 20% (estimate)
+Average Safety Index (0-100): 60
+Cost of Living (EUR/month): 600
+Rent (EUR/month): 300
+Groceries (EUR/month): 150
+Recreation Cost (EUR/month): 100
+Healthcare Price (EUR/year): 500
+Average Monthly Transportation Cost (EUR/month): 30
+Link: https://www.aucegypt.edu/
+Majors: Computer Science (1), Business (1), Economics (1), Psychology (1), Biology (1), Law (1), Medicine (0), Mathematics (1), Art (1), Physics (1)
+
+Country: Estonia
+University: University of Tartu
+CollegeRank: 301-350
+Tuition (EUR/year): 4,000
+Percentage of International Students: 15% (estimate)
+Acceptance Rate: 40% (estimate)
+Average Safety Index (0-100): 80
+Cost of Living (EUR/month): 800
+Rent (EUR/month): 400
+Groceries (EUR/month): 200
+Recreation Cost (EUR/month): 100
+Healthcare Price (EUR/year): 600
+Average Monthly Transportation Cost (EUR/month): 40
+Link: https://www.ut.ee/en
+Majors: Computer Science (1), Business (1), Economics (1), Psychology (1), Biology (1), Law (1), Medicine (1), Mathematics (1), Art (1), Physics (1)
+
+Country: Fiji
+University: University of the South Pacific
+CollegeRank: 0
+Tuition (EUR/year): 3,000 (can vary significantly by program)
+Percentage of International Students: 20% (estimate)
+Acceptance Rate: 60% (estimate)
+Average Safety Index (0-100): 60
+Cost of Living (EUR/month): 800
+Rent (EUR/month): 400
+Groceries (EUR/month): 200
+Recreation Cost (EUR/month): 100
+Healthcare Price (EUR/year): 500
+Average Monthly Transportation Cost (EUR/month): 50
+Link: https://www.usp.ac.fj/
+Majors: Computer Science (1), Business (1), Economics (1), Psychology (1), Biology (1), Law (1), Medicine (0), Mathematics (1), Art (0), Physics (0)
+
+Country: Georgia
+University: Tbilisi State University
+CollegeRank: 0
+Tuition (EUR/year): 2,000
+Percentage of International Students: 10% (estimate)
+Acceptance Rate: 50% (estimate)
+Average Safety Index (0-100): 70
+Cost of Living (EUR/month): 600
+Rent (EUR/month): 300
+Groceries (EUR/month): 150
+Recreation Cost (EUR/month): 80
+Healthcare Price (EUR/year): 400
+Average Monthly Transportation Cost (EUR/month): 30
+Link: https://www.tsu.ge/en/
+Majors: Computer Science (1), Business (1), Economics (1), Psychology (1), Biology (1), Law (1), Medicine (0), Mathematics (1), Art (1), Physics (1)
+
+Country: Ghana
+University: University of Ghana
+CollegeRank: 1300+ (estimated)
+Tuition (EUR/year): 1,000 (can vary by program)
+Percentage of International Students: 5% (estimate)
+Acceptance Rate: 60% (estimate)
+Average Safety Index (0-100): 65
+Cost of Living (EUR/month): 500
+Rent (EUR/month): 250
+Groceries (EUR/month): 100
+Recreation Cost (EUR/month): 80
+Healthcare Price (EUR/year): 300
+Average Monthly Transportation Cost (EUR/month): 30
+Link: https://www.ug.edu.gh/
+Majors: Computer Science (1), Business (1), Economics (1), Psychology (1), Biology (1), Law (1), Medicine (1), Mathematics (1), Art (1), Physics (0)
+
+Country: Greece
+University: National and Kapodistrian University of Athens
+CollegeRank: 401-500
+Tuition (EUR/year): 0 (public universities are mostly free for EU citizens)
+Percentage of International Students: 10% (estimate)
+Acceptance Rate: 20% (estimate)
+Average Safety Index (0-100): 70
+Cost of Living (EUR/month): 800
+Rent (EUR/month): 400
+Groceries (EUR/month): 200
+Recreation Cost (EUR/month): 100
+Healthcare Price (EUR/year): 600
+Average Monthly Transportation Cost (EUR/month): 40
+Link: https://en.uoa.gr/
+Majors: Computer Science (1), Business (1), Economics (1), Psychology (1), Biology (1), Law (1), Medicine (1), Mathematics (1), Art (1), Physics (1)
+
+Country: Guatemala
+University: Universidad de San Carlos de Guatemala
+CollegeRank: 0
+Tuition (EUR/year): 1,000 (public university, costs can vary)
+Percentage of International Students: 5% (estimate)
+Acceptance Rate: 70% (estimate)
+Average Safety Index (0-100): 45 (safety can be a concern)
+Cost of Living (EUR/month): 600
+Rent (EUR/month): 300
+Groceries (EUR/month): 150
+Recreation Cost (EUR/month): 80
+Healthcare Price (EUR/year): 400
+Average Monthly Transportation Cost (EUR/month): 30
+Link: https://www.usac.edu.gt/
+Majors: Computer Science (1), Business (1), Economics (1), Psychology (1), Biology (1), Law (1), Medicine (1), Mathematics (1), Art (1), Physics (0)
+
+Country: Hong Kong
+University: The University of Hong Kong
+CollegeRank: 21
+Tuition (EUR/year): 20,000
+Percentage of International Students: 40% (estimate)
+Acceptance Rate: 10% (highly competitive)
+Average Safety Index (0-100): 85
+Cost of Living (EUR/month): 1,800
+Rent (EUR/month): 1,200
+Groceries (EUR/month): 300
+Recreation Cost (EUR/month): 150
+Healthcare Price (EUR/year): 800
+Average Monthly Transportation Cost (EUR/month): 50
+Link: https://www.hku.hk/
+Majors: Computer Science (1), Business (1), Economics (1), Psychology (1), Biology (1), Law (1), Medicine (1), Mathematics (1), Art (1), Physics (1)
+
+Country: Hungary
+University: Eötvös Loránd University
+CollegeRank: 651-700
+Tuition (EUR/year): 5,000
+Percentage of International Students: 15% (estimate)
+Acceptance Rate: 30% (estimate)
+Average Safety Index (0-100): 75
+Cost of Living (EUR/month): 700
+Rent (EUR/month): 350
+Groceries (EUR/month): 150
+Recreation Cost (EUR/month): 100
+Healthcare Price (EUR/year): 500
+Average Monthly Transportation Cost (EUR/month): 40
+Link: https://www.elte.hu/en
+Majors: Computer Science (1), Business (1), Economics (1), Psychology (1), Biology (1), Law (1), Medicine (1), Mathematics (1), Art (1), Physics (1)
+
+Country: Iceland
+University: University of Iceland
+CollegeRank: 251-300
+Tuition (EUR/year): 0
+Percentage of International Students: 10% (estimate)
+Acceptance Rate: 60% (estimate)
+Average Safety Index (0-100): 90
+Cost of Living (EUR/month): 2,000
+Rent (EUR/month): 1,200
+Groceries (EUR/month): 400
+Recreation Cost (EUR/month): 200
+Healthcare Price (EUR/year): 1,000
+Average Monthly Transportation Cost (EUR/month): 100
+Link: https://english.hi.is/
+Majors: Computer Science (1), Business (1), Economics (1), Psychology (1), Biology (1), Law (1), Medicine (1), Mathematics (1), Art (1), Physics (1)
+
+Country: India
+University: Indian Institute of Technology (IIT) Delhi
+CollegeRank: 174
+Tuition (EUR/year): 2,000
+Percentage of International Students: 5% (estimate)
+Acceptance Rate: 2% (highly competitive)
+Average Safety Index (0-100): 60 (safety varies greatly between cities)
+Cost of Living (EUR/month): 400
+Rent (EUR/month): 200
+Groceries (EUR/month): 100
+Recreation Cost (EUR/month): 50
+Healthcare Price (EUR/year): 300
+Average Monthly Transportation Cost (EUR/month): 20
+Link: https://www.iitd.ac.in/
+Majors: Computer Science (1), Business (1), Economics (1), Psychology (1), Biology (1), Law (0), Medicine (0), Mathematics (1), Art (0), Physics (1)
+
+Country: Indonesia
+University: Universitas Indonesia
+CollegeRank: 248
+Tuition (EUR/year): 3,000
+Percentage of International Students: 10% (estimate)
+Acceptance Rate: 15% (competitive)
+Average Safety Index (0-100): 70
+Cost of Living (EUR/month): 500
+Rent (EUR/month): 250
+Groceries (EUR/month): 100
+Recreation Cost (EUR/month): 80
+Healthcare Price (EUR/year): 400
+Average Monthly Transportation Cost (EUR/month): 30
+Link: https://www.ui.ac.id/en
+Majors: Computer Science (1), Business (1), Economics (1), Psychology (1), Biology (1), Law (1), Medicine (1), Mathematics (1), Art (1), Physics (1)
+
+Country: Iran
+University: Sharif University of Technology
+CollegeRank: 401-500
+Tuition (EUR/year): 1,000
+Percentage of International Students: 5% (estimate)
+Acceptance Rate: 10% (competitive)
+Average Safety Index (0-100): 65
+Cost of Living (EUR/month): 400
+Rent (EUR/month): 200
+Groceries (EUR/month): 100
+Recreation Cost (EUR/month): 50
+Healthcare Price (EUR/year): 300
+Average Monthly Transportation Cost (EUR/month): 20
+Link: https://en.sharif.edu/
+Majors: Computer Science (1), Business (1), Economics (1), Psychology (0), Biology (1), Law (0), Medicine (0), Mathematics (1), Art (0), Physics (1)
+
+Country: Iraq
+University: University of Baghdad
+CollegeRank: 0
+Tuition (EUR/year): 500
+Percentage of International Students: 1% (very low)
+Acceptance Rate: 50% (estimate)
+Average Safety Index (0-100): 30 (safety is a major concern)
+Cost of Living (EUR/month): 400
+Rent (EUR/month): 200
+Groceries (EUR/month): 100
+Recreation Cost (EUR/month): 50
+Healthcare Price (EUR/year): 200
+Average Monthly Transportation Cost (EUR/month): 20
+Link: https://uobaghdad.edu.iq/en/
+Majors: Computer Science (1), Business (1), Economics (1), Psychology (0), Biology (1), Law (1), Medicine (1), Mathematics (1), Art (1), Physics (1)
+
+Country: Ireland
+University: Trinity College Dublin
+CollegeRank: 101
+Tuition (EUR/year): 20,000
+Percentage of International Students: 25% (estimate)
+Acceptance Rate: 20% (competitive)
+Average Safety Index (0-100): 75
+Cost of Living (EUR/month): 1,500
+Rent (EUR/month): 900
+Groceries (EUR/month): 300
+Recreation Cost (EUR/month): 200
+Healthcare Price (EUR/year): 1,000
+Average Monthly Transportation Cost (EUR/month): 80
+Link: https://www.tcd.ie/
+Majors: Computer Science (1), Business (1), Economics (1), Psychology (1), Biology (1), Law (1), Medicine (1), Mathematics (1), Art (1), Physics (1)
+
+Country: Israel
+University: Hebrew University of Jerusalem
+CollegeRank: 148
+Tuition (EUR/year): 10,000
+Percentage of International Students: 15% (estimate)
+Acceptance Rate: 20% (competitive)
+Average Safety Index (0-100): 70 (safety can vary)
+Cost of Living (EUR/month): 1,200
+Rent (EUR/month): 600
+Groceries (EUR/month): 250
+Recreation Cost (EUR/month): 150
+Healthcare Price (EUR/year): 800
+Average Monthly Transportation Cost (EUR/month): 50
+Link: https://en.huji.ac.il/en
+Majors: Computer Science (1), Business (1), Economics (1), Psychology (1), Biology (1), Law (1), Medicine (1), Mathematics (1), Art (1), Physics (1)
+
+Country: Italy
+University: University of Bologna
+CollegeRank: 167
+Tuition (EUR/year): 2,000
+Percentage of International Students: 10% (estimate)
+Acceptance Rate: 40% (estimate)
+Average Safety Index (0-100): 70
+Cost of Living (EUR/month): 1,000
+Rent (EUR/month): 500
+Groceries (EUR/month): 250
+Recreation Cost (EUR/month): 150
+Healthcare Price (EUR/year): 700
+Average Monthly Transportation Cost (EUR/month): 50
+Link: https://www.unibo.it/en
+Majors: Computer Science (1), Business (1), Economics (1), Psychology (1), Biology (1), Law (1), Medicine (1), Mathematics (1), Art (1), Physics (1)
+
+Country: Jamaica
+University:  University of the West Indies, Mona
+CollegeRank: 0
+Tuition (EUR/year): 6,000
+Percentage of International Students: 10% (estimate)
+Acceptance Rate: 40% (estimate)
+Average Safety Index (0-100): 45 (safety varies significantly between areas)
+Cost of Living (EUR/month): 1,000
+Rent (EUR/month): 500
+Groceries (EUR/month): 250
+Recreation Cost (EUR/month): 100
+Healthcare Price (EUR/year): 600
+Average Monthly Transportation Cost (EUR/month): 50
+Link: https://www.mona.uwi.edu/
+Majors: Computer Science (1), Business (1), Economics (1), Psychology (1), Biology (1), Law (1), Medicine (1), Mathematics (1), Art (0), Physics (0)
+
+Country: Japan
+University: University of Tokyo
+CollegeRank: 28
+Tuition (EUR/year): 4,500
+Percentage of International Students: 10% (estimate)
+Acceptance Rate: 30% (competitive)
+Average Safety Index (0-100): 85
+Cost of Living (EUR/month): 1,200
+Rent (EUR/month): 600
+Groceries (EUR/month): 300
+Recreation Cost (EUR/month): 150
+Healthcare Price (EUR/year): 800
+Average Monthly Transportation Cost (EUR/month): 80
+Link: https://www.u-tokyo.ac.jp/en/
+Majors: Computer Science (1), Business (1), Economics (1), Psychology (1), Biology (1), Law (1), Medicine (1), Mathematics (1), Art (1), Physics (1)
+
+Country: Jordan
+University: University of Jordan
+CollegeRank: 601-800
+Tuition (EUR/year): 4,000
+Percentage of International Students: 20% (estimate)
+Acceptance Rate: 50% (estimate)
+Average Safety Index (0-100): 75
+Cost of Living (EUR/month): 700
+Rent (EUR/month): 350
+Groceries (EUR/month): 150
+Recreation Cost (EUR/month): 100
+Healthcare Price (EUR/year): 500
+Average Monthly Transportation Cost (EUR/month): 40
+Link: http://ju.edu.jo/en
+Majors: Computer Science (1), Business (1), Economics (1), Psychology (1), Biology (1), Law (1), Medicine (1), Mathematics (1), Art (1), Physics (1)
+
+Country: Kazakhstan
+University: Al-Farabi Kazakh National University
+CollegeRank: 150
+Tuition (EUR/year): 2,500
+Percentage of International Students: 15% (estimate)
+Acceptance Rate: 40% (estimate)
+Average Safety Index (0-100): 70
+Cost of Living (EUR/month): 600
+Rent (EUR/month): 300
+Groceries (EUR/month): 150
+Recreation Cost (EUR/month): 80
+Healthcare Price (EUR/year): 400
+Average Monthly Transportation Cost (EUR/month): 30
+Link: https://www.kaznu.kz/en/
+Majors: Computer Science (1), Business (1), Economics (1), Psychology (1), Biology (1), Law (1), Medicine (1), Mathematics (1), Art (1), Physics (1)
+
+Country: Kenya
+University: University of Nairobi
+CollegeRank: 701-800
+Tuition (EUR/year): 2,000
+Percentage of International Students: 5% (estimate)
+Acceptance Rate: 60% (estimate)
+Average Safety Index (0-100): 55 (safety varies between cities)
+Cost of Living (EUR/month): 600
+Rent (EUR/month): 300
+Groceries (EUR/month): 150
+Recreation Cost (EUR/month): 80
+Healthcare Price (EUR/year): 400
+Average Monthly Transportation Cost (EUR/month): 30
+Link: https://www.uonbi.ac.ke/
+Majors: Computer Science (1), Business (1), Economics (1), Psychology (1), Biology (1), Law (1), Medicine (1), Mathematics (1), Art (0), Physics (0)
+
+Country: Kosovo
+University: University of Pristina
+CollegeRank: 0
+Tuition (EUR/year): 1,000
+Percentage of International Students: 5% (estimate)
+Acceptance Rate: 70% (estimate)
+Average Safety Index (0-100): 70
+Cost of Living (EUR/month): 500
+Rent (EUR/month): 250
+Groceries (EUR/month): 100
+Recreation Cost (EUR/month): 80
+Healthcare Price (EUR/year): 300
+Average Monthly Transportation Cost (EUR/month): 20
+Link: http://uni-pr.edu/
+Majors: Computer Science (1), Business (1), Economics (1), Psychology (1), Biology (1), Law (1), Medicine (1), Mathematics (1), Art (1), Physics (0)
+
+Country: Kuwait
+University: Kuwait University
+CollegeRank: 0
+Tuition (EUR/year): 0 (free for Kuwaiti citizens)
+Percentage of International Students: 10% (estimate)
+Acceptance Rate: 70% (estimate)
+Average Safety Index (0-100): 75
+Cost of Living (EUR/month): 900
+Rent (EUR/month): 450
+Groceries (EUR/month): 200
+Recreation Cost (EUR/month): 150
+Healthcare Price (EUR/year): 600
+Average Monthly Transportation Cost (EUR/month): 50
+Link: https://www.kuniv.edu.kw/
+Majors: Computer Science (1), Business (1), Economics (1), Psychology (1), Biology (1), Law (1), Medicine (1), Mathematics (1), Art (0), Physics (1)
+
+Country: Kyrgyzstan
+University: Kyrgyz National University
+CollegeRank: 0
+Tuition (EUR/year): 1,500
+Percentage of International Students: 10% (estimate)
+Acceptance Rate: 60% (estimate)
+Average Safety Index (0-100): 65
+Cost of Living (EUR/month): 400
+Rent (EUR/month): 200
+Groceries (EUR/month): 100
+Recreation Cost (EUR/month): 50
+Healthcare Price (EUR/year): 300
+Average Monthly Transportation Cost (EUR/month): 20
+Link: https://www.knu.kg/en/
+Majors: Computer Science (1), Business (1), Economics (1), Psychology (1), Biology (1), Law (1), Medicine (0), Mathematics (1), Art (1), Physics (0)
+
+Country: Latvia
+University: University of Latvia
+CollegeRank: 801-1000
+Tuition (EUR/year): 5,000
+Percentage of International Students: 15% (estimate)
+Acceptance Rate: 50% (estimate)
+Average Safety Index (0-100): 75
+Cost of Living (EUR/month): 700
+Rent (EUR/month): 350
+Groceries (EUR/month): 150
+Recreation Cost (EUR/month): 100
+Healthcare Price (EUR/year): 500
+Average Monthly Transportation Cost (EUR/month): 40
+Link: https://www.lu.lv/en/
+Majors: Computer Science (1), Business (1), Economics (1), Psychology (1), Biology (1), Law (1), Medicine (1), Mathematics (1), Art (1), Physics (1)
+
+Country: Lebanon
+University: American University of Beirut
+CollegeRank: 251-300
+Tuition (EUR/year): 15,000
+Percentage of International Students: 20% (estimate)
+Acceptance Rate: 30% (estimate)
+Average Safety Index (0-100): 55 (safety can be a concern)
+Cost of Living (EUR/month): 1,000 (can vary greatly due to economic instability)
+Rent (EUR/month): 500
+Groceries (EUR/month): 250
+Recreation Cost (EUR/month): 150
+Healthcare Price (EUR/year): 700
+Average Monthly Transportation Cost (EUR/month): 50
+Link: https://www.aub.edu.lb/
+Majors: Computer Science (1), Business (1), Economics (1), Psychology (1), Biology (1), Law (1), Medicine (1), Mathematics (1), Art (1), Physics (1)
+
+Country: Lesotho
+University: National University of Lesotho
+CollegeRank: 0
+Tuition (EUR/year): 1,500
+Percentage of International Students: 5% (estimate)
+Acceptance Rate: 60% (estimate)
+Average Safety Index (0-100): 50
+Cost of Living (EUR/month): 500
+Rent (EUR/month): 250
+Groceries (EUR/month): 100
+Recreation Cost (EUR/month): 80
+Healthcare Price (EUR/year): 300
+Average Monthly Transportation Cost (EUR/month): 30
+Link: https://www.nul.ls/
+Majors: Computer Science (1), Business (1), Economics (1), Psychology (1), Biology (0), Law (1), Medicine (0), Mathematics (1), Art (0), Physics (0)
+
+Country: Liberia
+University: University of Liberia
+CollegeRank: 0
+Tuition (EUR/year): 500
+Percentage of International Students: 1% (very low)
+Acceptance Rate: 70% (estimate)
+Average Safety Index (0-100): 45 (safety can be a concern)
+Cost of Living (EUR/month): 500
+Rent (EUR/month): 200
+Groceries (EUR/month): 150
+Recreation Cost (EUR/month): 80
+Healthcare Price (EUR/year): 300
+Average Monthly Transportation Cost (EUR/month): 30
+Link: https://www.ul.edu.lr/
+Majors: Computer Science (1), Business (1), Economics (1), Psychology (0), Biology (1), Law (1), Medicine (0), Mathematics (1), Art (0), Physics (0)
+
+Country: Lithuania
+University: Vilnius University
+CollegeRank: 401-500
+Tuition (EUR/year): 6,000
+Percentage of International Students: 10% (estimate)
+Acceptance Rate: 50% (estimate)
+Average Safety Index (0-100): 75
+Cost of Living (EUR/month): 700
+Rent (EUR/month): 350
+Groceries (EUR/month): 150
+Recreation Cost (EUR/month): 100
+Healthcare Price (EUR/year): 500
+Average Monthly Transportation Cost (EUR/month): 40
+Link: https://www.vu.lt/en/
+Majors: Computer Science (1), Business (1), Economics (1), Psychology (1), Biology (1), Law (1), Medicine (1), Mathematics (1), Art (1), Physics (1)
+
+Country: Luxembourg
+University: University of Luxembourg
+CollegeRank: 201-250
+Tuition (EUR/year): 600
+Percentage of International Students: 50% (estimate)
+Acceptance Rate: 60% (estimate)
+Average Safety Index (0-100): 80
+Cost of Living (EUR/month): 1,800
+Rent (EUR/month): 1,100
+Groceries (EUR/month): 350
+Recreation Cost (EUR/month): 200
+Healthcare Price (EUR/year): 1,000
+Average Monthly Transportation Cost (EUR/month): 80
+Link: https://wwwen.uni.lu/
+Majors: Computer Science (1), Business (1), Economics (1), Psychology (1), Biology (0), Law (1), Medicine (0), Mathematics (1), Art (0), Physics (0)
+
+Country: Macau
+University: University of Macau
+CollegeRank: 301-350
+Tuition (EUR/year): 3,000
+Percentage of International Students: 25% (estimate)
+Acceptance Rate: 40% (estimate)
+Average Safety Index (0-100): 85
+Cost of Living (EUR/month): 1,000
+Rent (EUR/month): 500
+Groceries (EUR/month): 250
+Recreation Cost (EUR/month): 150
+Healthcare Price (EUR/year): 600
+Average Monthly Transportation Cost (EUR/month): 40
+Link: https://www.um.edu.mo/en/
+Majors: Computer Science (1), Business (1), Economics (1), Psychology (1), Biology (1), Law (1), Medicine (1), Mathematics (1), Art (1), Physics (0)
+
+Country: Madagascar
+University: University of Antananarivo
+CollegeRank: 0
+Tuition (EUR/year): 500
+Percentage of International Students: 1% (very low)
+Acceptance Rate: 70% (estimate)
+Average Safety Index (0-100): 50
+Cost of Living (EUR/month): 400
+Rent (EUR/month): 200
+Groceries (EUR/month): 100
+Recreation Cost (EUR/month): 50
+Healthcare Price (EUR/year): 200
+Average Monthly Transportation Cost (EUR/month): 20
+Link: https://www.univ-antananarivo.mg/
+Majors: Computer Science (1), Business (1), Economics (1), Psychology (0), Biology (1), Law (1), Medicine (1), Mathematics (1), Art (0), Physics (0)
+
+Country: Malawi
+University: University of Malawi
+CollegeRank: 0
+Tuition (EUR/year): 1,000
+Percentage of International Students: 5% (estimate)
+Acceptance Rate: 60% (estimate)
+Average Safety Index (0-100): 55
+Cost of Living (EUR/month): 400
+Rent (EUR/month): 200
+Groceries (EUR/month): 100
+Recreation Cost (EUR/month): 50
+Healthcare Price (EUR/year): 300
+Average Monthly Transportation Cost (EUR/month): 20
+Link: https://www.unima.mw/
+Majors: Computer Science (1), Business (1), Economics (1), Psychology (1), Biology (1), Law (1), Medicine (0), Mathematics (1), Art (0), Physics (0)
+
+Country: Malaysia
+University: Universiti Malaya (UM)
+CollegeRank: 65
+Tuition (EUR/year): 3,000
+Percentage of International Students: 20% (estimate)
+Acceptance Rate: 40% (estimate)
+Average Safety Index (0-100): 70
+Cost of Living (EUR/month): 600
+Rent (EUR/month): 300
+Groceries (EUR/month): 150
+Recreation Cost (EUR/month): 80
+Healthcare Price (EUR/year): 400
+Average Monthly Transportation Cost (EUR/month): 30
+Link: https://www.um.edu.my/
+Majors: Computer Science (1), Business (1), Economics (1), Psychology (1), Biology (1), Law (1), Medicine (1), Mathematics (1), Art (1), Physics (1)
+
+Country: Maldives
+University: The Maldives National University
+CollegeRank: 0
+Tuition (EUR/year): 2,000
+Percentage of International Students: 10% (estimate)
+Acceptance Rate: 60% (estimate)
+Average Safety Index (0-100): 65
+Cost of Living (EUR/month): 1,000
+Rent (EUR/month): 500
+Groceries (EUR/month): 250
+Recreation Cost (EUR/month): 150
+Healthcare Price (EUR/year): 500
+Average Monthly Transportation Cost (EUR/month): 50
+Link: https://mnu.edu.mv/
+Majors: Computer Science (1), Business (1), Economics (1), Psychology (0), Biology (1), Law (0), Medicine (0), Mathematics (1), Art (0), Physics (0)
+
+Country: Mali
+University: University of Bamako
+CollegeRank: 0
+Tuition (EUR/year): 500
+Percentage of International Students: 1%
+Acceptance Rate: 70%
+Average Safety Index (0-100): 40
+Cost of Living (EUR/month): 400
+Rent (EUR/month): 200
+Groceries (EUR/month): 100
+Recreation Cost (EUR/month): 50
+Healthcare Price (EUR/year): 200
+Average Monthly Transportation Cost (EUR/month): 20
+Link: https://www.uadb.edu.ml/
+Majors: Computer Science (1), Business (1), Economics (1), Psychology (0), Biology (1), Law (1), Medicine (1), Mathematics (1), Art (0), Physics (0)
+
+Country: Malta
+University: University of Malta
+CollegeRank: 801-1000
+Tuition (EUR/year): 5,000
+Percentage of International Students: 20%
+Acceptance Rate: 50%
+Average Safety Index (0-100): 80
+Cost of Living (EUR/month): 1,200
+Rent (EUR/month): 600
+Groceries (EUR/month): 250
+Recreation Cost (EUR/month): 150
+Healthcare Price (EUR/year): 800
+Average Monthly Transportation Cost (EUR/month): 50
+Link: https://www.um.edu.mt/
+Majors: Computer Science (1), Business (1), Economics (1), Psychology (1), Biology (1), Law (1), Medicine (1), Mathematics (1), Art (1), Physics (1)
+
+Country: Mauritius
+University: University of Mauritius
+CollegeRank: 0
+Tuition (EUR/year): 2,000
+Percentage of International Students: 10%
+Acceptance Rate: 60%
+Average Safety Index (0-100): 70
+Cost of Living (EUR/month): 800
+Rent (EUR/month): 400
+Groceries (EUR/month): 200
+Recreation Cost (EUR/month): 100
+Healthcare Price (EUR/year): 500
+Average Monthly Transportation Cost (EUR/month): 40
+Link: https://www.uom.ac.mu/
+Majors: Computer Science (1), Business (1), Economics (1), Psychology (1), Biology (1), Law (1), Medicine (0), Mathematics (1), Art (0), Physics (0)
+
+Country: Mexico
+University: National Autonomous University of Mexico (UNAM)
+CollegeRank: 104
+Tuition (EUR/year): 2,500
+Percentage of International Students: 5%
+Acceptance Rate: 10%
+Average Safety Index (0-100): 50
+Cost of Living (EUR/month): 800
+Rent (EUR/month): 400
+Groceries (EUR/month): 200
+Recreation Cost (EUR/month): 100
+Healthcare Price (EUR/year): 600
+Average Monthly Transportation Cost (EUR/month): 40
+Link: https://www.unam.mx/
+Majors: Computer Science (1), Business (1), Economics (1), Psychology (1), Biology (1), Law (1), Medicine (1), Mathematics (1), Art (1), Physics (1)
+
+Country: Moldova
+University: Moldova State University
+CollegeRank: 0
+Tuition (EUR/year): 1,000
+Percentage of International Students: 10%
+Acceptance Rate: 60%
+Average Safety Index (0-100): 65
+Cost of Living (EUR/month): 500
+Rent (EUR/month): 250
+Groceries (EUR/month): 100
+Recreation Cost (EUR/month): 80
+Healthcare Price (EUR/year): 400
+Average Monthly Transportation Cost (EUR/month): 20
+Link: https://www.usm.md/
+Majors: Computer Science (1), Business (1), Economics (1), Psychology (1), Biology (1), Law (1), Medicine (0), Mathematics (1), Art (1), Physics (1)
+
+Country: Montenegro
+University: University of Montenegro
+CollegeRank: 0
+Tuition (EUR/year): 1,000
+Percentage of International Students: 5%
+Acceptance Rate: 70%
+Average Safety Index (0-100): 75
+Cost of Living (EUR/month): 600
+Rent (EUR/month): 300
+Groceries (EUR/month): 150
+Recreation Cost (EUR/month): 80
+Healthcare Price (EUR/year): 400
+Average Monthly Transportation Cost (EUR/month): 30
+Link: https://www.ucg.ac.me/
+Majors: Computer Science (1), Business (1), Economics (1), Psychology (1), Biology (1), Law (1), Medicine (0), Mathematics (1), Art (1), Physics (1)
+
+Country: Morocco
+University: Mohammed V University in Rabat
+CollegeRank: 501-600
+Tuition (EUR/year): 1,000
+Percentage of International Students: 10%
+Acceptance Rate: 40%
+Average Safety Index (0-100): 60
+Cost of Living (EUR/month): 500
+Rent (EUR/month): 250
+Groceries (EUR/month): 100
+Recreation Cost (EUR/month): 80
+Healthcare Price (EUR/year): 400
+Average Monthly Transportation Cost (EUR/month): 30
+Link: https://www.um5.ac.ma/
+Majors: Computer Science (1), Business (1), Economics (1), Psychology (1), Biology (1), Law (1), Medicine (1), Mathematics (1), Art (1), Physics (1)
+
+Country: Nepal
+University: Tribhuvan University
+CollegeRank: 0
+Tuition (EUR/year): 500
+Percentage of International Students: 5%
+Acceptance Rate: 50%
+Average Safety Index (0-100): 60
+Cost of Living (EUR/month): 400
+Rent (EUR/month): 200
+Groceries (EUR/month): 100
+Recreation Cost (EUR/month): 50
+Healthcare Price (EUR/year): 300
+Average Monthly Transportation Cost (EUR/month): 20
+Link: https://www.tribhuvan-university.edu.np/
+Majors: Computer Science (1), Business (1), Economics (1), Psychology (1), Biology (1), Law (1), Medicine (1), Mathematics (1), Art (1), Physics (1)
+
+Country: New Zealand
+University: University of Auckland
+CollegeRank: 68
+Tuition (EUR/year): 25,000
+Percentage of International Students: 30%
+Acceptance Rate: 25%
+Average Safety Index (0-100): 80
+Cost of Living (EUR/month): 1,500
+Rent (EUR/month): 900
+Groceries (EUR/month): 300
+Recreation Cost (EUR/month): 200
+Healthcare Price (EUR/year): 1,000
+Average Monthly Transportation Cost (EUR/month): 80
+Link: https://www.auckland.ac.nz/en.html
+Majors: Computer Science (1), Business (1), Economics (1), Psychology (1), Biology (1), Law (1), Medicine (1), Mathematics (1), Art (1), Physics (1)
+
+Country: Nicaragua
+University: National Autonomous University of Nicaragua
+CollegeRank: 0
+Tuition (EUR/year): 500
+Percentage of International Students: 5%
+Acceptance Rate: 60%
+Average Safety Index (0-100): 50
+Cost of Living (EUR/month): 500
+Rent (EUR/month): 250
+Groceries (EUR/month): 100
+Recreation Cost (EUR/month): 80
+Healthcare Price (EUR/year): 300
+Average Monthly Transportation Cost (EUR/month): 30
+Link: https://www.unan.edu.ni/
+Majors: Computer Science (1), Business (1), Economics (1), Psychology (1), Biology (1), Law (1), Medicine (1), Mathematics (1), Art (1), Physics (0)
+
+Country: Nigeria
+University: University of Ibadan
+CollegeRank: 801-1000
+Tuition (EUR/year): 1,000
+Percentage of International Students: 5%
+Acceptance Rate: 30%
+Average Safety Index (0-100): 40
+Cost of Living (EUR/month): 400
+Rent (EUR/month): 200
+Groceries (EUR/month): 100
+Recreation Cost (EUR/month): 50
+Healthcare Price (EUR/year): 200
+Average Monthly Transportation Cost (EUR/month): 20
+Link: https://www.ui.edu.ng/
+Majors: Computer Science (1), Business (1), Economics (1), Psychology (1), Biology (1), Law (1), Medicine (1), Mathematics (1), Art (1), Physics (1)
+
+Country: North Macedonia
+University: Ss. Cyril and Methodius University in Skopje
+CollegeRank: 0
+Tuition (EUR/year): 1,000
+Percentage of International Students: 5%
+Acceptance Rate: 70%
+Average Safety Index (0-100): 70
+Cost of Living (EUR/month): 500
+Rent (EUR/month): 250
+Groceries (EUR/month): 100
+Recreation Cost (EUR/month): 80
+Healthcare Price (EUR/year): 300
+Average Monthly Transportation Cost (EUR/month): 20
+Link: https://www.ukim.edu.mk/
+Majors: Computer Science (1), Business (1), Economics (1), Psychology (1), Biology (1), Law (1), Medicine (1), Mathematics (1), Art (1), Physics (1)
+
+Country: Oman
+University: Sultan Qaboos University
+CollegeRank: 401-500
+Tuition (EUR/year): 5,000
+Percentage of International Students: 10%
+Acceptance Rate: 20%
+Average Safety Index (0-100): 80
+Cost of Living (EUR/month): 1,000
+Rent (EUR/month): 500
+Groceries (EUR/month): 250
+Recreation Cost (EUR/month): 150
+Healthcare Price (EUR/year): 700
+Average Monthly Transportation Cost (EUR/month): 50
+Link: https://www.squ.edu.om/
+Majors: Computer Science (1), Business (1), Economics (1), Psychology (1), Biology (1), Law (1), Medicine (1), Mathematics (1), Art (1), Physics (1)
+
+Country: Pakistan
+University: Quaid-i-Azam University
+CollegeRank: 501-600
+Tuition (EUR/year): 1,000
+Percentage of International Students: 5%
+Acceptance Rate: 20%
+Average Safety Index (0-100): 50
+Cost of Living (EUR/month): 400
+Rent (EUR/month): 200
+Groceries (EUR/month): 100
+Recreation Cost (EUR/month): 50
+Healthcare Price (EUR/year): 300
+Average Monthly Transportation Cost (EUR/month): 20
+Link: https://www.qau.edu.pk/
+Majors: Computer Science (1), Business (1), Economics (1), Psychology (1), Biology (1), Law (1), Medicine (0), Mathematics (1), Art (0), Physics (1)
+
+Country: Palestine
+University: Birzeit University
+CollegeRank: 0
+Tuition (EUR/year): 1,500
+Percentage of International Students: 10%
+Acceptance Rate: 40%
+Average Safety Index (0-100): 50
+Cost of Living (EUR/month): 500
+Rent (EUR/month): 250
+Groceries (EUR/month): 100
+Recreation Cost (EUR/month): 80
+Healthcare Price (EUR/year): 300
+Average Monthly Transportation Cost (EUR/month): 20
+Link: https://www.birzeit.edu/en
+Majors: Computer Science (1), Business (1), Economics (1), Psychology (1), Biology (1), Law (1), Medicine (0), Mathematics (1), Art (1), Physics (0)
+
+Country: Panama
+University: University of Panama
+CollegeRank: 0
+Tuition (EUR/year): 1,000
+Percentage of International Students: 10%
+Acceptance Rate: 60%
+Average Safety Index (0-100): 60
+Cost of Living (EUR/month): 800
+Rent (EUR/month): 400
+Groceries (EUR/month): 200
+Recreation Cost (EUR/month): 100
+Healthcare Price (EUR/year): 500
+Average Monthly Transportation Cost (EUR/month): 40
+Link: https://www.up.ac.pa/
+Majors: Computer Science (1), Business (1), Economics (1), Psychology (1), Biology (1), Law (1), Medicine (1), Mathematics (1), Art (1), Physics (0)
+
+Country: Paraguay
+University: National University of Asunción
+CollegeRank: 0
+Tuition (EUR/year): 1,000
+Percentage of International Students: 5%
+Acceptance Rate: 60%
+Average Safety Index (0-100): 55
+Cost of Living (EUR/month): 600
+Rent (EUR/month): 300
+Groceries (EUR/month): 150
+Recreation Cost (EUR/month): 80
+Healthcare Price (EUR/year): 400
+Average Monthly Transportation Cost (EUR/month): 30
+Link: https://www.una.edu.py/
+Majors: Computer Science (1), Business (1), Economics (1), Psychology (1), Biology (1), Law (1), Medicine (1), Mathematics (1), Art (1), Physics (1)
+
+Country: Peru
+University: National University of San Marcos
+CollegeRank: 501-600
+Tuition (EUR/year): 1,500
+Percentage of International Students: 5%
+Acceptance Rate: 40%
+Average Safety Index (0-100): 50
+Cost of Living (EUR/month): 600
+Rent (EUR/month): 300
+Groceries (EUR/month): 150
+Recreation Cost (EUR/month): 80
+Healthcare Price (EUR/year): 400
+Average Monthly Transportation Cost (EUR/month): 30
+Link: https://www.unmsm.edu.pe/
+Majors: Computer Science (1), Business (1), Economics (1), Psychology (1), Biology (1), Law (1), Medicine (1), Mathematics (1), Art (1), Physics (1)
+
+Country: Philippines
+University: University of the Philippines Diliman
+CollegeRank: 101-150
+Tuition (EUR/year): 1,500
+Percentage of International Students: 5%
+Acceptance Rate: 10%
+Average Safety Index (0-100): 55
+Cost of Living (EUR/month): 600
+Rent (EUR/month): 300
+Groceries (EUR/month): 150
+Recreation Cost (EUR/month): 80
+Healthcare Price (EUR/year): 400
+Average Monthly Transportation Cost (EUR/month): 30
+Link: https://upd.edu.ph/
+Majors: Computer Science (1), Business (1), Economics (1), Psychology (1), Biology (1), Law (1), Medicine (1), Mathematics (1), Art (1), Physics (1)
+
+Country: Poland
+University: University of Warsaw
+CollegeRank: 101-150
+Tuition (EUR/year): 2,000
+Percentage of International Students: 10%
+Acceptance Rate: 30%
+Average Safety Index (0-100): 75
+Cost of Living (EUR/month): 800
+Rent (EUR/month): 400
+Groceries (EUR/month): 200
+Recreation Cost (EUR/month): 150
+Healthcare Price (EUR/year): 600
+Average Monthly Transportation Cost (EUR/month): 40
+Link: https://www.uw.edu.pl/en
+Majors: Computer Science (1), Business (1), Economics (1), Psychology (1), Biology (1), Law (1), Medicine (1), Mathematics (1), Art (1), Physics (1)
+
+Country: Portugal
+University: University of Coimbra
+CollegeRank: 101-150
+Tuition (EUR/year): 1,500
+Percentage of International Students: 10%
+Acceptance Rate: 30%
+Average Safety Index (0-100): 75
+Cost of Living (EUR/month): 800
+Rent (EUR/month): 400
+Groceries (EUR/month): 200
+Recreation Cost (EUR/month): 150
+Healthcare Price (EUR/year): 600
+Average Monthly Transportation Cost (EUR/month): 40
+Link: https://www.uc.pt/en
+Majors: Computer Science (1), Business (1), Economics (1), Psychology (1), Biology (1), Law (1), Medicine (1), Mathematics (1), Art (1), Physics (1)
+
+Country: Puerto Rico
+University: University of Puerto Rico
+CollegeRank: 0
+Tuition (EUR/year): 1,500
+Percentage of International Students: 5%
+Acceptance Rate: 60%
+Average Safety Index (0-100): 45
+Cost of Living (EUR/month): 600
+Rent (EUR/month): 300
+Groceries (EUR/month): 150
+Recreation Cost (EUR/month): 80
+Healthcare Price (EUR/year): 400
+Average Monthly Transportation Cost (EUR/month): 30
+Link: https://www.upr.edu/
+Majors: Computer Science (1), Business (1), Economics (1), Psychology (1), Biology (1), Law (1), Medicine (1), Mathematics (1), Art (1), Physics (1)
+
+Country: Qatar
+University: Qatar University
+CollegeRank: 201-250
+Tuition (EUR/year): 8,000
+Percentage of International Students: 20%
+Acceptance Rate: 30%
+Average Safety Index (0-100): 80
+Cost of Living (EUR/month): 1,200
+Rent (EUR/month): 600
+Groceries (EUR/month): 250
+Recreation Cost (EUR/month): 150
+Healthcare Price (EUR/year): 800
+Average Monthly Transportation Cost (EUR/month): 50
+Link: https://www.qu.edu.qa/
+Majors: Computer Science (1), Business (1), Economics (1), Psychology (1), Biology (1), Law (1), Medicine (1), Mathematics (1), Art (1), Physics (1)
+
+Country: Romania
+University: University of Bucharest
+CollegeRank: 301-350
+Tuition (EUR/year): 2,000
+Percentage of International Students: 10%
+Acceptance Rate: 30%
+Average Safety Index (0-100): 75
+Cost of Living (EUR/month): 800
+Rent (EUR/month): 400
+Groceries (EUR/month): 200
+Recreation Cost (EUR/month): 150
+Healthcare Price (EUR/year): 600
+Average Monthly Transportation Cost (EUR/month): 40
+Link: https://www.unibuc.ro/en/
+Majors: Computer Science (1), Business (1), Economics (1), Psychology (1), Biology (1), Law (1), Medicine (1), Mathematics (1), Art (1), Physics (1)
