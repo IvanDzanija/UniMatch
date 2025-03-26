@@ -25,13 +25,13 @@ git clone https://github.com/IvanDzanija/UniMatch.git
 ```
 2. Run the frontend server:
 ```sh
- cd frontend/UniMatch.Frontend/
+ cd code/frontend/UniMatch.Frontend/
  npm install
  ng serve
 ```
 3. Run the backend server:
 ```sh
- cd backend
+ cd code/backend
  pip install -r requirements.txt
  python manage.py makemigrations
  python manage.py migrate
