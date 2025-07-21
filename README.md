@@ -7,6 +7,7 @@ This project aims to simplify the process of researching availability and attain
 - [Overview](#overview)
 - [Dependencies](#dependencies)
 - [Installation](#installation)
+- [Related Paper](#related-paper)
 - [Contributing](#contributing)
 - [License](#license)
 - [Contact](#contact)
@@ -39,6 +40,10 @@ git clone https://github.com/IvanDzanija/UniMatch.git
  python manage.py runserver
 ```
 
+## Related Paper
+This project is accompanied by a scientific paper detailing the motivation, methodology, and evaluation of UniMatch.  
+You can read the paper [here](https://ieeexplore.ieee.org/document/11030048).
+
 ## Contributing
 Contributions to this project are welcome! If you have suggestions for improvements or would like to report issues, please submit a pull request or open an issue on GitHub.
 
@@ -49,12 +54,8 @@ This project is licensed under the [MIT License](LICENSE).
 For any questions or inquiries about this project, please contact the contributors.
 
 ## Contributors
-Luka Alfirević -- luka.alfirevic@fer.unizg.hr;
-Karlo Bašić -- karlo.basic@fer.unizg.hr;
-Rita Zonjić -- rita.zonjic@fer.unizg.hr
-Adam Šinjori -- adam.sinjori@fer.unizg.hr;
+Luka Alfirević -- luka.alfirevic@fer.unizg.hr;  
+Karlo Bašić -- karlo.basic@fer.unizg.hr;  
+Rita Zonjić -- rita.zonjic@fer.unizg.hr  
+Adam Šinjori -- adam.sinjori@fer.unizg.hr;  
 Džanija Ivan -- ivan.dzanija@fer.unizg.hr;
-
-
-
-
